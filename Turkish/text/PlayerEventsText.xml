@@ -1,0 +1,1975 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<StringTableList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+  <StringTable>
+    <Label>Event_Refugees_Name</Label>
+    <String>Mülteciler</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Refugees_Dec</Label>
+    <String>{PLAYERFACTION:1} mülteciler sınırlarımızdan kaçarak sığınma talebinde bulundular. Kendilerini köleden biraz daha fazlası haline getiren ekonomik baskının kurbanı olduklarını iddia ediyorlar.[BR][BR] ([2] geri dönmelerini talep ettiler. Mültecilerin iddiaları hakkında hiçbir yorum yapmıyor, sadece bunun bizi ilgilendirmediğini belirtiyorlar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Refugees_Liberty_Bonus_Name</Label>
+    <String>Mültecilere sığınma hakkı verin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Refugees_Liberty_Bonus_Dec</Label>
+    <String>Bir Koloni Gemisi kazanın[BR]-50 ay boyunca {PLAYERFACTION:1} ile 3 İlişki</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_RefugeesLiberty_String1</Label>
+    <String>Mültecilerimizi kabul ettiniz</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Refugees_Equality_Bonus_Name</Label>
+    <String>Mültecileri {PLAYERFACTION:1}'ye geri gönderin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Refugees_Equality_Bonus_Dec</Label>
+    <String>50 ay boyunca {PLAYERFACTION:1} ile +2 İlişkiler</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_RefugeesEquality_String1</Label>
+    <String>Mültecilerimizi iade ettiniz</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Refugees_Harmony_Bonus_Name</Label>
+    <String>Sen karışma.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Refugees_Harmony_Bonus_Dec</Label>
+    <String>-1 50 ay boyunca {PLAYERFACTION:1} ile ilişkiler</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_RefugeesHarmony_String1</Label>
+    <String>Mültecilerimizi geri vermeyeceksin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Exile_Name</Label>
+    <String>Sürgün</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Exile_Dec</Label>
+    <String>Mors Ven'i imparatorluğumuzdan sürgün ediyoruz. Onun bir karaborsa tüccarı ve bilgi satıcısı olduğuna inanıyoruz. Ancak bunu kanıtlayamıyoruz ve vatandaşlarımız tarafından çok seviliyor.[BR][BR]Eğer mekiğine sınırlarınız içindeyken bir şey olduysa, bu şanslı bir kaza olur.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Exile_Liberty_Bonus_Name</Label>
+    <String>Bunun gerçekleşmesini sağlayabiliriz.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Exile_Liberty_Bonus_Dec</Label>
+    <String>50 ay boyunca {PLAYERFACTION:1} ile +3 İlişkiler</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_ExileLiberty_String1</Label>
+    <String>Mors Ven'in icabına baktın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Exile_Equality_Bonus_Name</Label>
+    <String>Ücret karşılığında kazanın gerçekleşmesini sağlayabiliriz.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Exile_Authority_Bonus_Name</Label>
+    <String>Yetenekli adamlara ihtiyacımız var, Mors Ven'i işe alın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Exile_Authority_Bonus_Dec</Label>
+    <String>-3 50 ay boyunca {PLAYERFACTION:1} ile ilişkiler</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_ExileAuthority_String1</Label>
+    <String>Mors Ven'i işe aldın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_BorderworldCrime_Name</Label>
+    <String>Sınır Dünyası Suç</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_BorderworldCrime_Dec</Label>
+    <String>Korsanlar, kaçakçılar ve daha kötüleri bu sektörün başına bela oldu.[BR][BR]Kendimizi bu haşarattan kurtarmak için yoğun bir çaba sarf ediyoruz, ancak sınırlarınızdan kolayca kaçabilirlerse çabalarımız sınırlı kalır.[BR][BR]Her iki tarafın da çıkarları için sizin de çabalarınıza ihtiyacımız var.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_BorderworldCrime_Liberty_Bonus_Name</Label>
+    <String>Onları durdurmak için kaynak ayıracağım.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_BorderworldCrime_Liberty_Bonus_Dec</Label>
+    <String>50 ay boyunca {PLAYERFACTION:1} ile +2 İlişkiler</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_BorderworldCrimeLiberty_String1</Label>
+    <String>Korsanlara karşı bize katıldın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_BorderworldCrime_Equality_Bonus_Name</Label>
+    <String>Onları durdurmak için kaynak ayıracağım. (yalan)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_BorderworldCrime_Equality_Bonus_Dec</Label>
+    <String>+1 {PLAYERFACTION:1} ile 50 ay boyunca ilişkiler</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_BorderworldCrimeEquality_String1</Label>
+    <String>Korsanlara karşı bize katıldın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_BorderworldCrime_Authority_Bonus_Name</Label>
+    <String>Daha acil endişelerimiz var.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_BorderworldCrime_Authority_Bonus_Dec</Label>
+    <String>-1 50 ay boyunca {PLAYERFACTION:1} ile ilişkiler</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_BorderworldCrimeAuthority_String1</Label>
+    <String>Korsanlara karşı katılmadın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_CultureClash_Name</Label>
+    <String>Kültür Savaşları</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_CultureClash_Dec</Label>
+    <String>Vatandaşlarımız sizin ıvır zıvırlarınıza ve eğlencenize hayran kaldılar ve bu da dünyalarımızda sizin gülünç isimlerinizle yeni bir neslin doğmasına yol açtı. [BR][BR]Birkaç geçici kısıtlama düzen getirmeye yardımcı olacak ve uzun vadeli çabalarınız üzerinde önemli bir etkisi olmayacaktır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_CultureClash_Liberty_Bonus_Name</Label>
+    <String>Ortak iyiliğimiz için sınırlı kısıtlamaları kabul edeceğiz.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_CultureClash_Liberty_Bonus_Dec</Label>
+    <String>50 ay boyunca {PLAYERFACTION:1} ile +2 İlişkiler</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_CultureClashLiberty_String1</Label>
+    <String>İsteğimizi onurlandırdınız.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_CultureClash_Equality_Bonus_Name</Label>
+    <String>Hiçbir değişiklik yapılmayacaktır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_CultureClash_Equality_Bonus_Dec</Label>
+    <String>-1 50 ay boyunca {PLAYERFACTION:1} ile ilişkiler</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_CultureClashEquality_String1</Label>
+    <String>Talebimizi görmezden geldiniz.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_CultureClash_Authority_Bonus_Name</Label>
+    <String>Vatandaşlarınıza istediklerinden daha fazlasını vermeyi planlıyoruz.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_CultureClash_Authority_Bonus_Dec</Label>
+    <String>-3 50 ay boyunca {PLAYERFACTION:1} ile ilişkiler</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_CultureClashAuthority_String1</Label>
+    <String>Bize karşı kültürel savaş yürütüyorsunuz.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_IllegalCloning_Name</Label>
+    <String>Yasadışı Klonlama</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_IllegalCloning_Dec</Label>
+    <String>{PLANETNAME} üzerinde kısa sürede nüfusumuzu büyük ölçüde artıracak yasadışı bir klonlama deneyi keşfettik.[BR][BR]Ancak, DNA vatandaşlardan izinleri olmadan alındı.[BR][BR]Emirleriniz nedir?</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_IllegalCloning_Liberty_Bonus_Name</Label>
+    <String>DNA'yı sahiplerine iade edin ve kararı onlara bırakın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_IllegalCloning_Equality_Bonus_Name</Label>
+    <String>Bu deneylerin arkasındaki bilim insanını tanıtın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_IllegalCloning_Equality_Bonus_Dec</Label>
+    <String>Yeni bir Lider aramıza katıldı</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_IllegalCloning_Authority_Bonus_Name</Label>
+    <String>Bu klonların hiçbir hakkı yok. Onları hemen yumurtadan çıkarın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_IllegalCloning_Authority_Bonus_Dec</Label>
+    <String>+2 Ücretsiz Klon vatandaşları</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Ysengard_Name</Label>
+    <String>Ysengard</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Ysengard_Dec</Label>
+    <String>Ünlü paralı asker Mirazu Ysen'i yakaladık. Halkımız onun hırsızlık ve haydutluk geçmişine karşılık adalet için ağlıyor. Ama başka bir amaçla kullanılması daha iyi olabilir. [BR] [BR] Emirleriniz nedir?</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Ysengard_Liberty_Bonus_Name</Label>
+    <String>Paralı askeri hapsedin, suçlarının bedelini ödeyecek.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Ysengard_Equality_Bonus_Name</Label>
+    <String>Size katılmayı kabul ederse gemisini yeniden inşa edin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Ysengard_Equality_Bonus_Dec</Label>
+    <String>Ysengard gemisinin kilidini aç</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Ysengard_Authority_Bonus_Name</Label>
+    <String>Hükümetimizde onun gibi biri işimize yarayabilir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Ysengard_Authority_Bonus_Dec</Label>
+    <String>Yeni bir Lider aramıza katıldı</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_PrecursorProbe_Name</Label>
+    <String>Öncü Prob</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_PrecursorProbe_Dec</Label>
+    <String>{PLANETNAME} yörüngesinde bir Öncü sondası bulduk. Buraya neden gönderildiğinden veya ne kadar süredir burada olduğundan emin değiliz, ancak teknolojisi gelişmiş.[BR][BR]Emirleriniz nedir?</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_PrecursorProbe_Liberty_Bonus_Name</Label>
+    <String>Bunu inceleyelim ve neler öğrenebileceğimize bakalım.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_PrecursorProbe_Equality_Bonus_Name</Label>
+    <String>Probu onarın ve ne yaptığına bakın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_PrecursorProbe_Equality_Bonus_Dec</Label>
+    <String>Stargazer gemisinin kilidini aç</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_PrecursorProbe_Authority_Bonus_Name</Label>
+    <String>Probu en yüksek teklifi verene sat.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_PrecursorArtifact_Name</Label>
+    <String>Prekürsör Artefakt</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_PrecursorArtifact_Dec</Label>
+    <String>{PLANETNAME} yakınlarında eski bir Öncü uygarlıktan geldiğine inanılan kadim bir eserle karşılaştık.  Onu aktive ettikten sonra, durumumuzu değerlendirdi ve bize yardım etmeyi teklif etti.[BR][BR]Emirleriniz nelerdir?</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_PrecursorArtifact_Liberty_Bonus_Name</Label>
+    <String>Bir gemi olarak yeniden inşa et.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_PrecursorArtifact_Liberty_Bonus_Dec</Label>
+    <String>Tersanenizdeki Nail gemisinin kilidini açın</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_PrecursorArtifact_Equality_Bonus_Name</Label>
+    <String>Sentetik vatandaşlardan oluşan bir orduya dönüştürün.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_PrecursorArtifact_Equality_Bonus_Dec</Label>
+    <String>Bir Yor kolonisti kazanın</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_PrecursorArtifact_Authority_Bonus_Name</Label>
+    <String>Eseri inceleyin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Interview_Name</Label>
+    <String>Röportaj</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Interview_Dec</Label>
+    <String>Bir röportaj sırasında, galaksiyi keşfettiğimiz ve yabancı türlerle karşılaştığımız bir zamanda vatandaşlarınızın başarılı olmak için neye ihtiyacı olduğunu düşündüğünüz soruluyor.[BR][BR]Neyi teşvik etmek istersiniz?</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Interview_Liberty_Bonus_Name</Label>
+    <String>Kurnaz.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Interview_Deception_Dec</Label>
+    <String>Bu, daha sonra ek etkinlik seçeneklerini kullanılabilir hale getirecektir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Interview_Persuassion_Dec</Label>
+    <String>Bu, ticaret müzakereleri sırasında ikna tekniğimizi geliştirecektir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Interview_Intimidation_Dec</Label>
+    <String>Bu, ticaret müzakereleri sırasında korkutma tekniğimizi kullandığımızda daha fazlasını elde etmemizi sağlayacaktır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Interview_Equality_Bonus_Name</Label>
+    <String>Anlamak.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Interview_Authority_Bonus_Name</Label>
+    <String>Güçlü.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_AbandonedDevice_Name</Label>
+    <String>Terk Edilmiş Cihaz</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_AbandonedDevice_Dec</Label>
+    <String>{PLANETNAME} yakınlarında eski bir dünyalaştırma cihazına rastladık. Etkinleştirildiğinde, bize bir zamanlar zanaatkarlar ile güçlü bir düşman arasında büyük bir savaş olduğunu söylüyor. Bu cihaz, kaybetmeleri durumunda gelecekteki uygarlıkları yağmadan korumaya yardımcı olmak için bırakıldı.[BR][BR]Bize üç seçenek sunuyor.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_AbandonedDevice_Liberty_Bonus_Name</Label>
+    <String>Dünyanın biyomlarını iyileştirmek için kullanın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_AbandonedDevice_Equality_Bonus_Name</Label>
+    <String>Gezegenin kabuğundaki ham mineralleri üretmek için kullanın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_AbandonedDevice_Authority_Bonus_Name</Label>
+    <String>Nadir kaynakları üretmek için kullanın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_PrecursorRelic_Name</Label>
+    <String>Öncü Kalıntı</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_PrecursorRelic_Dec</Label>
+    <String>{PLANETNAME} yakınlarında yüzyıllardır sürükleniyormuş gibi görünen eski bir kayıt cihazı keşfettik. Teknoloji hassas ama inanılmaz derecede gelişmiş.[BR][BR]Emirleriniz nedir?</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_PrecursorRelic_Liberty_Bonus_Name</Label>
+    <String>Dünyamızı bir etki merkezi haline getirmek için kayıtlarını kullanalım.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_PrecursorRelic_Equality_Bonus_Name</Label>
+    <String>Gezegenimizin gelişimini artırmamıza yardımcı olması için kullanın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_PrecursorRelic_Equality_Bonus_Dec</Label>
+    <String>Mevcut inşaat projesini bitirin</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_PrecursorRelic_Authority_Bonus_Name</Label>
+    <String>Onu bir gemiye dönüştür.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_PrecursorRelic_Authority_Bonus_Dec</Label>
+    <String>Bir Savaş Gemisi Kazanın</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_MysteriousOutpost_Name</Label>
+    <String>Gizemli Karakol</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_MysteriousOutpost_Dec</Label>
+    <String>Tek bir uzaylı tarafından işgal edilmiş gizli bir karakol keşfettik. Bizi gözlemlemek için gönderildiğini ve barışçıl niyetleri olduğunu iddia ediyor.[BR][BR]Emirleriniz nedir?</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_MysteriousOutpost_Liberty_Bonus_Name</Label>
+    <String>Karakolu bir koloniye dönüştürün.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_MysteriousOutpost_Liberty_Bonus_Dec</Label>
+    <String>Sınıf 5 gezegen kazanın</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_MysteriousOutpost_Equality_Bonus_Name</Label>
+    <String>Uzaylıları hükümetimize katılmaya davet edin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_MysteriousOutpost_Equality_Bonus_Dec</Label>
+    <String>Bir Diplomat Kazanın</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_MysteriousOutpost_Authority_Bonus_Name</Label>
+    <String>Uzaylıyı bildiği her şeyi bize anlatmaya zorlayın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Message_Name</Label>
+    <String>Mesaj</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Message_Dec</Label>
+    <String>Halkımız evrene bir işaret, bir gün karşılaşacağımız diğer yıldız gezgini ırklara bir mesaj göndermek istiyor.[BR][BR]Bu mesajın ne olmasını istersiniz?</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Message_Liberty_Bonus_Name</Label>
+    <String>Barış ve umut mesajı gönderin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Message_Equality_Bonus_Name</Label>
+    <String>Bu bir zaman kaybıdır. Kaynakları daha pratik önlemlere yönlendirin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Message_Authority_Bonus_Name</Label>
+    <String>Onlara nihai köleleştirilmelerine hazırlanmalarını söyleyen bir mesaj gönderin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Famine_Name</Label>
+    <String>Kıtlık</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Famine_Dec</Label>
+    <String>Bir yanıklık {PLANETNAME}'yi etkiledi. Yöneticileriniz tüm vatandaşlarınız için yeterli yiyecek olmayacağı konusunda uyarıyor. Zenginler çoktan yiyecek stoklamaya başladı ve çaresizler bu stokları yağmalamaya başladı.[BR][BR]Emirleriniz nedir?</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Famine_Liberty_Bonus_Name</Label>
+    <String>Daha az şanslı olanlarla paylaşın. Birlikte acı çekeceğiz.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Famine_Equality_Bonus_Name</Label>
+    <String>Malları liderlerimize dağıtın. Hayatta kalmak için onların gücüne ihtiyacımız olacak.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Famine_Authority_Bonus_Name</Label>
+    <String>Halkımız arasında bir savaş başlatın. Birbirlerine düşman olsunlar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Famine_Authority_Bonus_Dec</Label>
+    <String>Aldatma kontrolü: {STATCHANCE}% başarı şansı</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_FamineSuccess_Name</Label>
+    <String>Kıtlık - Başarı</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_FamineSuccess_Dec</Label>
+    <String>Tam da umduğunuz gibi, {PLANETNAME}'deki vatandaşlar birbirlerine düşman oldular. Hiçbiri kıtlık için sizi suçlamıyor.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_FamineSuccess_Liberty_Bonus_Name</Label>
+    <String>Bitti</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_FamineFail_Name</Label>
+    <String>Kıtlık - Başarısız</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_FamineFail_Dec</Label>
+    <String>Planınız geri teper ve vatandaşlarınız kıtlık için sizi suçlar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_FamineFail_Liberty_Bonus_Name</Label>
+    <String>Bitti</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_NewGeneration_Name</Label>
+    <String>Yeni Nesil</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_NewGeneration_Dec</Label>
+    <String>{PLANETNAME}'de yeni bir nesil doğdu, muhtemelen uzak dünyalarda yaşayacak ve ölecek olan ilk nesil.[BR][BR]Onları geleceklerine en iyi şekilde nasıl hazırlamalıyız?</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_NewGeneration_Liberty_Bonus_Name</Label>
+    <String>Ordumuzun her zaman yeni askerlere ihtiyacı vardır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_NewGeneration_Liberty_Bonus_Dec</Label>
+    <String>Bir Asker vatandaş kazanın</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_NewGeneration_Equality_Bonus_Name</Label>
+    <String>En parlak düşünürlerimiz bizi ileriye götürecektir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_NewGeneration_Equality_Bonus_Dec</Label>
+    <String>Bir Bilim İnsanı vatandaşı kazanın</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_NewGeneration_Authority_Bonus_Name</Label>
+    <String>Hayallerinin peşinden gitmelerine izin verin, daha fazla sanatçıya ihtiyacımız var.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_NewGeneration_Authority_Bonus_Dec</Label>
+    <String>Bir Eğlence Vatandaşı Kazanın</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Legacy_Name</Label>
+    <String>Miras</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Legacy_Dec</Label>
+    <String>İlk uzay gemilerimizden birinin kalıntılarını keşfettik. Endişeyle {PLANETNAME} ötesine adım attığımız bir zamanın kanıtı.[BR][BR]Bu tarih parçasıyla ne yapmalıyız?</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Legacy_Liberty_Bonus_Name</Label>
+    <String>Gelecek nesillere ilham vermesi için bir müzeye koyun.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Legacy_Equality_Bonus_Name</Label>
+    <String>Nostaljinin hiçbir değeri yoktur, parçalar için hurdaya çıkarın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Legacy_Authority_Bonus_Name</Label>
+    <String>Tekrar hizmete sokun.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Legacy_Authority_Bonus_Dec</Label>
+    <String>Ücretsiz Prob</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Cult_Name</Label>
+    <String>The Cult</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Cult_Dec</Label>
+    <String>{PLANETNAME}'de yeni bir tarikatın sayısı artmaya başladı. Tarikat, zengin üyeleri önemli bağışlar yapmaya ikna ederek zenginleşti.[BR][BR]Müritler, uzaylı bir tür tarafından bize hayat verildiğine inanıyor ve bu yaratıcıların yakında bize liderlik etmek için geri döneceğini tahmin ediyorlar.[BR][BR]Emirleriniz nedir?</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Cult_Liberty_Bonus_Name</Label>
+    <String>Benzersiz bir bakış açısı sunuyorlar, liderlerini bize katılmaya davet ediyorlar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Cult_Liberty_Bonus_Dec</Label>
+    <String>Bir Lider Kazanın</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Cult_Equality_Bonus_Name</Label>
+    <String>Onları ağır bir şekilde vergilendirin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Cult_Authority_Bonus_Name</Label>
+    <String>Benzersiz sesler kısıtlanmamalı, korunmalıdır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Cult_Authority_Bonus_Dec</Label>
+    <String>İki ücretsiz Vatandaş kazanın</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Protest_Name</Label>
+    <String>Protesto</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Protest_Dec</Label>
+    <String>Bir grup, galaksiyi keşfetmek için harcanan kaynakları protesto etmeye başladı. Bu kaynakların {PLANETNAME}'de yaşayanların hayatlarını iyileştirmek için harcanmasının daha iyi olacağını savunuyorlar.[BR][BR]Emirleriniz nedir?</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Protest_Liberty_Bonus_Name</Label>
+    <String>Bütçe komitesi önünde görüşlerini sunmalarına izin verin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Protest_Equality_Bonus_Name</Label>
+    <String>Protesto edebilirler, ancak bunun ötesine geçen herkesi tutuklayabilirler.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Protest_Authority_Bonus_Name</Label>
+    <String>Eğer gezegeni iyileştirmek istiyorlarsa, tam olarak bunu yapmalarını sağlayın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Biographer_Name</Label>
+    <String>Biyografi Yazarı</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Biographer_Dec</Label>
+    <String>Bir biyografi yazarı, iktidara yükselişiniz hakkında bir kitap yazabilmek için sizinle röportaj yapıyor. Ana gezegeninizden uzayın bilinmeyen bölgelerine doğru yola çıkmanız için sizi neyin motive ettiğini soruyor.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Biographer_Liberty_Bonus_Name</Label>
+    <String>Büyüklüğe ulaştık ve şimdi bunu galaksiyle paylaşmak bizim sorumluluğumuz.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Biographer_Equality_Bonus_Name</Label>
+    <String>Evrenin sunduklarının yalnızca küçük bir kısmını gördük. Çok daha fazlası bizi bekliyor.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Biographer_Authority_Bonus_Name</Label>
+    <String>Fethedecek yeni dünyalar arıyorum.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Museum_Name</Label>
+    <String>Müze</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Museum_Dec</Label>
+    <String>Bir müze hayatınızla ilgili bir sergi açıyor. En büyük başarınızın ne olduğunu düşündüğünüzü bilmek istiyorlar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Museum_Liberty_Bonus_Name</Label>
+    <String>Ben tek başıma hiçbir şey yapmadım. Birlikte her şeyi yaptık.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Museum_Equality_Bonus_Name</Label>
+    <String>En büyük başarım henüz gelmedi.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Museum_Authority_Bonus_Name</Label>
+    <String>Düşmanlarımın mezarları.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_DigDeep_Name</Label>
+    <String>Derinlere İnin</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_DigDeep_Dec</Label>
+    <String>{PLANETNAME}'deki ekonomi danışmanları gezegenin en verimli bölgesinin altında nadir kaynaklar keşfetti. Bu kaynaklara ulaşmak için toprağı kazmak için izin istiyorlar.[BR][BR]Yok ettikleri tüm türler için küçük bir sergi kurmayı vaat ediyorlar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_DigDeep_Liberty_Bonus_Name</Label>
+    <String>Devam et.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_DigDeep_Equality_Bonus_Name</Label>
+    <String>Kesinlikle olmaz.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_DigDeep_Authority_Bonus_Name</Label>
+    <String>Bunun yerine verimli bölgeyi iyileştirmeye yatırım yapın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Disease_Name</Label>
+    <String>Süper Bakteriler</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Disease_Dec</Label>
+    <String>Geliştirilmiş bir antibiyotik yaratma girişimi, bunun yerine tedavilerimize karşı bağışıklığı olan bir bakteri üretti. Laboratuvardan kaçtı ve bilim adamlarınız {PLANETNAME} yayıldığı konusunda uyarıyor.[BR][BR]Bebekler ve yaşlılar için ölümcül olabilir.[BR][BR]Emirleriniz nedir?</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Disease_Liberty_Bonus_Name</Label>
+    <String>Hastaları karantinaya alın, gerekirse zorla.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Disease_Equality_Bonus_Name</Label>
+    <String>Sağlık hizmetlerine öncelik verin ve enfekte olanların tedavi edildiğinden emin olun.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Disease_Authority_Bonus_Name</Label>
+    <String>Vatandaşları uyarın ve istedikleri gibi tepki vermelerine izin verin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_RequestForSupport_Name</Label>
+    <String>Destek Talebi</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_RequestForSupport_Dec</Label>
+    <String>Halkımız arasında {PLAYERFACTION:1}'e karşı giderek artan bir hoşnutsuzluk var. {PLAYERFACTION:1}, kendilerini destekleyen bir basın açıklaması yayınlayarak bu hoşnutsuzluğu azaltmaya çalışmamızı talep etti.[BR][BR]Emirleriniz nelerdir?</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_RequestForSupport_Liberty_Bonus_Name</Label>
+    <String>Bir destek bildirisi yayınlayacağız</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_RequestForSupport_Liberty_Bonus_Dec</Label>
+    <String>50 ay boyunca {PLAYERFACTION:1} ile +2 Diplomasi</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_RequestForSupportLiberty_String1</Label>
+    <String>Bizi desteklediniz</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_RequestForSupport_Equality_Bonus_Name</Label>
+    <String>Halkınızı etkilemeye çalıştıkları için {PLAYERFACTION:1}'yi kınayın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_RequestForSupport_Equality_Bonus_Dec</Label>
+    <String>50 ay boyunca {PLAYERFACTION:1} ile -3 Diplomasi</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_RequestForSupportEquality_String1</Label>
+    <String>Bizi mahkum ettin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_RequestForSupport_Authority_Bonus_Name</Label>
+    <String>Sen karışma.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_RequestForSupport_Authority_Bonus_Dec</Label>
+    <String>50 ay boyunca {PLAYERFACTION:1} ile -1 Diplomasi</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_RequestForSupportAuthority_String1</Label>
+    <String>Bizi desteklemezsin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_TheSabre_Name</Label>
+    <String>Kılıç</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_TheSabre_Dec</Label>
+    <String>Sınırlarımızda kaynağı bilinmeyen bir gemi belirdi. Tarayıcılarımızın sınıflandıramayacağı kadar gelişmiş silahlara sahip. Ondan tek bir mesaj alıyoruz: ödeme yapın yoksa bu silahlar bize karşı kullanılacak.[BR][BR]Emirleriniz nedir?</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_TheSabre_Liberty_Bonus_Name</Label>
+    <String>Tehditlere boyun eğmeyeceğiz.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_TheSabre_Liberty_Bonus_Dec</Label>
+    <String>Bir düşman korsan gemisi ortaya çıkar</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_TheSabre_Equality_Bonus_Name</Label>
+    <String>Ona ödeme yapmak en makul seçenektir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_TheSabre_Authority_Bonus_Name</Label>
+    <String>Bize katılırsa ona daha iyi bir gemi yapmayı teklif et.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_TheSabre_Authority_Bonus_Dec</Label>
+    <String>Sabre gemisinin kilidini aç</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Pirates_Name</Label>
+    <String>Korsanlar</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Pirates_Dec</Label>
+    <String>Birçok kaynaktan korsan faaliyetlerinin arttığına dair raporlar geliyor. Halkımız dünyalarımızı güvende tutmak için bir şeyler yapmamızı talep ediyor.[BR][BR]Emirleriniz nedir?</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Pirates_Liberty_Bonus_Name</Label>
+    <String>Gezegenlerimizin savunmasını artırın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Pirates_Equality_Bonus_Name</Label>
+    <String>Tehdide karşı koymak için bir askeri danışman görevlendirin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Pirates_Equality_Bonus_Dec</Label>
+    <String>Yeni bir Lider aramıza katıldı</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Pirates_Authority_Bonus_Name</Label>
+    <String>Vatandaşlarımızı tehdit konusunda uyarın, yardımcı olabilirler.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Pirates_Authority_Bonus_Dec</Label>
+    <String>Bir Savaş Gemisi Kazanın</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_RecruitmentDrive_Name</Label>
+    <String>İşe Alım Sürüşü</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_RecruitmentDrive_Dec</Label>
+    <String>Uzay programımızdaki heyecan dalgası, kritik pozisyonlar için çok sayıda yeni adayın başvurmasına yol açtı. Bu durum sürerken bundan faydalanmalıyız.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_RecruitmentDrive_Liberty_Bonus_Name</Label>
+    <String>Bu fırsattan yararlanmalıyız</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_ElectionWarning_Name</Label>
+    <String>Yaklaşan Seçim</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_ElectionWarning_Dec</Label>
+    <String>Hükümetimizi reforme etmek için beş hafta içinde bir seçim yapılacak. Vatandaşlarımızın [HS=HS_Approval]Approval[/HS]'ına dayanacak.[BR][BR]Vatandaşlarımızın Onayını artırmak için yapabileceğimiz her şey reformumuzun geçmesine yardımcı olacaktır. Ya da tedbirin geçmesini sağlamak için sonuçları basitçe ayarlayabiliriz.[BR][BR]Ne yapmak istersiniz?</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_ElectionWarning_Liberty_Bonus_Name</Label>
+    <String>Sonuçların kendileri için konuşmasına izin vereceğiz.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_ElectionWarning_Equality_Bonus_Name</Label>
+    <String>Sonuçları "ayarlamalıyız".</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Pandemonium_Name</Label>
+    <String>Pandemonium</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Pandemonium_Dec</Label>
+    <String>İmparatorluktaki tüm telepatlara gizli bir mesaj gönderilir; güçlerini artırmak için yorucu ve masraflı bir ritüele başlamaları gerekmektedir. Konsantre olduklarında, zihinleri birleşmeye başlar ve uzayın uçsuz bucaksız genişliğine ulaşan kolektif bir bilinç oluşturur. 	 	 	 ([1] üzerinde herhangi bir duyarlı varlık ararlar ve zihinlerini incelemeye başlarlar. Psişik bağlantıları, en azından şimdilik, tespit edilmeden hedeflerine kurnazca düşünceler aşılamalarını ve onları manipüle etmelerini sağlayarak sabit kalır. [BR]{PLANETNAME} vatandaşlarını neye inandırmalıyız?</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Pandemonium_Liberty_Bonus_Name</Label>
+    <String>Onları yanıyor olduklarına ikna edin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Pandemonium_Mod_Liberty_Name</Label>
+    <String>Ateşte İnananlar</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Pandemonium_Liberty_Victim_Name</Label>
+    <String>{PLANETNAME} vatandaşın kontrol edilemez bir paniğe kapılmasıyla kaosa sürüklenir. Canlı canlı yanmak için çığlık atıyor ve alevleri söndürmeleri için etraftakilere yalvarıyorlar; ancak bu kitlesel yanılsamaya kapılanların hiçbiri yanmıyor. Sadece bir avuç insan yoğun danışmanlık hizmetinden sonra bu yanılsamadan kurtulur. Yetkililer gizliden gizliye bir tür zihin kontrol saldırısından şüphelenmeye başlıyor. Krizi yönetenler {PLANETNAME} toplumunun tamamen toparlanmasının beş ay süreceğini bildiriyor.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Pandemonium_Liberty_End</Label>
+    <String>Endişe verici.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Pandemonium_Liberty_Bonus</Label>
+    <String>{PLANETNAME} [ICON=Stat_Planetary_Defense_Icon] -5 tur boyunca %50 Gezegen Savunması.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Pandemonium_Equality_Bonus_Name</Label>
+    <String>Onları her konuşmanın kazanılması gereken bir tartışma olduğuna inandırın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Pandemonium_Mod_Equality_Name</Label>
+    <String>Sabit Argümanlar</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Pandemonium_Mod_Equality_Victim_Name</Label>
+    <String>{PLANETNAME}'teki kriz birkaç tartışmayla başlar. Kısa sürede tüm sinirler kaynar. Bağrışmalar kaçınılmazdır ve yaygınlıkları {PLANETNAME}'teki herkesi etkiler. Çatışma çözümü uzmanları yardıma koşar. Tartışmaların hiçbirinin aslı astarı olmadığı için başlangıçta işler yavaş ilerler. Mühürlü raporlar olayın kaynağının telepatik bir saldırı olduğunu göstermektedir. Gerçek şikayetler olmadan, kavgaları sona erdirmek çok zaman alır. Kaynaklar {PLANETNAME}'daki krizin çözülmesinin on ay alacağını belirtiyor.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Pandemonium_Equality_End</Label>
+    <String>Endişe verici.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Pandemonium_Equality_Bonus</Label>
+    <String>{PLANETNAME} [ICON=Stat_Influence_Icon] -25% Etki ve [ICON=ApprovalStatIcon] -20% Onay 10 tur boyunca.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Pandemonium_Authority_Bonus_Name</Label>
+    <String>Kaynağını bulamadıkları rahatsız edici bir bip sesi duymalarını sağlayın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Pandemonium_Mod_Authority_Name</Label>
+    <String>Rahatsız Edici Bip Sesi</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Pandemonium_Mod_Authority_Victim_Name</Label>
+    <String>{PLANETNAME} vatandaşları toplu halde sürekli bir bip sesi duyduklarını bildiriyor. Rahatsızlık bir gecede gelişmiş gibi görünüyor. Kolonideki tıp uzmanları (kendileri de rahatsızlıktan muzdariptir) şaşkındır. Uzmanlar {PLANETNAME}'e nakledilir, ancak tüm çalışmaları sonuçsuz kalır. Mantıklı olan tek açıklama telepati yoluyla yapılan psikolojik bir saldırıdır. Sesin rapor edilen bozulma hızına göre, krizin {PLANETNAME}'da kendi kendine çözülmesi 15 ay sürecektir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Pandemonium_Authority_End</Label>
+    <String>*beep*.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Pandemonium_Authority_Bonus</Label>
+    <String>{PLANETNAME} [ICON=Stat_Research_Icon] -25% Araştırma ve [ICON=Stat_Manufacturing_Icon] -25% 15 tur boyunca Üretim.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Serenity_Name</Label>
+    <String>Serenity</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Serenity_Dec</Label>
+    <String>İmparatorluktaki tüm telepatlara gizli bir mesaj gönderilir, güçlerini artırmak için yorucu ve masraflı bir ritüele başlamaları gerekmektedir. Konsantre olduklarında, zihinleri birleşmeye başlar ve uzayın uçsuz bucaksız genişliğine ulaşan kolektif bir bilinç oluştururlar. [BR] ([1] üzerindeki herhangi bir duyarlı varlığı ararlar ve zihinlerini araştırmaya başlarlar.  Psişik bağlantıları sabit kalır ve en azından şimdilik tespit edilmeden hedeflerine kurnazca düşünceler aşılamalarını ve onları manipüle etmelerini sağlar. [BR]{PLANETNAME} vatandaşlarını neye inandırmalıyız?</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Serenity_Liberty_Bonus_Name</Label>
+    <String>İlk görüşte aşık olmalarını sağlayın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Serenity_Mod_Liberty_Name</Label>
+    <String>İlk görüşte aşk</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Serenity_Equality_Bonus_Name</Label>
+    <String>Onları her yemeğin şimdiye kadar yedikleri en iyi yemek olduğuna inandırın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Serenity_Mod_Equality_Name</Label>
+    <String>Muhteşem Yemekler</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Serenity_Authority_Bonus_Name</Label>
+    <String>Onları her bir başarıyı kutlamaya ikna edin. Ne kadar küçük olursa olsun.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Serenity_Mod_Authority_Name</Label>
+    <String>Sık Kutlamalar</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Gov1Success_Name</Label>
+    <String>Hükümet Reformu!</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Gov1Success_Dec</Label>
+    <String>[1])%[BR][BR]İmparatorluk hükümetleri daha verimlidir ve [HS=HS_PolicySlot]Politika Yuvalarımızı[/HS] ve [HS=HS_Manufacturing]Üretimimizi[/HS] artırmanın yanı sıra [HS=HS_ShipRange]Gemi Menzilimizi[/HS] önemli ölçüde genişletir. [BR][BR]Ancak, hükümetimiz ilerledikçe vatandaşlarımızın [HS=HS_Expectations]Expectations[/HS] beklentileri de artacaktır. Gelecek seçimlerde başarılı olmak istiyorsak onları mutlu etmeliyiz.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Gov1Success_Liberty_Bonus_Name</Label>
+    <String>Mükemmel.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Gov2Success_Name</Label>
+    <String>Hükümet Reformu!</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Gov2Success_Dec</Label>
+    <String>[1])%[BR][BR]Cumhuriyet hükümetleri daha verimlidir ve [HS=HS_ColonyGrossIncome]Income[/HS] ve [HS=HS_Logistics]Logistics[/HS] gelirlerimizi önemli ölçüde artırır. [BR][BR]Ancak, hükümetimiz ilerledikçe, vatandaşlarımızın [HS=HS_Expectations]Expectations[/HS] beklentileri de artacaktır. Gelecek seçimlerde başarılı olmak istiyorsak onları mutlu etmeliyiz.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Gov2Success_Liberty_Bonus_Name</Label>
+    <String>Mükemmel.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Gov3Success_Name</Label>
+    <String>Hükümet Reformu!</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Gov3Success_Dec</Label>
+    <String>{LASTELECTIONVOTES:1}%[BR][BR]Federasyonlar diğer medeniyetlerin gıpta ettiği ve bizim [HS=HS_influence]Influence[/HS]'ımızı önemli ölçüde artıran [BR][BR]Ancak, hükümetimiz ilerledikçe, vatandaşlarımızın [HS=HS_Expectations]Expectations[/HS]'ları da artacaktır. Gelecek seçimlerde başarılı olmak istiyorsak onları mutlu etmeliyiz.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Gov3Success_Liberty_Bonus_Name</Label>
+    <String>Mükemmel.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_GovernmentUpgradeFail_Name</Label>
+    <String>Seçim Kaybedildi!</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_GovernmentUpgradeFail_Dec</Label>
+    <String>Seçimlerde hükümetin reforme edilmesine {WANTEDGOVERNMENTNAME:1} karşı oy çıkmıştır. Destekleyenler ise oyların yalnızca {LASTELECTIONVOTES:1}'ünü oluşturmuştur.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_GovernmentUpgradeFail_Liberty_Bonus_Name</Label>
+    <String>Bu kayıp bize pahalıya patlayacak.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_DisloyalGovernor_Name</Label>
+    <String>Sadakatsiz Vali</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_DisloyalGovernor_Dec</Label>
+    <String>{PLANETNAME} valisi {GOVERNORNAME}, müdahalemizden hoşnut değil ve {FOREIGNINFLUENCER}'e katılmakla tehdit ediyor. [BR][BR]Dünyalarına müdahale ettiğimizi ve kendilerini yönetmek için daha fazla özgürlük olması gerektiğini iddia ediyorlar. [BR][BR]Danışmanlarımız bunu yapmanın ([([5])HS_Crime]Crime[/HS]'ı {PLANETNAME} üzerinde artıracağını iddia ediyor.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_DisloyalGovernor_Liberty_Bonus_Name</Label>
+    <String>Özgürlüklerine izin verin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_DisloyalGovernorLiberty_String2</Label>
+    <String>İstediğim gibi yönetmeme izin veriyorsunuz</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_DisloyalGovernor_Equality_Bonus_Name</Label>
+    <String>Fikrini değiştirmesi için valiye rüşvet ver.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_DisloyalGovernorEquality_String2</Label>
+    <String>Rüşvetiniz takdir edildi.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_DisloyalGovernor_Authority_Bonus_Name</Label>
+    <String>Bırak gitsinler.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_DisloyalGovernor_Authority_Bonus_Dec</Label>
+    <String>{PLANETNAME} artık {FOREIGNINFLUENCER} tarafından kontrol edilmektedir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_ToxicGovernor_Name</Label>
+    <String>Zehirli Lider</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_ToxicGovernor_Dec</Label>
+    <String>{PLANETNAME} valisi {GOVERNORNAME}, beceriksizliğimiz hakkında açıkça konuşuyor. Diğer liderlerimiz bunu fark etmeye başladılar bile ve bu onların bize karşı olan düşüncelerini bozuyor.[BR][BR] Daha yumuşak kalpli danışmanlarımızdan bazıları bunun karmaşık bir toplumun normal bir parçası olduğunu söylerken, diğerleri valiye ve yumuşak kalpli danışmanlara karşı sert önlemler almamızı öneriyor.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_ToxicGovernor_Liberty_Bonus_Name</Label>
+    <String>Aklından geçenleri söylemesine izin verin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_ToxicGovernor_Equality_Bonus_Name</Label>
+    <String>Bir zindanda biraz zaman geçirmek bunu düzeltecektir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_ToxicGovernor_Equality_Bonus_Dec</Label>
+    <String>{GOVERNORNAME} ve {PLANETNAME}</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_ToxicGovernorEquality_String2</Label>
+    <String>Zindan dersleri</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_GovernorScandal_Name</Label>
+    <String>Skandal</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_GovernorScandal_Dec</Label>
+    <String>{PLANETNAME}'in valisi {GOVERNORNAME}'ün, dünya vatandaşları pahasına kişisel dostlarını kayırdığına inanılıyor. [BR][BR]Danışmanlarımız suçlamaları araştırdı ve bunların yanlış olduğunu ve {GOVERNORNAME}'in yanlış bir şey yapmadığını belirledi. [BR][BR]Yine de, en azından valiyi bir şekilde cezalandırmamız için yüksek bir kamuoyu tepkisi var, yoksa sözde yolsuzluğun suç ortağı gibi görüneceğiz.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_GovernorScandal_Liberty_Bonus_Name</Label>
+    <String>Vali yanlış bir şey yapmadı ve biz de onları destekleyeceğiz.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_GovernorScandal_Liberty_Bonus_Dec</Label>
+    <String>{GOVERNORNAME} ve {PLANETNAME} için özet</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_GovernorScandalLiberty_String1</Label>
+    <String>Yanımda durdun</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_GovernorScandal_Equality_Bonus_Name</Label>
+    <String>Valiyi kınayın. Politikanın bedeli bu.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_GovernorScandal_Equality_Bonus_Dec</Label>
+    <String>{GOVERNORNAME} ve {PLANETNAME} için özet</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_GovernorScandalEquality_String1</Label>
+    <String>Beni mahkum ettin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_GovernorRequestInfluence_Name</Label>
+    <String>Kültürel Saldırı</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_GovernorRequestInfluence_Dec</Label>
+    <String>{PLANETNAME} valisi {GOVERNORNAME}, gezegenlerinin {FOREIGNINFLUENCER} tarafından kültürel saldırı altında olduğu konusunda uyarıyor. [BR][BR]{FOREIGNINFLUENCER} etkisi yerel medyada, oyunlarda ve modada, özellikle de genç vatandaşlar arasında görülmeye başladı. [BR][BR]{GOVERNORNAME} bu tehdide karşı koymak için bir hibe talep ediyor.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_GovernorRequestInfluence_Liberty_Bonus_Name</Label>
+    <String>{PLANETNAME} tarihinde kültürel bir kutlamayı finanse edeceğiz.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_GovernorRequestInfluence_Liberty_Bonus_Dec</Label>
+    <String>{GOVERNORNAME} ve {PLANETNAME} için özet</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_GovernorRequestInfluenceLiberty_String1</Label>
+    <String>Bana kültürel destek verdiniz</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_GovernorRequestInfluence_Equality_Bonus_Name</Label>
+    <String>Yabancı mallara ithalat vergisi uygulayın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_GovernorRequestInfluence_Harmony_Bonus_Name</Label>
+    <String>Bu onların uğraşması gereken bir sorun.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_GovernorRequestInfluence_Harmony_Bonus_Dec</Label>
+    <String>{GOVERNORNAME} ve {PLANETNAME} için özet</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_GovernorRequestInfluenceHarmony_String1</Label>
+    <String>Kültürel destek sağlamadınız</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_GovernorRequestCrime_Name</Label>
+    <String>Suçla Mücadele</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_GovernorRequestCrime_Dec</Label>
+    <String>{PLANETNAME} valisi {GOVERNORNAME}, gezegenlerinde bir adalet sistemi kurma konusunda kötü bir iş çıkardı. [BR][BR]Yerel olarak uğraşmak yerine, başkentimizin kanun yapıcılarının sorunla ilgilenmesini talep ediyorlar. [BR][BR]Bir valinin beceriksizliğiyle başa çıkmak için bu tür önlemlere ihtiyaç duyulması hayal kırıklığı yaratıyor, ancak [HS=HS_Crime]Crime[/HS]'ın {PLANETNAME} üzerinde büyümesini istemiyorsak çok az seçeneğimiz var.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_GovernorRequestCrime_Liberty_Bonus_Name</Label>
+    <String>Yardımı {PLANETNAME} adresine gönderin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_GovernorRequestCrime_Liberty_Bonus_Dec</Label>
+    <String>{GOVERNORNAME} ve {PLANETNAME} için özet</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_GovernorRequestCrimeLiberty_String1</Label>
+    <String>Suçun azalmasına yardımcı oldunuz</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_GovernorRequestCrime_Equality_Bonus_Name</Label>
+    <String>Bu onların uğraşması gereken bir sorun.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_GovernorRequestCrime_Equality_Bonus_Dec</Label>
+    <String>{GOVERNORNAME} ve {PLANETNAME} için özet</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_GovernorRequestCrimeEquality_String1</Label>
+    <String>Suçun azalmasına yardım etmediniz</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_GovernorRequestCrime_Harmony_Bonus_Name</Label>
+    <String>Beceriksiz validen başlayarak suç ve yolsuzluk belirtilerini araştırın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_GovernorRequestCrime_Harmony_Bonus_Dec</Label>
+    <String>{GOVERNORNAME} ve {PLANETNAME} için özet</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_GovernorRequestCrimeHarmony_String1</Label>
+    <String>Beni araştırdın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_GovernorRequestPollution_Name</Label>
+    <String>Jeotermik Çatlaklar</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_GovernorRequestPollution_Dec</Label>
+    <String>{PLANETNAME} valisi {GOVERNORNAME}, gezegenlerinde olası bir iklim felaketi konusunda uyarıda bulunuyor. Derin çatlaklar atmosfere muazzam miktarda ısı ve partikül salmaya başladı.[BR][BR]Acil önlem alınmazsa {PLANETNAME}'e zarar verebilir. Ancak bunun üstesinden gelmek için önemli kaynaklar gerekecektir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_GovernorRequestPollution_Liberty_Bonus_Name</Label>
+    <String>Yardımı {PLANETNAME} adresine gönderin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_GovernorRequestPollution_Liberty_Bonus_Dec</Label>
+    <String>{GOVERNORNAME} ve {PLANETNAME} için özet</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_GovernorRequestPollutionLiberty_String1</Label>
+    <String>Kirliliğin azaltılmasına yardımcı oldunuz</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_GovernorRequestPollution_Equality_Bonus_Name</Label>
+    <String>Sorunu çözmek için yerel üretimi yönlendirin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_GovernorRequestPollution_Equality_Bonus_Dec</Label>
+    <String>{GOVERNORNAME} ve {PLANETNAME} için özet</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_GovernorRequestPollutionEquality_String1</Label>
+    <String>Kirliliğin azaltılmasına yardımcı oldunuz</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_GovernorRequestPollution_Harmony_Bonus_Name</Label>
+    <String>Bu onların uğraşması gereken bir sorun.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_GovernorRequestPollution_Harmony_Bonus_Dec</Label>
+    <String>{GOVERNORNAME} ve {PLANETNAME} için özet</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_GovernorRequestPollutionHarmony_String1</Label>
+    <String>Kirliliğin azaltılmasına yardımcı olmadınız</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_TheList_Name</Label>
+    <String>Liste</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_TheList_Dec</Label>
+    <String>{GOVERNORNAME}'e haksızlık edenler genellikle önemli ölçüde kötü şansla karşılaşıyor, bazıları tamamen kayboluyor. Başlangıçta bunlar sadece söylentiydi, ancak bu söylentiler korku yarattı.[BR][BR]Bu konuda sorgulandığında, {GOVERNORNAME} sessizce herhangi bir ilişkiyi reddediyor, sadece kötü insanların başına kötü şeyler geldiğini söylüyor.[BR][BR]Tek kanıt, ([3]'un talihsizliğe uğrayanların çoğunun listelendiği ve üzerlerinin çizildiği defteridir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_TheList_Liberty_Bonus_Name</Label>
+    <String>{GOVERNORNAME}'yi geçmek aptallık olur.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_TheList_Liberty_Bonus_Dec</Label>
+    <String>{GOVERNORNAME} ve {PLANETNAME} için özet</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_TheListLiberty_String1</Label>
+    <String>Sen benim listemde değilsin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_TheList_Equality_Bonus_Name</Label>
+    <String>{GOVERNORNAME}'nin listesindekilere güvenlik atayın ve onları yakından izleyin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_TheList_Equality_Bonus_Dec</Label>
+    <String>{GOVERNORNAME} ve {PLANETNAME} için özet</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_TheListEquality_String1</Label>
+    <String>Sen de listemdesin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_TheList_End_Name</Label>
+    <String>Liste</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_TheList_End_Dec</Label>
+    <String>Adınız {GOVERNORNAME}'nin listesine eklendi.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_TheList_End_Liberty_Bonus_Name</Label>
+    <String>Bu iyi olamaz.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_MysteriousBrooch_Name</Label>
+    <String>Gizemli Broş</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_MysteriousBrooch_Dec</Label>
+    <String>Halkımız arasında derin sembolik anlamı olan bir kutsal emanet on yıllardır kayıp.[BR][BR]Yakın zamanda liderlerinizden biri {GOVERNORNAME} tarafından tutulduğu keşfedildi.[BR][BR]Onu nasıl elde ettikleri önemli değil. Onlardan zaten geri vermelerini istedik ve onlardan satın almayı teklif ettik. Reddettiler.[BR][BR]Doğru olanı yapacağınıza ve onu bize teslim edeceğinize güveniyoruz.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_MysteriousBrooch_Liberty_Bonus_Name</Label>
+    <String>{GOVERNORNAME} kendi seçimini yaptı ve ben de bunun arkasındayım.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_MysteriousBrooch_Liberty_Bonus_Dec</Label>
+    <String>+10 [ICON=LeaderStat_Loyalty_Icon]50 ay boyunca {GOVERNORNAME}[BR]-3 {PLAYERFACTION:1} ile ilişkiler için Sadakat</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_MysteriousBroochLiberty_String1</Label>
+    <String>Broşumu savundun.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_MysteriousBroochLiberty_String2</Label>
+    <String>Kutsal emanetimizi geri vermeyi reddettin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_MysteriousBrooch_Equality_Bonus_Name</Label>
+    <String>Broşun size teslim edilmesini sağlayacağız.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_MysteriousBrooch_Equality_Bonus_Dec</Label>
+    <String>[ICON=LeaderStat_Loyalty_Icon] -20 {GOVERNORNAME}[BR]+1 50 ay boyunca {PLAYERFACTION:1} ile ilişkiler için sadakat</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_MysteriousBroochEquality_String1</Label>
+    <String>Broşumu verdin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_MysteriousBroochEquality_String2</Label>
+    <String>Kutsal emanetimizi geri verdin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_GamblingProblems_Name</Label>
+    <String>Kumar Problemleri</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_GamblingProblems_Dec</Label>
+    <String>{GOVERNORNAME}, {PLAYERFACTION:1} için önemli bir borç altına girmiştir. Sizin adınız teminat olarak kullanıldı ve bu sizin için kesinlikle önemsiz bir meblağ.[BR][BR]Bu borcu ödeyeceğinize ve {GOVERNORNAME}'i tehlikeden uzak tutacağınıza inanıyorum.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_GamblingProblems_Liberty_Bonus_Name</Label>
+    <String>Bunu karşılayamayız. Yapmanız gerekeni yapın {GOVERNORNAME}.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_GamblingProblems_Liberty_Bonus_Dec</Label>
+    <String>[ICON=LeaderStat_Loyalty_Icon] -10 {GOVERNORNAME}[BR][ICON=LeaderStat_Resolve_Icon] -1 {GOVERNORNAME}[BR]-1 {PLAYERFACTION:1} ile 50 ay boyunca ilişkiler için kararlılık</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_GamblingProblemsLiberty_String1</Label>
+    <String>Borcumu ödemezsin</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_GamblingProblemsLiberty_String2</Label>
+    <String>Borçlarınızı ödemiyorsunuz</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_GamblingProblems_Equality_Bonus_Name</Label>
+    <String>Hayır. Ve {GOVERNORNAME}'ye yönelik herhangi bir saldırganlık savaşla karşılanacaktır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_GamblingProblems_Equality_Bonus_Dec</Label>
+    <String>[ICON=LeaderStat_Loyalty_Icon] {GOVERNORNAME}[BR] için +5 Sadakat -50 ay boyunca {PLAYERFACTION:1} ile 8 İlişki</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_GamblingProblemsEquality_String1</Label>
+    <String>Beni savundun.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_GamblingProblemsEquality_String2</Label>
+    <String>Bizi tehdit ettin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_GamblingProblems_Authority_Bonus_Name</Label>
+    <String>Borcumuzu ödeyeceğiz.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_GamblingProblems_Authority_Bonus_Dec</Label>
+    <String>[ICON=LeaderStat_Loyalty_Icon] 50 ay boyunca {GOVERNORNAME}[BR]+1 {PLAYERFACTION:1} ile ilişkiler için +10 Sadakat</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_GamblingProblemsAuthority_String1</Label>
+    <String>Sen benim borcumu ödedin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_GamblingProblemsAuthority_String2</Label>
+    <String>Borcunu ödedin</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_ArrangedMarriage_Name</Label>
+    <String>Görücü Usulü Evlilik</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_ArrangedMarriage_Dec</Label>
+    <String>{GOVERNORNAME}'ün ailesinin uzun bir görücü usulü evlilik geleneği var, ancak kendileri buna karşı çıkıyorlar ve daha önce ailelerinin kurduğu evlilikten kaçmışlardı. [BR][BR]Ancak, şimdi yeni bir talip seçildi ve aile sizden {GOVERNORNAME}'yi herhangi bir şey yapmaya zorlamanızı istemese de, {GOVERNORNAME} ile bu fikre açık olduğunuzu konuşarak onlar adına araya girmenizi istiyorlar. [BR][BR]Aile, bu isteği kabul ederseniz küçük bir jeton teklif ediyor.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_ArrangedMarriage_Liberty_Bonus_Name</Label>
+    <String>Bunun bir parçası olmayacağım.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_ArrangedMarriage_Liberty_Bonus_Dec</Label>
+    <String>{GOVERNORNAME} ve {PLANETNAME} için özet</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_ArrangedMarriageLiberty_String1</Label>
+    <String>Sen benim hayatıma karışmadın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_ArrangedMarriage_Equality_Bonus_Name</Label>
+    <String>Bu konuyu {GOVERNORNAME} ile konuşacağım.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_ArrangedMarriage_Equality_Bonus_Dec</Label>
+    <String>{GOVERNORNAME} ve {PLANETNAME} için özet</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_ArrangedMarriageEquality_String1</Label>
+    <String>Hayatıma karıştın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_ArrangedMarriage_Authority_Bonus_Name</Label>
+    <String>{GOVERNORNAME}'ye kendim teklif edeceğim.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_ArrangedMarriage_Authority_Bonus_Dec</Label>
+    <String>İkna kontrolü: {STATCHANCE}% başarı şansı</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_ArrangedMarriageSuccess_Name</Label>
+    <String>Görücü Usulü Evlilik - Başarı</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_ArrangedMarriageSuccess_Dec</Label>
+    <String>Aile, görücü usulü evlilik planlarını bozmanıza çok öfkeleniyor. Şaşırmalarına rağmen, {GOVERNORNAME} teklifinizi kabul ediyor. [BR][BR] Evliliğinizin hikayesi halkınızın kalbini ısıtıyor ve hatta diğer medeniyetler hediyeler ve iyi dilekler gönderiyor.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_ArrangedMarriageSuccess_Liberty_Bonus_Name</Label>
+    <String>Harika bir gün.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_ArrangedMarriageSuccess_Liberty_Bonus_Dec</Label>
+    <String>{GOVERNORNAME} ve {PLANETNAME} için özet</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_ArrangedMarriageSuccessLiberty_String1</Label>
+    <String>Biz evliyiz.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_ArrangedMarriageFail_Name</Label>
+    <String>Görücü Usulü Evlilik - Başarısız</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_ArrangedMarriageFail_Dec</Label>
+    <String>Aile, görücü usulü evlilik planlarını bozduğunuz için çok öfkeli. Ama bu {GOVERNORNAME}'nin yaşadığı şok ve hayal kırıklığı ile kıyaslanamaz bile.[BR][BR] Reddedilme ani ve biraz da incitici.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_ArrangedMarriageFail_Liberty_Bonus_Name</Label>
+    <String>İşler bir süre garipleşecek.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_ArrangedMarriageFail_Liberty_Bonus_Dec</Label>
+    <String>{GOVERNORNAME} ve {PLANETNAME} için özet</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_ArrangedMarriageFailLiberty_String1</Label>
+    <String>Bana evlenme teklif etmiştin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Scars_Name</Label>
+    <String>Yara izleri</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Scars_Dec</Label>
+    <String>{PLANETNAME}'te garip bir tarikat olduğuna dair söylentiler yayılıyor. Hastanelerde insanların kaybolduğuna dair çok sayıda rapor var ve kanıtlar gezegenin valisi {GOVERNORNAME}'nın olaya karıştığını gösteriyor. [BR][BR]Sorgulama {GOVERNORNAME} gerçeği ortaya çıkarır. Hastaları iyileştirmek için {GOVERNORNAME}'un vücuduna zarar verme pahasına bir cihaz kullanılıyordu. Cihazın bıraktığı acı verici izler hareket ve kontrolü bozar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Scars_Liberty_Bonus_Name</Label>
+    <String>Dünyanın en küçük vatandaşı için dünyanın valisini feda edemezsiniz. Cihazı al.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Scars_Equality_Bonus_Name</Label>
+    <String>Bu fedakarlık asildir, ancak {GOVERNORNAME}'yi güvende tutmak için bunu en aza indirin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Scars_Authority_Bonus_Name</Label>
+    <String>Yara izlerini {GOVERNORNAME}'den size aktarmak için cihazı kullanın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Scars_Authority_Bonus_Dec</Label>
+    <String>[ICON=LeaderStat_Loyalty_Icon] {GOVERNORNAME}[BR]{GOVERNORNAME} için +25 Sadakat iyileşir[BR]Yaralanırsınız</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_ScarsAuthority_String1</Label>
+    <String>Beni iyileştirdin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Compassion_Name</Label>
+    <String>Merhamet</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Compassion_Dec</Label>
+    <String>{GOVERNORNAME} hükümetten sık sık taleplerde bulunur. Daha iyi konutlar, iyileştirilmiş kamu eğitimi, ücretsiz sağlık hizmetleri ve daha niceleri...[BR][BR]Bugün konu temiz su. Bu, vatandaşlarımızın çoğu için bir sorun değil, ancak {GOVERNORNAME} en savunmasız milyonlarca insanımızın güvenli suya erişimden yoksun olduğunu savunuyor. [BR][BR]Danışmanlarınız şikayet dinlemekten yoruldu ve sürecin hem pahalı olacağını hem de medeniyetimize çok az somut değer sağlayacağını savunuyor.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Compassion_Liberty_Bonus_Name</Label>
+    <String>Güzel. Suyun her yerde güvenli olduğundan emin olmak için gezegenlerimizdeki düzenlemeleri artırın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Compassion_Liberty_Bonus_Dec</Label>
+    <String>{GOVERNORNAME} ve {PLANETNAME} için özet</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_CompassionLiberty_String1</Label>
+    <String>İsteğimi yerine getirdin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Compassion_Equality_Bonus_Name</Label>
+    <String>Bu önemsiz talepler için zamanımız yok.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Compassion_Equality_Bonus_Dec</Label>
+    <String>{GOVERNORNAME} ve {PLANETNAME} için özet</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_CompassionEquality_String1</Label>
+    <String>İsteğimi görmezden geldin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Compassion2_Name</Label>
+    <String>Merhamet (2. bölüm)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Compassion2_Dec</Label>
+    <String>{GOVERNORNAME}'ten ardı arkası kesilmeyen talepler almak alışılmadık bir durum değil, ancak bu seferki aşırı.[BR][BR]{GOVERNORNAME}, {PLAYERFACTION:1} vatandaşlarının acı çektiğini ve yetersiz kaynak ve tıbbi ilgi gördüğünü savunuyor.[BR][BR]Danışmanlarınız, nadir kaynaklarımızın bir kısmını başka bir medeniyete adamamız önerisi karşısında şaşkına dönmüş durumda ve {GOVERNORNAME}'nin çılgınlığını durdurmanız için size yalvarıyorlar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Compassion2_Liberty_Bonus_Name</Label>
+    <String>İyi. Acı çekmelerini önlemek için {PLAYERFACTION:1}'ye kaynak sağlayın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Compassion2_Liberty_Bonus_Dec</Label>
+    <String>{GOVERNORNAME} ve {PLANETNAME} için özet</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Compassion2Liberty_String1</Label>
+    <String>İsteğimi yerine getirdin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Compassion2_Equality_Bonus_Name</Label>
+    <String>Bu önemsiz talepler için zamanımız yok.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Compassion2_Equality_Bonus_Dec</Label>
+    <String>{GOVERNORNAME} ve {PLANETNAME} için özet</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Compassion2Equality_String1</Label>
+    <String>İsteğimi görmezden geldin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Compassion3_Name</Label>
+    <String>Merhamet (bölüm 3)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Compassion3_Dec</Label>
+    <String>{GOVERNORNAME}'ün en alt düzeydeki vatandaşlarımız için yaptığı savunuculuk iyi bilinmektedir. Bu taleplere verdiğimiz destek de öyle.[BR][BR]Yardımın doğrudan bir faydası olmasa da, vatandaşlarımız bu iyiliğimizi unutmadı ve {GOVERNORNAME}'nın onuruna bir kutlama düzenledi.[BR][BR]Hatta bazıları bu yardımın sağlanmasındaki rolümüzü bile hatırlıyor.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Compassion3_Liberty_Bonus_Name</Label>
+    <String>En az vatandaşımıza nasıl davrandığımıza bakılarak değerlendiriliriz.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_RenegadeGovernor_Name</Label>
+    <String>Hain Vali</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_RenegadeGovernor_Dec</Label>
+    <String>{GOVERNORNAME}, {PLANETNAME} valisi, bir Öncü teknolojisi zulası keşfetti. Ne yazık ki, bunu paylaşmak yerine {FOREIGNINFLUENCER}'de yüksek rütbeli bir pozisyon için pazarlık yapmak üzere kullandılar. [BR][BR]İhanet eylemi nedeniyle {PLANETNAME}'u ve bu gizli önbelleği kaybettik.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_RenegadeGovernor_Liberty_Bonus_Name</Label>
+    <String>Onların ihaneti çabuk unutulmayacak.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_RenegadeGovernor_Liberty_Bonus_Dec</Label>
+    <String>{PLANETNAME} artık {FOREIGNINFLUENCER} tarafından kontrol edilmektedir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_LoyalGovernor_Name</Label>
+    <String>Sadık Lider</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_LoyalGovernor_Dec</Label>
+    <String>{GOVERNORNAME}, {PLANETNAME}'ün valisi, liderliğinize o kadar hayran ki dünyalarına bir heykeliniz dikildi. [BR][BR] Heykel pratikte çok az fayda sağlasa da, valinin bağlılığı çok faydalı bir meta olabilir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_LoyalGovernor_Liberty_Bonus_Name</Label>
+    <String>Bunu kullanacağız.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_GovernorFundRaiser_Name</Label>
+    <String>Bağış Toplama</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_GovernorFundRaiser_Dec</Label>
+    <String>{PLANETNAME}'teki şöhretiniz Vali {GOVERNORNAME}'nin sizin onurunuza büyük bir bağış etkinliği düzenlemesine neden oldu.[BR][BR]Etkinlik başarılı oldu ve kamu kasamıza büyük katkı sağladı.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_GovernorFundRaiser_Liberty_Bonus_Name</Label>
+    <String>Bunu kullanacağız.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_HateSpeech_Name</Label>
+    <String>Küfür</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_HateSpeech_Dec</Label>
+    <String>{GOVERNORNAME}, {PLANETNAME}'nın valisi, dünyalarındaki tüm sorunlar için {PLAYERFACTION:1}'yi haksız yere suçluyor. Suçtan hastalığa, söylemleri dünyadaki öfkeyi kısa vadede faydalı olabilecek, ancak diplomatik ilişkiler açısından tehlikeli bir şekilde harekete geçirmeye başladı. [BR][BR]Şimdi {PLAYERFACTION:1}'un nefret söylemini kınamanızı beklediği bir yol ayrımına gelindi, ancak bu muhtemelen öfkeyi bize karşı çevirecek.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_HateSpeech_Liberty_Bonus_Name</Label>
+    <String>Valiyi destekleyin. Bu fırsatı kullanabiliriz.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_HateSpeech_Liberty_Bonus_Dec</Label>
+    <String>[ICON=LeaderStat_Loyalty_Icon] {GOVERNORNAME}'ten gelen sadakat 50 ay boyunca ([BR]-2 {PLAYERFACTION:1} ile ilişkiler artırılır</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_HateSpeechLiberty_String1</Label>
+    <String>Davamı destekledin</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_HateSpeechLiberty_String2</Label>
+    <String>Bize karşı konuştun.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_HateSpeech_Equality_Bonus_Name</Label>
+    <String>Vali'yi kınayın, bu tür söylemler tehlikelidir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_HateSpeech_Equality_Bonus_Dec</Label>
+    <String>[ICON=LeaderStat_Loyalty_Icon] {GOVERNORNAME}'ten gelen sadakat azalır[BR]+2 50 ay boyunca {PLAYERFACTION:1} ile ilişkiler</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_HateSpeechEquality_String1</Label>
+    <String>Beni ihbar ettin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_HateSpeechEquality_String2</Label>
+    <String>Bizi desteklediniz</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_CallForWar_Name</Label>
+    <String>Savaş Çağrısı</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_CallForWar_Dec</Label>
+    <String>{GOVERNORNAME}'ün valisi {PLANETNAME}, uzun süre savaşmadan yaşadığımız için yumuşadığımızı iddia ediyor. Zayıf düşmanlara karşı harekete geçmememizin geleceğimizi ve galakside baskın bir güç olma yeteneğimizi zayıflattığını iddia ediyorlar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_CallForWar_Liberty_Bonus_Name</Label>
+    <String>Valiyi yatıştırmak için askeri geçit töreni yapın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_CallForWar_Liberty_Bonus_Dec</Label>
+    <String>{GOVERNORNAME} ve {PLANETNAME} için özet</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_CallForWarLiberty_String1</Label>
+    <String>Davamı destekledin</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_CallForWar_Equality_Bonus_Name</Label>
+    <String>Bir süre zindanda kalmak Vali'ye yumuşak olmadığımızı gösterecektir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_CallForWar_Equality_Bonus_Dec</Label>
+    <String>{GOVERNORNAME} ve {PLANETNAME} için özet</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_CallForWarEquality_String1</Label>
+    <String>Beni ihbar ettin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_CyberneticImplants_Name</Label>
+    <String>Sibernetik İmplantlar</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_CyberneticImplants_Dec</Label>
+    <String>Bir yıl önce {GOVERNORNAME}, {PLANETNAME} valisi bir kaza geçirdi ve sibernetik implantlar kullanılarak kurtarıldı. Teknolojinin hayat kurtarmak için kullanılmasına çok az kişi karşı çıksa da {GOVERNORNAME}, sibernetiklerine bağlamayı planladıkları ve potansiyel olarak neredeyse mükemmel hafıza sağlayabilecek ve uyku ihtiyacını günde birkaç dakikaya indirebilecek bir öncü eser buldular.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_CyberneticImplants_Liberty_Bonus_Name</Label>
+    <String>Prosedüre izin verin, bu gelecek kaçınılmazdır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_CyberneticImplants_Liberty_Bonus_Dec</Label>
+    <String>{GOVERNORNAME} ve {PLANETNAME} için özet</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_CyberneticImplantsLiberty_String1</Label>
+    <String>Ameliyatımı desteklediniz</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_CyberneticImplants_Equality_Bonus_Name</Label>
+    <String>Prosedürü yasaklayın ve öncül kaynakları alın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_CyberneticImplants_Equality_Bonus_Dec</Label>
+    <String>{GOVERNORNAME} ve {PLANETNAME} için özet</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_CyberneticImplantsEquality_String1</Label>
+    <String>Ameliyatımı yasakladın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Eureka_Name</Label>
+    <String>Eureka</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Eureka_Dec</Label>
+    <String>{GOVERNORNAME} tartışmasız bir şekilde parlak, ancak araştırmalarına o kadar takıntılı ki {PLANETNAME}'i yeterince yönetemediler. Danışmanlarımız onları kendi dünyalarına odaklanmaya zorlamamızı talep ediyor, ancak {GOVERNORNAME} bir buluşa yakın olduğunu iddia ediyor.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Eureka_Liberty_Bonus_Name</Label>
+    <String>Çalışmalarına devam etmelerine izin verin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Eureka_Liberty_Bonus_Dec</Label>
+    <String>{GOVERNORNAME} ve {PLANETNAME} için özet</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Eureka_Equality_Bonus_Name</Label>
+    <String>Onları işlerine odaklanmaya zorlayın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Eureka_Equality_Bonus_Dec</Label>
+    <String>{GOVERNORNAME} ve {PLANETNAME} için özet</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_EurekaEquality_String1</Label>
+    <String>Araştırmamı durdurdun.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Greed_Name</Label>
+    <String>Açgözlülük</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Greed_Dec</Label>
+    <String>{GOVERNORNAME} valisi {PLANETNAME} gezegenlerinin en zengin vatandaşıdır. Kendi dünyalarından bu kadar çok zenginlik sömürdükten sonra şimdi bizim kasalarımıza göz dikmiş durumdalar. Danışmanlarımız açgözlülüklerini beslememeleri konusunda uyarıyor, ancak bu sadakatleri için ödenecek küçük bir bedel.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Greed_Liberty_Bonus_Name</Label>
+    <String>Talep ettikleri mütevazı hediyeyi sağlayın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Greed_Liberty_Bonus_Dec</Label>
+    <String>{GOVERNORNAME} ve {PLANETNAME} için özet</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_GreedLiberty_String1</Label>
+    <String>Sen cömertsin</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Greed_Equality_Bonus_Name</Label>
+    <String>Onların serveti bizim kasamızda daha iyi kullanılır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Greed_Equality_Bonus_Dec</Label>
+    <String>{GOVERNORNAME} ve {PLANETNAME} için özet</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_GreedEquality_String1</Label>
+    <String>Benden çaldın!</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Scandal_Name</Label>
+    <String>Skandal</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Scandal_Dec</Label>
+    <String>{GOVERNORNAME} valisi {PLANETNAME} dürüstlükleri ve etik değerleri ile tanınmaktadır. Ancak özel hayatlarında yasadışı bir aşk keşfedildi ve {GOVERNORNAME} bize bir mesaj göndererek sonuçları ne olursa olsun bunun sorumluluğunu kamuoyu önünde kabul etmeyi planladıklarını bildirdi. ([BR][BR] Danışmanlarımız {GOVERNORNAME}'i gasp eden suçluya asla inanılmayacağı ve gerçek bir kanıtı olmadığı konusunda uyarıyor ve bunun yerine {GOVERNORNAME}'nin ilişkiyi inkar etmesini öneriyor.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Scandal_Liberty_Bonus_Name</Label>
+    <String>Valinin dürüstlüğünü destekleyin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Scandal_Equality_Bonus_Name</Label>
+    <String>Valiye yalan söylemesini söyle.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Scandal_Equality_Bonus_Dec</Label>
+    <String>{GOVERNORNAME} Etik özelliğini kaybeder</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_SlumFire_Name</Label>
+    <String>Gecekondu Yangını</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_SlumFire_Dec</Label>
+    <String>Bir yangın {PLANETNAME} gecekondu mahallelerine yayıldı ve yüzlerce vatandaşımız hayatını kaybetti. Yapılan bir soruşturma, konutlar inşa edilirken güvenlik kurallarının atlandığını doğruladı. {GOVERNORNAME} bunun bir trajedi olduğunu, ancak düzenlemelerin çok pahalıya mal olacağını ve milyonları evsiz bırakacağını iddia ediyor. Tasarruf edilen paranın kanıtı olarak hükümet kasamıza katkıda bulunmaya hazırlar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_SlumFire_Liberty_Bonus_Name</Label>
+    <String>Katkıları için valiye teşekkür edin ve diğer tarafa bakın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_SlumFire_Equality_Bonus_Name</Label>
+    <String>Tüm konutların standartlara uygun hale getirilmesi konusunda ısrarcı olun.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_SlumFire_Equality_Bonus_Dec</Label>
+    <String>{GOVERNORNAME} ve {PLANETNAME} için özet</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_SlumFireEquality_String2</Label>
+    <String>Politikalarınızı bana zorla kabul ettirdiniz.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_TheDinnerParty_Name</Label>
+    <String>Akşam Yemeği Partisi</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_TheDinnerParty_Dec</Label>
+    <String>{PLANETNAME} tarihinde gösterişli bir diplomatik akşam yemeği düzenlendi. Küçük bir olay olması gereken yemek, {GOVERNORNAME}'nın kaba davranışı nedeniyle diplomatik bir olaya dönüştü. {PLAYERFACTION:1} delegesini rahatsız eden diğer türlerin aşağılığı hakkında birçok yüksek sesli yorum yapıldı.[BR][BR]Şimdi, {PLAYERFACTION:1} kamuoyu önünde bir özür talep ediyor ve bunu alamazlarsa gelecekteki tüm diplomatik etkinlikleri yasaklamakla tehdit ediyor.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_TheDinnerParty_Liberty_Bonus_Name</Label>
+    <String>Olay hakkında hiçbir şey söyleme.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_TheDinnerParty_Liberty_Bonus_Dec</Label>
+    <String>-2 50 ay boyunca {PLAYERFACTION:1} ile ilişkiler</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_TheDinnerPartyLiberty_String1</Label>
+    <String>Valileriniz çok kaba.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_TheDinnerParty_Equality_Bonus_Name</Label>
+    <String>Valimizin uygunsuz davranışı için özür dileyin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_TheDinnerParty_Equality_Bonus_Dec</Label>
+    <String>{GOVERNORNAME} ve {PLANETNAME} için özet</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_TheDinnerPartyEquality_String1</Label>
+    <String>Beni ihbar ettin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_WarWeariness_Name</Label>
+    <String>Savaş Yorgunluğu</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_WarWeariness_Dec</Label>
+    <String>{GOVERNORNAME}, {PLANETNAME} valisi, savaşta geçirdiğimiz yılların kendi dünyalarının vatandaşları üzerinde bir etkisi olduğunu söylemek için öne çıktı. Özellikle gençler arasında depresyon artıyor. Savaşlarımızı bir an önce sona erdirmemizi ve barış ve gelecek nesillere yönelik bir döneme geri dönmemizi istiyorlar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_WarWeariness_Liberty_Bonus_Name</Label>
+    <String>Savaşın erdemlerini anlatmak için bir medya kampanyası başlatın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_WarWeariness_Equality_Bonus_Name</Label>
+    <String>Hiçbir şey yapmamak. Savaş, dahil olan herkes için maliyetlidir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_WarWeariness_Equality_Bonus_Dec</Label>
+    <String>{GOVERNORNAME} ve {PLANETNAME} için özet</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_WarWearinessEquality_String1</Label>
+    <String>Sen bir savaş kışkırtıcısısın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_TheMissionaries_Name</Label>
+    <String>Misyonerler</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_TheMissionaries_Dec</Label>
+    <String>{GOVERNORNAME}, {PLAYERFACTION:1} vatandaşlarından oluşan yasadışı bir grubu {PLANETNAME}'de yakaladı. Dini misyoner olduklarını iddia eden bu kişilerin yanlarında savunma amaçlı olduğunu söyledikleri küçük bir silah stoku vardı. ([BR][BR]{GOVERNORNAME} onları hapsetti ve sorgulamaya başlamak için izin istedi. {PLAYERFACTION:1} masum olduklarını iddia etmekte ve derhal serbest bırakılmalarını talep etmektedir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_TheMissionaries_Liberty_Bonus_Name</Label>
+    <String>Sorgulamalar başlasın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_TheMissionaries_Liberty_Bonus_Dec</Label>
+    <String>{GOVERNORNAME} ve {PLANETNAME} için özet</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_TheMissionariesLiberty_String1</Label>
+    <String>Sorgulanmama izin verdin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_TheMissionaries_Equality_Bonus_Name</Label>
+    <String>Misyonerleri serbest bırakın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_TheMissionaries_Equality_Bonus_Dec</Label>
+    <String>50 ay boyunca {PLAYERFACTION:1} ile +2 İlişkiler</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_TheMissionariesEquality_String1</Label>
+    <String>Misyonerlerimizi serbest bıraktınız</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_BreakAwayColony_Name_5XA</Label>
+    <String>Kaçak Koloni</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_BreakAwayColony_Dec_5XA</Label>
+    <String>Kendi kolonizasyon programımız içindeki hainler aylardır gizlice bize karşı planlar yapıyorlar.  Yüksek kaliteli bir dünya buldular ve gizli tuttular ve en nefret edilen rakiplerinizden bazılarını alıp oraya yerleştiler. [BR][BR] Bizimle ilişkilere ilgi duymuyorlar, aksine yapabilirlerse hükümetimizi gerçekten devirmeyi planlıyorlar.  Onlarla savaşmaktan başka seçeneğimiz yok.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_BreakAwayColony_Choice_Name</Label>
+    <String>Pekâlâ. Savaş o zaman.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_BreakAwayColony_Choice_Dec</Label>
+    <String>Şimdi yakınlarda, bizim yok edilmemizi isteyen, kendi insanlarımızdan oluşan yeni bir uygarlık var.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_BreakAwayColony_FactionName</Label>
+    <String>Kurtarıcılar</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_BreakAwayColony_LeaderName</Label>
+    <String>Kont Kruzko</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_BreakAwayColony_LeaderDesc</Label>
+    <String>Hırslı ve kötü niyetli Kont Kurzko kişisel yıkımınızın peşinde.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Moths_SeasonOfWaking_Name</Label>
+    <String>Nocturnal: Uyanma Mevsimi</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Moths_SeasonOfWaking_Dec</Label>
+    <String>Gece döngüsü Uyanma Mevsimi başladığında da devam eder. Uyanma Mevsimi doğal ışık ve parlak günlerle ilişkilendirilir ve fiziksel emek ve sosyal toplantılarla ilgilidir. Mevsimsel değişimi müjdeleyen kutlamalar genellikle abartılı akşam yemekleri ve gürültülü dansları içerir. [BR][BR][HS=HS_Manufacturing]Manufacturing[/HS] ve [HS=HS_Growth]Growth[/HS] Uyanma Mevsimi boyunca her koloni için artırılır. Bu süre zarfında daha karmaşık inşaatları tamamlamak ve yeni vatandaşlar yetiştirmek için yeni odak noktasından yararlanmak en iyisidir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Moths_SeasonOfDreaming_Name</Label>
+    <String>Nocturnal: Hayal Kurma Mevsimi</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Moths_SeasonOfDreaming_Dec</Label>
+    <String>Gece döngüsü, Rüya Görme Mevsimi başlarken devam eder. Rüya Mevsimi boyunca, ay ve magmadan ampuller ve işaret fişeklerine kadar her şeyi kapsayan yaşamın sönük ışıklarına saygı gösterilir. Ayrılmış mevsim sanat gösterileri, akademik takvimin başlangıcı ve kişisel gelişim ile işaretlenir. [BR][BR][HS=HS_Research]Research[/HS] ve [HS=HS_Influence]Influence[/HS], Rüya Görme Mevsimi boyunca her koloni için artırılır. Sınırları genişletmek, bölgeyi ilhak etmek ve daha karmaşık teknolojileri araştırmak için yeni odak noktasından yararlanmak en iyisidir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Moths_SeasonOfWaking_Response_Name</Label>
+    <String>Anlaşıldı.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Moths_SeasonOfWaking_Response_Dec</Label>
+    <String>Her Koloni [HS=HS_Manufacturing]Manufacturing[/HS] ve [HS=HS_Growth]Growth[/HS] için bir destek alır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Moths_SeasonOfDreaming_Response_Name</Label>
+    <String>Anlaşıldı.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Moths_SeasonOfDreaming_Response_Dec</Label>
+    <String>Her Koloni [HS=HS_Research]Research[/HS] ve [HS=HS_Influence]Influence[/HS] için bir destek alır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_UnexpectedFlora_0x41A_Name</Label>
+    <String>Beklenmedik Flora</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_UnexpectedFlora_0x41A_Dec</Label>
+    <String>{PLANETNAME} sakinleri, kullanıldığında zekalarını keskin bir şekilde artıran yerel fauna keşfettiler.[BR][BR]Ancak, aynı zamanda yüksek derecede bağımlılık yapıyor ve suça yol açan pervasız davranışlara neden oluyor.[BR][BR]Sizce bu konuda ne yapmalıyız?</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_UnexpectedFlora_0x41A_Choice1_Name</Label>
+    <String>Yasaklayın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_UnexpectedFlora_0x41A_Choice1_Dec</Label>
+    <String>Bitkinin yasaklanması, insanları bir süreliğine çok mutsuz edecektir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_UnexpectedFlora_0x41A_Choice1_Result</Label>
+    <String>Bağımlılık yapan ilaçlarını özlüyorlar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_UnexpectedFlora_0x41A_Choice2_Name</Label>
+    <String>Kullanımını teşvik edin. Suçla daha sonra ilgileneceğiz.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_UnexpectedFlora_0x41A_Choice2_Dec</Label>
+    <String>Bu gezegendeki araştırmalarımız bundan fayda sağlayacak ancak suç oranlarında da artış göreceğiz.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_UnexpectedFlora_0x41A_Choice2_Result</Label>
+    <String>Bağımlılık Yapan Akıllı Bitki</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_PrimitiveSpecies_0x41B_Name</Label>
+    <String>İlkel Türler Keşfedildi</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_PrimitiveSpecies_0x41B_Dec</Label>
+    <String>{PLANETNAME} sakinleri ilkel bir bilinçli türle karşılaştılar. İnanılmaz bir güce sahipler ve son derece güveniyorlar. Nasıl ilerlemeliyiz?</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_PrimitiveSpecies_0x41B_Choice1_Name</Label>
+    <String>Yani gezegen kölelerle birlikte mi geldi? Mükemmel.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_PrimitiveSpecies_0x41B_Choice1_Dec</Label>
+    <String>Bu türün köleleştirilmesi gezegensel üretimde önemli bir artışa yol açacaktır ancak bunun ahlaki bir bedeli olacaktır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_PrimitiveSpecies_0x41B_Choice1_Result</Label>
+    <String>İlkel köleler</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_PrimitiveSpecies_0x41B_Choice2_Name</Label>
+    <String>Onları rahat bırakın ve onlardan bir şeyler öğrenin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_PrimitiveSpecies_0x41B_Choice2_Dec</Label>
+    <String>Onların egemenliklerine ve barışçıl doğalarına saygı duyarak kendi toplumsal değerlerimizi ve onayımızı geliştiririz.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_PrimitiveSpecies_0x41B_Choice2_Result</Label>
+    <String>Dost ilkeller</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_ViolentStorms_0x41B_Name</Label>
+    <String>Fırtınaların Kuşatması Altında Bir Dünya</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_ViolentStorms_0x41B_Dec</Label>
+    <String>{PLANETNAME} gökyüzünü elektrik parlaklığıyla aydınlatan şiddetli fırtınalarla örtülüdür.[BR][BR]Ham kozmik enerjiyle yüklü kasırgalar hem doğayı hem de koloninin günlük yaşamını altüst eder. Biyodomlar titriyor ve tehlike sinyalleri fırtınanın uğultusunu delip geçiyor.[BR][BR]Yerleşimciler acilen rehberlik istiyor. Onları bu inatçı gezegensel gazaptan nasıl koruyacağız?</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_ViolentStorms_0x41B_Choice1_Name</Label>
+    <String>Fırtınaya dayanıklı altyapıya yatırım yapın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_ViolentStorms_0x41B_Choice1_Dec</Label>
+    <String>Bu, vatandaşları fırtınaların tahribatından koruyacaktır, ancak altyapı artan gezegensel bakım maliyetleriyle birlikte gelecektir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_ViolentStorms_0x41B_Choice1_Result</Label>
+    <String>Fırtına altyapısı</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_ViolentStorms_0x41B_Choice2_Name</Label>
+    <String>Yardım edebilmeyi çok isterdim. Ama istemiyorum.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_ViolentStorms_0x41B_Choice2_Dec</Label>
+    <String>Bu, altyapı maliyetlerinden tasarruf sağlayacak olsa da, insanlar devam eden yıkım ve tehlikeden hoşnut olmayacaklardır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_ViolentStorms_0x41B_Choice2_Result</Label>
+    <String>Yıkıcı fırtınalar</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_ColonialConflict_0x41C_Name</Label>
+    <String>Kolonyal Uyumsuzluk</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_ColonialConflict_0x41C_Dec</Label>
+    <String>Gezegen {PLANETNAME} alev alev yanıyor. Güneşinin ışıltısıyla değil, sivil çekişmelerin ateşiyle.[BR][BR]Eski kan davaları ve yeni düşmanlıklarla parçalanmış koloniciler, yabancı gökyüzünün altında çatışıyor.[BR][BR]Çatışma ve sivil huzursuzluk raporları iletişim kanallarını doldururken, huzursuz atmosfer gerilimle yoğunlaşıyor.[BR][BR]Düzeni sağlamak için müdahale edecek miyiz, yoksa sorun kendi kendine çözülene kadar birbirlerini öldürmelerine izin mi vereceğiz?</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_ColonialConflict_0x41C_Choice1_Name</Label>
+    <String>Kanun ve düzeni yeniden sağlayın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_ColonialConflict_0x41C_Choice1_Dec</Label>
+    <String>Düzenin tesis edilmesi kargaşayı kesinlikle bastıracaktır, ancak yasanın ağır eli koloninin ruhunu boğabilir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_ColonialConflict_0x41C_Choice1_Result</Label>
+    <String>Bastırılmış Çete Savaşları</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_ColonialConflict_0x41C_Choice2_Name</Label>
+    <String>Bırak dövüşsünler.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_ColonialConflict_0x41C_Choice2_Dec</Label>
+    <String>Kolonicilere kendi uyumlarını bulma görevi vermek ya birliğe yol açacak ya da ayrılıkları derinleştirecektir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_ColonialConflict_0x41C_Choice2_Result</Label>
+    <String>Çete Savaşları</String>
+  </StringTable>
+</StringTableList>

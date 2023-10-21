@@ -1,0 +1,152 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<StringTableList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+  <!--Campaign Tutorial Text-->
+  <StringTable>
+    <Label>TheOpportunity_CampaignName</Label>
+    <String>Fırsat</String>
+  </StringTable>
+  <StringTable>
+    <Label>TheOpportunity_CampaignDec</Label>
+    <String>Yıl 2307. Drengin İmparatorluğu bir zamanlar galaksinin bu kısmına hükmediyordu. Diğer tüm ırklar köle olarak hizmet ediyordu. İmparatorluk sonsuza dek sürecekti. Ama sonra, Sol III diplomatları bir isyan örgütledi ve Drengin egemenliğini alaşağı etti.[BR][BR]Bir zamanların görkemli Drengin İmparatorluğu tek bir yıldız sistemine indirgendi. Ana sistem dokunulmadan kaldı. İnsanlar ve müttefikleri İmparatorluğu baskı altında tutamayacak![BR][BR]Uzay oldukça geniştir. Utha sektöründe, dünyalara dokunulmadı -yeni bir başlangıç. Ancak, tamamen izole değil. Altuzay trafiği bu sektörde başka bir şey olduğunu gösteriyor. Arayın ve fethedin!</String>
+  </StringTable>
+  <StringTable>
+    <Label>Campaign_TheOpportunity_Overall</Label>
+    <String>İmparatorluğu Genişletin</String>
+  </StringTable>
+  <StringTable>
+    <Label>Campaign_TheOpportunity_ClaimFivePlanets_Name</Label>
+    <String>5 Gezegen Talep Edin</String>
+  </StringTable>
+  <StringTable>
+    <Label>Campaign_TheOpportunity_ClaimFivePlanets_Dec</Label>
+    <String>Gezegenler, halihazırda iskan edilmedikleri sürece [HS=HS_Colinizing]Colonization[/HS] yoluyla talep edilebilir. Bu durumda, [HS=HS_ConqueringPlanets]Conquered[/HS] olabilirler.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Campaign_TheOpportunity_ConstructThreeProbes_Name</Label>
+    <String>3 Prob Oluşturun</String>
+  </StringTable>
+  <StringTable>
+    <Label>Campaign_TheOpportunity_ConstructThreeProbes_Dec</Label>
+    <String>[HS=HS_Shipyard]Shipyard[/HS]'dan 3 sonda inşa edin. Sondalar, keşfedilmemiş [HS=HS_Sector]Sector[/HS] bölgesini keşfetmek ve daha önce tespit edilen sinyalin kaynağını bulmak için gereklidir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Campaign_TheOpportunity_ConstructThreeStarbases_Name</Label>
+    <String>3 Yıldız Üssü İnşa Et</String>
+  </StringTable>
+  <StringTable>
+    <Label>Campaign_TheOpportunity_ConstructThreeStarbases_Dec</Label>
+    <String>[HS=HS_Starbase]Yıldız üsleri[/HS] İmparatorluğu desteklemek için gereklidir. Belirli türde yıldız gemileri ve silahlar inşa etmek için gerekli olan [HS=HS_StrategicResource]Stratejik Kaynakları[/HS] toplamaları gerekir. [BR][BR][HS=HS_Constructor]Constructors[/HS]'ı [HS=HS_Shipyard]Shipyard[/HS]'dan üretin ve ardından [HS=HS_ConstructStarbase]Construct Starbase[/HS] komutunu kullanın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Campaign_TheOpportunity_FindSignal_Name</Label>
+    <String>Sinyalin Kaynağını Bulun</String>
+  </StringTable>
+  <StringTable>
+    <Label>Campaign_TheOpportunity_FindSignal_Dec</Label>
+    <String>İmparatorluk bu [HS=HS_Sector]Sector[/HS]'ü yeniden genişlemeye başlamak için yeterince tenha buldu. Yine de son alt uzay sinyalleri [HS=HS_Sector]Sector[/HS]'ın beklendiği kadar izole olmadığını gösteriyor. Ne olursa olsun, sinyalin kaynağını bulun ve onu yok edin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Campaign_TheOpportunity_ResearchPlanetryInvasion_Name</Label>
+    <String>Araştırma Gezegen İstilası</String>
+  </StringTable>
+  <StringTable>
+    <Label>Campaign_TheOpportunity_ResearchPlanetryInvasion_Dec</Label>
+    <String>Gezegen İstilası [HS=HS_Tech]Tech[/HS]'i [HS=HS_ResearchCenter]Research Center[/HS]'da araştırın. [HS=HS_Tech]Tech[/HS], düşman gezegenleri kuşatmamızı ve [HS=HS_ConqueringPlanets]Conquer[/HS] fethetmemizi sağlayan Nakliye gemilerini inşa etmek için gereklidir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Campaign_TheOpportunity_ConquerTargetHomeworld_Name</Label>
+    <String>Navigator'ın Ana Dünyasını Fethedin</String>
+  </StringTable>
+  <StringTable>
+    <Label>Campaign_TheOpportunity_ConquerTargetHomeworld_Dec</Label>
+    <String>Gezginler zayıf, savunmasız ve yalnız. [HS=HS_ConqueringPlanets]Ana gezegenlerini fethedin[/HS]. Bu, kolonilerine Drengin İmparatorluğu'nun burada hüküm sürdüğü mesajını gönderecektir. İsteyerek ya da zorla boyun eğeceklerdir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Campaign_TheOpportunity_ScanConqueredHomeworld_Name</Label>
+    <String>Fethedilen Ana Dünyayı Tarayın</String>
+  </StringTable>
+  <StringTable>
+    <Label>Campaign_TheOpportunity_ScanConqueredHomeworld_Dec</Label>
+    <String>Gezginler Drengin İmparatorluğu'ndan bir şeyler saklayabileceklerini sanıyorlar. Yanılıyorlar. Yakın zamanda fethedilen gezegenin taranması, Gezginlerin bulunmasını istemedikleri her şeyi ortaya çıkaracaktır.  [I]Bir govenror atamamız ve ardından Gezegen Görünümünden Tarama eylemini kullanmamız gerekecek. [/I]</String>
+  </StringTable>
+  <!--Flavor Text for Drengin FActions-->
+  <StringTable>
+    <Label>FACTION_DRENGIN_Campaign_TheOpportunity_StartupDescription</Label>
+    <String>İnsanlar ve müttefikleri Drengin İmparatorluğu'nu başarıyla bastırdıklarına inanıyor. Yanıldıkları kanıtlanacak. İmparatorluğun egemenliğe geri dönmek ve tüm bu aşağı türlere boyun eğdirmek için kaynaklara ihtiyacı var.[BR][BR]Böylece genişleme burada, evrenin el değmemiş bir sektörü olan Utha'da başlıyor. Başlangıçta düşünüldüğü gibi yalnız değiliz. Altuzay trafiği sistemde başka bir şey olduğunu gösteriyor. Her ne ise, İmparatorluğun yoluna çıkmasına izin verilemez. Onu arayın, fethedin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_DRENGIN_Campaign_TheOpportunity_StartupTraitsDescription</Label>
+    <String>Drengin İmparatorluğu'ndan daha gaddarı yoktur. Sınırlar hızla genişler ve toplanan kaynaklar hızla orduya aktarılır. Gezegenleri sahiplenmek ve bir filo inşa etmek, hiçbir şeyin Drengin boyunduruğuna direnememesini sağlayacaktır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_DRENGIN_Campaign_TheOpportunity_StartupTitle</Label>
+    <String>İmparatorluk Yenilendi</String>
+  </StringTable>
+  <!--Star System-->
+  <StringTable>
+    <Label>Drengin_TheOpportunity_System_Name</Label>
+    <String>Utha Sistemi</String>
+  </StringTable>
+  <StringTable>
+    <Label>Drengin_TheOpportunity_System_Dec</Label>
+    <String>Utha Sistemi 32. Sınıf bir gezegene ve birkaç küçük gezegene sahip olup İmparatorluğun sınırlarını genişletmeye başlamak için mükemmel bir yerdir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Drengin_TheOpportunity_Star_Name</Label>
+    <String>Utha</String>
+  </StringTable>
+  <StringTable>
+    <Label>Drengin_TheOpportunity_Homeworld_Name</Label>
+    <String>Urizen</String>
+  </StringTable>
+  <StringTable>
+    <Label>Drengin_TheOpportunity_DeadPlanet1_Name</Label>
+    <String>Los</String>
+  </StringTable>
+  <StringTable>
+    <Label>Drengin_TheOpportunity_HabbitalPlanet1_Name</Label>
+    <String>Rintrah</String>
+  </StringTable>
+  <StringTable>
+    <Label>Drengin_TheOpportunity_HabbitalPlanet2_Name</Label>
+    <String>Tharmas</String>
+  </StringTable>
+  <!--Star System-->
+  <StringTable>
+    <Label>Navigators_TheOpportunity_System_Name</Label>
+    <String>Minos Sistemi</String>
+  </StringTable>
+  <StringTable>
+    <Label>Navigators_TheOpportunity_System_Dec</Label>
+    <String>Minos sisteminde Gezginlerin düştüğü ve bir koloni kurup hayatta kalmalarını sağlayan 32. Sınıf bir gezegen vardır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Navigators_TheOpportunity_Star_Name</Label>
+    <String>Minos</String>
+  </StringTable>
+  <StringTable>
+    <Label>Navigators_TheOpportunity_Homeworld_Name</Label>
+    <String>Phlegyas</String>
+  </StringTable>
+  <StringTable>
+    <Label>Navigators_TheOpportunity_DeadPlanet1_Name</Label>
+    <String>Belial</String>
+  </StringTable>
+  <StringTable>
+    <Label>Navigators_TheOpportunity_HabbitalPlanet1_Name</Label>
+    <String>Maro</String>
+  </StringTable>
+  <StringTable>
+    <Label>Navigators_TheOpportunity_HabbitalPlanet2_Name</Label>
+    <String>Alighieri</String>
+  </StringTable>
+  <StringTable>
+    <Label>Navigators_TheOpportunity_HabbitalPlanet3_Name</Label>
+    <String>Aeneas</String>
+  </StringTable>
+  <!--Unique Text-->
+  <StringTable>
+    <Label>Project_TheOpportunity_ScanPlanet_ShortDec</Label>
+    <String>Gezginlerin sakladığı nesneyi bulmak için gezegenimizi tarayabiliriz.</String>
+  </StringTable>
+</StringTableList>

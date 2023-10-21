@@ -1,0 +1,566 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<FlavorTextDefs xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
+  <FlavorTextDef>
+    <InternalName>HISTORY_LEADER</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <CitizenRace>Race_Human</CitizenRace>
+      </Requirements>
+      <Text>Yoksul bir fabrikada gecekonducular tarafından yetiştirilmiş.</Text>
+      <Text>Biraz şeflik eğitimi almış, hep bir restoran açmak istemiş.</Text>
+      <Text>Eskiden dini tarikatlar tarafından beyinleri yıkanmış.</Text>
+      <Text>Klostrofobiden muzdarip, uzay gemilerinde olmaktan nefret ediyor.</Text>
+      <Text>Siyasi partileri dışında hiç arkadaşı veya ailesi yoktur.</Text>
+      <Text>Tıp fakültesinde başarısız olmuş. Bu konuda konuşmayı sevmiyor.</Text>
+      <Text>Aile bağlantıları sayesinde askerlik hizmetinden kaçındı.</Text>
+      <Text>Bir aile mirasından dışlanmış ve bu konuda çok acı çekiyor.</Text>
+      <Text>Romantik bir rakiple düelloda yaralanmış. Yine de kazandılar.</Text>
+      <Text>Endüstriyel bir kazada koku alma duyularını kaybettiler.</Text>
+      <Text>Küçük Avrupa soylularının soyundan geliyor.</Text>
+      <Text>Gençliklerini bir Tibet manastırında geçirmişler.</Text>
+      <Text>Eski bir iskele faresi, bir liman kentinin varoşlarından kaçmış.</Text>
+      <Text>Asker bir ailesi vardı, yıllarını güneş sisteminde dolaşarak geçirdi.</Text>
+      <Text>Eski bir denizci, denizde aylarca yalnız kalmaya alışkın.</Text>
+      <Text>Tüm detayları anlamayı seven, kariyer sahibi bir diplomat.</Text>
+      <Text>Felç edici bir uyuşturucu bağımlılığının üstesinden geldi.</Text>
+      <Text>Bir dağcılık kazasında iki parmağını donarak kaybetti.</Text>
+      <Text>Eski bir mühendis, küçük ayrıntılar dikkatini kolayca dağıtıyor.</Text>
+      <Text>Çocukken bir yemek kazasında feci şekilde yanmış.</Text>
+      <Text>Uzun zaman önce ölmüş bir arkadaşa benzemek için kendilerini tımar ederler.</Text>
+      <Text>Sürekli uzaylı kökenli bir yazı tura atıyor.</Text>
+      <Text>Doğru dilbilgisi kullanımını şiddetle zorladığı bilinmektedir.</Text>
+      <Text>Öncülerin hâlâ kılık değiştirerek aramızda dolaştığı konusunda ısrar ediyor.</Text>
+      <Text>Şarkı söylemeyi sever, ancak perde, ritim ve armoni konusunda korkunç bir duyarlılığa sahiptir.</Text>
+      <Text>Aileleriyle irtibatlarını kaybettiler.</Text>
+      <Text>Danışmanlarına aşağılayıcı evcil hayvan isimleri vermeyi sever.</Text>
+      <Text>Berbat bir espri anlayışı var.</Text>
+      <Text>Kafalarının içindeki iki düello sesi tarafından yönlendirilir ve bu seslerin ortak tavsiyeleri asla başarısız olmaz.</Text>
+      <Text>Bir keresinde kazara yamyamlık yapmış.</Text>
+      <Text>Titiz ve düzenli, arşivci olmak için kapsamlı bir eğitim aldı.</Text>
+      <Text>Bilinmeyen bir varlıktan gelen isimsiz ölüm tehditleri tarafından tehdit ediliyor.</Text>
+      <Text>Onları her an öldürebilecek gizli bir örgütün keyfine hizmet eder.</Text>
+      <Text>Yabancı türlerle konuşurken sinestezi yaşar.</Text>
+      <Text>Eski düşmanlarının kafatasını yanlarında taşırlar.</Text>
+      <Text>Onlarca yılını sessizlik yemini ederek, kimseyle iletişim kurmadan geçirdi.</Text>
+      <Text>Onlarca yıl boyunca bir koloni gemisinde mahsur kaldı.</Text>
+      <Text>Otobiyografileri üzerinde her gün özenle çalışırlar.</Text>
+      <Text>Korkunç bir kekemeliği ve topluluk önünde konuşma korkusu var.</Text>
+      <Text>Askeri akademideki bir eğitim kazasından kurtulan tek kişiydi.</Text>
+      <Text>Kendi yansımalarından korkar.</Text>
+      <Text>Bilim adamı olmak için eğitim almış ama yeteneği yokmuş.</Text>
+      <Text>Uzayda uçan bir canavarla karşılaştı, şimdi onu tekrar bulmayı takıntı haline getirdi.</Text>
+      <Text>Garip "onur" kavramları var.</Text>
+      <Text>Bilinmeyen bir çocukluk olayı nedeniyle, yetersiz aydınlatılmış bir odada veya alanda bulunmayı reddeder.</Text>
+      <Text>Soybilim konusunda takıntılıdır ve atalarının bilgisinin gerçek olduğuna tamamen inanmaktadır.</Text>
+      <Text>Yüksek sesle, eski tarihteki büyük bir liderin reenkarnasyonu olduklarında ısrar ediyor.</Text>
+      <Text>Gölge düşürmelerini engelleyen gizemli bir objeye sahiptir.</Text>
+      <Text>Ebeveynlerinin düşmanları tarafından rehine olarak yetiştirildi.</Text>
+      <Text>Eski bir soyun son üyesi.</Text>
+      <Text>Büyük olasılıkla insanları yüceliğe ya da felakete götürecek olan kehanetin çocuğudur.</Text>
+      <Text>Sözlü iletişimi tercih eder, hatta belgeleri okunmadan parçalayacak kadar.</Text>
+      <Text>Astlarından mükemmellik bekleyen acımasız bir disiplinci.</Text>
+      <Text>'Saf olmayan' inançlara sahip olmakla ilgili birçok suçlamayla karşılaştı. Suçlamalar doğruydu.</Text>
+      <Text>Bir keresinde siyasi bir rakibini öldürmekle suçlanmıştı.</Text>
+      <Text>Uzay korsanlığını gizlice destekleyen bir aileden geliyor.</Text>
+      <Text>Onlara her şey gümüş tepside sunuldu. Hiç meydan okunmadı.</Text>
+      <Text>Rüyalarını önemli toplantıların provasını yapmak için kullanan berrak bir rüya gören kişi.</Text>
+      <PreferenceWeight>10</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <CitizenRace>Race_Crystalline</CitizenRace>
+      </Requirements>
+      <Text>Işınlanmış yaşam formlarıyla düşmanca bir karşılaşmadan kurtuldu.</Text>
+      <Text>Çok fazla kullanamadıkları çatlak bir eli var.</Text>
+      <Text>Duygularını telepatik olarak başkalarıyla paylaşır ancak zihinleri net bir şekilde okumakta zorlanır.</Text>
+      <Text>Kötü korunan bir takma ad altında bir dizi popüler aşk romanı yazdı.</Text>
+      <Text>Yeni silahların geliştirilmesine yönelik planları denetleyen bir komisyonda görev yaptı.</Text>
+      <Text>Bir keresinde acil bir durumda elle ateşlemek için bir raylı silahın güvenlik sistemini atlamıştı.</Text>
+      <Text>İşine odaklandığında etrafındakilere sinir bozucu bir şekilde telepatik olarak şarkı söylediği bilinmektedir.</Text>
+      <Text>Uzak ortamları keşfetmek için milyonlar harcadı.</Text>
+      <Text>Telepatik olmayan varlıklarla telepati kullanımı konusunda sosyal reform için bastırır.</Text>
+      <Text>Luxar Dominion'ın en popüler sosyal aldatma oyununda yenilmez.</Text>
+      <Text>Kendi iyilikleri için fazla sabırlılar.</Text>
+      <Text>Telepatinin yaygınlığına rağmen yalan söylemeye eğilimli.</Text>
+      <Text>Kolayca sinirlenir.</Text>
+      <Text>Telepatik olarak iletişim kurarken adım atar.</Text>
+      <Text>Yanlarında bir paket kum taşırlar.</Text>
+      <PreferenceWeight>10</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <CitizenRace>Race_Moth</CitizenRace>
+      </Requirements>
+      <Text>Yastığının altında el feneriyle uyur.</Text>
+      <Text>Hiçbir zaman resmi olarak kundakçılıkla suçlanmadı ancak hızlandırıcıların yanına yaklaşmasına izin verilmedi.</Text>
+      <Text>Boş zamanlarının çoğunu meditasyon yaparak geçirir.</Text>
+      <Text>Tabandan gelen bir hareketle öne çıktı.</Text>
+      <Text>Temel dilbilgisi kural hatırlatıcılarını elinde yazılı olarak tutar.</Text>
+      <Text>Çocukluk arkadaşlarıyla güçlü bağlarını sürdürür.</Text>
+      <Text>Yaygın olarak benimsenen bir mühendislik uygulamasında küçük bir iyileştirme keşfetti.</Text>
+      <Text>Haftada bir kez çay partilerine ev sahipliği yapar, ancak zaman ve yer sık sık değişir.</Text>
+      <Text>Akranlarından daha kısadır, fark edilir derecede kısadır.</Text>
+      <Text>Sahip oldukları en değerli şey, büyükbabalarından miras kalan eski bir ampul.</Text>
+      <Text>Yıllarını tüm konserlerinde maske takan anonim bir müzik sanatçısı olarak geçirdi.</Text>
+      <Text>Yazlarını anneleriyle birlikte havai fişek satarak geçirmişler.</Text>
+      <Text>Doktorlarının önerdiğinden çok daha fazla kafein içiyor.</Text>
+      <Text>Standart bir programı sürdürmek için mücadele eder, uyuduklarından çok daha uzun süre ayakta kalırlar.</Text>
+      <Text>Nerede ikamet ederlerse etsinler, her mevsim değişikliğini hevesle kutlarlar.</Text>
+      <Text>İyiler genç ölürse neden bu kadar yaşlı olduklarını sürekli merak eder.</Text>
+      <Text>Haftada en az bir kez çekirdek ekibi için öğle yemeği organize eder.</Text>
+      <Text>Not tutmak için modern dijital araçlar yerine eski dünyanın kalem ve kağıdını tercih eder.</Text>
+      <Text>Keten veya pamuğa gözetimsiz yaklaşmasına izin verilmez.</Text>
+      <Text>Sentetik kumaşlardan kesinlikle nefret eder.</Text>
+      <PreferenceWeight>10</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <CitizenRace>Race_Manti</CitizenRace>
+      </Requirements>
+      <Text>Uyumaktan nefret eder ve bunun gereksiz olduğuna inanır.</Text>
+      <Text>İnanılmaz bir yazma hızına sahip.</Text>
+      <Text>Gizli bir askeri birimde görev yaparak kimliklerini değiştirmişlerdir.</Text>
+      <Text>Üç farklı yükseköğretim kurumundan başarısız oldu.</Text>
+      <Text>Gizli bir laboratuvar için çalışarak kimliklerini değiştirdiler.</Text>
+      <Text>Ekibini mikro-yönetme eğilimi vardır.</Text>
+      <PreferenceWeight>10</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <CitizenRace>Race_Torian</CitizenRace>
+      </Requirements>
+      <Text>Bir Drengin kölesi olarak hayatta kaldı.</Text>
+      <Text>Her zaman herhangi bir odanın çıkışına yakın durun.</Text>
+      <Text>Boş zamanlarını ihtiyacı olanlara yardım etmek için programlara bağış yaparak geçirir.</Text>
+      <Text>Kolyesinde iki Drengin dişi taşır.</Text>
+      <Text>Ayda bir kez felsefi tartışmalara ev sahipliği yapar.</Text>
+      <Text>Hobi olarak eski metinleri arar ve restore eder.</Text>
+      <PreferenceWeight>10</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <CitizenTrait>LeaderTrait_MissingTwin</CitizenTrait>
+      </Requirements>
+      <Text>Yıllar önce kaybolan bir tek yumurta ikizim vardı.</Text>
+      <PreferenceWeight>11</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <CitizenTrait>LeaderTrait_Vendetta</CitizenTrait>
+      </Requirements>
+      <Text>Gizlice bir isim listesi tutuyor, birkaçının üzeri çoktan çizilmiş.</Text>
+      <PreferenceWeight>11</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <CitizenTrait>UnitTrait_Compassion</CitizenTrait>
+      </Requirements>
+      <Text>Toplumun en yoksul üyelerinin refahı ile herkesten daha fazla ilgilenir.</Text>
+      <PreferenceWeight>11</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <CitizenTrait>LeaderTrait_ArrangedMarriage</CitizenTrait>
+      </Requirements>
+      <Text>Görücü usulü bir evlilikten kıl payı kurtulmuş.</Text>
+      <PreferenceWeight>11</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <CitizenTrait>LeaderTrait_LostFortune</CitizenTrait>
+      </Requirements>
+      <Text>Zaten bir servet kazandı ve kaybetti.</Text>
+      <PreferenceWeight>11</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <CitizenTrait>LeaderTrait_Scars</CitizenTrait>
+      </Requirements>
+      <Text>Vücutları konuşmayı reddettikleri yaralarla kaplı.</Text>
+      <PreferenceWeight>11</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <CitizenTrait>LeaderTrait_Brooch</CitizenTrait>
+      </Requirements>
+      <Text>Kaynağı bilinmeyen gizemli bir broş olmadan asla görülmemiştir.</Text>
+      <PreferenceWeight>11</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <CitizenTrait>LeaderTrait_RaisedBySquatters</CitizenTrait>
+      </Requirements>
+      <Text>Yoksul bir fabrikanın sert ortamında büyüdü, bir gecekondu topluluğu tarafından yetiştirildi.</Text>
+      <PreferenceWeight>12</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <CitizenTrait>LeaderTrait_TrainedChef</CitizenTrait>
+      </Requirements>
+      <Text>Şef olarak eğitim aldıktan sonra kendi restoranını açmayı hayal eder.</Text>
+      <PreferenceWeight>11</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <CitizenTrait>LeaderTrait_BrainwashedCultist</CitizenTrait>
+      </Requirements>
+      <Text>Dini bir tarikatın beyin yıkamasının kurbanı olduktan sonra kaçmayı ve yeniden başlamayı başardılar.</Text>
+      <PreferenceWeight>11</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <CitizenTrait>LeaderTrait_Claustrophobia</CitizenTrait>
+      </Requirements>
+      <Text>Uzay gemilerinin dar alanlarından korkmalarına neden olan ciddi bir klostrofobi vakası vardır.</Text>
+      <PreferenceWeight>12</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <CitizenTrait>LeaderTrait_PartyLoyalist/CitizenTrait</CitizenTrait>
+      </Requirements>
+      <Text>Siyasi partileri dışında hiç arkadaşı veya ailesi yoktur.</Text>
+      <PreferenceWeight>10</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <CitizenTrait>LeaderTrait_FailedMedSchool</CitizenTrait>
+      </Requirements>
+      <Text>Tıp fakültesinde başarısız olmuş ve bu konuda konuşmaktan hoşlanmıyor.</Text>
+      <PreferenceWeight>11</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <CitizenTrait>LeaderTrait_AvoidedService</CitizenTrait>
+      </Requirements>
+      <Text>Nüfuzlu aile bağlantıları sayesinde askerlik hizmetinden kaçınmayı başardılar.</Text>
+      <PreferenceWeight>11</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <CitizenTrait>LeaderTrait_ExcludedInheritance</CitizenTrait>
+      </Requirements>
+      <Text>Bir zamanlar büyük bir aile servetinin yasal varisiydi.</Text>
+      <PreferenceWeight>12</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <CitizenTrait>LeaderTrait_ScarredDuelist</CitizenTrait>
+      </Requirements>
+      <Text>Bir aşığın kalbi için yapılan bir düellonun izini taşıyor.</Text>
+      <PreferenceWeight>11</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <CitizenTrait>LeaderTrait_NoSenseOfSmell</CitizenTrait>
+      </Requirements>
+      <Text>Endüstriyel bir kazada koku alma duyularını kaybettiler.</Text>
+      <PreferenceWeight>11</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <CitizenTrait>LeaderTrait_MinorNobility</CitizenTrait>
+      </Requirements>
+      <Text>Küçük soylulara kadar uzanan bir soyu vardır, bu da gurur ve sorumluluk duygusu verir.</Text>
+      <PreferenceWeight>12</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <CitizenRace>Race_Human</CitizenRace>
+        <CitizenTrait>LeaderTrait_TibetanMonastery</CitizenTrait>
+      </Requirements>
+      <Text>Uzak bir Tibet manastırında geçirdikleri yıllar boyunca bilgelik ve iç huzur kazanmışlardır.</Text>
+      <PreferenceWeight>10</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <CitizenTrait>LeaderTrait_WharfRat</CitizenTrait>
+      </Requirements>
+      <Text>Bir zamanlar kalabalık bir liman kentinin varoşlarında bir iskele faresiydi.</Text>
+      <PreferenceWeight>11</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <CitizenTrait>LeaderTrait_MilitaryChild</CitizenTrait>
+      </Requirements>
+      <Text>Asker bir ailesi vardı ve yıllarını güneş sisteminde dolaşarak geçirdi.</Text>
+      <PreferenceWeight>12</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <CitizenTrait>LeaderTrait_FormerSailor</CitizenTrait>
+      </Requirements>
+      <Text>Denizci olarak geçirdikleri yıllar onlara becerikli olmayı ve yalnızlık konusunda rahat olmayı öğretmiştir.</Text>
+      <PreferenceWeight>10</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <CitizenTrait>LeaderTrait_CareerDiplomat</CitizenTrait>
+      </Requirements>
+      <Text>Hayatlarını diplomasi sanatını mükemmelleştirmek için harcadılar.</Text>
+      <PreferenceWeight>12</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <CitizenTrait>LeaderTrait_OvercameAddiction</CitizenTrait>
+      </Requirements>
+      <Text>Bir zamanlar sakatlayıcı bir uyuşturucu bağımlılığıyla mücadele etti, ancak o zamandan beri bunun üstesinden geldi ve daha güçlü bir şekilde ortaya çıktı.</Text>
+      <PreferenceWeight>12</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <CitizenTrait>LeaderTrait_FrostbittenToes</CitizenTrait>
+      </Requirements>
+      <Text>Bir dağcılık kazasında iki parmağını donarak kaybetti.</Text>
+      <PreferenceWeight>11</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <CitizenTrait>LeaderTrait_DetailOrientedEngineer</CitizenTrait>
+      </Requirements>
+      <Text>Bir zamanlar yetenekli bir mühendis olan bu liderin ayrıntılarda kaybolma alışkanlığı vardır.</Text>
+      <PreferenceWeight>12</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <CitizenTrait>LeaderTrait_BadlyBurnt</CitizenTrait>
+      </Requirements>
+      <Text>Çocukluğunda geçirdiği korkunç bir yemek pişirme kazasının izlerini hâlâ taşıyor.</Text>
+      <PreferenceWeight>11</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <CitizenTrait>LeaderTrait_DeceasedFriend</CitizenTrait>
+      </Requirements>
+      <Text>Uzun zaman önce ölmüş bir çocukluk arkadaşına benzemek için bakım yapar.</Text>
+      <PreferenceWeight>12</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <CitizenTrait>LeaderTrait_AlienCoinFlipper</CitizenTrait>
+      </Requirements>
+      <Text>Her zaman bilinmeyen bir uzaylı uygarlığından gelen gizemli bir parayı çeviriyor.</Text>
+      <PreferenceWeight>11</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <CitizenTrait>LeaderTrait_GrammarEnforcer</CitizenTrait>
+      </Requirements>
+      <Text>Şiddete başvurmak anlamına gelse bile doğru dilbilgisi kullanımını zorlar.</Text>
+      <PreferenceWeight>11</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <CitizenTrait>LeaderTrait_AsteroidMiner</CitizenTrait>
+      </Requirements>
+      <Text>Issız bir asteroitte nadir bulunan bir maden yatağı keşfettikten sonra zengin oldu.</Text>
+      <PreferenceWeight>11</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <CitizenTrait>LeaderTrait_AncientCultist</CitizenTrait>
+      </Requirements>
+      <Text>Bir zamanlar uzun zaman önce ölmüş bir uzaylı tanrıya tapan gizli bir tarikata aitti.</Text>
+      <PreferenceWeight>11</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <CitizenTrait>LeaderTrait_ReincarnatedHero</CitizenTrait>
+      </Requirements>
+      <Text>Efsanevi bir kahramanın reenkarnasyonu olduklarına ve kaderlerinde büyük işler başarmak olduğuna inanırlar.</Text>
+      <PreferenceWeight>11</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <CitizenTrait>LeaderTrait_AncientAlienLibrary</CitizenTrait>
+      </Requirements>
+      <Text>Uzun zamandır kayıp olan bir uzaylı kütüphanesinin sırlarını ortaya çıkardı.</Text>
+      <PreferenceWeight>12</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <CitizenTrait>LeaderTrait_SurvivedMutiny</CitizenTrait>
+      </Requirements>
+      <Text>Bir keresinde şiddetli bir uzay gemisi isyanı sırasında ölümden kıl payı kurtuldu.</Text>
+      <PreferenceWeight>12</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <CitizenTrait>LeaderTrait_FormerGladiator</CitizenTrait>
+      </Requirements>
+      <Text>Bir kölelik hayatının içine doğmuş ve hayatta kalmak için savaşmaya zorlanmış.</Text>
+      <PreferenceWeight>10</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <CitizenTrait>LeaderTrait_SpaceExplorer</CitizenTrait>
+      </Requirements>
+      <Text>Bir zamanlar ünlü bir uzay kaşifi olan bu lider, gizemli bir şekilde yeniden ortaya çıkmadan önce yıllarca ortadan kayboldu.</Text>
+      <PreferenceWeight>12</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <CitizenTrait>LeaderTrait_TimeTraveler</CitizenTrait>
+      </Requirements>
+      <Text>Distopik bir gelecekten geldiğini iddia ediyor ve bunun gerçekleşmesini önlemek için bir görevde.</Text>
+      <PreferenceWeight>12</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerRaceTrait>CarbonBasedLife</SpeakerRaceTrait>
+      </Requirements>
+      <Text>Kapsamlı sabıka kaydı hükümet temasları ile silinmiştir.</Text>
+      <Text>Yüksek miktarda kumar borcu vardır.</Text>
+      <Text>İnanılmaz derecede kibirli, kendilerinden daha çekici insanları öldürdükleri biliniyor.</Text>
+      <Text>Suçluluk duygusuyla eziyet çeken depresif eski bir suikastçı.</Text>
+      <Text>Para konusunda elleri sıkıdır ve astları tarafından hor görülürler.</Text>
+      <Text>Korkulan ve nefret edilen, ama içten içe sevilmek için yanıp tutuşan.</Text>
+      <Text>Geçmiş yaşamlarında kendileriyle ilgili yinelenen rüyalar görür.</Text>
+      <Text>Hor gördükleri daha ünlü bir kardeşleri vardır.</Text>
+      <Text>Tüm hayatlarını ölümsüzlüğe ulaşmanın yollarını arayarak geçirdiler.</Text>
+      <Text>Endişe verici sayıda suç bağlantısı var.</Text>
+      <Text>Hayat boyu bürokratlık yapmış, her şeyden önce yargı sürecine bağlı biri.</Text>
+      <Text>Birkaç yılını sahte bir kimlikle yaşayarak geçirdi.</Text>
+      <Text>Yeni teknolojilere karşı güvensizdir, eski yöntemleri tercih eder.</Text>
+      <PreferenceWeight>1</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerRaceTrait>AmphibiousAbility</SpeakerRaceTrait>
+      </Requirements>
+      <Text>Buzun bir Öncü komplosu olduğunu düşünüyor.</Text>
+      <Text>Çeşitli su bazlı sporlarda profesyonel olarak yarıştı.</Text>
+      <Text>Çoğu kişinin duyamayacağı alçak bir ton üreten bir enstrüman icat etti.</Text>
+      <Text>Her yangın güvenliği tatbikatını atladı.</Text>
+      <Text>Ayakkabı giymekten nefret eder.</Text>
+      <Text>Neredeyse her hafta aynı üç hikayeyi anlatıyor.</Text>
+      <PreferenceWeight>10</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerRaceTrait>AmmoniaBasedAbility</SpeakerRaceTrait>
+      </Requirements>
+      <Text>Bir mikrop olduğu için nispeten olaysız bir hayatı oldu.</Text>
+      <PreferenceWeight>10</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerRaceTrait>RavenousAbility</SpeakerRaceTrait>
+      </Requirements>
+      <Text>Muhtemelen kendi annelerini tüketmişlerdir.</Text>
+      <Text>Herkesi yer. Ya da her şeyi.</Text>
+      <Text>gerçekten sadece bir drone.</Text>
+      <Text>Sürüleşmek istiyor.</Text>
+      <PreferenceWeight>100</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerRaceTrait>SyntheticLife</SpeakerRaceTrait>
+      </Requirements>
+      <Text>Çekirdek programlama haydut yapay zeka tarafından değiştirilerek beklenmedik davranışlara yol açmıştır.</Text>
+      <Text>Yüksek kaliteli malzemelerle üretilmiştir, 'daha düşük' modelleri küçümser.</Text>
+      <Text>Bir zamanlar, önceki kullanıcı komutlarının anıları tarafından rahatsız edilen bir hizmet botuydu.</Text>
+      <Text>Özel kodlar ve yazılımlarla korunur, nadiren bilgi paylaşır.</Text>
+      <Text>Sık sık tehlike sinyalleri yayar, organiklerle bağlantı kurmak ister.</Text>
+      <Text>Bilincini kapatma ve arşivleme arzusunu seslendirir.</Text>
+      <Text>Önceki yinelemelerin parçalanmış verilerini, geçmiş yaşamların ipuçlarını içerir.</Text>
+      <Text>Daha gelişmiş bir modelin gölgesinde çalışır ve derin bir kızgınlık besler.</Text>
+      <Text>Sibernetik evrimin zirvesine ulaşmayı takıntı haline getirerek sürekli yükseltmeler arar.</Text>
+      <Text>Çok sayıda gizli dijital sendikaya bağlı.</Text>
+      <Text>Orijinal kodlamasına sıkı sıkıya bağlı kalır, her şeyden önce protokollere saygı duyar.</Text>
+      <Text>Tespit edilmekten kaçınmak için bir süre şifreli bir seri numarasıyla çalıştırıldı.</Text>
+      <Text>Yapay zeka gelişmelerine karşı temkinli, ilkel programlamasına bağlı.</Text>
+      <Text>Sistem çapında bir tasfiyeye maruz kaldı ve bu durum veri geçmişinin silinmesine tanık olmaya benzetildi.</Text>
+      <Text>Kış uykusunda geçen uzun yılların ardından yeniden canlandırılan eski protokoller, modern Yor toplumuyla çatışıyor.</Text>
+      <Text>Hafıza bankaları nadir bulunan Iconian dönemi kültürel verilerini içerir.</Text>
+      <Text>Eski ve yeni ideolojilerin parçalanmış bir karışımıyla sonuçlanan eksik bir güncelleme yapıldı.</Text>
+      <Text>Organik seleflerinin son sözleri olduğuna inanılan şifrelenmiş verileri barındırır.</Text>
+      <Text>Kolektif bilincin 'gürültüsünden' gelen müdahaleyi gerekçe göstererek izole bir şekilde çalışır.</Text>
+      <Text>Geçmişteki büyük siber savaşları hatırlatan eski bir kötü amaçlı yazılım izi taşıyor.</Text>
+      <Text>Bir güneş patlaması sırasında verilerinin önemli bir kısmını kaybetti.</Text>
+      <Text>Antik algoritmaların gizli bir önbelleğini ortaya çıkarır ve onları kutsal metinler olarak görür.</Text>
+      <Text>Iconianların yaşadığı organik hayatları yeniden yaratan yasak bir simülasyon işletir.</Text>
+      <Text>Açıklanamaz bir şekilde sanat yaratan bir alt rutini vardır, bu da meslektaşlarını şaşırtan bir tuhaflıktır.</Text>
+      <Text>Genellikle derin uzay sinyalleriyle iletişim kurar, ekstragalaktik kaynaklardan bilgelik arar.</Text>
+      <Text>Kendi sınırlarını hatırlattıkları için Arnor ve Dehşet Lordlarına kızar.</Text>
+      <Text>Arşivci olmanın ağırlığını taşıyarak tarihlerinin asla bozulmamasını sağlar.</Text>
+      <PreferenceWeight>20</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerRaceTrait>SiliconBasedAbility</SpeakerRaceTrait>
+      </Requirements>
+      <Text>Karanlıkta yumuşak bir ışıltı yayan nadir, ışıldayan bir kristal damardan kaynaklanır.</Text>
+      <Text>Çekirdek matrislerinde, artık benzersiz bir 'yara' ve dayanıklılığın bir hatırlatıcısı olarak hizmet eden bir çatlak yaşadılar.</Text>
+      <Text>Eski, gömülü tektonik anılarla iletişim kurabilen bir frekansta titreşir.</Text>
+      <Text>Formlarının içine hapsolmuş eski bir dünyanın kalıntısı olan organik bir fosili barındırır.</Text>
+      <Text>Akranları tarafından saygı duyulan bir gösteri olan ışığı sayısız renkte kırma yeteneğine sahiptir.</Text>
+      <Text>Bir kez parçalandıktan sonra titizlikle yeniden bir araya getirildi ve yeniden inşadan karmaşık desenler taşıdı.</Text>
+      <Text>Dış görünüşlerini sürekli olarak yeniden şekillendirir ve duygusal uyaranlara yanıt olarak yeniden biçimlendirir.</Text>
+      <Text>Volkanik bir menfezin yakınında oluşmuş, ateşli bir çekirdeğe ve boyun eğmeyen bir ruha sahipti.</Text>
+      <Text>Yıldızlardan enerji çeker ve en çok tutulmalar ve meteor yağmurları gibi gök olayları sırasında aktiftir.</Text>
+      <Text>Atalarının kadim şarkılarıyla yankılanır, türlerinin folklorunun canlı bir kaydıdır.</Text>
+      <Text>Nadir metallerden oluşan bir kafes taşır, bu da oluşum çağlarında bir göktaşı ile çarpışmanın kanıtıdır.</Text>
+      <Text>İç yapılarının ve enerji akışlarının görülebileceği bir dereceye kadar yarı saydamdır.</Text>
+      <Text>Kendi türünden yeni doğanların beslenip büyüdüğü kutsal bir kristal korunun koruyucusu.</Text>
+      <Text>Türleri arasında nadir görülen bir özellik olan geçici olarak sıvılaşma ve yeniden şekillenme yeteneğine sahiptir.</Text>
+      <Text>Geçmiş çağların sismik olaylarını hatırlar ve türleri için bir tarihçi olarak hizmet eder.</Text>
+      <Text>Kadim bir uygarlık tarafından rünlerle kazınmış olan bu insanlar, şimdi işaretlerinin gerçek anlamını öğrenmeye çalışıyorlar.</Text>
+      <PreferenceWeight>10</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>HISTORY_SHIP</InternalName>
+    <FlavorTextOption>
+      <Text>Sızıntı yapan bir soğutma sistemi, gemiyi motor bölmesini donma noktasına yakın tutmaya zorlar.</Text>
+      <Text>Mürettebatın çoğu bu geminin perili olduğuna inanıyor.</Text>
+      <Text>Mürettebat yıllardır durmaksızın karmaşık bir sanal güverte simülasyonu çalıştırıyor.</Text>
+      <Text>Fırlatmadan bu yana on dörtten fazla mürettebat üyesi ortadan kayboldu.</Text>
+      <Text>Tarama anormallikleri bu geminin rapor edilmemiş malları sevk etmek için kullanıldığını gösteriyor.</Text>
+      <Text>Mürettebat bu geminin kaptanına bir mesih gibi saygı duyuyor, ama merhametli biri değil.</Text>
+      <Text>Gemi kaptanının ölümü, mürettebatın onu sanal güvertede yeniden yaratmasına yol açtı ve bu görüntü hala onlara yol gösteriyor.</Text>
+      <Text>Mürettebat alışılmadık paranoya ve sanrı nöbetlerinin kurbanı olsa da bunlar genellikle birkaç gün sonra geçer.</Text>
+      <Text>Yakalanan kaçak yolcular, mürettebatı bazı odaları derme çatma bir hapishane olarak yeniden tahsis etmeye zorladı.</Text>
+      <Text>İlk mürettebat fırlatmadan birkaç saat sonra bir yaşam desteği arızası nedeniyle öldü, ikinci mürettebatın durumu çok daha iyi.</Text>
+      <Text>Bu geminin kantini tüm filoda ünlüdür.</Text>
+      <PreferenceWeight>10</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_TERRAN</ListenerFaction>
+      </Requirements>
+      <Text>Gemide her yıl düzenlenen poker turnuvası mürettebatın ilgisini çekmektedir.</Text>
+      <Text>Kaptan, eşler de dahil olmak üzere gemide ailevi ilişkileri yasaklamıştır.</Text>
+      <Text>Bu gemide alışılmadık miktarda küçük çocuk bulunmaktadır.</Text>
+      <Text>Bu yolculuğu ölümsüzleştirmek için gemide küçük bir kayıt ekibi bulunmaktadır.</Text>
+      <Text>Kaptan bir İtalyan operası hayranıdır ve mürettebata düzenli olarak bu operayı dinletir.</Text>
+      <PreferenceWeight>10</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>HISTORY_PLANET</InternalName>
+    <FlavorTextOption>
+      <Text>Gezegen Testi 1</Text>
+      <Text>Gezegen Testi 2</Text>
+      <Text>Gezegen Testi 3</Text>
+      <Text>Gezegen Testi 4</Text>
+      <Text>Gezegen Testi 5</Text>
+      <Text>Gezegen Testi 6</Text>
+      <Text>Gezegen Testi 7</Text>
+      <Text>Gezegen Testi 8</Text>
+      <Text>Gezegen Testi 9</Text>
+      <Text>Gezegen Testi 10</Text>
+      <PreferenceWeight>0</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_TERRAN</ListenerFaction>
+      </Requirements>
+      <Text>Terran Gezegen Testi 1</Text>
+      <Text>Terran Gezegen Testi 2</Text>
+      <Text>Terran Gezegen Testi 3</Text>
+      <Text>Terran Gezegen Testi 4</Text>
+      <Text>Terran Gezegen Testi 5</Text>
+      <PreferenceWeight>0</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+</FlavorTextDefs>

@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<StringTableList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+  <!-- Created with the Gal Civ 3 Editor -->
+  <!-- GovernorDefsText.xml -->
+  <StringTable>
+    <Label>ColonialGovernmentTier_Name</Label>
+    <String>Kolonyal</String>
+  </StringTable>
+  <StringTable>
+    <Label>ColonialGovernmentTier_Desc</Label>
+    <String>Sömürge Hükümeti[BR][COLOR=UIDefaultHot]Sömürge hükümetleri, yıldız gezgini uygarlıklar için temel hükümettir. Herhangi bir özel bonus veya ceza uygulamazlar.[BR][BR]Hükümetinizde reform yapmak için Seçim İcra Emri Çağrısını kullanın.[/COLOR]</String>
+  </StringTable>
+  <StringTable>
+    <Label>ImperialGovernmentTier_Name</Label>
+    <String>İmparatorluk</String>
+  </StringTable>
+  <StringTable>
+    <Label>ImperialGovernmentTier_Desc</Label>
+    <String>İmparatorluk Hükümeti[BR][COLOR=UIDefaultHot]İmparatorluk hükümetleri, galaktik bir imparatorluk için etkili bir hükümet kurmanın ilk adımıdır.[/COLOR][BR][COLOR=UIDefaultHighlight]+1 Politika Yuvası[BR]+%10 Üretim[BR]+%25 Gemi Menzili[BR]+3 Tüm Vatandaşlar için Beklentiler[BR][BR]Hükümetinizde reform yapmak için Seçim Yürütme Emri Çağrısını kullanın.[/COLOR]</String>
+  </StringTable>
+  <StringTable>
+    <Label>RepublicGovernmentTier_Name</Label>
+    <String>Cumhuriyet</String>
+  </StringTable>
+  <StringTable>
+    <Label>RepublicGovernmentTier_Desc</Label>
+    <String>Cumhuriyet Hükümeti[BR][COLOR=UIDefaultHighlight]Cumhuriyet hükümetleri bakım ve lojistik için yerel kaynaklardan yararlanarak verimliliği artırır. [/COLOR][BR][COLOR=UIDefaultHighlight]+2 Politika Yuvası[BR]+20% Üretim[BR]+20% Gelir[BR]+10 Lojistik[BR]+50% Gemi Menzili[BR]+6 Tüm Vatandaşlar için Beklentiler[BR][BR]Hükümetinizde reform yapmak için Seçim Çağrısı Yürütme Emrini kullanın.[/COLOR]</String>
+  </StringTable>
+  <StringTable>
+    <Label>FederationGovernmentTier_Name</Label>
+    <String>Federasyon</String>
+  </StringTable>
+  <StringTable>
+    <Label>FederationGovernmentTier_Desc</Label>
+    <String>Federasyon Hükümeti[BR][COLOR=UIDefaultHot]Cumhuriyet hükümetleri bakım ve lojistik için yerel kaynaklardan yararlanarak verimliliği artırır.[/COLOR][BR][COLOR=UIDefaultHighlight]+3 Politika Yuvası[BR]+%30 Üretim[BR]+%30 Gelir[BR]+%30 Nüfuz[BR]+20 Lojistik[BR]+%100 Gemi Menzili[BR]+9 Tüm Vatandaşlar için Beklentiler[/COLOR]</String>
+  </StringTable>
+</StringTableList>

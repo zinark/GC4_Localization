@@ -1,0 +1,186 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<FlavorTextDefs xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
+  <FlavorTextDef>
+    <InternalName>FIRST_CONTACT_MAIN</InternalName>
+    <FlavorTextOption>
+      <ResponseTag>GARBLED_TEXT</ResponseTag>
+      <Requirements>
+        <ListenerHasUniversalTranslator>false</ListenerHasUniversalTranslator>
+      </Requirements>
+      <Text>Vuresef, {PLAYERFACTION:2}. Tipot {PLAYERFACTION:1}'s orisih beha rinin holares. Erasuto ki nakeduc menurit!
+ (Evrensel Çevirmen'i araştırmanız gerekiyor)</Text>
+      <PreferenceWeight>1</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <ResponseTag>GARBLED_TEXT</ResponseTag>
+      <Requirements>
+        <SpeakerFaction>FACTION_TERRAN</SpeakerFaction>
+        <ListenerHasUniversalTranslator>false</ListenerHasUniversalTranslator>
+      </Requirements>
+      <Text>Pürüzsüz tenli iki ayaklı bir yaratık görüntü ekranından bize bakıyor. Bir tür hafif tören kıyafeti giymiş olan bu canlı, kısa bir dizi anlaşılmaz homurdanma sesi çıkarıyor. Bizden hiçbir yanıt alamayınca, ekranın dışındaki birine sinirlendiğini belli eden bir el hareketi yapıyor. Onlar da bizi anlayamıyor gibi görünüyor.[BR][BR](Evrensel Çevirmen'i araştırmanız gerekiyor)</Text>
+      <PreferenceWeight>100</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <ResponseTag>GARBLED_TEXT</ResponseTag>
+      <Requirements>
+        <SpeakerFaction>FACTION_FESTRON</SpeakerFaction>
+        <ListenerHasUniversalTranslator>false</ListenerHasUniversalTranslator>
+      </Requirements>
+      <Text>Video ortaya çıkmadan önce ekranımız bir dakika boyunca titriyor ve devasa bir böceksi yaratığın görüntüsüyle doluyor. [BR][BR]İlk başta hareketsiz olan bu yaratık bize bakarken sadece kıskaçlarının hafifçe sallanması onun canlı olduğunu gösteriyor. Arka planda, onun türünden daha fazlası hareket ediyor, birbirlerine tıklıyor ve cıvıldıyor. Bir tür dil, ancak ne söylediklerini belirlemek imkansız.[BR][BR](Evrensel Çevirmen'i araştırmanız gerekiyor)</Text>
+      <PreferenceWeight>100</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <ResponseTag>GARBLED_TEXT</ResponseTag>
+      <Requirements>
+        <SpeakerFaction>FACTION_NAVIGATORS</SpeakerFaction>
+        <ListenerHasUniversalTranslator>false</ListenerHasUniversalTranslator>
+      </Requirements>
+      <Text>Tuhaf bir yaratık ekrandan bize bakıyor. On ya da on iki bacaklı, parçalı bir böceğe benzeyen bu yaratık aynı zamanda hafif zırhlı bir dış iskelete sahip gibi görünüyor.[BR][BR]Uzun, hünerli dilinden bir dizi ince tıslama sesi çıkıyor. Bizimle iletişim kurmaya çalışıyor gibi görünüyor, ancak hiçbir faydası yok.[BR][BR](Evrensel Çevirmen'i araştırmanız gerekiyor)</Text>
+      <PreferenceWeight>100</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <ResponseTag>GARBLED_TEXT</ResponseTag>
+      <Requirements>
+        <SpeakerFaction>FACTION_MIMOT</SpeakerFaction>
+        <ListenerHasUniversalTranslator>false</ListenerHasUniversalTranslator>
+      </Requirements>
+      <Text>Ekranda küçük, tüylü bir yaratık belirir. Yumuşak kürkü ve kocaman gözleriyle bu varlık sevimli ve muhtemelen lezzetli görünüyor. Gözleri daha da açılıyor, belki de ne düşündüğümüzü anlıyor.[BR][BR]Sonunda küçük, narin ağzını açıyor ve bir dizi miyavlama sesi çıkarıyor. Bir çeşit konuşma, gerçi ne anlama geldiğini kim bilebilir. Şüphesiz sevimli bir şey.[BR][BR](Evrensel Çevirmen'i araştırmanız gerekiyor)</Text>
+      <PreferenceWeight>100</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <ResponseTag>GARBLED_TEXT</ResponseTag>
+      <Requirements>
+        <SpeakerFaction>FACTION_XELOXI</SpeakerFaction>
+        <ListenerHasUniversalTranslator>false</ListenerHasUniversalTranslator>
+      </Requirements>
+      <Text>Yeşil derili iki ayaklı bir yaratık ekranda belirir, özenle hazırlanmış kıyafetler ve bir başlık giymektedir. Muhtemelen bir dişi, eğer bu tür bizimle aynı cinsiyet kavramına sahipse, ki bu tehlikeli bir tahmin olabilir.[BR][BR] Yaratık kendi ana dilinde bir şeyler söylüyor, anlaşılmaz, ama bir şekilde çok, çok zorlayıcı.[BR][BR](Evrensel Çevirmen'i araştırmanız gerekiyor)</Text>
+      <PreferenceWeight>100</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <ResponseTag>GARBLED_TEXT</ResponseTag>
+      <Requirements>
+        <SpeakerFaction>FACTION_ARCEAN</SpeakerFaction>
+        <ListenerHasUniversalTranslator>false</ListenerHasUniversalTranslator>
+      </Requirements>
+      <Text>Vahşi görünümlü bir insansı ekranı dolduruyor ve yeşil gözlerinin arkasından size bakıyor. Hiçbir şey söylemese de ondan damlayan küçümsemeyi hissedebilirsiniz. [BR][BR]Neredeyse işitme aralığının altında bir şeyler mırıldanıyor ve uzaylının iletişim sistemleri bizimkilerle arayüz oluşturmaya çalışıp başarısız olurken ekranda garip metin titreşimleri beliriyor. Bugün bu yaratıkla konuşulmayacak.[BR][BR](Evrensel Çevirmen'i araştırmanız gerekiyor)</Text>
+      <PreferenceWeight>100</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <ResponseTag>GARBLED_TEXT</ResponseTag>
+      <Requirements>
+        <SpeakerFaction>FACTION_DRENGIN</SpeakerFaction>
+        <ListenerHasUniversalTranslator>false</ListenerHasUniversalTranslator>
+      </Requirements>
+      <Text>Zalim görünümlü yeşil derili iki ayaklı bir yaratık beliriyor ve bize ters ters bakıyor. Bir tür zırh giymiş ve dişlerini göstererek, bir savaşçı olduğu ya da en azından öyle algılanmak istediği izlenimini veriyor.[BR][BR]Ekrana öfkeyle bir şeyler havlıyor ve bir an için ne dediğini anlayamamamızın gerçekten kötü bir şey olup olmadığını merak ediyorsunuz.[BR][BR](Evrensel Çevirmen'i araştırmanız gerekiyor)</Text>
+      <PreferenceWeight>100</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <ResponseTag>GARBLED_TEXT</ResponseTag>
+      <Requirements>
+        <SpeakerFaction>FACTION_ALTARIAN</SpeakerFaction>
+        <ListenerHasUniversalTranslator>false</ListenerHasUniversalTranslator>
+      </Requirements>
+      <Text>İnce, mavi tenli, narin yapılı ve tavırlı bir iki ayaklı beliriyor. Sakince, garip ama bir şekilde asil bir konuşmayla bizimle konuşuyor.[BR][BR]Cevabımızı tanımadığını görünce, var olan iletişim engelini fark ederek başını yavaşça sallıyor. Eğer bir şey varsa, bizi hayal kırıklığına uğratmış gibi görünüyor.[BR][BR](Evrensel Çevirmen'i araştırmanız gerekiyor)</Text>
+      <PreferenceWeight>100</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <ResponseTag>GARBLED_TEXT</ResponseTag>
+      <Requirements>
+        <SpeakerFaction>FACTION_YOR</SpeakerFaction>
+        <ListenerHasUniversalTranslator>false</ListenerHasUniversalTranslator>
+      </Requirements>
+      <Text>Ekranda metalik bir yaratık beliriyor, yanıp sönmeyen kırmızı sensörler bize bakıyor. Sensörlerin gözleri daralmadan önce biraz açılıyor, yaratık bizi inceliyor.[BR][BR]Ondan sesler çıkıyor, uyumsuz seslerin çatışması, sanki bir şey anlayıp anlamadığımızı görmek için üzerimizde farklı diller deniyor. Anlamıyoruz.  Sensörler daha da daralıyor. Artık bu varlıkla iletişim kurmanın bir anlamı yok.[BR][BR](Evrensel Çevirmen'i araştırmanız gerekiyor)</Text>
+      <PreferenceWeight>100</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <ResponseTag>GARBLED_TEXT</ResponseTag>
+      <Requirements>
+        <SpeakerFaction>FACTION_TORIAN</SpeakerFaction>
+        <ListenerHasUniversalTranslator>false</ListenerHasUniversalTranslator>
+      </Requirements>
+      <Text>Ekranda bize bakan küçük bir iki ayaklı beliriyor. Geniş, düz bir kafatası ve bizimle göz teması kurmaktan kaçınıyor gibi görünen büyük gözleri var. Belki de iletişim sisteminin bir yan etkisi.[BR][BR]Keskin ünsüz seslerden yoksun bir dilde bir süre bize mırıldanıyor, ancak gerçekten bir anlam çıkmıyor. Bu garip yaratıkla başka bir zaman konuşmamız gerekecek.[BR][BR](Evrensel Çevirmen'i araştırmanız gerekiyor)</Text>
+      <PreferenceWeight>100</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <ResponseTag>GARBLED_TEXT</ResponseTag>
+      <Requirements>
+        <SpeakerFaction>FACTION_MANTI</SpeakerFaction>
+        <ListenerHasUniversalTranslator>false</ListenerHasUniversalTranslator>
+      </Requirements>
+      <Text>Bir kabuklu hayvana çok benzeyen bir varlık, gözleri ve bacaklarıyla görüntü ekranımızda neşeyle sallanıyor. Hafif bir parıltı, yaratığın - ve arkasında çalışan akrabalarının - şu anda su altında olduğunu gösteriyor. [BR][BR]Yaratık tıklıyor ve pençelerini bize doğru şaklatıyor, şüphesiz bir şey söylemeye çalışıyor. Bu noktada ne olabileceğini söylemek zor.[BR][BR](Evrensel Çevirmen'i araştırmanız gerekiyor)</Text>
+      <PreferenceWeight>100</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <ResponseTag>GARBLED_TEXT</ResponseTag>
+      <Requirements>
+        <SpeakerFaction>FACTION_KRYNN</SpeakerFaction>
+        <ListenerHasUniversalTranslator>false</ListenerHasUniversalTranslator>
+      </Requirements>
+      <Text>Belirgin, çıkıntılı bir kafatasına sahip, uzun boylu, iki ayaklı bir uzaylı ekranda beliriyor. Varlığın yüzüne yayılmış altı gözü var ve hepsi de bize bakmak için dönüyor.[BR][BR]Bizim türümüzü daha önce gördü mü, yoksa biz de onlar için onlar kadar gizemli miyiz?  Bir şeyler söylüyor, hızlı ve tekrarlayan, neredeyse bir ilahi. Ritüel bir selamlama belki de? Ama hiçbir anlam ifade etmiyor.[BR][BR](Evrensel Çevirmen'i araştırmanız gerekiyor)</Text>
+      <PreferenceWeight>100</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <ResponseTag>GARBLED_TEXT</ResponseTag>
+      <Requirements>
+        <SpeakerFaction>FACTION_ICONIAN</SpeakerFaction>
+        <ListenerHasUniversalTranslator>false</ListenerHasUniversalTranslator>
+      </Requirements>
+      <Text>Görüntü ekranında muhtemelen iki ayaklı, uzun, dar bir kafatasına ve ağız bölgesinden çıkan ince dallara sahip bir uzaylı belirir. [BR][BR]Kafatasının tepesine doğru küçük gözler bir şeyler söylerken daralır. Dilin tonu bir soruyu akla getiriyor, ancak anlayamıyoruz. Uzaylı daha fazla iletişim kurmanın anlamsızlığını hissederek hafifçe sallanıyor.[BR][BR](Evrensel Çevirmen'i araştırmanız gerekiyor)</Text>
+      <PreferenceWeight>100</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <ResponseTag>GARBLED_TEXT</ResponseTag>
+      <Requirements>
+        <SpeakerFaction>FACTION_DRATH</SpeakerFaction>
+        <ListenerHasUniversalTranslator>false</ListenerHasUniversalTranslator>
+      </Requirements>
+      <Text>Ekranda kertenkele benzeri, hatta ejderha benzeri niteliklere sahip iki ayaklı garip bir uzaylı beliriyor. Süslü görünümlü bir odadaki tüneğinden bizi incelemek için eğildiğinde gözlerinin üzerindeki tepeli çıkıntılar esniyor.[BR][BR]İçinde derin bir yerden derin bir hırıltı sesi çıkıyor, ağzı zar zor hareket ediyor. Hoş bir selamlama mı yoksa korkunç bir tehdit mi, emin olamıyoruz.[BR][BR](Evrensel Çevirmen'i araştırmanız gerekiyor)</Text>
+      <PreferenceWeight>100</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <ResponseTag>GARBLED_TEXT</ResponseTag>
+      <Requirements>
+        <SpeakerFaction>FACTION_IRIDIUM</SpeakerFaction>
+        <ListenerHasUniversalTranslator>false</ListenerHasUniversalTranslator>
+      </Requirements>
+      <Text>Gri tenli hominoid bir uzaylı görüntü ekranından bize bakıyor. Uzaylının dört gözü ve dostça bir izlenim veren ince bir gülümsemesi var, ancak bu tehlikeli bir varsayım olabilir.[BR][BR]Yaratığın arkasında temiz, hatta steril görünümlü bir uzay gemisi görülebiliyor. Bazı kelimeler değiş tokuş ediliyor, ancak sizinle onlar arasında hiçbir şey anlaşılamıyor. Yine de ince gülümseme devam ediyor. Görünüşe göre her şey yolunda.[BR][BR](Evrensel Çevirmen'i araştırmanız gerekiyor)</Text>
+      <PreferenceWeight>100</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <ResponseTag>GARBLED_TEXT</ResponseTag>
+      <Requirements>
+        <SpeakerFaction>FACTION_ONYX_HIVE</SpeakerFaction>
+        <ListenerHasUniversalTranslator>false</ListenerHasUniversalTranslator>
+      </Requirements>
+      <Text>Uzun boylu hominoid bir uzaylı görüntü ekranından bizi değerlendiriyor. İki ayaklı olmasına rağmen, boynunun parçalı kısmı belki de bir annelid biyolojisine işaret ediyor.[BR][BR]Kökeni ne olursa olsun, varlık kendi dilinde birkaç kelime deniyor, garip bir gürleme ve ritmik titreşim kombinasyonu, ancak ondan hiçbir şey anlaşılamıyor. Uzaylı bizim konuşmamız karşısında da şaşkın görünüyor.[BR][BR](Evrensel Çevirmen'i araştırmanız gerekiyor)</Text>
+      <PreferenceWeight>100</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <ResponseTag>GARBLED_TEXT</ResponseTag>
+      <Requirements>
+        <SpeakerFaction>FACTION_BARATAK</SpeakerFaction>
+        <ListenerHasUniversalTranslator>false</ListenerHasUniversalTranslator>
+      </Requirements>
+      <Text>Ekranda bitki benzeri garip bir yaratık belirir. Kabuk benzeri derisi gövdesini ve şaşırtıcı derecede insansı görünen yüzünü kaplıyor, daha sonra yerini şık, bakımlı yapraklara bırakıyor.[BR][BR]Arka planda, kesinlikle organik, bitki benzeri bir gemi görülebiliyor. Yaratık bir dizi uzun, gıcırtılı inilti çıkarıyor, belli ki bizimle iletişim kurmaya çalışıyor. Şimdilik hiçbir anlam çıkarılamıyor.[BR][BR](Evrensel Çevirmen'i araştırmanız gerekiyor)</Text>
+      <PreferenceWeight>100</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <ResponseTag>GARBLED_TEXT</ResponseTag>
+      <Requirements>
+        <SpeakerFaction>FACTION_CRYSTALLINE</SpeakerFaction>
+        <ListenerHasUniversalTranslator>false</ListenerHasUniversalTranslator>
+      </Requirements>
+      <Text>Ekranda parıldayan bir yaratık beliriyor, vücudu mavi kristalden oluşuyor ve geniş zeki gözlere sahip. Her ne kadar güzel olsa da, onu gördüğünüzde duyduğunuz hayranlık yüzüne yansımıyor, bunun yerine sempatik ya da tiksinmiş görünüyor. [BR][BR]Yaratık sizi düşünürken kısa bir duraklama oluyor ve neredeyse zihninizde uzaktan yankılanan anılar gibi sesler duyuyorsunuz. Ama ne dediklerini ya da uzaylıdan mı geldiklerini anlayamıyorsunuz. Hayal kırıklığına uğrayan yaratık neredeyse müzikal tonlarda yumuşak bir şekilde mırıldanıyor. Çok güzel ama bir o kadar da anlaşılmaz. [BR][BR](Evrensel Çevirmen'i araştırmanız gerekiyor)</Text>
+      <PreferenceWeight>100</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <ResponseTag>GARBLED_TEXT</ResponseTag>
+      <Requirements>
+        <SpeakerFaction>FACTION_MOTH</SpeakerFaction>
+        <ListenerHasUniversalTranslator>false</ListenerHasUniversalTranslator>
+      </Requirements>
+      <Text>Gelen mesaj, doğal olarak tüy ve kitinle kaplı ince bir uzaylının görüntüsüyle birlikte geliyor. Büyük bileşik gözler hızla ve sık sık yanıp sönüyor. [BR][BR]Varlıktan bir dizi melodik tıslama sesi geliyor. Kısa bir duraklamanın ardından, hoparlörlerden yumuşak el hareketleriyle birlikte bir dizi ses daha gelir. Mesajı deşifre edecek bir araç olmadan, doğru iletişim kurulamaz.[BR][BR](Evrensel Çevirmen'i araştırmanız gerekiyor)</Text>
+      <PreferenceWeight>100</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+</FlavorTextDefs>

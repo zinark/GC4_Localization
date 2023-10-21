@@ -1,0 +1,201 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<FlavorTextDefs xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
+  <FlavorTextDef>
+    <InternalName>Tutorial_GenericConfirm</InternalName>
+    <FlavorTextOption>
+      <Text>Anlaşıldı</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_StartOfGame</InternalName>
+    <FlavorTextOption>
+      <Text>Galaktik Uygarlıklar IV'e hoş geldiniz.  Bugün insanlığın Işık Hızından Daha Hızlı seyahati gerçekleştirdikten sonra attığı ilk adımları gözden geçireceğiz. Birleşik Dünya diğer gezegenleri kolonileştirmeye karar verdiğinde, bu çabayı denetleyecek olan Terran İttifakı adında bir örgüt kurdu.  İlk görevi potansiyel kolonileşme adaylarını bulmak için uzayı keşfetmekti. [BR][BR]Galaksiyi keşfetmek ve tanımak İttifak'ın [HS=HS_ZoneOfControl]Kontrol Bölgesini[/HS] genişletmenin ilk adımıdır. Sondalar evreni keşfetmenin en iyi yoludur. Sınırsız [HS=HS_ShipRange]Range[/HS] menzile sahiptirler ve hızlı hareket edebilirler.[BR][BR][I]Görev raporlarınız ekranın SOL tarafında turuncu simgeler olarak görünecektir. İncelemek için birine SOL tıklayın.[/I][BR][BR]Yakın zamanda Dünya'nın yörüngesine yakın bir derin uzay Sondası fırlatıldı. SOL Fare Düğmesini kullanarak bu Sondayı seçin ve keşfe başlamak için [HS=HS_ShipMovement]Move[/HS] emrini verin. Bu, SAĞ Fare Düğmesi ile Sondanın haritada nereye hareket etmesi gerektiğini seçerek veya [ICON=AutoExplore_Icon] [HS=HS_AutoExplore]Auto-Explore[/HS] modunu Sondanın arayüzünde seçerek yapılabilir. Bir [HS=HS_Months]Month[/HS] ancak tüm gemiler ve filolar tüm hamlelerini kullandıktan veya Beklemeye alındıktan sonra bitirilebilir. [BR][BR]Olağandışı sinyaller rapor edildi. Kaynağı ve anlamı ayırt edilemeyecek kadar zayıf, ancak başka bir Uygarlık olduğuna inanılıyor. Onları bulmak için Sondayı kullanın.[BR][BR]Ne</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_StartSurveyObjective</InternalName>
+    <FlavorTextOption>
+      <Text>Drengin'e karşı dikkatli olunmalıdır. Ne olursa olsun, İttifak [HS=HS_Sector]Sektör[/HS]'ü güvence altına almaya devam etmelidir. [BR][BR][HS=HS_SurveyShip]Araştırma Gemileri[/HS] galaksiyi keşfetmenin bir diğer kritik parçasıdır. [HS=HS_SurveyShip]Survey Ships[/HS] Sondalardan daha yavaş olabilir ve [HS=HS_ShipRange]Range[/HS] kısıtlıdır, ancak kendilerini savunabilirler. Daha da önemlisi, [HS=HS_SurveyShip]Survey Ships[/HS] [HS=HS_Anomaly]Anomalileri[/HS] araştırmak için kullanılabilir. [BR][BR][HS=HS_Anomaly]Anomaliler[/HS] birçok şekilde olabilir, ancak hepsi bir [HS=HS_SurveyShip]Survey Ship[/HS] tarafından taranabilir. Bir [HS=HS_SurveyOrder]Survey[/HS]'in tamamlanması birkaç [HS=HS_Months]Months[/HS] sürer, ancak tamamlandığında genellikle faydalı kaynaklar, bileşenler veya teknoloji ortaya çıkar. [BR][BR][HS=HS_SurveyShip]Survey Ship[/HS] [HS=HS_SurveyOrder]Survey[/HS] bir [HS=HS_Anomaly]Anomaly[/HS] için sipariş edilebilir [HS=HS_Anomaly]Anomaly[/HS] konumuna komut vererek veya [ICON=AutoSurvey_Icon] [HS=HS_AutoSurvey]Auto- Geminin özelliğini araştırın[/HS]. [BR][BR]Tamamlanan Hedef:  Diğer Uygarlığın Yerini Tespit Et[BR]Yeni Hedef: Bir Anomaliyi Tarayın</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_SurveyedFirstAnomaly</InternalName>
+    <FlavorTextOption>
+      <Text>Başarı![BR][BR]HS_SurveyShip]Survey Ship[/HS], [HS=HS_SurveyOrder]Surveying[/HS] an [HS=HS_Anomaly]Anomaly[/HS]'i bitirdi. Şimdi, ortaya çıkarılan şeyle başa çıkma zamanı.[BR][BR]Galaksiyi keşfetmek sadece ilk adım. İttifak'ın etkisini genişletmek için yeni dünyaları kolonileştirmek gerekecek. Tüm gezegenler kolonileştirilebilir olarak kabul edilmez. Gezegenlerin bir [HS=HS_PlanetClass]Gezegen Sınıfı[/HS] vardır, bir gezegenin ne kadar büyük, kaynak bakımından zengin ve yaşanabilir olduğunu derecelendirir. 0'dan yüksek olan her şey kolonileştirilebilirdir. [HS=HS_PlanetClass]Planet Class[/HS] 0 olan gezegenler [HS=HS_DeadWorld]Dead World[/HS] olarak kabul edilir. [BR][BR][HS=HS_Colinizing]Colonized[/HS] gezegenler en yakın [HS=HS_CoreWorld]Core World[/HS]'e kaynak sağlar. İttifak'ın tek [HS=HS_CoreWorld]Çekirdek Dünyası[/HS] Ana Dünya olan Dünya'dır. [BR][BR]Bir gezegeni [HS=HS_ColonizeOrder]Kolonileştirmek[/HS] için İttifak tarafından sağlanan Koloni Gemisini kullanın. Mars her zaman en yakın uygulanabilir komşu olmuştur. Oradan başlamanız tavsiye edilir. Taramak için evreni [HS=HS_Anomaly]Anomaliler[/HS] için araştırmaya devam etmeyi unutmayın; etrafımızdaki galaksiye dair anlayışımızı genişletmeye ve fayda sağlamaya devam edecekler.[BR][BR]Tamamlanan Hedef: Bir Anomali Tarayın[BR]Yeni Hedef: Bir Gezegeni Kolonileştir[BR]Yeni Hedef: 5 Anomaliyi Tarayın</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_SurveyedTargetAnomalies</InternalName>
+    <FlavorTextOption>
+      <Text>İttifak [HS=HS_SurveyOrder]Surveying[/HS] 5 [HS=HS_Anomaly]Anomalies[/HS] hedefini tamamladı. Hepsi güvenli olmasa bile her biri farklı bir deneyim oldu. Bir hedef olmasa bile, [HS=HS_Anomali]Anomalileri[/HS] taramaya devam etmek faydalı olacaktır.[BR][BR]Tamamlanan Hedef: 5 Anomali Tarayın</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_StartStarbaseObjective</InternalName>
+    <FlavorTextOption>
+      <Text>Bu, oyuncunun 4 gezegeni kolonileştirdiği ve öğretici sırasında bir dönüşün başlangıcında olduğu koçan metnidir. Bir kurucunun nasıl yapılacağı ve bir yıldız üssüne nasıl dönüştürüleceği konusunda açık talimatlar içeren bir Ekonomik Yıldız Üssü İnşa Etme hedefi alacaklar.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_MasteredAsteroidMining</InternalName>
+    <FlavorTextOption>
+      <Text>(YER TUTUCU) Bu olay, oyuncu asteroit madenciliğinde ustalaştığında ve halihazırda bir asteroit kuşağı çıkarmak için hedef dalında olmadığında gerçekleşir. Bu olay, nasıl yapılacağına dair açık talimatlarla birlikte bir asteroit kuşağı çıkarma hedefi verir.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_MasteredAsteroidMiningOnObjective</InternalName>
+    <FlavorTextOption>
+      <Text>(YER TUTUCU) Bu olay, oyuncu asteroit madenciliğinde ustalaştığında ve aktif olarak bir asteroit kuşağı çıkarmak için hedef dalında olduğunda meydana gelir. Bu etkinlik, nasıl yapılacağına dair açık talimatlarla birlikte bir asteroit kuşağı çıkarma hedefi verir. 'Asteroit Madenciliği Teknolojisinde Ustalaş' hedefini tamamlamayı tanır</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_CompletedStarbase</InternalName>
+    <FlavorTextOption>
+      <Text>(YER TUTUCU) bu olay, oyuncu bu adımdayken ekonomik yıldız üssünü inşa ettikten sonra gerçekleşir. Ekonomik yıldız üssü inşasının tamamlandığını tanır ve kullanımları güçlendirir.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_CompletedStarbaseStartAsteroidMining</InternalName>
+    <FlavorTextOption>
+      <Text>(YER TUTUCU) bu olay, oyuncu bu adımdayken ekonomik yıldız üssünü inşa ettikten sonra gerçekleşir. Ekonomik yıldız üssü inşasının tamamlandığını bildirir ve kullanımları güçlendirir. Asteroit Madenciliğini tanıtır ve Asteroit Madenciliği teknolojisinde ustalaşma hedefi verir.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_MinedAnAsteroid</InternalName>
+    <FlavorTextOption>
+      <Text>(YER TUTUCU) Bu olay, oyuncu bir asteroit çıkardıktan ve 'bir asteroit çıkar' adımını tamamladıktan sonra gerçekleşir.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_ColonizedFirstPlanetNormal</InternalName>
+    <FlavorTextOption>
+      <Text>İttifak için dev bir adım.[BR][BR]İttifak ilk dünyasını [HS=HS_Colinizing]Colonized[/HS] etti. İttifak artık bir gezegeni sahiplendiğine göre, en yakın [HS=HS_CoreWorld]Çekirdek Dünya'ya[/HS] ek kaynaklar sağlayacaktır. Gezegenin seçilmesi çıktının yolunu gösterecektir. [BR][BR][ICON=Stat_Minerals_Icon] [HS=HS_Minerals]Minerals[/HS], [ICON=Stat_Technology_Icon] [HS=HS_Technology]Technology[/HS] ve [ICON=Stat_Wealth_Icon] [HS=HS_Wealth]Wealth[/HS] gibi kaynaklar genişlemek ve gelişmek için çok önemlidir. Ne kadar çok gezegen [HS=HS_Colinizing]Colonized[/HS] olursa, [HS=HS_CoreWorld]Core Worlds[/HS] o kadar iyi projeler gerçekleştirebilir ve tamamlayabilir.[BR][BR]Bir yer edinmenin bir sonraki adımı daha fazla gezegene yerleşmek ve sonunda başka bir [HS=HS_CoreWorld]Core World[/HS] kurmak olacaktır.[BR]Tamamlanan Hedef: Bir Gezegeni Kolonileştirin[BR]Yeni Hedef: 8 Gezegeni Kolonileştirmek</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_ColonizedFirstPlanetCoreWorld</InternalName>
+    <FlavorTextOption>
+      <Text>İttifak için dev bir adım.[BR][BR]İttifak [HS=HS_Colinizing]Colonized[/HS] ilk dünyasını, daha büyük bir koloniyi destekleyecek ve bir [HS=HS_CoreWorld]Core World[/HS] olacak kadar büyük bir dünyayı kolonileştirdi. Birçok gezegen çok küçüktür veya onu bir [HS=HS_CoreWorld]Core World[/HS] haline getirmeyi haklı çıkaracak kaynaklardan yoksundur. Dolayısıyla, yeterince büyük bir gezegene yerleşildiğinde, bundan tam olarak yararlanılmalıdır. [BR][BR][HS=HS_CoreWorld]Core Worlds[/HS] bir [HS=HS_Shipyard]Shipyard[/HS] destekleyebilir ve geliştirilebilir, ancak bunun için bir [HS=HS_Leaders]Leader[/HS]'ın [HS=HS_Governor]Governor[/HS] olarak atanması gerekir. [BR][BR]Bir [HS=HS_Leaders]Leader[/HS], gezegen seçilerek ulaşılabilen [ICON=Menu_PlanetManagement_Icon] [HS=HS_PlanetManagement]Planet Management Window[/HS]'dan atanabilir.[BR]Tamamlanan Hedef: Bir Gezegeni Kolonileştirin[BR]Yeni Hedef: 8 Gezegeni Kolonileştirin[BR]Yeni Hedef: Bir Vali Atayın</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_ColonizedNewPlanetNormal</InternalName>
+    <FlavorTextOption>
+      <Text>İttifak [HS=HS_Colinizing]Kolonileştirilmiş[/HS] başka bir gezegene sahiptir. Bir [HS=HS_CoreWorld]Çekirdek Dünya[/HS] olmayan gezegenler en yakın [HS=HS_CoreWorld]Çekirdek Dünya[/HS]'ya ek kaynaklar sağlar. Gezegenin seçilmesi çıktının yolunu gösterecektir. [BR][BR][ICON=Stat_Minerals_Icon] [HS=HS_Minerals]Minerals[/HS], [ICON=Stat_Technology_Icon] [HS=HS_Technology]Technology[/HS] ve [ICON=Stat_Wealth_Icon] [HS=HS_Wealth]Wealth[/HS] gibi kaynaklar genişlemek ve gelişmek için çok önemlidir. Ne kadar çok gezegen [HS=HS_Colinizing]Colonized[/HS] olursa, [HS=HS_CoreWorld]Core Worlds[/HS] o kadar iyi projeler gerçekleştirebilir ve tamamlayabilir.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_ColonizedNewPlanetCoreWorld</InternalName>
+    <FlavorTextOption>
+      <Text>Yeni bir [HS=HS_CoreWorld]Core World[/HS] kurmaya yetecek büyüklükteki ilk gezegeninize yerleştiniz![BR][BR]Birçok gezegen kolonilerin genişlemesine izin verecek kadar büyük değildir. Bir [HS=HS_Shipyard]Shipyard[/HS]'ı desteklemek için çok küçük olan gezegenler daha büyük kolonileri desteklemek için çok uygundur. Bu küçük koloniler herhangi bir ek liderlik veya yönetim gerektirmez. [BR][BR]Nadir olmaları nedeniyle, daha büyük kolonileri haklı çıkaracak kadar zengin kaynaklara sahip herhangi bir gezegenden yararlanmak tavsiye edilir. Bunu yapmak için, bir [HS=HS_Leaders]Leader[/HS] gezegene [HS=HS_Governor]Governor[/HS] olarak atanmalıdır. Bir [HS=HS_Governor]Governor[/HS] atandıktan sonra, gezegene bir [HS=HS_Shipyard]Shipyard[/HS] inşa edilebilir ve gezegen kaynakları daha iyi kullanmak için geliştirilebilir. [BR][BR][HS=HS_Leaders]Liderler[/HS], [ICON=Menu_Leader_Icon] [HS=HS_LeaderMenu]Liderler Menüsü[/HS] altındaki [HS=HS_RecruitmentScreen]İşe Alım Ekranından[/HS] işe alınabilir. İşe alınan [HS=HS_Leaders]Liderler[/HS] daha sonra [HS=HS_GovernorsScreen]Valiler Ekranı[/HS] altındaki gezegenleri yönetmek üzere atanabilir.[BR][BR]Yeni Hedef: Bir Vali Atayın</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_ColonizedCoreworld</InternalName>
+    <FlavorTextOption>
+      <Text>Yeni bir [HS=HS_CoreWorld]Core World[/HS] kurmaya yetecek büyüklükteki ilk gezegeninize yerleştiniz![BR][BR]Birçok gezegen kolonilerin genişlemesine izin verecek kadar büyük değildir. Bir [HS=HS_Shipyard]Shipyard[/HS]'ı desteklemek için çok küçük olan gezegenler daha büyük kolonileri desteklemek için çok uygundur. Bu küçük koloniler herhangi bir ek liderlik veya yönetim gerektirmez. [BR][BR]Nadir olmaları nedeniyle, daha büyük kolonileri haklı çıkaracak kadar zengin kaynaklara sahip herhangi bir gezegenden yararlanmak tavsiye edilir. Bunu yapmak için, bir [HS=HS_Leaders]Leader[/HS] gezegene [HS=HS_Governor]Governor[/HS] olarak atanmalıdır. Bir [HS=HS_Governor]Governor[/HS] atandıktan sonra, gezegene bir [HS=HS_Shipyard]Shipyard[/HS] inşa edilebilir ve gezegen kaynakları daha iyi kullanmak için geliştirilebilir. [BR][BR][HS=HS_Leaders]Liderler[/HS], [ICON=Menu_Leader_Icon] [HS=HS_LeaderMenu]Liderler Menüsü[/HS] altındaki [HS=HS_RecruitmentScreen]İşe Alım Ekranından[/HS] işe alınabilir. İşe alınan [HS=HS_Leaders]Liderler[/HS] daha sonra [HS=HS_GovernorsScreen]Governors Ekranı[/HS] altındaki gezegenleri yönetmek için atanabilir.[BR][BR]Tamamlanan Hedef: 10. Sınıf veya Daha Büyük Bir Gezegeni Kolonileştirin[BR]Yeni Hedef: Bir Vali Atayın</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_ColonizeTargetPlanets</InternalName>
+    <FlavorTextOption>
+      <Text>Terran İttifakı, insanlığın uzaydaki yerini güvence altına almak için gezegenleri kolonileştirmekle görevlendirildi. Hiç kimse İttifak'ın başarıyla [HS=HS_Colinizing]Kolonileştirilen[/HS] tüm gezegenlerdeki yetkinliğine itiraz edemez. Bu başarının tadını çıkarmak için bir dakikanızı ayırın.[BR][BR]Tamamlanan Hedef: 8 Gezegeni Kolonileştirin</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_ColonizeTargetPlanetsLastCoreworld</InternalName>
+    <FlavorTextOption>
+      <Text>Terran İttifakı, insanlığın uzaydaki yerini güvence altına almak için gezegenleri kolonileştirmekle görevlendirildi. Hiç kimse İttifak'ın başarıyla [HS=HS_Colinizing]Kolonileştirilen[/HS] tüm gezegenlerdeki yetkinliğine itiraz edemez. Bu başarının tadını çıkarmak için bir dakikanızı ayırın.[BR][BR]Ayrıca yeni bir [HS=HS_CoreWorld]Core World[/HS] kuracak kadar büyük ilk gezegeninize yerleştiniz![BR][BR]Birçok gezegen kolonilerin genişlemesine izin verecek kadar büyük değildir. Bir [HS=HS_Shipyard]Shipyard[/HS]'ı desteklemek için çok küçük olan gezegenler daha büyük kolonileri desteklemek için çok uygundur. Bu küçük koloniler herhangi bir ek liderlik veya yönetim gerektirmez. [BR][BR]Nadir olmaları nedeniyle, daha büyük kolonileri haklı çıkaracak kadar zengin kaynaklara sahip herhangi bir gezegenden yararlanmak tavsiye edilir. Bunu yapmak için gezegene bir [HS=HS_Leaders]Leader[/HS], [HS=HS_Governor]Governor[/HS] olarak atanmalıdır. Bir [HS=HS_Governor]Governor[/HS] atandıktan sonra, gezegene bir [HS=HS_Shipyard]Shipyard[/HS] inşa edilebilir ve gezegen kaynakları daha iyi kullanmak için geliştirilebilir. [BR][BR][HS=HS_Leaders]Liderler[/HS], [ICON=Menu_Leader_Icon] [HS=HS_LeaderMenu]Liderler Menüsü[/HS] altındaki [HS=HS_RecruitmentScreen]İşe Alım Ekranı[/HS]'ndan işe alınabilir. İşe alınan [HS=HS_Leaders]Liderler[/HS] daha sonra [HS=HS_GovernorsScreen]Valiler Ekranı[/HS] altındaki gezegenleri yönetmek için atanabilir.[BR][BR]Tamamlanan Hedef: 8 Gezegeni Kolonileştirin[BR]Yeni Hedef: Bir Vali Atayın</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_ColonzieTargetWorldsNoCoreworld</InternalName>
+    <FlavorTextOption>
+      <Text>Terran İttifakı, insanlığın uzaydaki yerini güvence altına almak için gezegenleri kolonileştirmekle görevlendirildi. Hiç kimse İttifak'ın başarılı bir şekilde [HS=HS_Colinizing]Kolonileştirilen[/HS] tüm gezegenlerdeki yetkinliğine itiraz edemez. Bu başarının tadını çıkarmak için bir dakikanızı ayırın.[BR][BR]Henüz yapılacak işler var. [HS=HS_Colinizing]Colonized[/HS] gezegenlerinin hiçbiri genişlemeyi haklı çıkaracak kadar yüksek bir sınıfa sahip değil. [HS=HS_PlanetClass]Planet Class[/HS] 10 veya daha yüksek [HS=HS_ColonizeOrder]Colonize[/HS] olan bir Gezegen aramaya devam edin, böylece yeni bir [HS=HS_CoreWorld]Core World[/HS] kurabiliriz.[BR][BR]Tamamlanan Hedef: 8 Gezegeni Kolonileştirin[BR]Yeni Hedef: 10. Sınıf veya Daha Büyük Bir Gezegeni Kolonileştirmek</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_InstalledGovernor</InternalName>
+    <FlavorTextOption>
+      <Text>Başarıyla bir [HS=HS_Governor]Vali[/HS] atadınız! Onların varlığı Koloniyi bir [HS=HS_CoreWorld]Çekirdek Dünya[/HS] haline getirir, burada bir [HS=HS_Shipyard]Tersane[/HS] inşa edilebilir ve gezegen geliştirilebilir. [BR][BR]Bazı kötü haberler var. Raporlar Sektörde Korsanların varlığını doğruladı. Uzayda bir yer edinmelerine ve gemi inşa etmelerine izin verilse de, onlar bir tehdit. Kolonilerimizin güvenliğini sağlamak için onların [HS=HS_Shipyard]Shipyard[/HS]'ını yok etmeliyiz.[BR][BR]Tamamlanan Hedef: Bir Vali Atayın[BR]Yeni Hedef: Bir Korsan Tersanesini Yok Etmek</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_InformPlayerUnlockedLeaderScreen</InternalName>
+    <FlavorTextOption>
+      <Text>No one can manage the entire Terran Alliance alone, no matter how competent. With the appropriate infrastructure, [HS=HS_Leaders]Leaders[/HS] can now be recruited. Every applicant has strengths and weaknesses, making them more or less suitable for any role.[BR][BR][HS=HS_Leaders]Leaders[/HS] can serve as [HS=HS_Governor]Governors[/HS] and manage a [HS=HS_CoreWorld]Core World[/HS], become [HS=HS_Diplomat]Diplomats[/HS] (if contact is made with other groups), and, importantly, they can serve as [HS=HS_Minister]Ministers[/HS]. [HS=HS_Minister]Ministers[/HS] focus on benefiting the entire civilization. Each ministry office has an area of focus and gives a benefit based on a Leader's specific skill.[BR][BR]Recruit new [HS=HS_Leaders]Leaders[/HS] from the [ICON=Menu_Leader_Icon] [HS=HS_LeaderMenu]Leaders Menu[/HS] under the [HS=HS_RecruitmentScreen]Recruitment Screen[/HS]. [HS=HS_Leaders]Leaders[/HS] can then be assigned to new roles under the [HS=HS_MinistersScreen]Ministers Screen[/HS].[BR][BR]New Objective: Appoint 3 Ministers</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_CabinetFilled</InternalName>
+    <FlavorTextOption>
+      <Text>Birkaç [HS=HS_Leaders]Leaders[/HS]'ı [HS=HS_Minister]Minister[/HS] olarak başarılı bir şekilde atadınız. Onların desteği galaksinin keşfedilmesine, yeni gezegenlere yerleşilmesine ve Terran İttifakının Nüfuzunun genişlemesine yardımcı olmak için uzun bir yol kat edecektir. Yeni [HS=HS_Leaders]Liderler[/HS] işe aldıkça veya yetenekleri değiştikçe, bir [HS=HS_Leaders]Liderin[/HS] sahip olduğu rolü [ICON=Menu_Leader_Icon] [HS=HS_LeaderMenu]Liderler Menüsünden[/HS] her zaman değiştirebilirsiniz.[BR][BR]Tüm İttifaka fayda sağlamanın başka yolları da vardır. [HS=HS_Policy]Politikalar[/HS] tüm kolonileri ve filoları etkilemek için çıkarılabilen kurallardır. Bir [HS=HS_Policy]Policy[/HS] yürürlüğe koymak için, uygun [HS=HS_Tech]Tech[/HS] [HS=HS_ResearchCenter]Research Center[/HS]'da araştırılmalıdır. [ICON=Menu_CivilizationMenu_Icon] [HS=HS_CivilizationMenu]Uygarlık Menüsü[/HS] ve bir [HS=HS_Policy]Policies[/HS] yuvasına erişmek için Koloni Politikalarını araştırın.[BR][BR]Tamamlanan Hedef: 3 Bakan Atayın[BR]Yeni Hedef: Sömürge Politikalarını Araştırma</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_CabinetFilledUnlockedPolicyScreen</InternalName>
+    <FlavorTextOption>
+      <Text>Birkaç [HS=HS_Leaders]Leaders[/HS]'ı [HS=HS_Minister]Minister[/HS] olarak başarılı bir şekilde atadınız. Onların desteği galaksinin keşfedilmesine, yeni gezegenlere yerleşilmesine ve Terran İttifakının Nüfuzunun genişlemesine yardımcı olmak için uzun bir yol kat edecektir. Yeni [HS=HS_Leaders]Liderler[/HS] işe aldıkça veya yetenekleri değiştikçe, bir [HS=HS_Leaders]Liderin[/HS] sahip olduğu rolü [ICON=Menu_Leader_Icon] [HS=HS_LeaderMenu]Liderler Menüsünden[/HS] her zaman değiştirebilirsiniz.[BR][BR]Tüm İttifaka fayda sağlamanın başka yolları da vardır. [HS=HS_Policy]Politikalar[/HS] tüm kolonileri ve filoları etkilemek için çıkarılabilen kurallardır. Uygun [HS=HS_Tech]Tech[/HS] Koloni Politikaları araştırılarak zaten açılır. Şimdi, bir [HS=HS_Policy]Policies[/HS] [ICON=Menu_CivilizationMenu_Icon] [HS=HS_CivilizationMenu]Civilization Menu[/HS]'de yürürlüğe konabilir.[BR][BR]Tamamlanan Hedef: 3 Bakan Atayın[BR]Yeni Hedef: Bir Politika Yürürlüğe Koyun</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_CabinetFilledEnactedAPolicy</InternalName>
+    <FlavorTextOption>
+      <Text>Birkaç [HS=HS_Leaders]Leaders[/HS]'ı [HS=HS_Minister]Minister[/HS] olarak başarılı bir şekilde atadınız. Onların desteği galaksinin keşfedilmesine, yeni gezegenlere yerleşilmesine ve Terran İttifakının Nüfuzunun genişlemesine yardımcı olmak için uzun bir yol kat edecektir. Yeni [HS=HS_Leaders]Liderler[/HS] işe aldıkça veya yetenekleri değiştikçe, bir [HS=HS_Leaders]Liderin[/HS] sahip olduğu rolü [ICON=Menu_Leader_Icon] [HS=HS_LeaderMenu]Liderler Menüsünden[/HS] her zaman değiştirebilirsiniz.[BR][BR]Tüm İttifaka fayda sağlamanın başka yolları da vardır. [HS=HS_Policy]Politikalar[/HS] tüm kolonileri ve filoları etkilemek için çıkarılabilen kurallardır. [HS=HS_Policy]Policies[/HS]'e erişmek için [HS=HS_Tech]Tech[/HS]'in kilidini zaten açtınız ve bir tane yürürlüğe koydunuz. Uygarlığın mevcut ihtiyaçlarına daha iyi uyması için [HS=HS_Policy]Policies[/HS]'i [ICON=Menu_CivilizationMenu_Icon] [HS=HS_CivilizationMenu]Civilization Menu[/HS]'de değiştirebileceğinizi unutmayın. [BR][BR]Tamamlanan Hedef: 3 Bakan Atayın</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_UnlockedPolicyScreen</InternalName>
+    <FlavorTextOption>
+      <Text>Araştırma tamamlandı! Artık Koloni Politikaları [HS=HS_Tech]Tech[/HS] araştırmasını tamamladığınıza göre, [ICON=Menu_CivilizationMenu_Icon] [HS=HS_CivilizationMenu]Civilization Menu[/HS] ve [HS=HS_Policy]Policies[/HS]'e erişim kazandınız. [BR][BR] [ICON=Menu_CivilizationMenu_Icon] [HS=HS_CivilizationMenu]Civilization Menu[/HS] altında, İttifakın üst düzey bir genel görünümünü elde edebilirsiniz. Genel Onay, Medeniyet Çıktıları ve daha fazlasını kontrol edebilirsiniz. [ICON=Menu_CivilizationMenu_Icon] [HS=HS_CivilizationMenu]Uygarlık Menüsü[/HS] ayrıca Uygarlık [HS=HS_Policy]Politikalarına[/HS] erişim sağlar. Yürürlüğe konabilecek [HS=HS_Policy]Policies[/HS] sayısı belirli [HS=HS_Tech]Techs[/HS] araştırılarak artırılabilir. İttifakın daha uyumlu çalışmasına yardımcı olmak için şimdi bir [HS=HS_Policy]Policy[/HS] yürürlüğe koymayı deneyin.[BR][BR]Tamamlanan Hedef: Sömürge Politikalarını Araştırın[BR]Yeni Hedef: Bir Politika Yürürlüğe Koyun</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_EnactedAPolicy</InternalName>
+    <FlavorTextOption>
+      <Text>Bir [HS=HS_Policy]Policy[/HS]'yi başarıyla yürürlüğe koydunuz. Değişiklik mümkün olan en kısa sürede gerçekleştirilecektir![BR][BR]Unutmayın ki [HS=HS_Policy]Policies[/HS] değişen hedeflere daha iyi uymak veya belirli sorunlara yanıt vermek için sıranız geldiğinde her zaman değiştirilebilir.[BR][BR]Tamamlanan Hedef: Bir Politika Yürürlüğe Koyun</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_PiratesSpotted</InternalName>
+    <FlavorTextOption>
+      <Text>TKTKTKTKTKTKTKTKTK</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_GuideToRushImprovement</InternalName>
+    <FlavorTextOption>
+      <Text>Bazen, özellikle çatışma sırasında, bir şeyin bitmesi için birkaç [HS=HS_Months]Months[/HS] beklemek bir seçenek değildir. Bu senaryolarda, birçok proje ve inşaat [HS=HS_Rush]Aceleye getirilebilir[/HS]. [HS=HS_Rush]Rushing[/HS] [ICON=Stat_Credits_Icon] [HS=HS_Credit]Credits[/HS], genellikle iyi bir miktar, ancak bir şeyi tamamlamak için gereken süreyi 1 [HS=HS_Months]Month[/HS]'a indirecektir. [BR][BR]Bazı koloniler çatışmanın çok fazla dikkat ve kaynak alacağından endişeleniyor. [HS=HS_Rush]Acele[/HS] bir gezegen iyileştirmesi yaparak endişelerini hafifletin ve onlara hala hatırlandıklarını ve İttifak'ın dünyalarını geliştirmeye yatırım yapmaya devam ettiğini gösterin. [BR][BR][HS=HS_Rush]Acele[/HS] bir Gezegen İyileştirmesi yapmak için bir [HS=HS_CoreWorld]Çekirdek Dünya[/HS] seçin ve Yönetim penceresini açın. Sol Fare Tuşu ile İnşa Kuyruğundaki herhangi bir öğeyi seçmek bazı bağlamsal seçenekleri ortaya çıkaracaktır. Bunlar arasında [HS=HS_Rush]Rush[/HS] seçeneği de bulunmaktadır. [ICON=Stat_Control_Icon] [HS=HS_Control]Control[/HS] ve [ICON=Stat_Credits_Icon] [HS=HS_Credit]Credits[/HS] gerekli olduğu sürece, [HS=HS_Rush]Rush[/HS] seçeneğini seçmek belirli bir iyileştirmeyi [HS=HS_Rush]Rush[/HS] yapacaktır. Gerekli kaynaklara sahip değilseniz [HS=HS_Rush]Rush[/HS] seçeneği grileşecek ve yanıt vermeyecektir.[BR][BR]Yeni Hedef: Bir Gezegensel İyileştirmeyi Aceleye Getirin</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_RushedImprovement</InternalName>
+    <FlavorTextOption>
+      <Text>İttifak vatandaşları, çalışmalarına yatırılan kaynakları takdir edeceklerdir. [BR][BR] [HS=HS_Rush]Rush[/HS]'ın Koloni başına yalnızca bir kez ve [HS=HS_Shipyard]Shipyard[/HS] başına bir kez [HS=HS_Months]Month[/HS] içinde kullanılabileceğini bilmek çok önemli olacaktır. Bu, genellikle gerekli olan yüksek fiyatın üstündedir. [HS=HS_Rush]Rushing[/HS] en iyi şekilde ciddi bir avantaj elde etmek veya bir soruna hızla yanıt vermek için kullanılır.[BR][BR]Tamamlanan Hedef: Bir Gezegensel İyileştirmeyi Aceleye Getirmek</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_GuideToExecutiveOrder</InternalName>
+    <FlavorTextOption>
+      <Text>Zamanla İttifak, insanları belirli emirleri yerine getirmeleri için etkileme veya zorlama yeteneğini temsil eden bir kaynak olan [ICON=Stat_Control_Icon] [HS=HS_Control]Control[/HS] kazanır. [ICON=Stat_Control_Icon] [HS=HS_Control]Control[/HS] çeşitli şekillerde harcanabilir ve genellikle en pahalıya mal olan yollardan biri [ICON=Menu_ExecutiveOrders_Icon] [HS=HS_ExecutiveOrders]Executive Order[/HS]'dır. [BR][BR][ICON=Menu_ExecutiveOrders_Icon] [HS=HS_ExecutiveOrders]Executive Order[/HS] hemen gerçekleşen ve çeşitli etkileri olabilen yeteneklerdir. Her türlü senaryoda faydalı olabilirler. İttifak genişledikçe Kolonist Taslağı emri en yararlı emir olabilir. İttifak'ın mevcut hedeflerine yardımcı olmak için bir [ICON=Menu_ExecutiveOrders_Icon] [HS=HS_ExecutiveOrders]Executive Order[/HS] kullanın. [BR][BR][ICON=Menu_ExecutiveOrders_Icon] [HS=HS_ExecutiveOrders]Executive Order[/HS] ilgili radyal seçenekten seçilir. Bazıları kullanım onaylanır onaylanmaz yürütülür. Diğerleri bir hedef gerektirir ve emir onaylandıktan sonra yönlendirilmelidir. Fareyi [ICON=Menu_ExecutiveOrders_Icon] [HS=HS_ExecutiveOrders]Executive Order[/HS] seçeneğinin üzerine getirin ve ardından bir emir seçmek için SOL Fare Düğmesini kullanın.[BR][BR]Yeni Hedef: Bir Yürütme Emri Kullanın</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_UsedExecutiveOrder</InternalName>
+    <FlavorTextOption>
+      <Text>Başarılı![BR][BR][ICON=Menu_ExecutiveOrders_Icon] [HS=HS_ExecutiveOrders]Yürütme Emriniz[/HS] gerçekleştirildi. Maliyetin yanı sıra, çoğu [ICON=Menu_ExecutiveOrders_Icon] [HS=HS_ExecutiveOrders]Executive Order[/HS], [ICON=Menu_ExecutiveOrders_Icon] [HS=HS_ExecutiveOrders]Executive Order[/HS]'ın tekrar kullanılabilmesi için geçmesi gereken [HS=HS_Months]Months[/HS] sayısını ölçen bir Bekleme süresine sahiptir. Yeterli [ICON=Stat_Control_Icon] [HS=HS_Control]Control[/HS] olduğundan emin olmak [HS=HS_CoreWorld]Core Worlds[/HS] her zaman iyi bir fikirdir, böylece [ICON=Menu_ExecutiveOrders_Icon] [HS=HS_ExecutiveOrders]Executive Orders[/HS] gerektiğinde kullanılabilir. [BR][BR]Tamamlanan Hedef: Yürütme Emri Kullanma</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_PirateShipyardDestroyed</InternalName>
+    <FlavorTextOption>
+      <Text>[HS=HS_Pirates]Pirate'in[/HS] bu [HS=HS_Sector]Sector[/HS]'deki operasyon üssü yok edildi. Geride kalan birkaç kişi olabilir, ancak bu [HS=HS_Sector]Sector[/HS]'daki varlıkları daha fazla gemi yaratma yeteneği olmadan azalacaktır.[BR][BR]Harika iş. Terran İttifakı bu Sektörde sağlam bir yer edinmeye daha yakın.[BR][BR]Tamamlanan Hedef: Bir Korsan Tersanesini Yok Etmek</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tutorial_NeedsUnlockLeaderScreen</InternalName>
+    <FlavorTextOption>
+      <Text>Terran İttifakı'nın etkisi genişledikçe, yetkin [HS=HS_Leaders]Liderlere[/HS] ihtiyacımız olacak. [HS=HS_Leaders]Liderler[/HS], [HS=HS_CoreWorld]Çekirdek Dünyaların[/HS] yönetilmesine yardımcı olabilir, [HS=HS_Minister]Bakanlar[/HS] olarak tüm İttifakın yararına hizmet edebilir ve daha fazlasını yapabilir. İttifakın [HS=HS_Leaders]Leader[/HS] işe almak için altyapının mevcut olduğundan emin olması gerekir. Bu, bir [HS=HS_CoreWorld]Çekirdek Dünya[/HS] üzerinde Koloni Liderliği Projesini tamamlayarak yapılabilir.[BR][BR]Yeni Hedef: Koloni Liderliği Projesini tamamlayın</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+</FlavorTextDefs>

@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<StringTableList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+  <StringTable>
+    <Label>Mercenaries_FACTION_TERRAN_Name</Label>
+    <String>Terran İttifakı</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_FACTION_TERRAN_ShortName</Label>
+    <String>Terralılar</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_FACTION_TERRAN_LeaderName</Label>
+    <String>DL Bradley</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_FACTION_TERRAN_Dec</Label>
+    <String>NA</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_FACTION_TERRAN_LeaderDec</Label>
+    <String>NA</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_FACTION_TERRAN_Callsign</Label>
+    <String>T.A.S.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_FACTION_TERRAN_StartupTitle</Label>
+    <String>NA</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_FACTION_TERRAN_StartupDescription</Label>
+    <String>NA</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_FACTION_TERRAN_StartupTraitsDescription</Label>
+    <String>Terranlar hızlı ve uzun menzilli gemileriyle doğal olarak maceracıdır. Üretim kapasiteleri ve diplomatik yetenekleri iyi değerlendirilir. Büyük filolar kurma yeteneklerine ise biraz daha ihtiyatla yaklaşılır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_FACTION_DRENGIN_Name</Label>
+    <String>Drengin İmparatorluğu</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_FACTION_DRENGIN_ShortName</Label>
+    <String>Drengin</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_FACTION_DRENGIN_LeaderName</Label>
+    <String>Lord Kona</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_FACTION_DRENGIN_Dec</Label>
+    <String>NA</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_FACTION_DRENGIN_LeaderDec</Label>
+    <String>NA</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_FACTION_DRENGIN_Callsign</Label>
+    <String>D.E.S.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_FACTION_DRENGIN_StartupTitle</Label>
+    <String>NA</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_FACTION_DRENGIN_StartupDescription</Label>
+    <String>NA</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_FACTION_DRENGIN_StartupTraitsDescription</Label>
+    <String>Drengin askerleri kara savaşlarında son derece etkilidir ve donanma gemileri de son derece sağlamdır. Askeri üretim yetenekleri de etkileyicidir, ancak Drengin kolonileri bazen hoşnutsuzlukla mücadele eder. Ünlü yaratıcılıklarının büyük bir kısmı isyanları durdurmak için kullanılır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_DLC_Torians_Name</Label>
+    <String>Torian Rejimi</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_DLC_Torians_ShortName</Label>
+    <String>Torian</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_DLC_Torians_LeaderName</Label>
+    <String>Tlas Kzientha</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_DLC_Torians_Dec</Label>
+    <String>NA</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_DLC_Torians_LeaderDec</Label>
+    <String>NA</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_DLC_Torians_Callsign</Label>
+    <String>T.C.S.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_DLC_Torians_StartupTitle</Label>
+    <String>Toria'da Devrim</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_DLC_Torians_StartupDescription</Label>
+    <String>Terran 1. Filosu cep evreninden geri döndü ve Dünya'ya doğru ilerliyor. Güçlü Drengin İmparatorluğu 10 yıldır ilk kez korkulacak bir düşmana sahip ve çok geç olmadan Terralıları durdurmak için en güçlü gemilerini geri çağırmaya başladı.[BR][BR]Toria halkı bu fırsatı değerlendirdi ve yeni zayıflamış Drengin işgal kuvvetlerini bir kez daha kendi dünyalarından devirerek filoyu kendi amaçları için ele geçirdi. Toria'da zalimlerinden bir tanesi bile hayatta kalmamıştır.[BR][BR]Arcean İmparatorluğu ve Terran İttifakı'ndan elçiler Toria uzayına ulaşmıştır. Toria'nın sonsuza dek özgür kalmak için ihtiyaç duyduğu müttefikler onlar mı olacak?</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_DLC_Torians_StartupTraitsDescription</Label>
+    <String>Yeni doğan Torian Rejimi, ele geçirilen Drengin gemilerinden oluşan küçük bir filo ve hemen herkesle çalışma isteği dışında çok az varlığa sahiptir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_DLC_Arceans_Name</Label>
+    <String>Okyanus İmparatorluğu</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_DLC_Arceans_ShortName</Label>
+    <String>Arcean</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_DLC_Arceans_LeaderName</Label>
+    <String>Lord Verga</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_DLC_Arceans_Dec</Label>
+    <String>NA</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_DLC_Arceans_LeaderDec</Label>
+    <String>NA</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_DLC_Arceans_Callsign</Label>
+    <String>A.E.S.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_DLC_Arceans_StartupTitle</Label>
+    <String>NA</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_DLC_Arceans_StartupDescription</Label>
+    <String>NA</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mercenaries_DLC_Arceans_StartupTraitsDescription</Label>
+    <String>Arcean İmparatorluğu'nun elinde çok fazla varlık kalmamıştı; sadece ana gezegenleri ve Drengin'den kurtardıkları birkaç değerli kaynak. Uçurumun kenarından her zamankinden daha güçlü ve dirençli bir şekilde geri döndüler. [BR][BR]Okyanus halkı uzun bir asalet ve tarafsızlık geçmişine sahiptir, ancak işgal onları suçları affetmeye veya özgürlüklerine yönelik tehditleri hoş görmeye çok daha az istekli hale getirdi.</String>
+  </StringTable>
+</StringTableList>

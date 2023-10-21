@@ -1,0 +1,292 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<StringTableList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+  <StringTable>
+    <Label>Quest_BluffingPirate_Name</Label>
+    <String>Blöfçü Korsan</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_BluffingPirate_Dec</Label>
+    <String>Araştırma geminiz bir uzay çöpü alanından gelen tuhaf bir sinyale yaklaşıyor. Gemi nihayet sinyali yayan nesnenin yerini tespit edip yaklaştığında, geminin dahili telefonundan bir ses geliyor. 
+ 
+ 	 	 	 "İşte! Galaksinin en büyük korsanları olan Kaptan Yıldızsakal, *bark-bark* ...ve benim ikinci kaptanım Nebula'nın pençelerine düştünüz!  Gemim Cosmos Dread ve onun cesur filosunun gazabına uğramamak için kredilerinizi hemen teslim edin."
+ 
+ 	 	 	 Daha fazla tarama yapıldığında, "Cosmos Dread" iki yaşam formu tarafından kullanılan bir maden gemisinden biraz daha fazlası gibi görünüyor. "Gemilerden" gelen düzinelerce iletişim sinyali tespit edildi, ancak taramalar uzay çöpünden başka bir şey olmadığını gösteriyor.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_BluffingPirate_Liberty_Bonus_Name</Label>
+    <String>Saflarımıza katılmaya ne dersin, ey korkutucu Yıldız Sakalı?</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_BluffingPirate_Liberty_Bonus_Dec</Label>
+    <String>Bir lider kazanın</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_BluffingPirate_Equality_Bonus_Name</Label>
+    <String>Cosmos Dread ve mürettebatı için bir "korsan" görevi teklif edin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_BluffingPirate_Equality_Bonus_Dec</Label>
+    <String>Cosmos Dehşeti Ödülü</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_BluffingPirate_Authority_Bonus_Name</Label>
+    <String>Korsanlarla pazarlık yapmayız.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_BluffingPirate_Authority_Bonus_Dec</Label>
+    <String>Bir korsan gemisi yarat</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_GalacticConservation_Name</Label>
+    <String>Galaktik Koruma</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_GalacticConservation_Dec</Label>
+    <String>Galaksilerarası Yaban Hayatı Koruma Kurumu (IWC) galaksinin dört bir yanından çalışma için örnekler toplamak istiyor. Özellikle de, evrendeki biyolojik çeşitliliği ve adaptasyon kabiliyetini daha iyi anlamak için birçok farklı ortamda yaşamaya uygun canlıları bir araya getirmeyi umuyorlar. Yeni veriler toplamak için en iyi yerin kolonileştirilmemiş karasal gezegenler olduğu konusunda hemfikirler. 
+ 
+ 	 	 IWC onlara çalışmalarında yardımcı olmak için bir hibe teklif ediyor. Bu hibeye kaşifler ve bilim adamlarıyla dolu, çalışmaya gönderilmeye hazır ücretsiz bir koloni gemisi de dahildir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_GalacticConservation_Liberty_Bonus_Name</Label>
+    <String>Hibeyi kabul etmekten ve IWC'ye çabalarında yardımcı olmaktan memnuniyet duyuyoruz.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_GalacticConservation_Liberty_Bonus_Dec</Label>
+    <String>Bir Görev Başlat
+ 	 	 	 Serbest Koloni Gemisi</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_GalacticConservation_Liberty_QuestDescription</Label>
+    <String>IWC, galaksideki vahşi yaşamı inceleyebilmeleri için karasal gezegenleri kolonileştirmemizi istedi.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_GalacticConservation_Liberty_ObjectiveDisplayName1</Label>
+    <String>Üç Karasal dünyayı kolonileştirin {VALUE}\{AMOUNT}</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_GalacticConservation_Equality_Bonus_Name</Label>
+    <String>IWC'yi görmezden gel.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_GalacticConservation_Equality_Bonus_Dec</Label>
+    <String>Etki Yok</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_GalacticConservation_End_Name</Label>
+    <String>Galaktik Koruma</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_GalacticConservation_End_Dec</Label>
+    <String>Galaksilerarası Yaban Hayatı Koruma Kurumu (IWC) galaktik koruma programının başarısını bildirmekten memnuniyet duyar. Bu gezegenlerdeki varlığımız galaksinin doğal alanları ve buralarda yaşayan canlılar hakkında daha fazla bilgi edinmemizi sağlayacaktır. 
+ 
+ 	 	 Programın başarısı üzerine IWC "The Arc "ı görevlendirmiştir. Galaksinin dört bir yanından gelen canlı örneklerle dolu bir gemi. Galaksi boyunca ekosistemleri restore eden uçan bir ekoloji laboratuarı olması amaçlanmıştır. IWC'nin koruma çabalarına verdiğimiz destekten ötürü The Arc bize emanet edildi.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_GalacticConservation_End_Liberty_Bonus_Name</Label>
+    <String>The Arc'ı çok iyi kullanacağız.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_GalacticConservation_End_Liberty_Bonus_Dec</Label>
+    <String>Ödüllü The Arc</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_ExpandReach_Name</Label>
+    <String>Erişim Alanımızı Genişletin</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_ExpandReach_Dec</Label>
+    <String>Liderlik konseyi, uygarlığımızın erişim alanını hızla daha fazla gezegene genişletmemiz gerektiğine inanıyor. Nüfus artışımızı ve kaynak ihtiyacımızı karşılayacak kadar kolonimiz olmadığından endişe ediyorlar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_ExpandReach_Liberty_Bonus_Name</Label>
+    <String>Yeni koloniler kurmak</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_ExpandReach_Liberty_Bonus_Dec</Label>
+    <String>Göreve Başla +3 Koloni Gemisi</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_ExpandReach_Liberty_QuestDescription</Label>
+    <String>Liderlik konseyi tarafından yönlendirildiği üzere daha fazla koloni kurmalıyız.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_ExpandReach_Liberty_ObjectiveDisplayName1</Label>
+    <String>3 yeni koloni kurun</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_ExpandReach_End_Name</Label>
+    <String>Erişim Alanı Genişletildi</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_ExpandReach_End_Dec</Label>
+    <String>Üç yeni koloniyi başarıyla kurarak medeniyetimizin erişim alanını genişlettik. Bu, liderlik konseyinin arzuladığı kaynak ve nüfus artışını sağlayacaktır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_ExpandReach_End_Liberty_Bonus_Name</Label>
+    <String>Ulaşılabilir yeni dünyalar</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_ExpandReach_End_Liberty_Bonus_Dec</Label>
+    <String>Tüm çekirdek dünyalarda artan büyüme</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_ExpandTrade_Name</Label>
+    <String>Ticareti Genişletin</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_ExpandTrade_Dec</Label>
+    <String>Liderlik konseyi diğer medeniyetlerle ticaret ağımızı genişletmemiz gerektiğine inanıyor. Bu sayede kaynak ve teknoloji alışverişini daha verimli bir şekilde gerçekleştirebileceğiz.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_ExpandTrade_Liberty_Bonus_Name</Label>
+    <String>Yeni ticaret yolları oluşturmak</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_ExpandTrade_Liberty_Bonus_Dec</Label>
+    <String>Göreve Başla +3 Ticaret Gemisi</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_ExpandTrade_Liberty_QuestDescription</Label>
+    <String>Konsey tarafından talep edildiği üzere diğer medeniyetlerle daha fazla ticaret yolu kurmalıyız.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_ExpandTrade_Liberty_ObjectiveDisplayName1</Label>
+    <String>3 yeni ticaret rotası oluşturun</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_ExpandTrade_End_Name</Label>
+    <String>Genişletilmiş Ticaret</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_ExpandTrade_End_Dec</Label>
+    <String>Birkaç yeni ticaret yolu oluşturarak diğer medeniyetlerle kaynak ve teknoloji alışverişimizi büyük ölçüde geliştirdik.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_ExpandTrade_End_Liberty_Bonus_Name</Label>
+    <String>Artan ticaret verimliliği</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_ExpandTrade_End_Liberty_Bonus_Dec</Label>
+    <String>25 tur boyunca +%15 ticaret yolu çıktısı</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_ExpandInfluence_Name</Label>
+    <String>Etkiyi Genişletin</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_ExpandInfluence_Dec</Label>
+    <String>Uygarlığımız durgunlaştı ve izole oldu. Liderlik konseyi yıldızlar arasındaki etkimizi genişletmek için cesur adımlar atmamız gerektiğine inanıyor. Stratejik sistemlerde yeni yıldız üsleri inşa ederek gücümüzü yansıtabilir ve bağımsız koloniler ve yabancı uygarlıklarla değerli temaslar kurabiliriz.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_ExpandInfluence_Liberty_Bonus_Name</Label>
+    <String>Yeni yıldız üsleri inşa edin</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_ExpandInfluence_Liberty_Bonus_Dec</Label>
+    <String>Göreve Başla +3 İnşaatçılar</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_ExpandInfluence_Liberty_QuestDescription</Label>
+    <String>Medeniyetimizin etki alanını ve erişimini genişletmek için daha fazla yıldız üssü inşa etmeliyiz.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_ExpandInfluence_Liberty_ObjectiveDisplayName1</Label>
+    <String>3 yeni yıldız üssü inşa edin</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_ExpandInfluence_End_Name</Label>
+    <String>Etki Alanı Genişledi</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_ExpandInfluence_End_Dec</Label>
+    <String>Yeni yıldız üslerimiz galakside artan etkimizi ve erişimimizi gösteriyor.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_ExpandInfluence_End_Liberty_Bonus_Name</Label>
+    <String>Güç yansıtmak</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_ExpandInfluence_End_Liberty_Bonus_Dec</Label>
+    <String>Tur başına +5 etki</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_RecruitLeaders_Name</Label>
+    <String>Liderleri İşe Alın</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_RecruitLeaders_Dec</Label>
+    <String>Uygarlığımız hızla genişledi ve kolonilerimizi ve filolarımızı yönetecek nitelikli lider sıkıntısı çekiyoruz. Liderlik konseyi, büyüyen imparatorluğumuzu düzgün bir şekilde yönetmek için daha fazla lideri işe almamız ve eğitmemiz için bir talep yayınladı.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_RecruitLeaders_Liberty_Bonus_Name</Label>
+    <String>Yeni liderleri işe alın</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_RecruitLeaders_Liberty_Bonus_Dec</Label>
+    <String>Görevi Başlat</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_RecruitLeaders_Liberty_QuestDescription</Label>
+    <String>Genişleyen medeniyetimizi yönetecek yeni liderler bulmalı ve yetiştirmeliyiz.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_RecruitLeaders_Liberty_ObjectiveDisplayName1</Label>
+    <String>3 yeni lider işe alın</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_RecruitLeaders_End_Name</Label>
+    <String>İşe Alınan Liderler</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_RecruitLeaders_End_Dec</Label>
+    <String>Kolonilerimizi, filolarımızı ve diğer işlerimizi yönetmek üzere yeni liderleri başarılı bir şekilde işe aldık ve eğittik.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_RecruitLeaders_End_Liberty_Bonus_Name</Label>
+    <String>Güçlü liderlik</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_RecruitLeaders_End_Liberty_Bonus_Dec</Label>
+    <String>Tüm lider istatistiklerine +2</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_BuildShipyard_Name</Label>
+    <String>Tersane İnşa Et</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_BuildShipyard_Dec</Label>
+    <String>Liderlik konseyi {PLANETNAME}'ü yıldız gemisi yapımı için stratejik açıdan değerli bir sistem olarak tanımladı. Üretim kapasitemizi genişletmek için {PLANETNAME} yörüngesinde yeni bir tersane inşa etmemizi talep ettiler.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_BuildShipyard_Liberty_Bonus_Name</Label>
+    <String>Tersane inşa etmek</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_BuildShipyard_Liberty_Bonus_Dec</Label>
+    <String>Göreve Başla +300 Kredi</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_BuildShipyard_Liberty_QuestDescription</Label>
+    <String>Konseyin istediği gibi {PLANETNAME} yörüngesinde yeni bir tersane inşa etmeliyiz.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_BuildShipyard_Liberty_ObjectiveDisplayName1</Label>
+    <String>{PLANETNAME} adresinde 1 tersane inşa edin</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_BuildShipyard_End_Name</Label>
+    <String>{PLANETNAME} Tersane</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_BuildShipyard_End_Dec</Label>
+    <String>{PLANETNAME}'deki yeni tersane, bölgedeki yıldız gemisi inşa kabiliyetimizi büyük ölçüde artıracaktır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_BuildShipyard_End_Liberty_Bonus_Name</Label>
+    <String>Genişletilmiş üretim</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_BuildShipyard_End_Liberty_Bonus_Dec</Label>
+    <String>+%15 gemi inşaatı</String>
+  </StringTable>
+</StringTableList>

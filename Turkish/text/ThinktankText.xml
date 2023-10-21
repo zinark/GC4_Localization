@@ -1,0 +1,188 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<StringTableList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+  <!-- ThinktankText.xml -->
+  <StringTable>
+    <Label>Thinktank_Emporium_Name</Label>
+    <String>Endless Emporium</String>
+  </StringTable>
+  <StringTable>
+    <Label>Thinktank_Emporium_Desc</Label>
+    <String>Galaktik Çarşı'yı yöneten grup. Sınırlara veya anlaşmalara bakılmaksızın serbest mal alışverişine adanmıştır.[BR][BR][HS=HS_Bazaar]Galactic Bazaar[/HS] üyelerin [HS=HS_Intelligence]Intelligence[/HS]'ına dayalı indirim.[BR][HS=HS_ColonyGrossIncome]Income[/HS] üyelerin [HS=HS_Diligence]Diligence[/HS]'ına dayalı bonus.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Thinktank_EmpathySociety_Name</Label>
+    <String>Empati Topluluğu</String>
+  </StringTable>
+  <StringTable>
+    <Label>Thinktank_EmpathySociety_Desc</Label>
+    <String>Daha nazik ve daha düşünceli bir evren inşa etmeye adanmış bir topluluk.[BR][BR][HS=HS_Approval]Approval[/HS] üyelerin [HS=HS_Social]Social[/HS].[BR][HS=HS_Manufacturing]Manufacturing[/HS] üyelerin [HS=HS_Diligence]Diligence[/HS].</String>
+  </StringTable>
+  <StringTable>
+    <Label>Thinktank_ScienceGuild_Name</Label>
+    <String>Bilim Ekibi</String>
+  </StringTable>
+  <StringTable>
+    <Label>Thinktank_ScienceGuild_Desc</Label>
+    <String>Türlerinin daha iri ve hantal üyelerinden kaçınırken kendilerini yeni şeyler araştırmaya adamış bir grup.[BR][BR][HS=HS_Research]Research[/HS] üyelerin [HS=HS_Intelligence]Intelligence[/HS] değerlerine göre artar.[BR][HS=HS_Manufacturing]Manufacturing[/HS] üyelerin [HS=HS_Diligence]Diligence[/HS] değerlerine göre azalır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Thinktank_ConversionCore_Name</Label>
+    <String>Dönüşüm Çekirdeği</String>
+  </StringTable>
+  <StringTable>
+    <Label>Thinktank_ConversionCore_Desc</Label>
+    <String>Saf kitleleri araştırmak ve ikna etmek için yeni yollar icat etmeye adanmıştır.[BR][BR][HS=HS_Influence]Etki[/HS] üyelerin [HS=HS_Social]Sosyal[/HS].[BR][HS=HS_ColonyGrossIncome]Gelir[/HS] üyelerin [HS=HS_Intelligence]Zeka[/HS].</String>
+  </StringTable>
+  <StringTable>
+    <Label>Thinktank_ProductionCore_Name</Label>
+    <String>Üretim Çekirdeği</String>
+  </StringTable>
+  <StringTable>
+    <Label>Thinktank_ProductionCore_Desc</Label>
+    <String>Maliyeti ne olursa olsun üretimi en üst düzeye çıkarmaya adanmış bir grup.[BR][BR][HS=HS_Manufacturing]Manufacturing[/HS] üyelerin [HS=HS_Diligence]Diligence[/HS].[BR][HS=HS_Research]Research[/HS] üyelerin [HS=HS_Intelligence]Intelligence[/HS].</String>
+  </StringTable>
+  <StringTable>
+    <Label>Thinktank_MediaAlliance_Name</Label>
+    <String>Medya Birliği</String>
+  </StringTable>
+  <StringTable>
+    <Label>Thinktank_MediaAlliance_Desc</Label>
+    <String>İsteseler de istemeseler de kültürel değerlerimizi evrenin geri kalanıyla paylaşmak için buradayız.[BR][BR][HS=HS_Influence]Influence[/HS] üyelerin [HS=HS_Social]Social[/HS]'ına göre artış.[BR][HS=HS_Diplomacy]Diplomacy[/HS] üyelerin [HS=HS_Resolve]Resolve[/HS]'ına göre ceza.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Thinktank_SpacingGuild_Name</Label>
+    <String>Spacing Guild</String>
+  </StringTable>
+  <StringTable>
+    <Label>Thinktank_SpacingGuild_Desc</Label>
+    <String>Uzayı yeni yollarla katlamaya çalışan varlıkların gizli topluluğu.[BR][BR]Hareketler üyelerin [HS=HS_Intelligence]Intelligence[/HS]'lerine göre artar.[BR][HS=HS_Growth]Growth[/HS] üyelerin [HS=HS_Intelligence]Intelligence[/HS]'lerine göre ceza.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Thinktank_SlaversGuild_Name</Label>
+    <String>Köle Loncası</String>
+  </StringTable>
+  <StringTable>
+    <Label>Thinktank_SlaversGuild_Desc</Label>
+    <String>Evrendeki en büyük köle efendileri.[BR][BR][HS=HS_Manufacturing]Manufacturing[/HS] üyelerin [HS=HS_Diligence]Diligence[/HS].[BR]Maintenance decrease based on the members' [HS=HS_Intelligence]Intelligence[/HS].</String>
+  </StringTable>
+  <StringTable>
+    <Label>Thinktank_SuperiorityLeague_Name</Label>
+    <String>Üstünlük Ligi</String>
+  </StringTable>
+  <StringTable>
+    <Label>Thinktank_SuperiorityLeague_Desc</Label>
+    <String>Güçlülerin gelişmesini sağlamak için zayıfları itlaf eder.[BR][BR][HS=HS_Research]Research[/HS] üyelerin [HS=HS_Intelligence]Intelligence[/HS]'ına göre artış[BR][HS=HS_Growth]Growth[/HS] üyelerin [HS=HS_Social]Social[/HS]'ına göre ceza.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Thinktank_CapitalistSociety_Name</Label>
+    <String>Serbest Piyasa Toplumu</String>
+  </StringTable>
+  <StringTable>
+    <Label>Thinktank_CapitalistSociety_Desc</Label>
+    <String>Her şeyi özelleştirmek için çalışıyorlar. Her şeyi. Şu anda düşündüğünüz şeyi bile.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Thinktank_Ecologism_Name</Label>
+    <String>Ekolojizm</String>
+  </StringTable>
+  <StringTable>
+    <Label>Thinktank_Ecologism_Desc</Label>
+    <String>Dünyalarımızın ekolojisini iyileştirmek için birlikte çalışmak.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Thinktank_Thrive_Name</Label>
+    <String>Gelişmek</String>
+  </StringTable>
+  <StringTable>
+    <Label>Thinktank_Thrive_Desc</Label>
+    <String>Maddi şeyler pahasına şimdi ve buraya odaklanan derin ruhani bir grup.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Thinktank_BankingClan_Name</Label>
+    <String>Bankacılık Klanı</String>
+  </StringTable>
+  <StringTable>
+    <Label>Thinktank_BankingClan_Desc</Label>
+    <String>Herkesin kızgınlığına rağmen evrendeki her şeyin altına imza atıyor.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Thinktank_MiningGuild_Name</Label>
+    <String>Madencilik Loncası</String>
+  </StringTable>
+  <StringTable>
+    <Label>Thinktank_MiningGuild_Desc</Label>
+    <String>Bizim için stratejik kaynakları çıkaran insanların organizasyonu.[BR][BR]Üyelerin [HS=HS_Diligence]Çalışkanlık[/HS] temelinde madencilik primi.[BR][HS=HS_Approval]Onay[/HS] üyelerin [HS=HS_Social]Sosyal[/HS] temelinde azalır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Thinktank_WarriorCaste_Name</Label>
+    <String>Savaşçı Kastı</String>
+  </StringTable>
+  <StringTable>
+    <Label>Thinktank_WarriorCaste_Desc</Label>
+    <String>En büyük savaşçılarımızın gizli örgütü.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Thinktank_Singularity_Name</Label>
+    <String>Tekillik</String>
+  </StringTable>
+  <StringTable>
+    <Label>Thinktank_Singularity_Desc</Label>
+    <String>Teknolojik tekilliği arar.[BR][BR][HS=HS_Research]Araştırma[/HS] üyelerin [HS=HS_Intelligence]Zeka[/HS] temelinde artış.[BR]Üyelerin [HS=HS_Social]Sosyal[/HS] temelinde bakım.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Thinktank_NaturalLeague_Name</Label>
+    <String>Doğal Birlik</String>
+  </StringTable>
+  <StringTable>
+    <Label>Thinktank_NaturalLeague_Desc</Label>
+    <String>Sibernetiğin türün doğal haliyle birleşmesi konusunda endişelidir. Biyolojik büyümeyi ve çeşitliliği destekler, ancak bunu yapmak için önemli kaynaklar gerektirir.[BR][BR][HS=HS_Growth]Growth[/HS] üyelerin [HS=HS_Intelligence]Intelligence[/HS].[BR][HS=HS_Food]Food[/HS] üyelerin [HS=HS_Diligence]Diligence[/HS].</String>
+  </StringTable>
+  <StringTable>
+    <Label>Thinktank_FreemindCenter_Name</Label>
+    <String>Freemind Merkezi</String>
+  </StringTable>
+  <StringTable>
+    <Label>Thinktank_FreemindCenter_Desc</Label>
+    <String>Galakside barış ve denge ister.[BR][BR][HS=HS_Tourism]Tourism[/HS] üyelerin [HS=HS_Social]Social[/HS].[BR][HS=HS_ShipRange]Ship Range[/HS] üyelerin [HS=HS_Resolve]Resolve[/HS].</String>
+  </StringTable>
+  <StringTable>
+    <Label>Thinktank_Warforged_Name</Label>
+    <String>Warforged</String>
+  </StringTable>
+  <StringTable>
+    <Label>Thinktank_Warforged_Desc</Label>
+    <String>Bunu yapmak için hükümet düzenlemelerini görmezden gelmeleri gerekse bile savaşa hazırdırlar.[BR][BR][HS=HS_Military]Military[/HS] üyelerin [HS=HS_Resolve]Resolve[/HS]'larına göre artar.[BR][HS=HS_Crime]Crime[/HS] üyelerin [HS=HS_Social]Social[/HS]'larına göre artar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Thinktank_Precursors_Name</Label>
+    <String>Öncü Varisler</String>
+  </StringTable>
+  <StringTable>
+    <Label>Thinktank_Precursors_Desc</Label>
+    <String>Öncülerin çalışmasına adanmıştır.[BR][BR]Üyelerin [HS=HS_Intelligence]Intelligence[/HS]'ına dayalı kalıntı bonusu.[BR]Üyelerin [HS=HS_Intelligence]Intelligence[/HS]'ına dayalı bakım artışı.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Thinktank_ShimmeringDepths_Name</Label>
+    <String>Parıldayan Derinlikler</String>
+  </StringTable>
+  <StringTable>
+    <Label>Thinktank_ShimmeringDepths_Desc</Label>
+    <String>Geldiğimiz derinliklerin koruyucuları</String>
+  </StringTable>
+  <StringTable>
+    <Label>Thinktank_ChurchOfTheWay_Name</Label>
+    <String>Yol Kilisesi</String>
+  </StringTable>
+  <StringTable>
+    <Label>Thinktank_ChurchOfTheWay_Desc</Label>
+    <String>[BR][BR][HS=HS_Approval]Approval[/HS] ve [HS=HS_Influence]Influence[/HS] üyelerin [HS=HS_Social]Social[/HS] tutumlarına bağlı olarak artar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Thinktank_CuttersGuild_Name</Label>
+    <String>Kesici Loncası</String>
+  </StringTable>
+  <StringTable>
+    <Label>Thinktank_CuttersGuild_Desc</Label>
+    <String>En güçlü suç örgütlerinden oluşan bir koleksiyon</String>
+  </StringTable>
+</StringTableList>

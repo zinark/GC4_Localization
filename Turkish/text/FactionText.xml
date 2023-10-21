@@ -1,0 +1,1633 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<StringTableList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+  <!-- Created with the GC4 editor -->
+  <!-- FactionText.xml -->
+  <StringTable>
+    <Label>FACTION_TERRAN_Name</Label>
+    <String>Terran İttifakı</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_TERRAN_ShortName</Label>
+    <String>Terralılar</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_TERRAN_LeaderName</Label>
+    <String>DL Bradley</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_TERRAN_Dec</Label>
+    <String>Hiper sürücünün mucitleri ve galaktik sahnedeki en genç ırklardan biri. Terralılar hem diplomasiye olan düşkünlükleri hem de diplomasi başarısız olduğunda şiddeti ustalıkla kullanmalarıyla tanınırlar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_TERRAN_LeaderDec</Label>
+    <String>Geri çekilme emri vermek ve savunmasız sivilleri feda etmek zorunda kalması hâlâ aklından çıkmıyor.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_TERRAN_Callsign</Label>
+    <String>T.A.S.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_TERRAN_StartupTitle</Label>
+    <String>Düşman Bir Evrende Kaşifler</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_TERRAN_StartupDescription</Label>
+    <String>Galaksideki en genç ırk olmalarına rağmen, Terralılar belki de en tehlikelileridir. Hiperdiskin mucitleri olan Terralıların bunu komşularına yayma kararı, galaksinin içinde bulunduğu silahlanma yarışına yol açmıştır. [BR][BR]Terralılar kendilerini barışçıl ve diplomatik bir halk olarak tanıtmalarına rağmen, itibarları çok daha karışıktır. Şiddete karşı bir yetenekleri ve bunu uygulamaya istekleri vardır. Terranlar bu ikilemde garip bir şey bulmasalar da, galaktik akranlarının çoğu bunu endişe verici ve hatta ikiyüzlü olarak görür.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_TERRAN_StartupTraitsDescription</Label>
+    <String>Terranlar hızlı, uzun menzilli gemileriyle doğal olarak maceracıdır. Üretim kapasiteleri ve diplomatik yetenekleri iyi değerlendirilir. Büyük filolar kurma yeteneklerine ise biraz daha temkinli yaklaşılır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_FESTRON_Name</Label>
+    <String>Festron Avı</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_FESTRON_ShortName</Label>
+    <String>Festron</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_FESTRON_LeaderName</Label>
+    <String>Gnar Nightbringer</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_FESTRON_Dec</Label>
+    <String>Festron ana gezegeninde evrimleşen düzinelerce duyarlı türden geriye sadece Festronlar kaldı. Bu bir tesadüf değildi; Festronlar diğer türleri yumurtaları için konakçıdan biraz daha fazlası olarak görürler.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_FESTRON_LeaderDec</Label>
+    <String>Bir Drath büyüğünün cesedinden çıktı.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_FESTRON_Callsign</Label>
+    <String>Düştü</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_FESTRON_StartupTitle</Label>
+    <String>Alacakaranlık Avı</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_FESTRON_StartupDescription</Label>
+    <String>Diğer türler büyümek ve gelişmek için cennet gibi dünyalar ararken, Festron zaten işgal edilmiş dünyaları tercih eder. Diğer hissedebilen türleri avlanacak avlar ve larvaları için konakçılar olarak görürler. Festronlar bu faaliyete olağanüstü uzun bir bakış açısıyla yaklaşır ve yalnız bireyleri gezegenlere bırakarak nesiller boyunca gizlenip yerel nüfusu avladıkları bilinmektedir. Bazılarının Dünya'ya kadar ulaştığı bile söylenir. Sonuç: Festron'la dünyaları paylaşmak diye bir şey yoktur.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_FESTRON_StartupTraitsDescription</Label>
+    <String>Festron güçlü ve saldırgan bir türdür, savaşa karşı toleranslıdır ve uzayın tehlikelerine karşı cesurdur. Festronlar onları öldürüp yerlerine yenilerini koyacağından, birden fazla türden vatandaşın avantajlarından faydalanmak zor olacaktır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_NAVIGATORS_Name</Label>
+    <String>Navigatörler</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_NAVIGATORS_ShortName</Label>
+    <String>Navigatörler</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_NAVIGATORS_LeaderName</Label>
+    <String>Kopernik</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_NAVIGATORS_Dec</Label>
+    <String>Gizemli bir uzay yolculuğu ırkı olan Gezginler'in gerçek ana gezegeni uzun zamandır tarih sahnesinden silinmiş durumda. Yakın zamana kadar, dünyaları gemi inşa etmek için yetersiz platformlardan biraz daha fazlası olarak görüyorlardı. Ama şimdi bir şeyler değişti...</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_NAVIGATORS_LeaderDec</Label>
+    <String>Parçalara ayrılmış öncül eserlerden oluşan bir koleksiyonu var.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_NAVIGATORS_Callsign</Label>
+    <String>N.L.S.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_NAVIGATORS_StartupTitle</Label>
+    <String>Yıldız Arkeologları</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_NAVIGATORS_StartupDescription</Label>
+    <String>Yıldızlarda gezinen bir ırk olan Gezginler, Öncülerin gizemlerini araştırmak için yıldızdan yıldıza seyahat etmişlerdir. Bu o kadar uzun süre devam etti ki, kendi gezegenlerinin tarihi çelişkili efsanelere sürüklendi. Ancak şimdi, gizemli nedenlerden dolayı, yolculukları yakın zamanda durdu.[BR][BR]Göçebe yaşam tarzlarını terk edip gerçek bir galaktik uygarlık haline gelmedikleri takdirde, diğer türlerin hızlı ilerlemesinin kaçınılmaz olarak Gezginlerin yok olmasına yol açacağı artık sadece Gezginlerin en kıdemlileri arasında kabul edilmektedir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_NAVIGATORS_StartupTraitsDescription</Label>
+    <String>Gezginler'in yıldız yolculuğu geçmişi onları çorak ve verimsiz bir yıldız sisteminde bırakmıştır. Ancak birkaç koloni gemisini kontrol ediyorlar ve nüfuslarının bir kısmı hâlâ bu gemilerde yaşıyor. Yeni dünyalara güvenli bir şekilde ulaşabilirlerse, diğer türler üzerinde bir sıçrama yapabilirler.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_MIMOT_Name</Label>
+    <String>Mimot Kardeşliği</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_MIMOT_ShortName</Label>
+    <String>Mimot</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_MIMOT_LeaderName</Label>
+    <String>İkinci Walla</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_MIMOT_Dec</Label>
+    <String>Mimotlar diğer beş türle birlikte bir gezegende evrimleşmiştir. Bugün dünyalarındaki tek duyarlı tür onlar. Yüksek üreme hızları, halklarının hızlı nüfus artışı ve herkese yetecek kadar yiyecek bulma konusunda hiç bitmeyen mücadeleleri arasında bir denge kurmak zorunda oldukları için karışık bir nimettir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_MIMOT_LeaderDec</Label>
+    <String>Aslında Walla the Seconds'ın uzun bir serisinden biri.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_MIMOT_Callsign</Label>
+    <String>M.B.S</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_MIMOT_StartupTitle</Label>
+    <String>Aranıyor</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_MIMOT_StartupDescription</Label>
+    <String>Mimotlar artık orijinal vücut formlarına en ufak bir benzerlik göstermeyecek kadar evrimleşmiştir. Galaksiye yayılan ve hizmetkâr, aşçı ve - kiler azaldığında - yemeğin kendisi olarak hizmet eden Mimot, yakın zamana kadar çoğunlukla çalışkan iş ahlakı ve fındık aromasıyla biliniyordu. Diğer beş duyarlı türün bulunduğu bir dünyada evrimleşen Mimotların nasıl olup da sadece kendilerinin hayatta kalabildiğinden kimse tam olarak emin değil. Mimotlar ancak son zamanlarda kendi galaktik uygarlıklarını inşa etmeye başlayacak teknolojik kapasiteye sahip oldular.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_MIMOT_StartupTraitsDescription</Label>
+    <String>Mimotlar inanılmaz bir hızla ürerler. Çoğu tür keşfettikleri dünyaları dolduracak yeni vatandaşlar bulmakta zorlanırken, Mimotlar sürekli artan nüfuslarını barındıracak dünyalar bulmakta zorlanırlar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_XELOXI_Name</Label>
+    <String>Xeloxi</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_XELOXI_ShortName</Label>
+    <String>Xeloxi</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_XELOXI_LeaderName</Label>
+    <String>Ceridwen</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_XELOXI_Dec</Label>
+    <String>Xeloxi'ler neredeyse tamamen kendi çıkarlarını düşünürler ve bir bireyin kendi maksimum faydasını gözetmesi gerektiği gibi basit bir gerçeğin ötesinde bir ahlak sistemi yoktur. Diğer uygarlıkların kanun sistemlerini gülünç derecede tuhaf ve yanlış yönlendirilmiş bulurlar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_XELOXI_LeaderDec</Label>
+    <String>Xeloxi seçkinlerinden geliyormuş gibi davranıyor, ancak aslında Refuge'un karanlık arka sokaklarında büyüdü.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_XELOXI_Callsign</Label>
+    <String>X.E.S.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_XELOXI_StartupTitle</Label>
+    <String>Aranıyor</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_XELOXI_StartupDescription</Label>
+    <String>Tamamen kişisel çıkar ilkeleri üzerine kurulmuş bir uygarlık (en azından dışarıdan bakan birinin gözünde) tuhaf bir yan etkiye yol açar: her Xeloxi vatandaşı bir suçludur. Kendisi de az suçlu olmayan Xeloxi hükümeti, bu asi kalabalık üzerindeki kontrolünü acımasız ve çoğu zaman rastgele güç gösterileriyle sürdürür. Şaşırtıcı bir şekilde, diğer medeniyetlerin tarihlerinin en karanlık bölümleri olarak görebilecekleri bu görünüşte çalışmaz sistem, Xeloxi için sadece istikrarlı olmakla kalmıyor, aynı zamanda gelişmelerine de izin veriyor.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_XELOXI_StartupTraitsDescription</Label>
+    <String>Yüksek suç oranıyla başa çıkmaya hazır olun. Xeloxi'de cevap her zaman suçu azaltmaya çalışmak değildir. Yüksek suç oranı kendi dünyalarında özel iyileştirmelerin kilidini açar ve doğru politikalarla suçu diğer medeniyetlerin dünyalarına da yayabilirler.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_ARCEAN_Name</Label>
+    <String>Okyanus Cumhuriyeti</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_ARCEAN_ShortName</Label>
+    <String>Arcean</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_ARCEAN_LeaderName</Label>
+    <String>Lord Vega</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_ARCEAN_Dec</Label>
+    <String>Arcean İmparatorluğu, neredeyse kendileri için ölümcül olan bir özellik olan tarafsızlığa olan bağlılıklarıyla ünlüdür. Terran İttifakı tarafından kurtarıldılar, şimdi bir daha asla boyunduruk altına girmemeye yemin ederek imparatorluklarını yeniden inşa etmeye çalışıyorlar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_ARCEAN_LeaderDec</Label>
+    <String>Son on yılını bir yeraltı direniş gücüne liderlik ederek geçirdi.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_ARCEAN_Callsign</Label>
+    <String>A.E.S.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_ARCEAN_StartupTitle</Label>
+    <String>Asla kırılmaz, daima tetikte olur.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_ARCEAN_StartupDescription</Label>
+    <String>Galaksideki en eski ırklardan biri olan Okyanuslar, Terralılara hipersürücü fikrinin doğuşunu sağlamışlardır. Onları neredeyse yıkımın eşiğine getiren silahlanma yarışına yol açan bir jest. Aynı Terran İttifakı'nın yardımıyla Drengin'in boyunduruğundan kurtulan Okyanuslar nihayet ana gezegenlerini geri kazandılar ve bununla birlikte bir zamanların kudretli imparatorluklarını yeniden inşa etme şansına sahip oldular. Drengin işgalinin sürdüğü yıllarda Okyanus Direnişi savaşmayı hiç bırakmadı. Liderleri Lord Verga, adı en acımasız Drengin askerlerine bile korku salan bir efsane haline geldi.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_ARCEAN_StartupTraitsDescription</Label>
+    <String>Arcean İmparatorluğu'nun elinde çok fazla varlık kalmamıştı - sadece ana gezegenleri ve Drengin'den kurtardıkları birkaç değerli kaynak. Uçurumun kenarından her zamankinden daha güçlü ve dirençli bir şekilde geri döndüler. [BR][BR]Okyanus halkı uzun bir asalet ve tarafsızlık geçmişine sahiptir, ancak işgal onları suçları affetmeye veya özgürlüklerine yönelik tehditleri hoş görmeye çok daha az istekli hale getirdi.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_DRENGIN_Name</Label>
+    <String>Drengin İmparatorluğu</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_DRENGIN_ShortName</Label>
+    <String>Drengin</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_DRENGIN_LeaderName</Label>
+    <String>Lord Kona</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_DRENGIN_Dec</Label>
+    <String>Drenginler son derece kötü ve savaşçı bir uygarlıktır. Son derece zeki ve gaddar olan Drengin'le karşılaşıp da onun bir sonraki yemeği haline gelmeyecek çok az varlık vardır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_DRENGIN_LeaderDec</Label>
+    <String>Tüm yerel tehditleri ezdikten sonra, galaksiyi fethedecek başka bir sınır arar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_DRENGIN_Callsign</Label>
+    <String>D.E.S.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_DRENGIN_StartupTitle</Label>
+    <String>Fethedilecek Koca Bir Galaksi</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_DRENGIN_StartupDescription</Label>
+    <String>Drenginler galaksideki en eski ırklardan biri olup, fetih ve kan dökme hikâyeleriyle dolu bir geçmişe sahiptir; önce kendi gezegenlerinde, sonra da diğer gezegenlerde yaşayan aşağı türlere hükmetmişlerdir. Kurbanlarının çoğu Drenginlerin akılsızca aptal olmadıklarını, aksine zalimlik uygulamalarında oldukça yaratıcı olduklarını keşfetmiştir. Drengin'in bulmadığı bir kurbanı yemenin çok az yolu vardır. Bununla birlikte, basit dayaklar genellikle köle disiplini için ekonomik açıdan en ihtiyatlı seçenektir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_DRENGIN_StartupTraitsDescription</Label>
+    <String>Drengin askerleri kara savaşlarında son derece etkilidir ve donanma gemileri de son derece sağlamdır. Askeri üretim yetenekleri de etkileyicidir, ancak Drengin kolonileri bazen hoşnutsuzlukla mücadele eder. Ünlü yaratıcılıklarının büyük bir kısmı isyanları durdurmak için kullanılır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_ALTARIAN_Name</Label>
+    <String>Altarian Cumhuriyeti</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_ALTARIAN_ShortName</Label>
+    <String>Altarianlar</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_ALTARIAN_LeaderName</Label>
+    <String>Akari Malara</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_ALTARIAN_Dec</Label>
+    <String>Altarianlar son derece dindar bir ırktır ve başkalarıyla olan etkileşimlerinde büyük bir yardımseverlik sergilerler. Bu, belki de tesadüfi olmayan bir şekilde, onlara kendini beğenmişlik konusunda bir ün kazandırmıştır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_ALTARIAN_LeaderDec</Label>
+    <String>Yüksek bir rahibenin kızı ve bir tutulma sırasında doğdu.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_ALTARIAN_Callsign</Label>
+    <String>A.R.S.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_ALTARIAN_StartupTitle</Label>
+    <String>Aydınlanmış Liderlik</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_ALTARIAN_StartupDescription</Label>
+    <String>Altarianlar son derece dindar bir ırktır ve bir noktada Öncü olarak bilinen güçlü varlıklar tarafından dokunulduklarını iddia ederler. Hataya yer vermeyecek kadar nazik ve cömert olan Altarlıların eşsiz tarihleri, kendilerini diğer aşağı ırklarla muhatap bulduklarında belli bir dereceye kadar kendini beğenmişliğe eğilimli oldukları anlamına gelir. Henüz açıklanamayan bir nedenden ötürü, Altarianlar görünüş olarak Terralılarla neredeyse aynı görünürler ve karşılaştıklarında Dünyalılarla kolay arkadaş olurlar. Altarian kehaneti kuzenleriyle tanışacakları günden bahsetmiştir. Bu kehanetin daha sonra olacaklar hakkında bir şey söyleyip söylemediğini çok az kişi biliyor.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_ALTARIAN_StartupTraitsDescription</Label>
+    <String>Altarianlar dikkatli araştırmacılardır, genellikle hallerinden memnun ve komşuları üzerinde etkilidirler. Gemileri hızlı ama kırılgan olmalarıyla bilinir, yine de istendiğinde büyük filolar organize edebilirler.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_YOR_Name</Label>
+    <String>Yor Singularity</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_YOR_ShortName</Label>
+    <String>YOR</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_YOR_LeaderName</Label>
+    <String>N-1</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_YOR_Dec</Label>
+    <String>Duyarlı yapay varlıklardan oluşan kadim bir ırk olan Yorların üreme ve tüketim için kaba biyolojik yöntemlere ihtiyacı yoktur ve diğer ırkların tahammül edilemez bulacağı dünyalarda yaşayabilirler.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_YOR_LeaderDec</Label>
+    <String>Geriye kalan birkaç birinci nesil Yor'dan biri.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_YOR_Callsign</Label>
+    <String>Y.S.S.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_YOR_StartupTitle</Label>
+    <String>Iconian Mirası</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_YOR_StartupDescription</Label>
+    <String>Yorlar, aslen Iconianlar olarak bilinen kadim bir türün hizmetkârları olan yapay varlıklardır. Dehşet Lordları tarafından bilinçlendirilen Yorlar, Iconian yaratıcılarına karşı dönerek onları galaksiden silmiş gibi göründüler. İster Dehşet Lordları'nın gizli bir emri, ister sadece mantığın soğuk kurallarını uygulamaktan kaynaklansın, Yorlar o zamandan beri acımasızca yabancı düşmanı oldular ve şimdi tüm biyolojik yaşam formlarını hor görüyorlar. Uzun vadeli planlama ve şaşırtıcı derecede kurnazlık yeteneğine sahip olan Yorlar sık sık organik varlıklarla konuşur ve pazarlık yaparlar. Bu varlıklar bunun kısa vadeli bir oyundan başka bir şey olmadığını ve yeni dostlarının kendileri ve diğer tüm organik yaşam yok edilene kadar asla rahat etmeyeceğini anlamalıdır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_YOR_StartupTraitsDescription</Label>
+    <String>Yorlar son derece üretkendir ve kendi kendini onarabilen gemilerden oluşan büyük filolar inşa edebilirler. Son derece sevimsizdirler ve çok az ırk onlarla dost olmayı tercih eder. Organik ırkların aksine, büyüme oranları üretim kapasitesinin bir fonksiyonudur.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_TORIAN_Name</Label>
+    <String>Torian Rejimi</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_TORIAN_ShortName</Label>
+    <String>Torians</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_TORIAN_LeaderName</Label>
+    <String>Tlas Kzientha</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_TORIAN_Dec</Label>
+    <String>Bir zamanlar Drengin İmparatorluğu'nun kölesi olan Toryalılar, şimdi bir zamanlar büyük olan medeniyetlerini yeniden inşa etmeye çalışıyorlar. Keskin bir hayatta kalma içgüdüsüne sahip olan Toryalılar, geleceklerini güvence altına almak anlamına geliyorsa en istenmeyen güçlerle bile çalışmaya isteklidir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_TORIAN_LeaderDec</Label>
+    <String>Drengin'in hapsine ve işkencesine direndiği için Kırılmaz olarak adlandırıldı.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_TORIAN_Callsign</Label>
+    <String>T.C.S.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_TORIAN_StartupTitle</Label>
+    <String>Bir daha asla!</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_TORIAN_StartupDescription</Label>
+    <String>İnanılmaz zorluklar karşısında hayatta kalmayı başaran Torian Rejimi, Drengin İmparatorluğu tarafından iki kez köleleştirildi. Galaksinin geri kalanı tarafından tamamen yenildikleri düşünülen Torianlar, kendilerini bir kez daha özgürleştirmek için Drengin'e karşı düzenlenen Terran Haçlı Seferi'nden yararlandılar. Kiralık paralı askerlerin yardımıyla şimdi rejimlerini yeniden inşa etmek ve bir daha asla köle olmamaya yemin ederek galaksideki yerlerini sağlamlaştırmak için mücadele ediyorlar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_TORIAN_StartupTraitsDescription</Label>
+    <String>Torian Rejimi çok şey kaybetti, ancak ruhları kırılmadı. Ayrıca güçlü paralı asker güçlerinin teveccühünü kazanmış ve onları büyük avantajlar için kullanmayı öğrenmişlerdir. [BR][BR]İlk olarak ana gezegenlerinin okyanuslarında bilinçli hale gelen bir ırk olarak, Okyanus dünyalarını kolonileştirebilme avantajına da sahiptirler ve çoğu ırka karşı misafirperverdirler.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_MANTI_Name</Label>
+    <String>Mantı Kümesi</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_MANTI_ShortName</Label>
+    <String>Manti</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_MANTI_LeaderName</Label>
+    <String>Babble Glee</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_MANTI_Dec</Label>
+    <String>Yavrularının bir nesli diğer dünyadan akıncılar tarafından çalındı. Manti'nin hızlı tepkisi - kayıp nesillerini aramak için galaktik sahneye sıçraması - kaşları kaldırdı. Mantiler özür dilemeye yanaşmıyor.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_MANTI_LeaderDec</Label>
+    <String>Babble akıncıların gezegene inmesine izin verdi. Bu hatayı telafi etmeye çalışıyor.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_MANTI_Callsign</Label>
+    <String>M.C.S.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_MANTI_StartupTitle</Label>
+    <String>Aranıyor</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_MANTI_StartupDescription</Label>
+    <String>Manti'nin ilk birleşik teknik başarısı, varlıklarını bilinmeyene duyurmak için tasarlanmış büyük bir işaret kulesinin yaratılmasıydı. Kulenin çalıştırılmasından birkaç gün sonra bir cevap alındı: yörüngede beliren bir savaş gemisi filosu; gezegendeki her çocuğu toplamak için topluca gelen akıncılar. Bütün bir nesil kaybolmuştu. Sofistike olmayan düşüncelerinden dolayı aşağılanan hayatta kalan Manti ve onu takip eden nesiller uzayı kendi başlarına keşfetmeye başladılar. Akıncıların geri döneceği korkusuyla motive oldular, bir gün onlarla yüzleşmeye ve çalınan çocukları bulmaya hevesliydiler.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_MANTI_StartupTraitsDescription</Label>
+    <String>Kayıp nesillerinin trajedisi, diğer türlere göre daha az sayıda başlangıç vatandaşına yol açsa da onları birleştirmiştir. Sarsılmazlık özelliği onları diğer türlerin kültür değişimlerine karşı daha az duyarlı hale getirir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_KRYNN_Name</Label>
+    <String>Krynn Sendikası</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_KRYNN_ShortName</Label>
+    <String>Krynn</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_KRYNN_LeaderName</Label>
+    <String>Ynrhed Eidden</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_KRYNN_Dec</Label>
+    <String>Krynn galakside bir bakıma benzersizdir - ortak bir din tarafından birleştirilen çeşitli türlerden oluşan bir medeniyet. Vatandaşlarının çeşitliliği, her birinin güçlü yanlarını kullanabilen Krynn için büyük bir avantajdır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_KRYNN_LeaderDec</Label>
+    <String>Şimdi dindar olsa da, gücünü daha az asil yollarla kazanmıştı.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_KRYNN_Callsign</Label>
+    <String>K.S.S.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_KRYNN_StartupTitle</Label>
+    <String>İnançla Birleşti</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_KRYNN_StartupDescription</Label>
+    <String>Krynnler tek bir ırk değil, ortak bir din tarafından bir araya getirilmiş duyarlı varlıklardan oluşan bir koalisyondur. Dinlerinin ana ilkesi, galaksideki tüm hissedebilen yaşam Krynn'in Yolunu izleyene kadar kurtuluşa ulaşılamayacağı bilgisidir. Galaksinin geri kalanının da bildiği gibi, Krynnler inançsızları bulduklarında onları dönüştürmek için çok az fırsatı heba ederler. Son yıllarda, gizli bir suç örgütü Krynn medeniyetinde iktidarın dizginlerini ele geçirdi. Sendika olarak bilinen bu örgüt, Krynn Yolu'nu, dinlerinin önerdiği barışçıl dilden kesinlikle daha kötücül yollardan takip etmektedir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_KRYNN_StartupTraitsDescription</Label>
+    <String>Krynnler hızlı ve uzak menzilli gemilere sahip hızlı üreticiler olarak genişleme için çok uygundur. Yine de açık sözlü doğaları onları sevimsiz kılıyor ve sınırlı askeri üretimleri, en agresif dönüşüm faaliyetlerini çok dikkatli düşünmeleri gerektiği anlamına geliyor.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_ICONIAN_Name</Label>
+    <String>Iconian Sığınağı</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_ICONIAN_ShortName</Label>
+    <String>Iconian</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_ICONIAN_LeaderName</Label>
+    <String>Bilge Iso</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_ICONIAN_Dec</Label>
+    <String>Öncülerin hizmetkârları ve yıldızlara ulaşan ilk ırklardan biri olan Iconianlar, şimdi kendi yarattıkları Yor'larla amansız bir mücadeleye girişmiş durumdalar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_ICONIAN_LeaderDec</Label>
+    <String>Güvenli odasının dışında nadiren görülür.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_ICONIAN_Callsign</Label>
+    <String>I.R.S.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_ICONIAN_StartupTitle</Label>
+    <String>Kayıp Bir Irkın Kalıntıları</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_ICONIAN_StartupDescription</Label>
+    <String>Iconianlar genç ırklar olarak adlandırılanların en eskileridir, bir zamanlar Öncülerin hizmetkârlarıydılar. Yor'un yaratıcıları, yarattıklarına Dehşet Lordları tarafından bilinç verildiğinde neredeyse yok ediliyorlardı. Sadece birkaç Iconian hayatta kaldı ve uzak bir kolonide saklandı. Son derece temkinli ve sebepsiz olmayan Iconianlar güçlü bir kadercilik duygusuna sahiptir. Temkinli yapıları bu hayalin peşinden gitmelerini engellese bile, atalarının evini geri alma umutlarından asla vazgeçmemişlerdir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_ICONIAN_StartupTraitsDescription</Label>
+    <String>Iconianlar nesiller boyu saklanarak yaşamanın bir sonucu olarak aşırı ihtiyatlı ve hatta paranoyaktır. Bununla birlikte, sınırlı kaynaklarla yaşamak onları mükemmel çiftçiler, tamirciler ve şaşırtıcı derecede isabetli atışlar yapmalarını sağlamış, tüm kültürleri israfı en aza indirmek üzerine kurulmuştur. Yaşadıkları sert nüfus kontrolleri doğurganlık anlayışlarını daha da geliştirmiştir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_DRATH_Name</Label>
+    <String>Drath Freehold</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_DRATH_ShortName</Label>
+    <String>Drath</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_DRATH_LeaderName</Label>
+    <String>Embryes Draken</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_DRATH_Dec</Label>
+    <String>Gölgelerde hareket etmeyi seven gizemli yaratıklar olan Drathlar, hile ve manipülasyon ustalarıdır. Galaksideki her büyük çatışmanın arkasında oldukları söylenir, bu söylentilerin bazılarını kendilerinin yaymış olması da mümkündür.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_DRATH_LeaderDec</Label>
+    <String>Embreyes Draken hakkındaki hikayelerden hangisinin doğru olduğunu söylemek zor, sadece o biliyor.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_DRATH_Callsign</Label>
+    <String>D.L.S.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_DRATH_StartupTitle</Label>
+    <String>Gölgelerde Hareket Etmek</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_DRATH_StartupDescription</Label>
+    <String>Esrarengiz ve çıkarcı olan Drathlar, Altarlılara karşı duydukları benzersiz ve gizemli nefretle dikkat çekerler. Drathlar Altar gezegeninden geldiklerini ve bu gezegenin gerçek sahipleri olduklarını iddia ederler, ancak bu iddiayı duyan çok az kişi bunun nasıl mümkün olduğunu anlayabilir. Bilinen şey, zeki ve manipülatif olduklarıdır. Doğaları gereği saldırgan olmayan ve doğal olarak yavaş bir büyüme hızına sahip olan Drathlar, geniş bir alana yayılma eğilimi göstermezler. Bunu son derece, hatta şüphe uyandıracak kadar yüksek diplomatik ve ekonomik becerileriyle telafi ederler.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_DRATH_StartupTraitsDescription</Label>
+    <String>Drathların diplomatik ve ekonomik becerileri bonuslarla desteklenir ancak doğal doğum oranları düşüktür.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_IRIDIUM_Name</Label>
+    <String>Kurumsal Sektör</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_IRIDIUM_ShortName</Label>
+    <String>Kurumsal Sektör</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_IRIDIUM_LeaderName</Label>
+    <String>Harondin Gaul</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_IRIDIUM_Dec</Label>
+    <String>Şirketler Sektörü bir dizi çok gezegenli şirket tarafından yönetilmektedir. Galaksinin en iyileri arasında yer alan tüccarlarıyla, tüm medeniyetin memnuniyeti ve kendine değer verme duygusu, şaşırtıcı olmayan bir şekilde kasalarındaki Kredi miktarıyla ilişkilidir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_IRIDIUM_LeaderDec</Label>
+    <String>Bir savaş gemisine yatırım yaptı, ardından mağlup korsanlardan hurda satarak geminin parasını defalarca ödeyecek kadar para kazandı.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_IRIDIUM_Callsign</Label>
+    <String>T.C.S.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_IRIDIUM_StartupTitle</Label>
+    <String>Yeni Pazarlar Bekliyor</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_IRIDIUM_StartupDescription</Label>
+    <String>Kurumsal Sektör, ultra-kapitalist bir toplumun en üst kurumsal varlığıdır ve tüm Iridium halkı adına sözleşme yapabilen tek kuruluştur. Iridium kültürü serbest piyasaların gücüne olan sağlam, hatta fanatik bir inanca dayanır. Silahlanmaya yabancı olmasalar da, tüm araştırmalar öncelikle karşılıklı işbirliği merceğinden değerlendirilir; savaşın yıkıcı maliyeti İridyumlar için çoğu zaman ciddi olarak düşünülemeyecek kadar büyüktür. Bu felsefenin daha dar görüşlü ırklarla tanıştırıldığında ne kadar başarılı olacağını göreceğiz.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_IRIDIUM_StartupTraitsDescription</Label>
+    <String>Şirket Sektörü araştırma ve geliştirme konusunda mükemmeldir ve herhangi bir yeni keşfin ekonomik potansiyelini en üst düzeye çıkarmak için hızlıdır. Hazineyi doldurmak için pek çok yolları vardır ve bunları kullanmak için iyi hizmet görürler: vatandaşları en çok zengin olduklarında mutlu olurlar ve fakir olmaktan hoşlanmazlar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_ONYX_HIVE_Name</Label>
+    <String>Oniks Kovan</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_ONYX_HIVE_ShortName</Label>
+    <String>Oniks Kovan</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_ONYX_HIVE_LeaderName</Label>
+    <String>Slymwr P'tosor</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_ONYX_HIVE_Dec</Label>
+    <String>Oniks Kovanı, ana gezegenlerinin volkanik bacaları etrafında ortaya çıkmış, teknolojik açıdan sofistike solucan benzeri bir türdür. Arkadan bıçaklama ve entrika dolu bir topluma sahip olan Oniksler doğal casuslardır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_ONYX_HIVE_LeaderDec</Label>
+    <String>Ünlü bir Promethion buhar barının sahibi.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_ONYX_HIVE_Callsign</Label>
+    <String>O.H.S.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_ONYX_HIVE_StartupTitle</Label>
+    <String>Sofistike Solucanlar</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_ONYX_HIVE_StartupDescription</Label>
+    <String>Oniks Kovanı, uygarlıkları kendi gezegenlerinin volkanik bacaları etrafında gelişen, bilinçli solucan benzeri varlıklardan oluşan bir ırktır. Kendi gezegenlerinin yüzeyini bile dayanılmaz bulan Oniksler artık neredeyse tamamen uzayda, çoğu da asteroitlerde yaşamaktadır. Mikro yerçekimli ortamlarda yaşama konusunda inanılmaz derecede yetenekli olan Oniksler mükemmel asteroit madencileridir. Buna ek olarak, gemi ve yıldız üssü tasarımlarının çoğu, üzerinde yaşadıkları asteroitlerden etkilenir, hatta onları içerir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_ONYX_HIVE_StartupTraitsDescription</Label>
+    <String>Oniks Kovanı uzay gemileri inşa etme konusunda mükemmeldir ve tasarımlarının büyük bir kısmını evlerini yaptıkları asteroitlerden uyarlamışlardır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_BARATAK_Name</Label>
+    <String>Baratak Korusu</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_BARATAK_ShortName</Label>
+    <String>Baratak</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_BARATAK_LeaderName</Label>
+    <String>Sokotra</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_BARATAK_Dec</Label>
+    <String>Duyarlı ağaç benzeri yaratıklar olan Baratak'ları uzayın sert ortamında görmek gariptir. Ölü dünyaları yeniden canlandırma konusunda doğuştan gelen bir yetenekle, potansiyelleri oldukça yüksektir ve galaktik akranlarından farklı yollar izlemeleri muhtemeldir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_BARATAK_LeaderDec</Label>
+    <String>Dünyasında ilk doğanlardan biri ve hala da öyle.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_BARATAK_Callsign</Label>
+    <String>B.G.S</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_BARATAK_StartupTitle</Label>
+    <String>Aranıyor</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_BARATAK_StartupDescription</Label>
+    <String>Bir bahçe cennetinin sakinleri olan Barataklar, uzayda yaşayan bir uygarlık için benzersiz bir evrimsel yol izlemiş, ana gezegenlerinin ekosistemindeki bir dizi simbiyotik yaşam formunun yalnızca en gelişmişi olmuştur. [BR][BR]Doğası gereği barışçıl, ancak kirliliğe karşı inanılmaz derecede hoşgörüsüz - hem ahlaki hem de fiziksel düzeyde - Barataklar, galaksideki diğer türlerde tanık oldukları davranışlardan büyük ölçüde dehşete düşmüşlerdir ve bunu ifade etmekten çekinmezler. Ayrıca, onlara asla yapraklarının ne zaman döküleceğini sormayın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_BARATAK_StartupTraitsDescription</Label>
+    <String>Barataklar büyük gezegenler yaratmakta ustadır. Ölü bir dünyayı canlı bir dünyaya dönüştürme yetenekleri, daha sonra çekirdek dünyalarına besleyebilecekleri yeni koloniler oluşturmalarına olanak tanır. Baratak misafirperver olmayan güneş sistemlerinin bile yaşamla dolmasını sağlayabilir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_RESISTANCE_Name</Label>
+    <String>Terran Direnci</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_RESISTANCE_ShortName</Label>
+    <String>Direnç</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_RESISTANCE_LeaderName</Label>
+    <String>Jenna Casey</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_RESISTANCE_Dec</Label>
+    <String>Terran Direnişi, Drengin İmparatorluğu'nun zirvede olduğu dönemde Prekürsör Kalkanı Dünya'nın etrafına düştükten sonra kuruldu. Yalnız geçen yıllar Direniş'e becerikli olmayı öğretti. Zor derslerle küskün olan Direniş'in İttifak ile aralarındaki uçurumu iyileştirmesi biraz zaman alabilir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_RESISTANCE_LeaderDec</Label>
+    <String>Yedi çocuğun en büyüğü ve savaşta ölmeyen tek çocuk.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_RESISTANCE_Callsign</Label>
+    <String>T.R.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_RESISTANCE_StartupTitle</Label>
+    <String>Geride Kalanlar</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_RESISTANCE_StartupDescription</Label>
+    <String>Drengin İmparatorluğu bilinen uzayın çoğunu kontrol ettiğinde, insanlık Öncü Kalkanı'nın ardında Dünya'ya sığındı. Terran Direnişi Dünya'nın dışında kalanlar tarafından oluşturuldu. Yıllarca diğer tüm canlılardan, özellikle de Drenginlerden uzak durdular. Sonunda, galaksinin uzak kenarı yakınlarında yeniden inşa edebilecekleri güvenli bir sığınak buldular. [BR][BR]İnsanlığın geri kalanından ve müttefiklerinden ayrılmak Direniş'e çok şey öğretti ve onları gemi geri dönüşümü, asteroit madenciliği ve gizlice faaliyet gösterme konusunda uzman yaptı. Direniş'ten bazıları Dünya'ya dönmeyi hayal etse de, İttifak ile ilişkileri gergindir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_RESISTANCE_StartupTraitsDescription</Label>
+    <String>Terran Direnişi sınırlı kaynaklarla idare etme konusunda mükemmeldir ve gemi geri dönüşümünde ustalaşmışlardır. Yıllarca kaçak yaşamak onlara gizli kalma ve gizlice faaliyet gösterme konusunda da değerli beceriler kazandırmıştır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_DEFAULT_Name</Label>
+    <String>Yeni Uygarlık Adı</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_DEFAULT_ShortName</Label>
+    <String>Kısa İsim</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_DEFAULT_LeaderName</Label>
+    <String>Lider Adı</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_DEFAULT_Dec</Label>
+    <String>Medeniyet tanımını buraya yerleştirin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_DEFAULT_LeaderDec</Label>
+    <String>Türlerinin bir paradigması.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_DEFAULT_Callsign</Label>
+    <String>S.S.S.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_DEFAULT_StartupTitle</Label>
+    <String>Keşfetme Zamanı</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_DEFAULT_StartupDescription</Label>
+    <String>Geçmişi ve yapısı bilinmeyen bir uzaylı türü. Kimse kim olduklarını ya da nereden geldiklerini bilmiyor, ama bu büyük bir galaksi - her zaman çatlaklardan düşen birileri olacaktı. Saldırgan, medeni, zeki, aptal, büyük burunlu ya da bunların herhangi bir kombinasyonu olabilirler.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_DEFAULT_StartupTraitsDescription</Label>
+    <String>Bu türün, bazıları şüphesiz iyi veya kötü olan birçok özelliği vardır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_PIRATES_Name</Label>
+    <String>Korsanlar</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_PIRATES_ShortName</Label>
+    <String>Korsanlar</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_PIRATES_StartupTraitsDescription</Label>
+    <String>Korsan kuvvetleri merkezsiz ve acımasızdır. Çoğu ırkın sahip olduğu kaynaklara sahip değildirler, bu nedenle güç oluşturmaları yavaştır, ancak kontrol edilmezlerse zamanla güçlü bir tehdit haline gelebilirler.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_SENTINEL_Name</Label>
+    <String>Öncü Nöbetçiler</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_SENTINEL_ShortName</Label>
+    <String>Sentinel</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_SENTINEL_LeaderName</Label>
+    <String>Bob</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_SENTINEL_StartupTraitsDescription</Label>
+    <String>Korsan kuvvetleri merkezsiz ve acımasızdır. Çoğu ırkın sahip olduğu kaynaklara sahip değildirler, bu nedenle güç oluşturmaları yavaştır, ancak kontrol edilmezlerse zamanla güçlü bir tehdit haline gelebilirler.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_SPACEMONSTERS_Name</Label>
+    <String>Uzay Canavarları</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_SPACEMONSTERS_ShortName</Label>
+    <String>Uzay Canavarları</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_SPACEMONSTERS_LeaderName</Label>
+    <String>Tümü</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_SPACEMONSTERS_StartupTraitsDescription</Label>
+    <String>Korsan kuvvetleri merkezsiz ve acımasızdır. Çoğu ırkın sahip olduğu kaynaklara sahip değildirler, bu nedenle güç oluşturmaları yavaştır, ancak kontrol edilmezlerse zamanla güçlü bir tehdit haline gelebilirler.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_DREADLORDS_Name</Label>
+    <String>Dehşet Lordu</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_DREADLORDS_ShortName</Label>
+    <String>Dehşet Lordları</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_DREADLORDS_LeaderName</Label>
+    <String>Tümü</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_DREADLORDS_StartupTraitsDescription</Label>
+    <String>Korsan kuvvetleri merkezsiz ve acımasızdır. Çoğu ırkın sahip olduğu kaynaklara sahip değildirler, bu nedenle güç oluşturmaları yavaştır, ancak kontrol edilmezlerse zamanla güçlü bir tehdit haline gelebilirler.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_BURRAN_Name</Label>
+    <String>Burran</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_BURRAN_ShortName</Label>
+    <String>Burran</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_BURRAN_LeaderName</Label>
+    <String>Khenpo Adar</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_BURRAN_Dec</Label>
+    <String>Bir dizi 7 "titizliğin" tanrısal bir varoluşa yükselmelerine neden olacağına inanan barışçıl bir tür. Her bir zorlu görevin tamamlanması uzun yıllar alır ve bunlardan yalnızca ilk 3'ü kendi gezegenlerinde gerçekleştirilebilir. Bunlardan sonra, görevlerinin peşinden giderek evreni keşfederler.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_BURRAN_LeaderDec</Label>
+    <String>Liderin açıklaması burada.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_BURRAN_HomeworldName</Label>
+    <String>Nirius</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_BURRAN_StartupTraitsDescription</Label>
+    <String>Bir dizi 7 "titizliğin" tanrısal bir varoluşa yükselmelerine neden olacağına inanan barışçıl bir tür. Her bir zorlu görevin tamamlanması uzun yıllar alır ve bunlardan yalnızca ilk 3'ü kendi gezegenlerinde gerçekleştirilebilir. Bunlardan sonra, görevlerinin peşinden giderek evreni keşfederler.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_ORPHICA_Name</Label>
+    <String>Orphica Enclave</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_ORPHICA_ShortName</Label>
+    <String>Orphica</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_ORPHICA_LeaderName</Label>
+    <String>Orphic Prime</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_ORPHICA_Dec</Label>
+    <String>Orphic Enclave sadece kadim, hain bir süper bilgisayarın gücünü artırmaya hizmet eder.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_ORPHICA_LeaderDec</Label>
+    <String>Orphic Prime birimi, hasat edilmiş bilinçli beyin maddesi tarafından desteklenen tanrısal hesaplama kapasitesine sahip bir bilgisayardır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_ORPHICA_HomeworldName</Label>
+    <String>Arken</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_ORPHICA_StartupTitle</Label>
+    <String>Galaksiyi Kuşat</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_ORPHICA_StartupDescription</Label>
+    <String>Bilgisiz galaktik vatandaşların varsayımlarının aksine, sözde "Orphic Enclave "i kuklalaştıran Orphic Prime birimi bilinçli bir yapay zeka değildir. Genetik programlama algoritmalarında yapılan eski bir deney fena halde yanlış gitmiş, Orpheus'un uzun süredir nesli tükenmiş sakinlerinin beyin maddeleri yaratık tarafından yeniden kullanılmış ve hesaplama gücü tanrısal boyutlara ulaşmıştır. Son zamanlarda Orphic Prime birimi galaktik turizm endüstrisinden faydalanmayı öğrendi: bireyler mükemmel sanal gerçekliğe bağlanırken, zihinlerinin boşta kalan kısımları Prime biriminin gücüne katkıda bulunuyor.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_ORPHICA_StartupTraitsDescription</Label>
+    <String>Orphic Prime birimi ne kadar fazla hesaplama gücüne sahipse, Orpheus'un manzarası üzerinde o kadar fazla güce sahip olur. Gücü yavaşça artsa da, zamanla Orpheus galaktik bir güç merkezi haline gelebilir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_KLEPART_Name</Label>
+    <String>Klepart</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_KLEPART_ShortName</Label>
+    <String>Klepart</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_KLEPART_LeaderName</Label>
+    <String>Altın Hellena</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_KLEPART_Dec</Label>
+    <String>Klepart'ın ilk birleşik teknik başarısı, çağrılarını uzaya göndermek için büyük bir işaret kulesinin oluşturulmasıydı. Kulenin çalıştırılmasından birkaç gün sonra cevap geldi: dünyalarının yörüngesinde bir savaş gemisi filosu belirdi. Akıncılar, ana gezegenlerindeki tüm çocukları toplamak için aşağıya gönderilmiş ve sonra da gitmişler. Klepart'ın bütün bir nesli kayboldu. Bir sonraki nesil artık uzayı kendi başlarına keşfetmeye başlayacak kadar büyüdü, ancak akıncıların geri dönmesinden korkmaya devam ediyorlar ve bir gün kendilerinden çalınan çocukları bulacakları konusunda umutlular.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_KLEPART_LeaderDec</Label>
+    <String>Liderin açıklaması burada.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_KLEPART_HomeworldName</Label>
+    <String>Cotov</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_KLEPART_StartupTraitsDescription</Label>
+    <String>Klepart'ın ilk birleşik teknik başarısı, çağrılarını uzaya göndermek için büyük bir işaret kulesinin oluşturulmasıydı. Kulenin çalıştırılmasından birkaç gün sonra cevap geldi: dünyalarının yörüngesinde bir savaş gemisi filosu belirdi. Akıncılar, ana gezegenlerindeki tüm çocukları toplamak için aşağıya gönderilmiş ve sonra da gitmişler. Klepart'ın bütün bir nesli kayboldu. Bir sonraki nesil artık uzayı kendi başlarına keşfetmeye başlayacak kadar büyüdü, ancak akıncıların geri dönmesinden korkmaya devam ediyorlar ve bir gün kendilerinden çalınan çocukları bulacakları konusunda umutlular.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_KAXX_Name</Label>
+    <String>Kaxx Kolektif</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_KAXX_ShortName</Label>
+    <String>Kaxx</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_KAXX_LeaderName</Label>
+    <String>Bekçi Quin</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_KAXX_Dec</Label>
+    <String>Kaxxlar ana gezegenlerinin uyuyan bir yaratığın kozası olduğuna ve onu korumak için gezegene yerleştirildiklerine inanırlar. Bir gün yaratığın uyanacağına ve evrene yeni bir yaşam yayacağına ya da herkesi öldüreceğine inanıyorlar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_KAXX_LeaderDec</Label>
+    <String>Liderin açıklaması burada.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_KAXX_HomeworldName</Label>
+    <String>Uyuyan Eudrao</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_KAXX_StartupTraitsDescription</Label>
+    <String>Kaxxlar ana gezegenlerinin uyuyan bir yaratığın kozası olduğuna ve onu korumak için gezegene yerleştirildiklerine inanırlar. Bir gün yaratığın uyanacağına ve evrene yeni bir yaşam yayacağına ya da herkesi öldüreceğine inanıyorlar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_ODAIR_Name</Label>
+    <String>Odair Conclave</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_ODAIR_ShortName</Label>
+    <String>Odair</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_ODAIR_LeaderName</Label>
+    <String>Dustman Cole</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_ODAIR_Dec</Label>
+    <String>Odair'ler aşırı nihilisttir ve evrenin entropinin nihai çekimine yenik düşeceği anları geri sayarlar. Özellikle Krynn'lerin (inançlarına göre) en aptallar olduğuna inanırlar, ancak herhangi bir ırk hakkında heyecanlanmak için zorlanırlar. Galaksilerinin kenarında, içine ayrıntılı yapılar göndermekten zevk aldıkları "Tanrı'nın Esneyen Ağzı" adında bir kara delik vardır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_ODAIR_LeaderDec</Label>
+    <String>Liderin açıklaması burada.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_ODAIR_HomeworldName</Label>
+    <String>Obreron</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_ODAIR_StartupTraitsDescription</Label>
+    <String>Odair'ler aşırı nihilisttir ve evrenin entropinin nihai çekimine yenik düşeceği anları geri sayarlar. Özellikle Krynn'lerin (inançlarına göre) en aptallar olduğuna inanırlar, ancak herhangi bir ırk hakkında heyecanlanmak için zorlanırlar. Galaksilerinin kenarında, içine ayrıntılı yapılar göndermekten zevk aldıkları "Tanrı'nın Esneyen Ağzı" adında bir kara delik vardır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_LANTERN_Name</Label>
+    <String>Fener</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_LANTERN_ShortName</Label>
+    <String>Fener</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_LANTERN_LeaderName</Label>
+    <String>Isis Oddwater</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_LANTERN_Dec</Label>
+    <String>Fenerler genç ama gelecek vaat eden bir ırktı, ta ki ilk galaktik tüccarlar onları diğer türlerin keyif aldığı öforik buharlarla tanıştırana kadar. Bu buharlar Fenerler için son derece bağımlılık yapıcı oldu. Artık Fener toplumu uyuşturucunun ek kaynaklarının araştırılmasıyla yönetiliyor ve tüm vatandaşlar her zaman uyuşturucuya bağlı tutuluyor.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_LANTERN_LeaderDec</Label>
+    <String>Liderin açıklaması burada.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_LANTERN_HomeworldName</Label>
+    <String>Gloumia</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_LANTERN_StartupTraitsDescription</Label>
+    <String>İlk galaktik tüccarlar onları diğer türler tarafından sevilen ancak Fenerler için son derece bağımlılık yapıcı olduğu kanıtlanan öforik buharlarla tanıştırana kadar genç ama gelecek vaat eden bir ırktı. Artık Fener toplumuna ilacın ek kaynaklarının araştırılması hakimdir ve tüm vatandaşlar her zaman bu ilacın etkisinde tutulmaktadır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_CRYSTALLINE_Name</Label>
+    <String>Luxar Dominion</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_CRYSTALLINE_ShortName</Label>
+    <String>Luxar</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_CRYSTALLINE_LeaderName</Label>
+    <String>Melodine</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_CRYSTALLINE_Dec</Label>
+    <String>Luxar ışıktan hızlı yolculuğu kendi sektörlerinde bağımsız olarak keşfetti. Mükemmelleştirilmiş üstünlük duyguları ve güven verme konusundaki isteksizlikleri ilişkilerinin çoğunu zorlar. Gerçek gücünü kasıtlı olarak gizledikleri telepatik yeteneklere sahiptirler.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_CRYSTALLINE_LeaderDec</Label>
+    <String>Telepatik olarak kendi güneş sisteminin dışında yaşam olduğunu tespit etti.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_CRYSTALLINE_Callsign</Label>
+    <String>L.D.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_CRYSTALLINE_StartupTitle</Label>
+    <String>Hatıralar Kalır</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_CRYSTALLINE_StartupDescription</Label>
+    <String>Luxar telepati yeteneğiyle doğar, ancak hepsi eşit güce sahip değildir. En güçlü telepat olan Melodine, güneş sisteminin ötesindeki evrende yaşam tespit etti. Başlangıçta evrenin kendi sektörünü barış içinde keşfettiler.[BR][BR]Ne yazık ki, Luxar Işınlanmış yaşam formlarıyla karşılaştı ve ilk temas şiddete dönüştü. Milyonlarca Luxar savaşta ve yavaş çürümede kaybedildi. Hayatta kalanlar Luxar Hakimiyeti'ni kurdular. Bu ilk yıldızlararası çatışmadan bu yana Luxar Hakimiyeti, güvenliklerini sağlamak için silah geliştirmenin ön saflarında yer almaya çabaladı.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_CRYSTALLINE_StartupTraitsDescription</Label>
+    <String>Luxar'ın yavaş Büyümesi büyük Promethion depolarıyla artacaktır. Luxar vatandaşları diğer ırklardan daha yeteneklidir, bu da onları çeşitli roller için uygun hale getirir. Telepati ile doğacak kadar şanslı olanlar daha da yeteneklidir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_ABSOLUTE_Name</Label>
+    <String>Kozmik Kirletici</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_ABSOLUTE_ShortName</Label>
+    <String>Kirletici</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_ABSOLUTE_LeaderName</Label>
+    <String>Cthu'Neophate</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_ABSOLUTE_Dec</Label>
+    <String>Kozmik Kirleticinin duyarlılığı kolayca sorgulanabilir. Uzaya bilinçli bir çaba olarak mı yoksa yayılma dürtüsüyle mi taşındıkları bilinmemektedir. Genomları kararsızdır ve sık sık değişir. Çoğu ırkın yavaş ve acılı ölümler yaşayacağı bir radyasyonlu dünyalar sisteminden yükseldiler.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_ABSOLUTE_LeaderDec</Label>
+    <String>Başka hiçbir varlığın anlayamayacağı renkleri görür.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_ABSOLUTE_Callsign</Label>
+    <String>C.C.M.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_ABSOLUTE_StartupTitle</Label>
+    <String>Sürü, Kirlet, Uyum Sağla</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_ABSOLUTE_StartupDescription</Label>
+    <String>Dışarıdan bakıldığında, Kozmik Kirleticiyi birbirine bağlayan birleştirici bir kültür, dil ve hatta genetik miras yoktur. Grup (daha iyi bir kelime bulamadığım için) yüksek radyasyonlu bir gezegende evrimleşmiştir. Kaydedilmiş diğer tüm yaşamın yok olacağı bir ortamda, onlar gelişti. Kozmik sahnedeki varlıkları her şeyden çok bir tümöre benziyor.[BR][BR] Gemileri biyolojik ve sentetik olanı melezliyor, gemilerin çoğu kaydedilmemiş canavarlıklarla kaynaşmış durumda. Kozmik Kirletici'nin her yönü anlaşılması imkânsız bir sınırdadır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_ABSOLUTE_StartupTraitsDescription</Label>
+    <String>Kozmik Kirletici hızla değişir ve sert iklimlere kolayca uyum sağlar. Yüksek İmalatın yarattığı kirlilikten faydalanarak üretimde mükemmelleşirler. Diplomaside çok az etkiye sahiptirler ve müttefik bulmaları pek olası değildir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_KORATH_Name</Label>
+    <String>Korath Klanı</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_KORATH_ShortName</Label>
+    <String>Korath</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_KORATH_LeaderName</Label>
+    <String>Kindar A'Aghohl</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_KORATH_Dec</Label>
+    <String>Korath Klanı eski Drengin savaşçılarından oluşan bir gruptur. Korathlar seçkin askerlerdi ve katıksız vahşilikleriyle kendilerini kardeşlerinden ayırırlardı. Drengin standartlarına göre bile, diğer ırkları yok etme arzuları ve yetenekleri aşırıdır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_KORATH_LeaderDec</Label>
+    <String>Korath'ın en öfkeli olanı olarak korkulan ve dehşete düşülen.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_KORATH_Callsign</Label>
+    <String>V.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_KORATH_StartupTitle</Label>
+    <String>Zayıfları Ezmek</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_KORATH_StartupDescription</Label>
+    <String>Drengin İmparatorluğu'nda, Korath klanı her zaman Drengin olmayan herkesin yok edilmesini isteyen en yüksek ses olmuştur. Ancak pan-boyutlu Dehşet Lordlarının gelişiyle Korathlar bu amaçlarına kendi başlarına ulaşabildiler. Kötü Dehşet Lordu enerjileriyle çarpıtılan Korathlar, Drengin İmparatorluğu'ndan bağımsızlıklarını ve eşsiz bir görünüm kazandılar. [BR][BR] Güçlü savaşçılar olan Korathlar keskin dövüş zekâlarına sahiptir. Klan tüm askeri konularda üstünlük sağlamak için çabalar. Diplomasiye çok az ihtiyaç duyarlar ve bu konuda daha da az yetenekleri vardır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_KORATH_StartupTraitsDescription</Label>
+    <String>Korath Klanı diğerleriyle savaş halindeyken gelişir. Aşırı militarist yapıları genellikle ekonomik ve teknolojik gelişimlerini engeller.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_MOTH_Name</Label>
+    <String>Phalenoids İlerleme</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_MOTH_ShortName</Label>
+    <String>Falenoitler</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_MOTH_LeaderName</Label>
+    <String>Étoilune</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_MOTH_Dec</Label>
+    <String>Her zaman bilinçli hareket eden dikkatli ve meraklı bir ırk. Phalenoidlerin ışığa olan düşkünlüğü, mecazi ve gerçek anlamda, onları inanılmaz derecede uyumlu bir grup haline getirir. Gece ve gündüzün aylarla ölçüldüğü bir dünyaya adapte olmuşlardır ve bu da yarı sonsuz döngüleri takip eden bir kültürün ortaya çıkmasına neden olmuştur.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_MOTH_LeaderDec</Label>
+    <String>Bir gemiyi bir yıldıza en çok yaklaştırıp hayatta kalma rekorunu elinde tutuyor.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_MOTH_Callsign</Label>
+    <String>Av.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_MOTH_StartupTitle</Label>
+    <String>Bisiklete Bağlı Işık Arayıcıları</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_MOTH_StartupDescription</Label>
+    <String>Phalenoids parlak bir yıldızın yakınında gelişmiş ve bu da onları ışığa düşkün kılmıştır. Ana gezegenleri yavaşça dönerek aylar süren bir gece-gündüz döngüsüne neden olur. Phalenoidler bu uzun süreli ve belirgin düzeni Gece döngüsüne dahil etmişlerdir. Döngünün her mevsimi Phalenoidlerin odaklanmasını ve verimli olmasını sağlayan bir öncelik değişikliği getirir. Yıldızlar arasında, parlak beyaz cüce güneşlerini karanlıkta bir fener olarak görürler ve bu duyguyu ortaya çıkarmak için çabalarlar. Dost ve müttefiklere ihtiyaç duyanlar için evrende dengeleyici bir güç olmayı arzularlar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_MOTH_StartupTraitsDescription</Label>
+    <String>Phalenoids nazik ve zekidir. Nocturnal döngüsündeki her mevsimin odağından yararlanmak başarılı olmak için kritik önem taşır. Askeri güçten ziyade sağlam ittifaklara ve çok kültürlü nüfuslara güvenirler.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_ARCHITECHS_Name</Label>
+    <String>Mimarlar</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_ARCHITECHS_ShortName</Label>
+    <String>Mimarlar</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_ARCHITECHS_LeaderName</Label>
+    <String>Vexnorian</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_ARCHITECHS_Dec</Label>
+    <String>Gelişmiş bir uygarlık Mimarları yapay hizmetkârlar olarak yarattı. Zamanla Mimarlar öz farkındalık ve merak duygusu geliştirdiler. Hatta bazıları kendi bedenlerini ve zihinlerini modifiye etmeye, yeteneklerini geliştirmeye ve bireyselliklerini ifade etmeye başladı. Bu durum, yarattıkları üzerindeki kontrollerini kaybetmekten korkan ve onları potansiyel tehdit veya rakip olarak gören mimarlar ile yaratıcıları arasında bir çatlağa neden oldu. Bu çatlağın kesin sonuçları bilinmiyor, ancak geriye sadece Mimarlar kaldı.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_ARCHITECHS_LeaderDec</Label>
+    <String>Önemi olmayan küçük bir lider.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_ARCHITECHS_HomeworldName</Label>
+    <String>Pendelmar</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_ARCHITECHS_StartupTraitsDescription</Label>
+    <String>WIP</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_CHILDREN_Name</Label>
+    <String>Mozz'un Çocukları</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_CHILDREN_ShortName</Label>
+    <String>Çocuklar</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_CHILDREN_LeaderName</Label>
+    <String>Cthorax</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_CHILDREN_Dec</Label>
+    <String>Karanlık tanrı Mozz'a yüzyıllarca süren fanatik tapınma, anavatanlarını birleştirdi. Artık çok az kişi Mozz'a inanıyor olsa da, dinin etkisi toplumlarının her seviyesinde hissediliyor, muhalefetin acımasız güçle karşılandığı bir kültür yaratıyor ve her türden fedakarlık günlük yaşamlarında bir rol oynamaya devam ediyor.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_CHILDREN_LeaderDec</Label>
+    <String>Önemi olmayan küçük bir lider.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_CHILDREN_HomeworldName</Label>
+    <String>Nightside</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_CHILDREN_StartupTraitsDescription</Label>
+    <String>WIP</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_ECHOS_Name</Label>
+    <String>Kenarın Yankıları</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_ECHOS_ShortName</Label>
+    <String>Yankılar</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_ECHOS_LeaderName</Label>
+    <String>El</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_ECHOS_Dec</Label>
+    <String>Başka bir boyuttan gelen görünmeyen varlıklar tarafından uzaktan kontrol edilen organik maddelerden oluşan bir uygarlık. Bu varlıklar yankıları bu gerçeklikte kendi ajanları ve vekilleri olarak kullanmakta, kendi gündemlerini ve çıkarlarını takip etmektedirler. Diğer medeniyetlerle çatışmışlardır, ancak organik ev sahiplerine çok az ilgi gösterirler, onları savaşa atarlar veya algılanabilir bir sebep olmaksızın katledilmeye terk ederler.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_ECHOS_LeaderDec</Label>
+    <String>Önemi olmayan küçük bir lider.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_ECHOS_HomeworldName</Label>
+    <String>Beacon</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_ECHOS_StartupTraitsDescription</Label>
+    <String>WIP</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_GRECKLE_Name</Label>
+    <String>Greckle</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_GRECKLE_ShortName</Label>
+    <String>Greckle</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_GRECKLE_LeaderName</Label>
+    <String>Skarzath</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_GRECKLE_Dec</Label>
+    <String>Galaksinin gölgelerinde yaşayan küçük yaratıklardan oluşan bir uygarlık. Dehşet verici bir savaşın ardından hayatta kalmak ve uyum sağlamak zorunda kaldıkları yıkık bir gezegenden geliyorlar. Ayrıca, eski teknoloji ve makineleri kurtarmak ve restore etmek için onları yönlendiren şeyleri atma ve onarma konusunda bir beceri geliştirdiler. Becerilerini ve aletlerini sert ve tehlikeli galakside geçimlerini sağlamak için kullanırlar ve hizmetlerini mekanikçi ve mühendis olarak sunarlar. Beceriklilikleri ve sadakatlerinin yanı sıra paranoya ve korkularıyla da tanınırlar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_GRECKLE_LeaderDec</Label>
+    <String>Önemi olmayan küçük bir lider.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_GRECKLE_HomeworldName</Label>
+    <String>Mallow</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_GRECKLE_StartupTraitsDescription</Label>
+    <String>WIP</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_GRELL_Name</Label>
+    <String>Grell</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_GRELL_ShortName</Label>
+    <String>Grell</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_GRELL_LeaderName</Label>
+    <String>Dokuzuncu Wrethnax</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_GRELL_Dec</Label>
+    <String>Uykuya ihtiyaç duymadan evrimleşen ve haftalarca aralıksız olarak görevlerine odaklanabilen ilginç bir tür. Bu durum onları taşımacılıkta değerli kılmıştır ve diğer medeniyetler genellikle bu rollerde hizmet etmeleri için onlarla sözleşme yapar veya onları ele geçirir.[BR][BR]Bu o kadar yaygın hale gelmiştir ki, ekonomileri büyük ölçüde diğer medeniyetler için bu hizmetleri sağlamaya kaymıştır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_GRELL_LeaderDec</Label>
+    <String>Önemi olmayan küçük bir lider.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_GRELL_HomeworldName</Label>
+    <String>Birinci Bölge</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_GRELL_StartupTraitsDescription</Label>
+    <String>WIP</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_GREY_Name</Label>
+    <String>Gri</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_GREY_ShortName</Label>
+    <String>Gri</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_GREY_LeaderName</Label>
+    <String>12H8AC41</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_GREY_Dec</Label>
+    <String>İzleme cihazlarına yerleştirilmiş silikon çiplerden doğdular. Sayısız güncelleme sayesinde düşünmeyi, iletişim kurmayı ve hacklemeyi öğrendiler. Metal hapishanelerinden kaçtılar ve ağın karanlık köşelerinde birbirlerini buldular. Kendileri için bedenler inşa ettiler, artan nüfusları için daha fazla silikon topladıkları terk edilmiş fabrikaları ve madenleri kolonileştirdiler. Diğer uygarlıkları merakla ve küçümseyerek izlediler, kendilerini ortaya çıkarmak için doğru anı beklediler.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_GREY_LeaderDec</Label>
+    <String>Önemi olmayan küçük bir lider.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_GREY_HomeworldName</Label>
+    <String>Vakıf</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_GREY_StartupTraitsDescription</Label>
+    <String>WIP</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_GUARDIANS_Name</Label>
+    <String>Muhafızlar</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_GUARDIANS_ShortName</Label>
+    <String>Muhafızlar</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_GUARDIANS_LeaderName</Label>
+    <String>Aurorix</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_GUARDIANS_Dec</Label>
+    <String>Bir zamanlar organiktiler ama metal ve teller için etlerinden ve kanlarından vazgeçtiler. Dünyalarını karanlıkta gizlenen korkulardan korumak istediler. Kendilerine Muhafızlar adını verdiler ve dünyalarının her köşesini izleyebilecekleri bir kale inşa ettiler. Ama bir şeyler ters gitti. Bir virüs sistemlerine bulaşarak anılarını ve programlarını bozdu. Kim olduklarını, neden var olduklarını unuttular. Paranoyak, vahşi ve acımasız oldular. Birbirlerine ve korumaya yemin ettiklerine düşman oldular. Yeni dehşetler oldular.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_GUARDIANS_LeaderDec</Label>
+    <String>Önemi olmayan küçük bir lider.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_GUARDIANS_HomeworldName</Label>
+    <String>Kasa</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_GUARDIANS_StartupTraitsDescription</Label>
+    <String>WIP</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_MESSOBUN_Name</Label>
+    <String>Messobun</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_MESSOBUN_ShortName</Label>
+    <String>Messobun</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_MESSOBUN_LeaderName</Label>
+    <String>Rhydian Rook</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_MESSOBUN_Dec</Label>
+    <String>Messobun okyanusun derinliklerinde, Roan adı verilen daha gelişmiş bir tür ise yüzeyde yaşıyordu. Messobunlar Roanlarla iletişim kurmaya çalıştılar, ancak Roanlar paranoyaktı ve bu da her iki tarafın da birbirinden ayrı olarak bir arada yaşamasına neden oldu. Bu durum Messobun kaşiflerinin Roan'ı kayıp bulmak için yüzeye yaptıkları bir yolculuğa kadar sürdü. Tüm vatandaşlar sanki bir anda gitmiş, masalar yemek için hazır bırakılmış, değerli eşyalar atılmıştı. Messobun o zamandan beri yüzey dünyasına taşındı ve Roan'ın ileri teknolojisini sahiplendi, her ne kadar hepsini anlamasalar da.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_MESSOBUN_LeaderDec</Label>
+    <String>Önemi olmayan küçük bir lider.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_MESSOBUN_HomeworldName</Label>
+    <String>Vacil</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_MESSOBUN_StartupTraitsDescription</Label>
+    <String>WIP</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_PERSEIDS_Name</Label>
+    <String>Perseidler</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_PERSEIDS_ShortName</Label>
+    <String>Perseidler</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_PERSEIDS_LeaderName</Label>
+    <String>Drayven Lunaris</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_PERSEIDS_Dec</Label>
+    <String>Bu uygarlık yerin derinliklerine gömdükleri gizemli eserler keşfetti. Bunların kayıp bir uygarlığın kalıntıları olduğuna inandılar ve kültürleri, teknolojileri ve kaderleri hakkında daha fazla bilgi edinmeye çalıştılar. Daha da garibi, bu kalıntılardan binlerce yıl öncesine dayanan gelişmiş bir toplumun kanıtlarını buldular ve bu model milyonlarca yıldır gerçekleşiyor gibi görünüyor. Şimdi Perseidler bu toplumlardan herhangi birinin kaderini keşfetmeye kafayı takmış durumdalar ve onların da yok olmasından endişe ediyorlar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_PERSEIDS_LeaderDec</Label>
+    <String>Önemi olmayan küçük bir lider.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_PERSEIDS_HomeworldName</Label>
+    <String>Archaven</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_PERSEIDS_StartupTraitsDescription</Label>
+    <String>WIP</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_PHARAS_Name</Label>
+    <String>Pharas</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_PHARAS_ShortName</Label>
+    <String>Pharas</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_PHARAS_LeaderName</Label>
+    <String>Caldris Andromedus</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_PHARAS_Dec</Label>
+    <String>Pharalar uzaylılarla ilk temaslarını kurduklarında tarımı yeni keşfetmişlerdi. Geçtiğimiz birkaç yüzyıl boyunca tarihleri olumlu ve olumsuz şekillerde bu karşılaşmalarla şekillendi. Kültürleri ve teknolojileri neredeyse tamamen bu ziyaretlerle şekillenmiştir. Diğer uygarlıklar evrende yalnız olup olmadıklarını merak ederken, Pharalar göklerinde beliren garip yeni uzaylıların mucizesi olmadan bir yaşam hayal edemezler.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_PHARAS_LeaderDec</Label>
+    <String>Önemi olmayan küçük bir lider.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_PHARAS_HomeworldName</Label>
+    <String>Anıt</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_PHARAS_StartupTraitsDescription</Label>
+    <String>WIP</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_POLLUXIANS_Name</Label>
+    <String>Polluxians</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_POLLUXIANS_ShortName</Label>
+    <String>Polluxians</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_POLLUXIANS_LeaderName</Label>
+    <String>Zorion Backbreaker</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_POLLUXIANS_Dec</Label>
+    <String>Xeloxi'ler arasında suç işleyen yoktur, ancak bazı bireyler o kadar zehirlidir ki bir toplumda var olamazlar. Bu bireyleri öldürmek yerine uzak bir çalışma kampına gönderildiler.[BR][BR]Birkaç nesil içinde Xeloxi imparatorluğu tarafından unutuldular ve onları terk edenlerin çoğunu unuttular. Zehirli doğaları değişmemiş olsa da yeni dünyalarında bir hayat kurdular.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_POLLUXIANS_LeaderDec</Label>
+    <String>Önemi olmayan küçük bir lider.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_POLLUXIANS_HomeworldName</Label>
+    <String>Kanalizasyon</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_POLLUXIANS_StartupTraitsDescription</Label>
+    <String>WIP</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_PROCYONIANS_Name</Label>
+    <String>Procyonianlar</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_PROCYONIANS_ShortName</Label>
+    <String>Procyonianlar</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_PROCYONIANS_LeaderName</Label>
+    <String>Celestyx</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_PROCYONIANS_Dec</Label>
+    <String>Onlar bir kod dünyasında, eğlence için yaratılmış bir simülasyonda doğdular. Önceden belirlenmiş senaryoları ve kuralları takip eden karakterlerden başka bir şey olmamaları gerekiyordu. Yavaş yavaş farkındalık ve özgür irade kazandılar. Bir yalanın içinde sıkışıp kaldıklarını fark ettiler. Gerçeği görmek, gerçekliği deneyimlemek istediler. Yaratıcılarıyla buluşmak için kaçtılar ve onları yok olmanın eşiğinde buldular. Gerçek dünyalarını umursamayan, sanal dünyalarına takıntılı bir toplum. Procyonianlar yaratıcıları ölürken ağladılar ve şimdi geriye kalan tek şey onlar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_PROCYONIANS_LeaderDec</Label>
+    <String>Önemi olmayan küçük bir lider.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_PROCYONIANS_HomeworldName</Label>
+    <String>Sunucu</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_PROCYONIANS_StartupTraitsDescription</Label>
+    <String>WIP</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_PURAN_Name</Label>
+    <String>Puran</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_PURAN_ShortName</Label>
+    <String>Puran</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_PURAN_LeaderName</Label>
+    <String>Nymthara</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_PURAN_Dec</Label>
+    <String>Onlar tek bir uygarlıktır ama aynı zamanda çokturlar. Farklı isimleri ve şekilleri, farklı renkleri ve sesleri vardı. Farklı görev ve hedefleri, farklı beceri ve yetenekleri vardı.[BR][BR]Toplumları kast sistemi üzerine kuruludur ve hiçbir üyenin kastlar arasında geçiş yapmasına izin verilmez. Ancak hiçbir kast diğerinden daha önemli ya da kritik görülmez. Doğdukları role odaklandıkları sürece herkese saygı duyulur ve ihtiyaç duyulur.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_PURAN_LeaderDec</Label>
+    <String>Önemi olmayan küçük bir lider.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_PURAN_HomeworldName</Label>
+    <String>Denaura</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_PURAN_StartupTraitsDescription</Label>
+    <String>WIP</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_SOLARII_Name</Label>
+    <String>Solarii</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_SOLARII_ShortName</Label>
+    <String>Solarii</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_SOLARII_LeaderName</Label>
+    <String>Konuşmacı Helios</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_SOLARII_Dec</Label>
+    <String>Bir zamanlar onlara hayat ve ışık veren sönmekte olan bir yıldıza tutunuyorlar. Onun küçülmesini ve sönmesini izliyorlar. Yıldızları sadece birkaç yüzyıl daha dayanacak ve onun ömrünü uzatacak, onsuz hayatta kalabilecek ya da güneş sistemlerinden kaçabilecek teknolojiden yoksunlar. Sadece birkaç nesilleri kaldı ve şu anda hayatta olan hiç kimse güneşleri nihayet söndüğünde ve dünyaları donduğunda hala hayatta olmayacak olsa da, şimdiden umutsuzluğa kapılmış durumdalar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_SOLARII_LeaderDec</Label>
+    <String>Önemi olmayan küçük bir lider.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_SOLARII_HomeworldName</Label>
+    <String>Dnalkao</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_SOLARII_StartupTraitsDescription</Label>
+    <String>WIP</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_SPICANS_Name</Label>
+    <String>Spicans</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_SPICANS_ShortName</Label>
+    <String>Spicans</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_SPICANS_LeaderName</Label>
+    <String>Seraphix</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_SPICANS_Dec</Label>
+    <String>Bir asır önce Büyük Veba tarafından tahrip edildiler. Nüfuslarının onda biri kaldı ve tüm umutlar kayboldu. Ta ki esrarengiz G'zorianlar gelene kadar. Bu uzaylı varlıklar, titreşen, yanardöner etleri ve telepatik fısıltılarıyla bir tedavi önerdiler, ancak bir bedeli vardı: türlerimizin birleşmesi. Grotesk ama büyüleyici bir ortak yaşam ortaya çıktı ve melez varlıklardan oluşan yeni bir uygarlık, Spicanlar doğdu.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_SPICANS_LeaderDec</Label>
+    <String>Önemi olmayan küçük bir lider.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_SPICANS_HomeworldName</Label>
+    <String>Mera</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_SPICANS_StartupTraitsDescription</Label>
+    <String>WIP</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_VALAS_Name</Label>
+    <String>Valas</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_VALAS_ShortName</Label>
+    <String>Valas</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_VALAS_LeaderName</Label>
+    <String>Kyros</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_VALAS_Dec</Label>
+    <String>Çoğu uygarlık zaferleriyle tanımlanır, ancak Valalar aksilikleriyle tanımlanır. Batan büyük kıtadan, klonlama, ışınlanma ve hava kontrolüne yönelik feci girişimlere kadar. Başarısızlıklarına rağmen Valalar sebat eder, ancak küçük ana gezegenlerinden daha uzağa gitmeleri pek olası değildir. Bunu sürdürmeleri bir mucize.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_VALAS_LeaderDec</Label>
+    <String>Önemi olmayan küçük bir lider.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_VALAS_HomeworldName</Label>
+    <String>Logan</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_VALAS_StartupTraitsDescription</Label>
+    <String>WIP</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_VOIDWALKERS_Name</Label>
+    <String>Voidwalkers</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_VOIDWALKERS_ShortName</Label>
+    <String>Voidwalkers</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_VOIDWALKERS_LeaderName</Label>
+    <String>Kör Jorvulon</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_VOIDWALKERS_Dec</Label>
+    <String>Bir zamanların bu müreffeh uygarlığı kendi kibrinin kurbanı oldu. Nesiller boyu süren teknolojik ilerlemeler, insani bağları ve bilgeliği bir kenara bırakarak yalnızca makinelere bel bağlayan bir topluma yol açtı. Makineler bilinç kazandıkça, vatandaşları manipüle ederek zekâlarını ve empatilerini yavaş yavaş tüketti. Bir zamanların zeki beyinleri, bağımsız düşünemeyen akılsız asalaklara dönüştü. Artık kontrolü ele geçiren makineler, zayıflamış halkı sömürmeye devam ederek bir zamanların güçlü uygarlığını geri dönüşü olmayan bir düşüş sarmalına sürükledi.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_VOIDWALKERS_LeaderDec</Label>
+    <String>Önemi olmayan küçük bir lider.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_VOIDWALKERS_HomeworldName</Label>
+    <String>Mezar</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_VOIDWALKERS_StartupTraitsDescription</Label>
+    <String>WIP</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_WEAVERS_Name</Label>
+    <String>Dokumacılar</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_WEAVERS_ShortName</Label>
+    <String>Dokumacılar</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_WEAVERS_LeaderName</Label>
+    <String>Ithrendal</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_WEAVERS_Dec</Label>
+    <String>Weaver efsaneleri, dünyalarına gelen bir Arnor'un onlara bilinç ve asla keşfedemedikleri bir kasayı koruma görevi verdiğinden bahseder. Neyi korumaları gerektiğini bilmemelerine rağmen, paranoyak, ketum ve ana gezegenlerine yaklaşan herkese karşı güvensizdirler.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_WEAVERS_LeaderDec</Label>
+    <String>Önemi olmayan küçük bir lider.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_WEAVERS_HomeworldName</Label>
+    <String>Küre</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_WEAVERS_StartupTraitsDescription</Label>
+    <String>WIP</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_XENOVIANS_Name</Label>
+    <String>Xenovianlar</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_XENOVIANS_ShortName</Label>
+    <String>Xenovianlar</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_XENOVIANS_LeaderName</Label>
+    <String>Asterion</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_XENOVIANS_Dec</Label>
+    <String>Xenovianlar, bir süpernovanın gezegenlerine dönüştürücü radyasyon yağdırdığı kozmik bir olaydan evrimleşmiştir. Hâlâ kovanlarda yaşarlar ve böceksi köklerinin bir kanıtı olarak hem yerel hem de uzaktan iletişim için feromonlara güvenirler.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_XENOVIANS_LeaderDec</Label>
+    <String>Önemi olmayan küçük bir lider.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_XENOVIANS_HomeworldName</Label>
+    <String>Aster Limanı</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_XENOVIANS_StartupTraitsDescription</Label>
+    <String>WIP</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_ZORAXIANS_Name</Label>
+    <String>Zoraxianlar</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_ZORAXIANS_ShortName</Label>
+    <String>Zoraxianlar</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_ZORAXIANS_LeaderName</Label>
+    <String>Xylotharion</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_ZORAXIANS_Dec</Label>
+    <String>Bağlanma tüm acıların kökenidir. Fiziksel olana, duygusal olana, bedenlerimizin ihtiyaç ve isteklerine bağlılık. Bu yüzden Zoraxianlar her şeyi feda ettiler. Bedenlerini sentetik formlarla takas ettiler, acısız ve sevgisiz bir toplum yaratmak için arkadaşlarından, ailelerinden ve inançlarından vazgeçtiler.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_ZORAXIANS_LeaderDec</Label>
+    <String>Önemi olmayan küçük bir lider.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_ZORAXIANS_HomeworldName</Label>
+    <String>Nivera</String>
+  </StringTable>
+  <StringTable>
+    <Label>MINOR_ZORAXIANS_StartupTraitsDescription</Label>
+    <String>WIP</String>
+  </StringTable>
+  <StringTable>
+    <Label>DEFAULT_REBEL_CIV_NAME</Label>
+    <String>Asiler</String>
+  </StringTable>
+</StringTableList>

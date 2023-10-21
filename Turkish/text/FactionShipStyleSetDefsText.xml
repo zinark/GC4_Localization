@@ -1,0 +1,217 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<StringTableList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
+  <!-- Created with the GC4 editor -->
+  <!-- FactionShipStyleSetDefsText.xml -->
+  <StringTable>
+    <Label>TerranAllianceShipStyleSet_Name</Label>
+    <String>Terran İttifakı Gemi Stili</String>
+  </StringTable>
+  <StringTable>
+    <Label>TerranAllianceShipStyleSet_ShipyardName</Label>
+    <String>Forge</String>
+  </StringTable>
+  <StringTable>
+    <Label>TerranShipStyleSet_Name</Label>
+    <String>Eski Terran Gemi Stili</String>
+  </StringTable>
+  <StringTable>
+    <Label>TerranShipStyleSet_ShipyardName</Label>
+    <String>Stardock</String>
+  </StringTable>
+  <StringTable>
+    <Label>ResistanceShipStyleSet_Name</Label>
+    <String>Terran Direniş Gemisi Stili</String>
+  </StringTable>
+  <StringTable>
+    <Label>ResistanceShipStyleSet_ShipyardName</Label>
+    <String>The Gateway</String>
+  </StringTable>
+  <StringTable>
+    <Label>DrenginShipStyleSet_Name</Label>
+    <String>Drengin Gemi Stili</String>
+  </StringTable>
+  <StringTable>
+    <Label>DrenginShipStyleSet_ShipyardName</Label>
+    <String>Kale</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianShipStyleSet_Name</Label>
+    <String>Altarian Gemi Stili</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltarianShipStyleSet_ShipyardName</Label>
+    <String>Derin Kök</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumShipStyleSet_Name</Label>
+    <String>İridyum Gemi Stili</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiumShipStyleSet_ShipyardName</Label>
+    <String>Olasılık Motoru</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnShipStyleSet_Name</Label>
+    <String>Krynn Gemi Stili</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnShipStyleSet_ShipyardName</Label>
+    <String>Yıldız Tapınağı</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorShipStyleSet_Name</Label>
+    <String>Yor Gemi Stili</String>
+  </StringTable>
+  <StringTable>
+    <Label>YorShipStyleSet_ShipyardName</Label>
+    <String>Motor İnşa Et</String>
+  </StringTable>
+  <StringTable>
+    <Label>IconianShipStyleSet_Name</Label>
+    <String>Iconian Gemi Stili</String>
+  </StringTable>
+  <StringTable>
+    <Label>IconianShipStyleSet_ShipyardName</Label>
+    <String>Yaratıcı</String>
+  </StringTable>
+  <StringTable>
+    <Label>XeloxiShipStyleSet_Name</Label>
+    <String>Xeloxi Gemi Stili</String>
+  </StringTable>
+  <StringTable>
+    <Label>XeloxiShipStyleSet_ShipyardName</Label>
+    <String>Savvot Limanı</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianShipStyleSet_Name</Label>
+    <String>Torian Gemi Stili</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianShipStyleSet_ShipyardName</Label>
+    <String>Skybridge</String>
+  </StringTable>
+  <StringTable>
+    <Label>MantiShipStyleSet_Name</Label>
+    <String>Mantı Gemi Stili</String>
+  </StringTable>
+  <StringTable>
+    <Label>MantiShipStyleSet_ShipyardName</Label>
+    <String>Pathmaker</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArceanShipStyleSet_Name</Label>
+    <String>Okyanus Gemi Stili</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArceanShipStyleSet_ShipyardName</Label>
+    <String>Altın Salon</String>
+  </StringTable>
+  <StringTable>
+    <Label>OnyxShipStyleSet_Name</Label>
+    <String>Oniks Kovan Gemi Stili</String>
+  </StringTable>
+  <StringTable>
+    <Label>OnyxShipStyleSet_ShipyardName</Label>
+    <String>Yüksek Dağ</String>
+  </StringTable>
+  <StringTable>
+    <Label>BaratakShipStyleSet_Name</Label>
+    <String>Baratak Gemi Stili</String>
+  </StringTable>
+  <StringTable>
+    <Label>BaratakShipStyleSet_ShipyardName</Label>
+    <String>Yıldız Bahçesi</String>
+  </StringTable>
+  <StringTable>
+    <Label>NavigatorsShipStyleSet_Name</Label>
+    <String>Navigators Gemi Stili</String>
+  </StringTable>
+  <StringTable>
+    <Label>NavigatorsShipStyleSet_ShipyardName</Label>
+    <String>Büyük Pusula</String>
+  </StringTable>
+  <StringTable>
+    <Label>MimotShipStyleSet_Name</Label>
+    <String>Mimot Gemi Stili</String>
+  </StringTable>
+  <StringTable>
+    <Label>MimotShipStyleSet_ShipyardName</Label>
+    <String>Fen Beşiği</String>
+  </StringTable>
+  <StringTable>
+    <Label>DrathShipStyleSet_Name</Label>
+    <String>Drath Gemi Stili</String>
+  </StringTable>
+  <StringTable>
+    <Label>DrathShipStyleSet_ShipyardName</Label>
+    <String>Stellar Nest</String>
+  </StringTable>
+  <StringTable>
+    <Label>FestronShipStyleSet_Name</Label>
+    <String>Festron Gemi Stili</String>
+  </StringTable>
+  <StringTable>
+    <Label>FestronShipStyleSet_ShipyardName</Label>
+    <String>Kabuk</String>
+  </StringTable>
+  <StringTable>
+    <Label>CrystallineShipStyleSet_Name</Label>
+    <String>Luxar Gemi Stili</String>
+  </StringTable>
+  <StringTable>
+    <Label>CrystallineShipStyleSet_ShipyardName</Label>
+    <String>Işıltılı Kol</String>
+  </StringTable>
+  <StringTable>
+    <Label>KorathShipStyleSet_Name</Label>
+    <String>Korath Gemi Stili</String>
+  </StringTable>
+  <StringTable>
+    <Label>KorathShipStyleSet_ShipyardName</Label>
+    <String>Zafer</String>
+  </StringTable>
+  <StringTable>
+    <Label>IrradiatedShipStyleSet_Name</Label>
+    <String>Kirletici Gemi Stili</String>
+  </StringTable>
+  <StringTable>
+    <Label>IrradiatedShipStyleSet_ShipyardName</Label>
+    <String>Murky Cradle</String>
+  </StringTable>
+  <StringTable>
+    <Label>SeeingShipStyleSet_Name</Label>
+    <String>Gemi Stilini Görmek</String>
+  </StringTable>
+  <StringTable>
+    <Label>SeeingShipStyleSet_ShipyardName</Label>
+    <String>Işıltılı Kol</String>
+  </StringTable>
+  <StringTable>
+    <Label>PhalenoidShipStyleSet_Name</Label>
+    <String>Phalenoid Gemi Stili</String>
+  </StringTable>
+  <StringTable>
+    <Label>PhalenoidShipStyleSet_ShipyardName</Label>
+    <String>Yıldızlararası İşaret</String>
+  </StringTable>
+  <StringTable>
+    <Label>PirateShipStyleSet_Name</Label>
+    <String>Korsan Gemisi Stili</String>
+  </StringTable>
+  <StringTable>
+    <Label>DreadlordsShipStyleSet_Name</Label>
+    <String>Dreadlord Gemi Stili</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrecursorShipStyleSet_Name</Label>
+    <String>Prekürsör Gemi Stili</String>
+  </StringTable>
+  <StringTable>
+    <Label>SpaceMonsterShipStyleSet_Name</Label>
+    <String>Uzay Canavarı Gemi Stili</String>
+  </StringTable>
+  <StringTable>
+    <Label>DreadlordShipStyleSet_Name</Label>
+    <String>Dreadlord Gemi Stili</String>
+  </StringTable>
+</StringTableList>

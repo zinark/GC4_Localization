@@ -1,0 +1,2419 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<StringTableList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+  <!-- Created with the GC4 editor -->
+  <!-- ImprovementText.xml -->
+  <StringTable>
+    <Label>ColonyCapital_Name</Label>
+    <String>Çekirdek Dünya Sermayesi</String>
+  </StringTable>
+  <StringTable>
+    <Label>ColonyCapital_ShortDec</Label>
+    <String>Bir Çekirdek Dünyanın temel ihtiyaçlarını sağlar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>CivilizationCapital_Name</Label>
+    <String>Başkent</String>
+  </StringTable>
+  <StringTable>
+    <Label>CivilizationCapital_ShortDec</Label>
+    <String>Medeniyetimizin kalbi.</String>
+  </StringTable>
+  <StringTable>
+    <Label>StripMine_Name</Label>
+    <String>Şerit Maden</String>
+  </StringTable>
+  <StringTable>
+    <Label>StripMine_ShortDec</Label>
+    <String>Eğlence ve kâr için dünyanızı soyun. Çoğunlukla kâr.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ColonialLeadershipCouncil_Name</Label>
+    <String>Koloni Liderlik Konseyi</String>
+  </StringTable>
+  <StringTable>
+    <Label>ColonialLeadershipCouncil_ShortDec</Label>
+    <String>Medeniyetimizdeki en iyi ve en parlak bireylerin potansiyelini denetlemek ve kullanmak için resmi bir konsey kurun.[BR][BR][COLOR=UIDefaultHighlight]Lider Ekranının Kilidini Açar[/COLOR]</String>
+  </StringTable>
+  <StringTable>
+    <Label>TowerOfEndlessNight_Name</Label>
+    <String>Sonsuz Gece Kulesi</String>
+  </StringTable>
+  <StringTable>
+    <Label>TowerOfEndlessNight_ShortDec</Label>
+    <String>Ahlaki açıdan en belirsiz askeri planlamalarımız için bir merkez. İhtiyatla çalışması gerekiyor, bu yüzden ana gezegenimizde inşa edilemez.</String>
+  </StringTable>
+  <StringTable>
+    <Label>WorldheartBorehole_Name</Label>
+    <String>Worldheart Sondaj Kuyusu</String>
+  </StringTable>
+  <StringTable>
+    <Label>WorldheartBorehole_ShortDec</Label>
+    <String>Gezegenin kabuğunu delecek kadar büyük bir sondaj deliği. Ana gezegenimizde inşa etmek için çok tehlikeli.</String>
+  </StringTable>
+  <StringTable>
+    <Label>InfiniteGarden_Name</Label>
+    <String>Sonsuz Bahçe</String>
+  </StringTable>
+  <StringTable>
+    <Label>InfiniteGarden_ShortDec</Label>
+    <String>Sadece güzel ve verimli olmakla kalmayıp aynı zamanda üç Baratak Çiftçisi vatandaşını bakıcı olarak çekecek efsanevi bir bahçe. Ana gezegenimizde inşa edilemez.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ComputerCore_Name</Label>
+    <String>Capital Mainframe</String>
+  </StringTable>
+  <StringTable>
+    <Label>ComputerCore_ShortDec</Label>
+    <String>Araştırmamıza hızlı bir başlangıç yapmamızı sağlıyor.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KazarsMainframe_Name</Label>
+    <String>Kazar'ın Ana Bilgisayarı</String>
+  </StringTable>
+  <StringTable>
+    <Label>KazarsMainframe_ShortDec</Label>
+    <String>Bir icat ve çılgınlık harikası.</String>
+  </StringTable>
+  <StringTable>
+    <Label>GalacticMainframe_Name</Label>
+    <String>Gezegensel Ana Bilgisayar</String>
+  </StringTable>
+  <StringTable>
+    <Label>GalacticMainframe_ShortDec</Label>
+    <String>Araştırma çabalarımız için merkezi bir merkez sağlar.  Ana gezegenimizde inşa edilemez.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AIOverseer_Name</Label>
+    <String>Yapay Zeka Gözetmeni</String>
+  </StringTable>
+  <StringTable>
+    <Label>AIOverseer_ShortDec</Label>
+    <String>Tüm dünyalarımızda suçun azaltılması. Gezegendeki bilim adamı başına kontrol üretimi. Ancak, sürekli gözetim vatandaşları kızdırıyor ama sadece bu dünyada.</String>
+  </StringTable>
+  <StringTable>
+    <Label>CoordinationBeacon_Name</Label>
+    <String>Koordinasyon İşaretçisi</String>
+  </StringTable>
+  <StringTable>
+    <Label>CoordinationBeacon_ShortDec</Label>
+    <String>Tüm kolonilerle doğrudan ve daha etkin bir şekilde iletişim kurmamızı sağlar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>BureaucraticOffices_Name</Label>
+    <String>Kontrol Ofisi</String>
+  </StringTable>
+  <StringTable>
+    <Label>BureaucraticOffices_ShortDec</Label>
+    <String>Kilometrelerce kabin gözetim ve [HS=HS_Control]Kontrol[/HS] sağlar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>CentralBank_Name</Label>
+    <String>Merkez Bankası</String>
+  </StringTable>
+  <StringTable>
+    <Label>CentralBank_ShortDec</Label>
+    <String>En büyük ham ekonomik çıktı kaynağınızı sağlar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Starport_Name</Label>
+    <String>Starport</String>
+  </StringTable>
+  <StringTable>
+    <Label>Starport_ShortDec</Label>
+    <String>Malzemelerin uzaya taşınmasını kolaylaştırarak tersane üretimini artırır ve burada inşa edilen gemiler için gemi hızını 1 artırır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ColonialGenerator_Name</Label>
+    <String>Gezegensel Jeneratör</String>
+  </StringTable>
+  <StringTable>
+    <Label>ColonialGenerator_ShortDec</Label>
+    <String>Bu gezegendeki üretimi artırmak için devasa bir enerji üretim kaynağı.</String>
+  </StringTable>
+  <StringTable>
+    <Label>StellarForge_Name</Label>
+    <String>Stellar Forge</String>
+  </StringTable>
+  <StringTable>
+    <Label>StellarForge_ShortDec</Label>
+    <String>Yörüngedeki tersaneye malzeme sağlamak için devasa bir yıldız gemisi dökümhanesi. Başkent dünyanızda inşa edilemez.</String>
+  </StringTable>
+  <StringTable>
+    <Label>DurantiumProcessor_Name</Label>
+    <String>Durantium İşlemci</String>
+  </StringTable>
+  <StringTable>
+    <Label>DurantiumProcessor_ShortDec</Label>
+    <String>Durantium'u güçlü bir üretim malzemesine dönüştürür.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IndustrialCenter_Name</Label>
+    <String>Endüstriyel Merkez</String>
+  </StringTable>
+  <StringTable>
+    <Label>IndustrialCenter_ShortDec</Label>
+    <String>Uygarlığınızın üretim merkezi.</String>
+  </StringTable>
+  <StringTable>
+    <Label>SupplyDepot_Name</Label>
+    <String>İkmal Deposu</String>
+  </StringTable>
+  <StringTable>
+    <Label>SupplyDepot_ShortDec</Label>
+    <String>Konut sakinlerine mal ve malzeme dağıtımını kolaylaştırarak üretkenliği ve konforu artırır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FusionPowerPlant_Name</Label>
+    <String>Füzyon Enerji Santrali</String>
+  </StringTable>
+  <StringTable>
+    <Label>FusionPowerPlant_ShortDec</Label>
+    <String>Fabrikaları daha verimli hale getirir ve Üretimi artırır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>SingularityPowerPlant_Name</Label>
+    <String>Tekillik Enerji Santrali</String>
+  </StringTable>
+  <StringTable>
+    <Label>SingularityPowerPlant_ShortDec</Label>
+    <String>Tüm dünyalarınıza Üretim bonusu sağlar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ManufacturingCapital_Name</Label>
+    <String>Üretim Sermayesi</String>
+  </StringTable>
+  <StringTable>
+    <Label>ManufacturingCapital_ShortDec</Label>
+    <String>Üretim ve Kirliliği büyük ölçüde artıran benzersiz bir iyileştirme.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Wonder_ElonsLift_Name</Label>
+    <String>Razar'ın Asansörü</String>
+  </StringTable>
+  <StringTable>
+    <Label>Wonder_ElonsLift_ShortDec</Label>
+    <String>Galaksinin ilk uzay asansörü</String>
+  </StringTable>
+  <StringTable>
+    <Label>Wonder_BeaconOfBabylon_Name</Label>
+    <String>Babil'in Feneri</String>
+  </StringTable>
+  <StringTable>
+    <Label>Wonder_BeaconOfBabylon_ShortDec</Label>
+    <String>Uygarlığın ve gezegenin etkisini büyük ölçüde artıran Evrensel İletişim platformu.</String>
+  </StringTable>
+  <StringTable>
+    <Label>TechnologicalCapital_Name</Label>
+    <String>Teknolojik Sermaye</String>
+  </StringTable>
+  <StringTable>
+    <Label>TechnologicalCapital_ShortDec</Label>
+    <String>Araştırma ve Etkiyi büyük ölçüde artıran benzersiz bir iyileştirme.</String>
+  </StringTable>
+  <StringTable>
+    <Label>VirtualWorld_Name</Label>
+    <String>Sanal Dünya</String>
+  </StringTable>
+  <StringTable>
+    <Label>VirtualWorld_ShortDec</Label>
+    <String>Bu sanal dünya gerçeklikten ayırt edilemez ve nerede olurlarsa olsunlar vatandaşlarımız için yeni eğlence fırsatları sunar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>EyesOfUniverse_Name</Label>
+    <String>Evrenin Gözleri</String>
+  </StringTable>
+  <StringTable>
+    <Label>EyesOfUniverse_ShortDec</Label>
+    <String>Hiperdisk yeteneğine sahip tüm uygarlıkların ana gezegenlerini bulur.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KimbreysRefuge_Name</Label>
+    <String>Kimberly'nin Sığınağı</String>
+  </StringTable>
+  <StringTable>
+    <Label>KimbreysRefuge_ShortDec</Label>
+    <String>Profesör Taylor'ın Uganda yetiştirme teknikleri yabancı bir dünyada yiyecek üretiyor.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ColonialClinic_Name</Label>
+    <String>Colonial Kliniği</String>
+  </StringTable>
+  <StringTable>
+    <Label>ColonialClinic_ShortDec</Label>
+    <String>Bir gezegenin nüfus artış hızını artırır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Clinic1_Name</Label>
+    <String>Tıp Merkezi</String>
+  </StringTable>
+  <StringTable>
+    <Label>Clinic1_ShortDec</Label>
+    <String>Bir gezegenin nüfus artış hızını artırır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Clinic2_Name</Label>
+    <String>Doğurganlık Merkezi</String>
+  </StringTable>
+  <StringTable>
+    <Label>Clinic2_ShortDec</Label>
+    <String>Bir gezegenin nüfus artış hızını artırır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Clinic3_Name</Label>
+    <String>Uzun Ömür Merkezi</String>
+  </StringTable>
+  <StringTable>
+    <Label>Clinic3_ShortDec</Label>
+    <String>Bir gezegenin Büyümesini ve Onayını artırır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Clinic4_Name</Label>
+    <String>Sibernetik Hastane</String>
+  </StringTable>
+  <StringTable>
+    <Label>Clinic4_ShortDec</Label>
+    <String>Bir gezegenin Büyümesini ve Onayını artırır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>OrganMarket_Name</Label>
+    <String>Organ Pazarı</String>
+  </StringTable>
+  <StringTable>
+    <Label>OrganMarket_ShortDec</Label>
+    <String>Gezegenin Büyüme ve Suç oranını önemli ölçüde artırır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>PlanetaryConversion_Name</Label>
+    <String>Gezegensel Dönüşüm</String>
+  </StringTable>
+  <StringTable>
+    <Label>PlanetaryConversion_ShortDec</Label>
+    <String>Verimsiz bir karoyu faydalı bir karoya dönüştürmemizi sağlar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>PlanetaryUpgrade_Name</Label>
+    <String>Gezegensel Toprak Yükseltmesi</String>
+  </StringTable>
+  <StringTable>
+    <Label>PlanetaryUpgrade_ShortDec</Label>
+    <String>Kurtarılabilir bir karoyu topraklayın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>SoilEngineering_Name</Label>
+    <String>Zemin Mühendisliği</String>
+  </StringTable>
+  <StringTable>
+    <Label>SoilEngineering_ShortDec</Label>
+    <String>Kurtarılabilir bir karoyu topraklayın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>TerraformingModule_Name</Label>
+    <String>Dünyalaştırma Modülü</String>
+  </StringTable>
+  <StringTable>
+    <Label>TerraformingModule_ShortDec</Label>
+    <String>İyi kalitede bir karoyu topraklayın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>TerraformingPlant_Name</Label>
+    <String>Terraforming Tesisi</String>
+  </StringTable>
+  <StringTable>
+    <Label>TerraformingPlant_ShortDec</Label>
+    <String>İyi kalitede bir karoyu topraklayın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>HabitatImprovementPlant_Name</Label>
+    <String>Habitat İyileştirme</String>
+  </StringTable>
+  <StringTable>
+    <Label>HabitatImprovementPlant_ShortDec</Label>
+    <String>Daha düşük kalitede bir karoyu topraklayın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ResequencingStation_Name</Label>
+    <String>Yeniden Sıralama İstasyonu</String>
+  </StringTable>
+  <StringTable>
+    <Label>ResequencingStation_ShortDec</Label>
+    <String>Neredeyse işe yaramaz bir karoyu dünyalaştırın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Biospheres_Name</Label>
+    <String>Ultra Terraformer</String>
+  </StringTable>
+  <StringTable>
+    <Label>Biospheres_ShortDec</Label>
+    <String>Kalan kurtarılabilir karoları topraklayın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>EngineeredLandslide_Name</Label>
+    <String>Tasarlanmış Heyelan</String>
+  </StringTable>
+  <StringTable>
+    <Label>EngineeredLandslide_ShortDec</Label>
+    <String>Artan [HS=HS_Pollution]Kirlilik[/HS] pahasına bir işe yaramaz karoyu dünyalaştırın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>PlanetaryDome_Name</Label>
+    <String>Gezegensel Savunma Kubbesi</String>
+  </StringTable>
+  <StringTable>
+    <Label>PlanetaryDome_ShortDec</Label>
+    <String>Bir koloninin direncini büyük ölçüde artırır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>OrbitalDefensePlatform_Name</Label>
+    <String>Yörünge Savunma Platformu</String>
+  </StringTable>
+  <StringTable>
+    <Label>OrbitalDefensePlatform_ShortDec</Label>
+    <String>Saldırı savaşçılarından oluşan bir savunma gücü sağlar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>SurveillanceCenter_Name</Label>
+    <String>Gözetim Merkezi</String>
+  </StringTable>
+  <StringTable>
+    <Label>SurveillanceCenter_ShortDec</Label>
+    <String>Suçu Azaltır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>LegalOffices_Name</Label>
+    <String>Gezegen Mahkemesi</String>
+  </StringTable>
+  <StringTable>
+    <Label>LegalOffices_ShortDec</Label>
+    <String>Suçu Azaltır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Prison_Name</Label>
+    <String>Hapishane</String>
+  </StringTable>
+  <StringTable>
+    <Label>Prison_ShortDec</Label>
+    <String>Suçu Azaltır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>DiplomaticMinistry_Name</Label>
+    <String>Diplomatik Elçilik</String>
+  </StringTable>
+  <StringTable>
+    <Label>DiplomaticMinistry_ShortDec</Label>
+    <String>Diğer ırklarla ilişkileri kolaylaştırır ve Influence'ın yayılmasına yardımcı olur.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AssimilationFoundation_Name</Label>
+    <String>Asimilasyon Vakfı</String>
+  </StringTable>
+  <StringTable>
+    <Label>AssimilationFoundation_ShortDec</Label>
+    <String>Uygarlığımızdaki tüm dünyaların Etkisini artırır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>CulturalBeacon_Name</Label>
+    <String>Kültürel Fener</String>
+  </StringTable>
+  <StringTable>
+    <Label>CulturalBeacon_ShortDec</Label>
+    <String>Bu gezegenin Etkisini artırır ve bir Kültür Puanı sağlar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiaExchange_Name</Label>
+    <String>Iridia Borsası</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiaExchange_ShortDec</Label>
+    <String>Zenginliği artırır ve yakındaki altyapıyı büyük ölçüde destekler.</String>
+  </StringTable>
+  <StringTable>
+    <Label>GalacticStockExchange_Name</Label>
+    <String>Galaktik Menkul Kıymetler Borsası</String>
+  </StringTable>
+  <StringTable>
+    <Label>GalacticStockExchange_ShortDec</Label>
+    <String>Tüm dünyalarımızın brüt gelirini artırır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FinancialCapital_Name</Label>
+    <String>Finansal Sermaye</String>
+  </StringTable>
+  <StringTable>
+    <Label>FinancialCapital_ShortDec</Label>
+    <String>Gelir ve Nüfuzu büyük ölçüde artıran benzersiz bir iyileştirme.</String>
+  </StringTable>
+  <StringTable>
+    <Label>TradeNetwork_Name</Label>
+    <String>Ticaret Ağı</String>
+  </StringTable>
+  <StringTable>
+    <Label>TradeNetwork_ShortDec</Label>
+    <String>Tüccarların ürün ve hizmet alıp satmaları için merkezi bir merkez oluşturur.</String>
+  </StringTable>
+  <StringTable>
+    <Label>GalacticBazar_Name</Label>
+    <String>Galaktik Çarşı</String>
+  </StringTable>
+  <StringTable>
+    <Label>GalacticBazar_ShortDec</Label>
+    <String>Medeniyetimiz boyunca ticaret yollarından elde edilen Ticaret Gelirini artırır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>EntertainmentCapital_Name</Label>
+    <String>Eğlence Sermayesi</String>
+  </StringTable>
+  <StringTable>
+    <Label>EntertainmentCapital_ShortDec</Label>
+    <String>Onay, Etki ve Suçu büyük ölçüde artıran benzersiz bir iyileştirme.</String>
+  </StringTable>
+  <StringTable>
+    <Label>HeritageCenter_Name</Label>
+    <String>Miras Merkezi</String>
+  </StringTable>
+  <StringTable>
+    <Label>HeritageCenter_ShortDec</Label>
+    <String>Yabancı dünyalardan gelen ziyaretçilerin tarihimiz hakkında biraz bilgi edinmelerini sağlar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>HallOfTradition_Name</Label>
+    <String>Gelenekler Salonu</String>
+  </StringTable>
+  <StringTable>
+    <Label>HallOfTradition_ShortDec</Label>
+    <String>Medeniyetlerimizin mirasına, folkloruna, değerlerine ve geleneklerine adanmış bir bina.</String>
+  </StringTable>
+  <StringTable>
+    <Label>UnionCenter_Name</Label>
+    <String>Birlik Merkezi</String>
+  </StringTable>
+  <StringTable>
+    <Label>UnionCenter_ShortDec</Label>
+    <String>İşçilerimiz için toplu barınak planlaması için bir salon.</String>
+  </StringTable>
+  <StringTable>
+    <Label>SharkTank_Name</Label>
+    <String>Köpekbalığı Tankı</String>
+  </StringTable>
+  <StringTable>
+    <Label>SharkTank_ShortDec</Label>
+    <String>Yatırımcıların gezegenin en iyi icatlarından ve şirketlerinden sermaye koparması için bir merkez.</String>
+  </StringTable>
+  <StringTable>
+    <Label>InnovationComplex_Name</Label>
+    <String>İnovasyon Kompleksi</String>
+  </StringTable>
+  <StringTable>
+    <Label>InnovationComplex_ShortDec</Label>
+    <String>En önemli bilimsel projelerimizin geliştirilmesi için merkezi bir araştırma merkezi.</String>
+  </StringTable>
+  <StringTable>
+    <Label>HyperionShrinker_Name</Label>
+    <String>Hyperion Küçültücü</String>
+  </StringTable>
+  <StringTable>
+    <Label>HyperionShrinker_ShortDec</Label>
+    <String>Hyperion Shrinking teknolojisi, çeşitli gemi bileşenlerinin hacminde mütevazı bir azalma yaratarak gemi tasarımcılarımızın seçtiği diğer her şey için daha fazla yer bırakır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>SpiceMarket_Name</Label>
+    <String>Baharat Pazarı</String>
+  </StringTable>
+  <StringTable>
+    <Label>SpiceMarket_ShortDec</Label>
+    <String>Yabancı dünyalardan gelen ziyaretçilerin uygarlığımızın lezzetlerini tatmalarını sağlar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>GrandCasino_Name</Label>
+    <String>Büyük Kumarhane</String>
+  </StringTable>
+  <StringTable>
+    <Label>GrandCasino_ShortDec</Label>
+    <String>Turistleri ve suçluları koloninize çekmek için harika bir yol.</String>
+  </StringTable>
+  <StringTable>
+    <Label>GalacticZoo_Name</Label>
+    <String>Galaktik Hayvanat Bahçesi</String>
+  </StringTable>
+  <StringTable>
+    <Label>GalacticZoo_ShortDec</Label>
+    <String>Galaksinin dört bir yanından en şaşırtıcı ve tuhaf yaratıkları bir araya getiriyor.</String>
+  </StringTable>
+  <StringTable>
+    <Label>UtopianResort_Name</Label>
+    <String>Ütopik Tatil Köyü</String>
+  </StringTable>
+  <StringTable>
+    <Label>UtopianResort_ShortDec</Label>
+    <String>Zihninizi, bedeninizi, ruhunuzu ve banka hesabınızı temizlemek için ideal bir yer.</String>
+  </StringTable>
+  <StringTable>
+    <Label>RestaurantEternity_Name</Label>
+    <String>Sonsuzluk Restoranı</String>
+  </StringTable>
+  <StringTable>
+    <Label>RestaurantEternity_ShortDec</Label>
+    <String>Galaksinin dört bir yanından gelen diğer türlere hizmet veren efsanevi bir restoran.</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrisonLaborCamp_Name</Label>
+    <String>Hapishane Çalışma Kampı</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrisonLaborCamp_ShortDec</Label>
+    <String>Gezegendeki Mahkum başına +%15 [HS=HS_Üretim]Üretim[/HS] sağlar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrisonResearchLab_Name</Label>
+    <String>Cezaevi Araştırma Laboratuvarı</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrisonResearchLab_ShortDec</Label>
+    <String>Gezegendeki Mahkum başına +%15 [HS=HS_Research]Araştırma[/HS] sağlar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Garrison_Name</Label>
+    <String>Garrison</String>
+  </StringTable>
+  <StringTable>
+    <Label>Garrison_ShortDec</Label>
+    <String>Gezegendeki [HS=HS_Resistance]Direnci[/HS] artırır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>BlackMarket_Name</Label>
+    <String>Karaborsa</String>
+  </StringTable>
+  <StringTable>
+    <Label>BlackMarket_ShortDec</Label>
+    <String>Bir dünyanın suçunu artırır ancak yasadışı mallara erişim sağlar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>SmugglerPort_Name</Label>
+    <String>Kaçakçı Limanı</String>
+  </StringTable>
+  <StringTable>
+    <Label>SmugglerPort_ShortDec</Label>
+    <String>Artışlar [HS=HS_ColonyGrossIncome]Gelir[/HS].</String>
+  </StringTable>
+  <StringTable>
+    <Label>PleasureDome_Name</Label>
+    <String>Zevk Kubbesi</String>
+  </StringTable>
+  <StringTable>
+    <Label>PleasureDome_ShortDec</Label>
+    <String>[HS=HS_Approval]Approval[/HS] ve [HS=HS_Tourism]Tourism[/HS] artırır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MercenaryCamp_Name</Label>
+    <String>Paralı Asker Kampı</String>
+  </StringTable>
+  <StringTable>
+    <Label>MercenaryCamp_ShortDec</Label>
+    <String>Gezegendeki [HS=HS_Resistance]Direnci[/HS] artırır ve serbest bir Lider oluşturur.</String>
+  </StringTable>
+  <StringTable>
+    <Label>DrathianTemple_Name</Label>
+    <String>Drathian Tapınağı</String>
+  </StringTable>
+  <StringTable>
+    <Label>DrathianTemple_ShortDec</Label>
+    <String>Artırır [HS=HS_Approval]Onay[/HS].</String>
+  </StringTable>
+  <StringTable>
+    <Label>ShrineoftheMithrilar_Name</Label>
+    <String>Mithrilar Tapınağı</String>
+  </StringTable>
+  <StringTable>
+    <Label>ShrineoftheMithrilar_ShortDec</Label>
+    <String>Bir dünyanın Onayını ve Turizmini artırır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ShrineofTandis_Name</Label>
+    <String>Tandis Tapınağı</String>
+  </StringTable>
+  <StringTable>
+    <Label>ShrineofTandis_ShortDec</Label>
+    <String>Tüm dünyalarınızda Onay ve Turizmi artırır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrecursorSouvenirs_Name</Label>
+    <String>Precursor Hediyelik Eşya Dükkanı</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrecursorSouvenirs_ShortDec</Label>
+    <String>Dünyanın Gelirini Artırın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>CoordinationTemple_Name</Label>
+    <String>Koordinasyon Tapınağı</String>
+  </StringTable>
+  <StringTable>
+    <Label>CoordinationTemple_ShortDec</Label>
+    <String>Tüm bitişik İyileştirmelere Bitişiklik Bonusu verir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ShadowTemple_Name</Label>
+    <String>Fısıltılar Tapınağı</String>
+  </StringTable>
+  <StringTable>
+    <Label>ShadowTemple_ShortDec</Label>
+    <String>Bu dünyayı politik entrikaların odağı haline getirin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>TidePools_Name</Label>
+    <String>Gelgit Havuzları</String>
+  </StringTable>
+  <StringTable>
+    <Label>TidePools_ShortDec</Label>
+    <String>Bir dünyanın Nüfuzunu ve Onayını artırır.[BR][BR]Sadece Okyanus dünyalarında inşa edilebilir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>BarrierReef_Name</Label>
+    <String>Bariyer Resifi</String>
+  </StringTable>
+  <StringTable>
+    <Label>BarrierReef_ShortDec</Label>
+    <String>Bir dünyanın Nüfuzunu ve Gezegensel Savunmasını artırır.[BR][BR]Sadece Okyanus dünyalarında inşa edilebilir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ExoticHatchery_Name</Label>
+    <String>Egzotik Kuluçkahane</String>
+  </StringTable>
+  <StringTable>
+    <Label>ExoticHatchery_ShortDec</Label>
+    <String>Bir dünyanın Turizmini artırır.[BR][BR]Sadece Okyanus dünyalarında inşa edilebilir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnConsulate_Name</Label>
+    <String>Krynn Konsolosluğu</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynnConsulate_ShortDec</Label>
+    <String>Bir dünyanın Etkisini ve Onayını artırır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynniacTemple_Name</Label>
+    <String>Krynniac Tapınağı</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynniacTemple_ShortDec</Label>
+    <String>Bir dünyanın Etkisini ve Onayını artırır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynniacMission_Name</Label>
+    <String>Krynniac Görevi</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynniacMission_ShortDec</Label>
+    <String>Bir dünyanın Etkisini ve Onayını artırır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynniacOrder_Name</Label>
+    <String>Krynniac Düzeni</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynniacOrder_ShortDec</Label>
+    <String>Bir dünyanın Etkisini ve Onayını artırır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynniacMinistry_Name</Label>
+    <String>Krynniac Bakanlığı</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynniacMinistry_ShortDec</Label>
+    <String>Bir dünyanın Etkisini ve Onayını artırır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynniacSanctuary_Name</Label>
+    <String>Krynniac Sığınağı</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynniacSanctuary_ShortDec</Label>
+    <String>Yolun Yüksek Tapınağı. Bir dünyanın Etkisini ve Onayını artırır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MonumentRosalind_Name</Label>
+    <String>İlahi Rosalind Anıtı</String>
+  </StringTable>
+  <StringTable>
+    <Label>MonumentRosalind_ShortDec</Label>
+    <String>Bir dünyanın Etkisini ve Onayını artırır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynniacAltar_Name</Label>
+    <String>Krynniac Sunağı</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrynniacAltar_ShortDec</Label>
+    <String>Krynn için kutsal bir yer. Kolonicilerini dünyanıza getirmek için buna ihtiyaç var.</String>
+  </StringTable>
+  <StringTable>
+    <Label>BaratakGrove_Name</Label>
+    <String>Baratak Korusu</String>
+  </StringTable>
+  <StringTable>
+    <Label>BaratakGrove_ShortDec</Label>
+    <String>Bu güzel koru, dünyamıza gelmek isteyen Barataklara mükemmel bir yuva sağlayacaktır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianAcademy_Name</Label>
+    <String>Torian Akademi</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorianAcademy_ShortDec</Label>
+    <String>Bu kampüs Torian Bilim Adamlarının deneylerini tamamlamaları için mükemmel bir yer olacaktır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>CrucibleLab_Name</Label>
+    <String>Pota Laboratuvarı</String>
+  </StringTable>
+  <StringTable>
+    <Label>CrucibleLab_ShortDec</Label>
+    <String>Fener tarafından ödüllendirilen yüksek derecede bağımlılık yapıcı bir madde olan Crucible Vapors'u üretmeye adanmış bir laboratuvar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MantiPool_Name</Label>
+    <String>Manti Doğum Havuzu</String>
+  </StringTable>
+  <StringTable>
+    <Label>MantiPool_ShortDec</Label>
+    <String>Eğer Mantı'yı dünyaya çekeceksek, onlar için bu doğum havuzunu inşa etmemiz gerekecek.[BR][BR]Sadece Göl arazisi üzerine inşa edilebilir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Project_ScanPlanet_Name</Label>
+    <String>Scan Planet</String>
+  </StringTable>
+  <StringTable>
+    <Label>Project_ScanPlanet_ShortDec</Label>
+    <String>Düşen uzaylı gemilerinin kalıntıları için gezegenimizi tarayabiliriz.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Project_InvestigateMurder_Name</Label>
+    <String>Cinayeti Araştırın</String>
+  </StringTable>
+  <StringTable>
+    <Label>Project_InvestigateMurder_ShortDec</Label>
+    <String>Kolonistlerin kayıp olduğu bildirildi. Neler olduğunu ortaya çıkarmak için arama ekipleri gönderin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Project_MissingColonists_Name</Label>
+    <String>Kayıp Kolonistleri Bulun</String>
+  </StringTable>
+  <StringTable>
+    <Label>Project_MissingColonists_ShortDec</Label>
+    <String>Kolonistlerin kayıp olduğu bildirildi. Neler olduğunu ortaya çıkarmak için arama ekipleri gönderin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>HallOfUnity_Name</Label>
+    <String>Birlik Salonu</String>
+  </StringTable>
+  <StringTable>
+    <Label>HallOfUnity_ShortDec</Label>
+    <String>Galaksinin dört bir yanındaki insanların buluştuğu ve harikalarına hayran kaldığı bir yer.[BR][BR]+20 [HS=HS_Prestige]Prestige[/HS]</String>
+  </StringTable>
+  <StringTable>
+    <Label>AstrolabOfTheArnor_Name</Label>
+    <String>Arnor'un Astrolab'ı</String>
+  </StringTable>
+  <StringTable>
+    <Label>AstrolabOfTheArnor_ShortDec</Label>
+    <String>Bu cihazın mükemmel hassasiyeti toplumumuzun her alanına fayda sağlamaktadır.[BR][BR]+30 [HS=HS_Prestige]Prestige[/HS]</String>
+  </StringTable>
+  <StringTable>
+    <Label>InfiniteArchive_Name</Label>
+    <String>Sonsuz Arşiv</String>
+  </StringTable>
+  <StringTable>
+    <Label>InfiniteArchive_ShortDec</Label>
+    <String>Galaksinin tüm tarihini saklayabilir.[BR][BR]+75 [HS=HS_Prestige]Prestige[/HS]</String>
+  </StringTable>
+  <StringTable>
+    <Label>GrandMenagerie_Name</Label>
+    <String>Grand Menagerie</String>
+  </StringTable>
+  <StringTable>
+    <Label>GrandMenagerie_ShortDec</Label>
+    <String>Galaksinin en egzotik hayvanları, ihtiyaçları için tasarlanmış açık ortamlarda özgürlük ve konfor içinde yaşarlar.[BR][BR]+40 [HS=HS_Prestige]Prestige[/HS]</String>
+  </StringTable>
+  <StringTable>
+    <Label>NewEden_Name</Label>
+    <String>Yeni Cennet</String>
+  </StringTable>
+  <StringTable>
+    <Label>NewEden_ShortDec</Label>
+    <String>Galaksinin dört bir yanından gezginler bu huzurlu bahçeyi ziyarete gelecek.[BR][BR]+50 [HS=HS_Prestige]Prestige[/HS]</String>
+  </StringTable>
+  <StringTable>
+    <Label>ManufactureLife_Name</Label>
+    <String>Üretim Nüfusu</String>
+  </StringTable>
+  <StringTable>
+    <Label>ManufactureLife_ShortDec</Label>
+    <String>Uygarlığınız için yeni bir Vatandaş üretin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Bob_Name</Label>
+    <String>Bob</String>
+  </StringTable>
+  <StringTable>
+    <Label>Bob_ShortDec</Label>
+    <String>En parlak araştırmacımızın fiziksel sınırlamaları olmayan mükemmel, simüle edilmiş bir versiyonu.</String>
+  </StringTable>
+  <StringTable>
+    <Label>XenoAnthropology_Name</Label>
+    <String>Xeno Antropoloji Merkezi</String>
+  </StringTable>
+  <StringTable>
+    <Label>XenoAnthropology_ShortDec</Label>
+    <String>Diğer ırklarla ilişkilerimizi güçlendirir ve etkimizin yayılmasına yardımcı olur.</String>
+  </StringTable>
+  <StringTable>
+    <Label>WeatherControlCenter_Name</Label>
+    <String>Hava Kontrol Merkezi</String>
+  </StringTable>
+  <StringTable>
+    <Label>WeatherControlCenter_ShortDec</Label>
+    <String>Onay'ı artırarak, Bakım'ı düşürerek ve Üretim'i artırarak bir gezegeni iyileştirir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>WeatherControlZenith_Name</Label>
+    <String>Hava Kontrol Zenith</String>
+  </StringTable>
+  <StringTable>
+    <Label>WeatherControlZenith_ShortDec</Label>
+    <String>Onay'ı artırarak, Bakım'ı düşürerek ve Üretim'i artırarak bir gezegeni iyileştirir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AntimatterPowerPlant_Name</Label>
+    <String>Antimadde Enerji Santrali</String>
+  </StringTable>
+  <StringTable>
+    <Label>AntimatterPowerPlant_ShortDec</Label>
+    <String>Tüm komşu iyileştirmelerin yeteneklerini büyük ölçüde artırır, ancak inşa etmek için Antimadde gerektirir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AidEconomy_Name</Label>
+    <String>Ekonomik Teşvik</String>
+  </StringTable>
+  <StringTable>
+    <Label>AidEconomy_ShortDec</Label>
+    <String>25 kredi sağlar</String>
+  </StringTable>
+  <StringTable>
+    <Label>Heritage_Name</Label>
+    <String>Miras</String>
+  </StringTable>
+  <StringTable>
+    <Label>Heritage_ShortDec</Label>
+    <String>25 Etki Sağlar</String>
+  </StringTable>
+  <StringTable>
+    <Label>AidResearch_Name</Label>
+    <String>Yardım Araştırması</String>
+  </StringTable>
+  <StringTable>
+    <Label>AidResearch_ShortDec</Label>
+    <String>100 araştırma sağlar. Yalnızca Teknolojik Başkenti olan bir gezegende kullanılabilir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>RecruitClone_Name</Label>
+    <String>Hatch Klon</String>
+  </StringTable>
+  <StringTable>
+    <Label>RecruitClone_ShortDec</Label>
+    <String>Yeni bir Klon vatandaş yetiştirin. Klonlar neredeyse gerçek vatandaşlar kadar iyidir. Neredeyse...</String>
+  </StringTable>
+  <StringTable>
+    <Label>WildlandRefuge_Name</Label>
+    <String>Vahşi Doğa Sığınağı</String>
+  </StringTable>
+  <StringTable>
+    <Label>WildlandRefuge_ShortDec</Label>
+    <String>Seviyesine göre Kirliliği azaltır ve aynı zamanda popüler bir Turist destinasyonudur.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MemoryCenter_Name</Label>
+    <String>Hafıza Merkezi</String>
+  </StringTable>
+  <StringTable>
+    <Label>MemoryCenter_ShortDec</Label>
+    <String>Bu dünyadaki vatandaşların zekasını artırır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AugmentationCenter_Name</Label>
+    <String>Büyütme Merkezi</String>
+  </StringTable>
+  <StringTable>
+    <Label>AugmentationCenter_ShortDec</Label>
+    <String>İmparatorluğumuz genelinde vatandaşların İstihbaratını artırır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>WarforgedFoundry_Name</Label>
+    <String>Warforged Dökümhanesi</String>
+  </StringTable>
+  <StringTable>
+    <Label>WarforgedFoundry_ShortDec</Label>
+    <String>Bu gezegenin tersanesinde inşa edilen gemilere başlangıç deneyimi sağlar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>NaturalLeagueCenter_Name</Label>
+    <String>Doğal Lig Merkezi</String>
+  </StringTable>
+  <StringTable>
+    <Label>NaturalLeagueCenter_ShortDec</Label>
+    <String>Doğal Birlik için gezegen merkezi. Bir gezegenin Büyüme oranını önemli ölçüde artırır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FoodDistribution1_Name</Label>
+    <String>Sulama Ağı</String>
+  </StringTable>
+  <StringTable>
+    <Label>FoodDistribution1_ShortDec</Label>
+    <String>Komşu çiftlikleri daha verimli hale getirir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>GovernorsManor_Name</Label>
+    <String>Vali Malikanesi</String>
+  </StringTable>
+  <StringTable>
+    <Label>GovernorsManor_ShortDec</Label>
+    <String>Valinin gücünün ve etkisinin belirgin bir göstergesi.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Industry_Drones_Name</Label>
+    <String>Dron Üretin</String>
+  </StringTable>
+  <StringTable>
+    <Label>Industry_Drones_ShortDec</Label>
+    <String>Yeni teknolojilerin kilidini açmak için dronlara ihtiyaç var.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Industry_Modules_Name</Label>
+    <String>Modüller Üretin</String>
+  </StringTable>
+  <StringTable>
+    <Label>Industry_Modules_ShortDec</Label>
+    <String>Yıldız üssü modülleri üretir. Modüller yıldız üslerinizi yükseltmek için gereklidir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Industry_Nanobots_Name</Label>
+    <String>Nanobotlar Üretin</String>
+  </StringTable>
+  <StringTable>
+    <Label>Industry_Nanobots_ShortDec</Label>
+    <String>Kolonilerinizi geliştirmek için nanobotlar gereklidir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mission_Research_Name</Label>
+    <String>Araştırma Misyonu</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mission_Research_ShortDec</Label>
+    <String>Tersanenizin çevreyi incelemesini sağlayarak araştırma yapın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mission_Credits_Name</Label>
+    <String>Hazine Avı</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mission_Credits_ShortDec</Label>
+    <String>Değerli eserleri bulmak ve toplamak için bilinmeyen yerlere yapılan özel bir girişimi sübvanse eder.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mission_Slaves_ShortDec</Label>
+    <String>Bizim malımız olduklarını fark etmeyen varlıkları bulmaları için Thrall Arayıcıları gönderir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mission_Production_Name</Label>
+    <String>Endüstriyel Ürünler</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mission_Production_ShortDec</Label>
+    <String>Tersanenizin yapı malzemeleri üretmesini sağlayarak gezegen üretimi oluşturun.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mission_Resources_Name</Label>
+    <String>Çöpçüler</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mission_Resources_ShortDec</Label>
+    <String>Çöpçüler bazı nadir kaynakları bulabileceklerini iddia ediyor.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mission_HeliosOre_Name</Label>
+    <String>Cevher Tüccarları</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mission_HeliosOre_ShortDec</Label>
+    <String>En bilgili tüccarlarımızla anlaşarak Helios Ore'yi getireceklerini iddia ediyorlar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mission_HarmonyCrystal_Name</Label>
+    <String>Mücevher Tüccarları</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mission_HarmonyCrystal_ShortDec</Label>
+    <String>Bu tüccarlar mallarını tamamen yasal yollardan elde etmemiş olabilirler, ancak sonuçlar kendileri için konuşuyor.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mission_HyperSilicates_Name</Label>
+    <String>Silikat Tüccarları</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mission_HyperSilicates_ShortDec</Label>
+    <String>Küçük Hiper Silikat yatakları haritalandırılır ve yerleri en yüksek teklifi verene satılır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mission_Influence_Name</Label>
+    <String>Hacılar</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mission_Influence_ShortDec</Label>
+    <String>Tersanenizden hacılar göndererek Etki yaratın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThuliumCatalyst_Name</Label>
+    <String>Tülyum Yatağı</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThuliumCatalyst_ShortDec</Label>
+    <String>Tülyum için çıkarılabilen nadir gezegen yatağı.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThuliumCatalystL1_Name</Label>
+    <String>Thulium Çıkarıcı</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThuliumCatalystL1_ShortDec</Label>
+    <String>Belirli silah türleri için yararlı olan nadir Thulium yataklarını çıkarmak için kullanılabilir ve ayrıca gezegendeki zenginliği artırır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThuliumCatalystL2_Name</Label>
+    <String>Thulium Madeni</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThuliumCatalystL2_ShortDec</Label>
+    <String>Tülyum Madenlerinin verimini artırır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThuliumCatalystL3_Name</Label>
+    <String>Gelişmiş Tülyum Madeni</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThuliumCatalystL3_ShortDec</Label>
+    <String>Tülyum Madenlerinin verimini artırır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ColonyUpgrade_ThuliumCatalyst_Name</Label>
+    <String>Orbital Thulium Çıkarıcı</String>
+  </StringTable>
+  <StringTable>
+    <Label>ColonyUpgrade_ThuliumCatalyst_ShortDec</Label>
+    <String>Belirli silah türleri için yararlı olan nadir Thulium yataklarını çıkarmak için kullanılabilir ve ayrıca gezegendeki zenginliği artırır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>CrystallizedElerium_Name</Label>
+    <String>Kristalize Eleryum</String>
+  </StringTable>
+  <StringTable>
+    <Label>CrystallizedElerium_ShortDec</Label>
+    <String>Enerji silahlarında kullanılan Eleryum için çıkarılabilen nadir gezegen yatağı.</String>
+  </StringTable>
+  <StringTable>
+    <Label>CrystallizedEleriumL1_Name</Label>
+    <String>Kristalize Eleryum Çıkarıcı</String>
+  </StringTable>
+  <StringTable>
+    <Label>CrystallizedEleriumL1_ShortDec</Label>
+    <String>Kristalize Elerium'un nadir yataklarını çıkarmak ve zenginliği artırmak için kullanılabilir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>CrystallizedEleriumL2_Name</Label>
+    <String>Kristalize Eleryum Madeni</String>
+  </StringTable>
+  <StringTable>
+    <Label>CrystallizedEleriumL2_ShortDec</Label>
+    <String>Kristalize Eleryum Madenlerinin verimini artırır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>CrystallizedEleriumL3_Name</Label>
+    <String>Gelişmiş Eleryum Madeni</String>
+  </StringTable>
+  <StringTable>
+    <Label>CrystallizedEleriumL3_ShortDec</Label>
+    <String>Kristalize Eleryum Madenlerinin verimini artırır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ColonyUpgrade_CrystallizedElerium_Name</Label>
+    <String>Orbital Eleryum Çıkarıcı</String>
+  </StringTable>
+  <StringTable>
+    <Label>ColonyUpgrade_CrystallizedElerium_ShortDec</Label>
+    <String>Kristalize Elerium'un nadir yataklarını çıkarmak ve zenginliği artırmak için kullanılabilir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrometheusStone_Name</Label>
+    <String>Prometheus Taşı</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrometheusStone_ShortDec</Label>
+    <String>Madenciliği yapılabilen nadir katılaşmış Promethion gezegen yatağı.</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrometheusStoneL1_Name</Label>
+    <String>Prometheus Taş Çıkarıcı</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrometheusStoneL1_ShortDec</Label>
+    <String>Ticarette de değerli olan nadir Prometheus Taşı yataklarını çıkarmak için kullanılabilir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrometheusStoneL2_Name</Label>
+    <String>Prometheus Taş Madeni</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrometheusStoneL2_ShortDec</Label>
+    <String>Prometheus Taş Madenlerinin verimini artırır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrometheusStoneL3_Name</Label>
+    <String>Gelişmiş Prometheus Madeni</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrometheusStoneL3_ShortDec</Label>
+    <String>Prometheus Taş Madenlerinin verimini artırır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ColonyUpgrade_PrometheusStone_Name</Label>
+    <String>Orbital Prometheus Taş Çıkarıcı</String>
+  </StringTable>
+  <StringTable>
+    <Label>ColonyUpgrade_PrometheusStone_ShortDec</Label>
+    <String>Ticarette de değerli olan nadir Prometheus Taşı yataklarını çıkarmak için kullanılabilir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>HeliosOre_Name</Label>
+    <String>Helios Cevheri</String>
+  </StringTable>
+  <StringTable>
+    <Label>HeliosOre_ShortDec</Label>
+    <String>Birçok lüks eşyada popüler olan güzel, egzotik bir metal.</String>
+  </StringTable>
+  <StringTable>
+    <Label>HeliosOreL1_Name</Label>
+    <String>Helios Cevher Çıkarıcı</String>
+  </StringTable>
+  <StringTable>
+    <Label>HeliosOreL1_ShortDec</Label>
+    <String>Birçok lüks eşyada popüler olan güzel, egzotik bir metal.</String>
+  </StringTable>
+  <StringTable>
+    <Label>HeliosOreL2_Name</Label>
+    <String>Helios Madeni</String>
+  </StringTable>
+  <StringTable>
+    <Label>HeliosOreL2_ShortDec</Label>
+    <String>Birçok lüks eşyada popüler olan güzel, egzotik bir metal.</String>
+  </StringTable>
+  <StringTable>
+    <Label>HeliosOreL3_Name</Label>
+    <String>Gelişmiş Helios Madeni</String>
+  </StringTable>
+  <StringTable>
+    <Label>HeliosOreL3_ShortDec</Label>
+    <String>Birçok lüks eşyada popüler olan güzel, egzotik bir metal.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ColonyUpgrade_HeliosOre_Name</Label>
+    <String>Orbital Helios Cevher Çıkarıcı</String>
+  </StringTable>
+  <StringTable>
+    <Label>ColonyUpgrade_HeliosOre_ShortDec</Label>
+    <String>Birçok lüks eşyada popüler olan güzel, egzotik bir metal.</String>
+  </StringTable>
+  <StringTable>
+    <Label>HyperSilicates_Name</Label>
+    <String>Silikatlar</String>
+  </StringTable>
+  <StringTable>
+    <Label>HyperSilicates_ShortDec</Label>
+    <String>Bu egzotik malzeme, güçlü araştırma veri bankalarının oluşturulmasında faydalıdır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>HyperSilicatesL1_Name</Label>
+    <String>Silikat Çıkarıcı</String>
+  </StringTable>
+  <StringTable>
+    <Label>HyperSilicatesL1_ShortDec</Label>
+    <String>Bu egzotik malzeme, güçlü araştırma veri bankalarının oluşturulmasında faydalıdır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>HyperSilicatesL2_Name</Label>
+    <String>Silikat Madeni</String>
+  </StringTable>
+  <StringTable>
+    <Label>HyperSilicatesL2_ShortDec</Label>
+    <String>Bu egzotik malzeme, güçlü araştırma veri bankalarının oluşturulmasında faydalıdır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>HyperSilicatesL3_Name</Label>
+    <String>Gelişmiş Silikat Madeni</String>
+  </StringTable>
+  <StringTable>
+    <Label>HyperSilicatesL3_ShortDec</Label>
+    <String>Bu egzotik malzeme, güçlü araştırma veri bankalarının oluşturulmasında faydalıdır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ColonyUpgrade_HyperSilicates_Name</Label>
+    <String>Orbital Silikat Ekstraktörü</String>
+  </StringTable>
+  <StringTable>
+    <Label>ColonyUpgrade_HyperSilicates_ShortDec</Label>
+    <String>Bu egzotik malzeme, güçlü araştırma veri bankalarının oluşturulmasında faydalıdır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>XanthiumDeposit_Name</Label>
+    <String>Xanthium</String>
+  </StringTable>
+  <StringTable>
+    <Label>XanthiumDeposit_ShortDec</Label>
+    <String>Olağandışı enerji emme özelliklerine sahip bir mineral olan Xanthium, galaksinin dört bir yanındaki gemi yapımcıları tarafından ödüllendirilir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>XanthiumDepositL1_Name</Label>
+    <String>Ksantiyum Çıkarıcı</String>
+  </StringTable>
+  <StringTable>
+    <Label>XanthiumDepositL1_ShortDec</Label>
+    <String>Bu nadir metal galaksinin dört bir yanındaki gemi yapımcıları tarafından ödüllendirilir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>XanthiumDepositL2_Name</Label>
+    <String>Xanthium Madeni</String>
+  </StringTable>
+  <StringTable>
+    <Label>XanthiumDepositL2_ShortDec</Label>
+    <String>Bu nadir metal galaksinin dört bir yanındaki gemi yapımcıları tarafından ödüllendirilir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>XanthiumDepositL3_Name</Label>
+    <String>Gelişmiş Ksantiyum Madeni</String>
+  </StringTable>
+  <StringTable>
+    <Label>XanthiumDepositL3_ShortDec</Label>
+    <String>Bu nadir metal galaksinin dört bir yanındaki gemi yapımcıları tarafından ödüllendirilir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ColonyUpgrade_XanthiumDeposit_Name</Label>
+    <String>Orbital Xanthium Çıkarıcı</String>
+  </StringTable>
+  <StringTable>
+    <Label>ColonyUpgrade_XanthiumDeposit_ShortDec</Label>
+    <String>Bu nadir metal galaksinin dört bir yanındaki gemi yapımcıları tarafından ödüllendirilir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrecursorNanites_Name</Label>
+    <String>Öncü Nanitler</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrecursorNanites_ShortDec</Label>
+    <String>Bu kalıntılar birçok dünyada uykuda bulunabilir. Durmaksızın galaksiyi kayıp efendileri için hazırlamaya çalışan Öncü Nanitler etkili bir kara savaşı silahı olabilir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrecursorNanitesL1_Name</Label>
+    <String>Öncü Nanitler</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrecursorNanitesL1_ShortDec</Label>
+    <String>Küçük makineler gezegenin genel üretimini artırır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrecursorNanitesL2_Name</Label>
+    <String>Öncü Nanitler</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrecursorNanitesL2_ShortDec</Label>
+    <String>Küçük makineler gezegenin genel üretimini artırır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrecursorNanitesL3_Name</Label>
+    <String>Öncü Nanitler</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrecursorNanitesL3_ShortDec</Label>
+    <String>Küçük makineler gezegenin genel üretimini artırır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ColonyUpgrade_PrecursorNanites_Name</Label>
+    <String>Yörünge Öncüsü Nanitler</String>
+  </StringTable>
+  <StringTable>
+    <Label>ColonyUpgrade_PrecursorNanites_ShortDec</Label>
+    <String>Küçük makineler gezegenin genel üretimini artırır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>HarmonyCrystals_Name</Label>
+    <String>Harmony Kristal Yatağı</String>
+  </StringTable>
+  <StringTable>
+    <Label>HarmonyCrystals_ShortDec</Label>
+    <String>Bu nadir ve güzel kristaller, duyarlı varlıkların çoğuna esenlik duygusu aşılayan hafif bir uğultuyla yankılanır. [BR][BR]Uyum Kristalleri, [HS=HS_Leaders]Liderlerinize [/HS] [HS=HS_Loyalty]Sadakatlerini [/HS] geliştirmek için hediye edilebilir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>HarmonyCrystalsL1_Name</Label>
+    <String>Harmony Kristal Çıkarıcı</String>
+  </StringTable>
+  <StringTable>
+    <Label>HarmonyCrystalsL1_ShortDec</Label>
+    <String>Bu nadir ve güzel Kristaller hafif bir uğultuyla yankılanır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>HarmonyCrystalsL2_Name</Label>
+    <String>Harmony Kristal Madeni</String>
+  </StringTable>
+  <StringTable>
+    <Label>HarmonyCrystalsL2_ShortDec</Label>
+    <String>Bu nadir ve güzel Kristaller hafif bir uğultuyla yankılanır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>HarmonyCrystalsL3_Name</Label>
+    <String>Gelişmiş Uyum Kristal Madeni</String>
+  </StringTable>
+  <StringTable>
+    <Label>HarmonyCrystalsL3_ShortDec</Label>
+    <String>Bu nadir ve güzel Kristaller hafif bir uğultuyla yankılanır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ColonyUpgrade_HarmonyCrystals_Name</Label>
+    <String>Orbital Uyum Kristali</String>
+  </StringTable>
+  <StringTable>
+    <Label>ColonyUpgrade_HarmonyCrystals_ShortDec</Label>
+    <String>Bu nadir ve güzel Kristaller hafif bir uğultuyla yankılanır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>TechapodHive_Name</Label>
+    <String>Techapods</String>
+  </StringTable>
+  <StringTable>
+    <Label>TechapodHive_ShortDec</Label>
+    <String>Bu küçük, altı uzuvlu, yarı zeki yaratıklar neredeyse mükemmel taklitçilerdir ve basit görevleri yapmak üzere eğitilebilirler. Genellikle yıldız gemilerinin sıkışık sınırlarında önemsiz işlerle ilgilenmek için kullanılırlar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>TechapodHiveL1_Name</Label>
+    <String>Techapod Kuluçkahanesi</String>
+  </StringTable>
+  <StringTable>
+    <Label>TechapodHiveL1_ShortDec</Label>
+    <String>Bu küçük yaratıklar yıldız gemilerinde önemsiz işler yapmak üzere eğitilebilirler.</String>
+  </StringTable>
+  <StringTable>
+    <Label>TechapodHiveL2_Name</Label>
+    <String>Techapod Çiftliği</String>
+  </StringTable>
+  <StringTable>
+    <Label>TechapodHiveL2_ShortDec</Label>
+    <String>Bu küçük yaratıklar yıldız gemilerinde önemsiz işler yapmak üzere eğitilebilirler.</String>
+  </StringTable>
+  <StringTable>
+    <Label>TechapodHiveL3_Name</Label>
+    <String>Gelişmiş Techapod Kovan Çiftliği</String>
+  </StringTable>
+  <StringTable>
+    <Label>TechapodHiveL3_ShortDec</Label>
+    <String>Bu küçük yaratıklar yıldız gemilerinde önemsiz işler yapmak üzere eğitilebilirler.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ColonyUpgrade_TechapodHive_Name</Label>
+    <String>Orbital Techapod Kuluçkahanesi</String>
+  </StringTable>
+  <StringTable>
+    <Label>ColonyUpgrade_TechapodHive_ShortDec</Label>
+    <String>Bu küçük yaratıklar yıldız gemilerinde önemsiz işler yapmak üzere eğitilebilirler.</String>
+  </StringTable>
+  <StringTable>
+    <Label>SnugglerColony_Name</Label>
+    <String>Snuggler Kolonisi</String>
+  </StringTable>
+  <StringTable>
+    <Label>SnugglerColony_ShortDec</Label>
+    <String>Bu inanılmaz tüylü ve yumuşak yaratıklar galaksideki tüm çocukların hayalindeki evcil hayvandır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>SnugglerColonyL1_Name</Label>
+    <String>Snuggler Barınağı</String>
+  </StringTable>
+  <StringTable>
+    <Label>SnugglerColonyL1_ShortDec</Label>
+    <String>Bu tüylü yaratıklar galaksideki tüm çocukların hayalindeki evcil hayvanlardır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>SnugglerColonyL2_Name</Label>
+    <String>Snuggler Çiftliği</String>
+  </StringTable>
+  <StringTable>
+    <Label>SnugglerColonyL2_ShortDec</Label>
+    <String>Bu tüylü yaratıklar galaksideki tüm çocukların hayalindeki evcil hayvanlardır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>SnugglerColonyL3_Name</Label>
+    <String>Gelişmiş Snuggler Çiftliği</String>
+  </StringTable>
+  <StringTable>
+    <Label>SnugglerColonyL3_ShortDec</Label>
+    <String>Bu tüylü yaratıklar galaksideki tüm çocukların hayalindeki evcil hayvanlardır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ColonyUpgrade_SnugglerColony_Name</Label>
+    <String>Orbital Snuggler Barınağı</String>
+  </StringTable>
+  <StringTable>
+    <Label>ColonyUpgrade_SnugglerColony_ShortDec</Label>
+    <String>Bu tüylü yaratıklar galaksideki tüm çocukların hayalindeki evcil hayvanlardır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>UltraSpice_Name</Label>
+    <String>Arnor Baharat</String>
+  </StringTable>
+  <StringTable>
+    <Label>UltraSpice_ShortDec</Label>
+    <String>Arnor Baharatı ile her şeyin tadı daha güzeldir, "Arnor baharatı iki kat daha güzel yapar!", Bu değerli baharatın tüm gezegenlere servet kazandırdığı bilinmektedir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>UltraSpiceL1_Name</Label>
+    <String>Arnor Baharat Hasat Makinesi</String>
+  </StringTable>
+  <StringTable>
+    <Label>UltraSpiceL1_ShortDec</Label>
+    <String>Arnor Baharatı bilinci genişleterek daha fazla araştırma kabiliyeti sağlar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>UltraSpiceL2_Name</Label>
+    <String>Arnor Baharat Çiftliği</String>
+  </StringTable>
+  <StringTable>
+    <Label>UltraSpiceL2_ShortDec</Label>
+    <String>Baharat üretimini artırır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>UltraSpiceL3_Name</Label>
+    <String>Gelişmiş Arnor Baharat Çiftliği</String>
+  </StringTable>
+  <StringTable>
+    <Label>UltraSpiceL3_ShortDec</Label>
+    <String>Baharat üretimini artırır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ColonyUpgrade_UltraSpice_Name</Label>
+    <String>Orbital Baharat Toplayıcı</String>
+  </StringTable>
+  <StringTable>
+    <Label>ColonyUpgrade_UltraSpice_ShortDec</Label>
+    <String>Arnor Baharatı bilinci genişleterek daha fazla araştırma kabiliyeti sağlar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>EpimetheusPollen_Name</Label>
+    <String>Epimetheus Poleni</String>
+  </StringTable>
+  <StringTable>
+    <Label>EpimetheusPollen_ShortDec</Label>
+    <String>Bu nadir çiçeğin polenleri doğal bir sinirsel bulanıklaştırıcı madde görevi görerek daha etkili bir kamuflaj sağlar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>EpimetheusPollenL1_Name</Label>
+    <String>Epimetheus Sahası</String>
+  </StringTable>
+  <StringTable>
+    <Label>EpimetheusPollenL1_ShortDec</Label>
+    <String>Bu nadir çiçeğin poleni, doğal bir sinirsel bulanıklaştırıcı madde olarak işlev görmenin yanı sıra diğer egzotik kimyasalları da sağlar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>EpimetheusPollenL2_Name</Label>
+    <String>Epimetheus Çiftliği</String>
+  </StringTable>
+  <StringTable>
+    <Label>EpimetheusPollenL2_ShortDec</Label>
+    <String>Bu nadir çiçeğin poleni, doğal bir sinirsel bulanıklaştırıcı madde olarak işlev görmenin yanı sıra diğer egzotik kimyasalları da sağlar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>EpimetheusPollenL3_Name</Label>
+    <String>Gelişmiş Epimetheus Çiftliği</String>
+  </StringTable>
+  <StringTable>
+    <Label>EpimetheusPollenL3_ShortDec</Label>
+    <String>Bu nadir çiçeğin poleni, doğal bir sinirsel bulanıklaştırıcı madde olarak işlev görmenin yanı sıra diğer egzotik kimyasalları da sağlar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ColonyUpgrade_EpimetheusPollen_Name</Label>
+    <String>Orbital Polen Toplayıcı</String>
+  </StringTable>
+  <StringTable>
+    <Label>ColonyUpgrade_EpimetheusPollen_ShortDec</Label>
+    <String>Bu nadir çiçeğin poleni, doğal bir sinirsel bulanıklaştırıcı madde olarak işlev görmenin yanı sıra diğer egzotik kimyasalları da sağlar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArtocarpusViriles_Name</Label>
+    <String>Artocarpus Meyvesi</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArtocarpusViriles_ShortDec</Label>
+    <String>Bu muhteşem meyve en kurak gezegenlerde bile istikrarlı bir besin kaynağı olabilir. Bununla birlikte, galaksideki bilinen türlerin çoğunu daha doğurgan hale getirme gibi bir yan etkisi vardır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArtocarpusVirilesL1_Name</Label>
+    <String>Artocarpus Meyve Bahçesi</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArtocarpusVirilesL1_ShortDec</Label>
+    <String>Bu meyve lezzetlidir ve çoğu türün doğurganlığını artırır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArtocarpusVirilesL2_Name</Label>
+    <String>Artocarpus Çiftliği</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArtocarpusVirilesL2_ShortDec</Label>
+    <String>Bu meyve lezzetlidir ve çoğu türün doğurganlığını artırır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArtocarpusVirilesL3_Name</Label>
+    <String>Gelişmiş Artocarpus Çiftliği</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArtocarpusVirilesL3_ShortDec</Label>
+    <String>Bu meyve lezzetlidir ve çoğu türün doğurganlığını artırır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ColonyUpgrade_ArtocarpusViriles_Name</Label>
+    <String>Orbital Artocarpus Toplayıcı</String>
+  </StringTable>
+  <StringTable>
+    <Label>ColonyUpgrade_ArtocarpusViriles_ShortDec</Label>
+    <String>Bu meyve lezzetlidir ve çoğu türün doğurganlığını artırır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MonsatiumDeposit_Name</Label>
+    <String>Monsatium</String>
+  </StringTable>
+  <StringTable>
+    <Label>MonsatiumDeposit_ShortDec</Label>
+    <String>Besin açısından zengin bu mineral yatakları, gübre olarak kullanıldığında çiftliklerin verimine muazzam bir destek sağlar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MonsatiumDepositL1_Name</Label>
+    <String>Monsatium Yatağı</String>
+  </StringTable>
+  <StringTable>
+    <Label>MonsatiumDepositL1_ShortDec</Label>
+    <String>Bu mineraller gübre olarak kullanıldığında çiftliklerin verimini artırır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MonsatiumDepositL2_Name</Label>
+    <String>Monsatium Yatağı Rafinerisi</String>
+  </StringTable>
+  <StringTable>
+    <Label>MonsatiumDepositL2_ShortDec</Label>
+    <String>Bu mineraller gübre olarak kullanıldığında çiftliklerin verimini artırır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MonsatiumDepositL3_Name</Label>
+    <String>Gelişmiş Monsatium Yatağı Rafinerisi</String>
+  </StringTable>
+  <StringTable>
+    <Label>MonsatiumDepositL3_ShortDec</Label>
+    <String>Bu mineraller gübre olarak kullanıldığında çiftliklerin verimini artırır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ColonyUpgrade_MonsatiumDeposit_Name</Label>
+    <String>Orbital Monsatium</String>
+  </StringTable>
+  <StringTable>
+    <Label>ColonyUpgrade_MonsatiumDeposit_ShortDec</Label>
+    <String>Bu mineraller gübre olarak kullanıldığında çiftliklerin verimini artırır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AurorusArboretum_Name</Label>
+    <String>Aurorus Arboretumu</String>
+  </StringTable>
+  <StringTable>
+    <Label>AurorusArboretum_ShortDec</Label>
+    <String>Bu şaşırtıcı güzellikteki biyolüminesan ağaçlar yaklaşık bir kilometre yükseklikte duruyor ve galaksinin doğal harikalarından biri olarak kabul ediliyor.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AurorusArboretumL1_Name</Label>
+    <String>Aurorus Meyve Bahçesi</String>
+  </StringTable>
+  <StringTable>
+    <Label>AurorusArboretumL1_ShortDec</Label>
+    <String>Bu biyolüminesan ağaçlar galaksinin doğal harikalarından biridir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AurorusArboretumL2_Name</Label>
+    <String>Aurorus Arboretum Çiftliği</String>
+  </StringTable>
+  <StringTable>
+    <Label>AurorusArboretumL2_ShortDec</Label>
+    <String>Bu biyolüminesan ağaçlar galaksinin doğal harikalarından biridir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AurorusArboretumL3_Name</Label>
+    <String>Gelişmiş Aurorus Arboretum Çiftliği</String>
+  </StringTable>
+  <StringTable>
+    <Label>AurorusArboretumL3_ShortDec</Label>
+    <String>Bu biyolüminesan ağaçlar galaksinin doğal harikalarından biridir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ColonyUpgrade_AurorusArboretum_Name</Label>
+    <String>Orbital Aurorus</String>
+  </StringTable>
+  <StringTable>
+    <Label>ColonyUpgrade_AurorusArboretum_ShortDec</Label>
+    <String>Bu biyolüminesan ağaçlar galaksinin doğal harikalarından biridir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Slums_Name</Label>
+    <String>Gecekondular</String>
+  </StringTable>
+  <StringTable>
+    <Label>Slums_ShortDec</Label>
+    <String>Serseri konutu, ama en azından bunun için bir şey ödemenize gerek yoktu.</String>
+  </StringTable>
+  <StringTable>
+    <Label>District_Manufacturing_Name</Label>
+    <String>Üretim Bölgesi</String>
+  </StringTable>
+  <StringTable>
+    <Label>District_Manufacturing_ShortDec</Label>
+    <String>Daha hızlı gemi ve gezegen üretimi.</String>
+  </StringTable>
+  <StringTable>
+    <Label>District_Population_Name</Label>
+    <String>Konut Bölgesi</String>
+  </StringTable>
+  <StringTable>
+    <Label>District_Population_ShortDec</Label>
+    <String>Nüfus sınırını artırır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>District_Approval_Name</Label>
+    <String>Eğlence Bölgesi</String>
+  </StringTable>
+  <StringTable>
+    <Label>District_Approval_ShortDec</Label>
+    <String>İnsanları daha mutlu eder. Nüfus artışını artırır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>District_Wealth_Name</Label>
+    <String>Finans Bölgesi</String>
+  </StringTable>
+  <StringTable>
+    <Label>District_Wealth_ShortDec</Label>
+    <String>Zenginlik yaratır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>District_Food_Name</Label>
+    <String>Tarımsal Bölge</String>
+  </StringTable>
+  <StringTable>
+    <Label>District_Food_ShortDec</Label>
+    <String>Yiyecek yetiştirir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>District_Research_Name</Label>
+    <String>Araştırma Bölgesi</String>
+  </StringTable>
+  <StringTable>
+    <Label>District_Research_ShortDec</Label>
+    <String>Bu dünyanın sağladığı Araştırmayı artırır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>District_Influence_Name</Label>
+    <String>Kültürel Bölge</String>
+  </StringTable>
+  <StringTable>
+    <Label>District_Influence_ShortDec</Label>
+    <String>Bu dünyanın sağladığı Etkiyi artırır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Project_UpgradeManufacturing1_Name</Label>
+    <String>Üretimi Yükseltme</String>
+  </StringTable>
+  <StringTable>
+    <Label>Project_UpgradeManufacturing1_ShortDec</Label>
+    <String>Üretim Bölgelerimizin seviyesini artırın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Project_UpgradeManufacturing2_Name</Label>
+    <String>Üretimi Yükseltme</String>
+  </StringTable>
+  <StringTable>
+    <Label>Project_UpgradeManufacturing2_ShortDec</Label>
+    <String>Üretim Bölgelerimizin seviyesini artırın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Project_UpgradeManufacturing3_Name</Label>
+    <String>Üretimi Yükseltme</String>
+  </StringTable>
+  <StringTable>
+    <Label>Project_UpgradeManufacturing3_ShortDec</Label>
+    <String>Üretim Bölgelerimizin seviyesini artırın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Project_UpgradeManufacturing4_Name</Label>
+    <String>Üretimi Yükseltme</String>
+  </StringTable>
+  <StringTable>
+    <Label>Project_UpgradeManufacturing4_ShortDec</Label>
+    <String>Üretim Bölgelerimizin seviyesini artırın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Project_UpgradeManufacturing5_Name</Label>
+    <String>Üretimi Yükseltme</String>
+  </StringTable>
+  <StringTable>
+    <Label>Project_UpgradeManufacturing5_ShortDec</Label>
+    <String>Üretim Bölgelerimizin seviyesini artırın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Project_UpgradePopulation1_Name</Label>
+    <String>Konut Yükseltme</String>
+  </StringTable>
+  <StringTable>
+    <Label>Project_UpgradePopulation1_ShortDec</Label>
+    <String>Konut Bölgelerimizin seviyesini artırın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Project_UpgradePopulation2_Name</Label>
+    <String>Konut Yükseltme</String>
+  </StringTable>
+  <StringTable>
+    <Label>Project_UpgradePopulation2_ShortDec</Label>
+    <String>Konut Bölgelerimizin seviyesini artırın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Project_UpgradePopulation3_Name</Label>
+    <String>Konut Yükseltme</String>
+  </StringTable>
+  <StringTable>
+    <Label>Project_UpgradePopulation3_ShortDec</Label>
+    <String>Konut Bölgelerimizin seviyesini artırın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Project_UpgradePopulation4_Name</Label>
+    <String>Konut Yükseltme</String>
+  </StringTable>
+  <StringTable>
+    <Label>Project_UpgradePopulation4_ShortDec</Label>
+    <String>Konut Bölgelerimizin seviyesini artırın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Project_UpgradePopulation5_Name</Label>
+    <String>Konut Yükseltme</String>
+  </StringTable>
+  <StringTable>
+    <Label>Project_UpgradePopulation5_ShortDec</Label>
+    <String>Konut Bölgelerimizin seviyesini artırın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Project_UpgradeApproval1_Name</Label>
+    <String>Yükseltme Eğlence</String>
+  </StringTable>
+  <StringTable>
+    <Label>Project_UpgradeApproval1_ShortDec</Label>
+    <String>Eğlence Bölgelerimizin seviyesini artırın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Project_UpgradeApproval2_Name</Label>
+    <String>Yükseltme Eğlence</String>
+  </StringTable>
+  <StringTable>
+    <Label>Project_UpgradeApproval2_ShortDec</Label>
+    <String>Eğlence Bölgelerimizin seviyesini artırın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Project_UpgradeApproval3_Name</Label>
+    <String>Yükseltme Eğlence</String>
+  </StringTable>
+  <StringTable>
+    <Label>Project_UpgradeApproval3_ShortDec</Label>
+    <String>Eğlence Bölgelerimizin seviyesini artırın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Project_UpgradeApproval4_Name</Label>
+    <String>Yükseltme Eğlence</String>
+  </StringTable>
+  <StringTable>
+    <Label>Project_UpgradeApproval4_ShortDec</Label>
+    <String>Eğlence Bölgelerimizin seviyesini artırın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Project_UpgradeApproval5_Name</Label>
+    <String>Yükseltme Eğlence</String>
+  </StringTable>
+  <StringTable>
+    <Label>Project_UpgradeApproval5_ShortDec</Label>
+    <String>Eğlence Bölgelerimizin seviyesini artırın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Project_UpgradeWealth1_Name</Label>
+    <String>Yükseltme Piyasaları</String>
+  </StringTable>
+  <StringTable>
+    <Label>Project_UpgradeWealth1_ShortDec</Label>
+    <String>Finans Bölgelerimizin seviyesini artırın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Project_UpgradeWealth2_Name</Label>
+    <String>Yükseltme Piyasaları</String>
+  </StringTable>
+  <StringTable>
+    <Label>Project_UpgradeWealth2_ShortDec</Label>
+    <String>Finans Bölgelerimizin seviyesini artırın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Project_UpgradeWealth3_Name</Label>
+    <String>Yükseltme Piyasaları</String>
+  </StringTable>
+  <StringTable>
+    <Label>Project_UpgradeWealth3_ShortDec</Label>
+    <String>Finans Bölgelerimizin seviyesini artırın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Project_UpgradeWealth4_Name</Label>
+    <String>Yükseltme Piyasaları</String>
+  </StringTable>
+  <StringTable>
+    <Label>Project_UpgradeWealth4_ShortDec</Label>
+    <String>Finans Bölgelerimizin seviyesini artırın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Project_UpgradeWealth5_Name</Label>
+    <String>Yükseltme Piyasaları</String>
+  </StringTable>
+  <StringTable>
+    <Label>Project_UpgradeWealth5_ShortDec</Label>
+    <String>Finans Bölgelerimizin seviyesini artırın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Project_UpgradeFood1_Name</Label>
+    <String>Tarımı Yükseltme</String>
+  </StringTable>
+  <StringTable>
+    <Label>Project_UpgradeFood1_ShortDec</Label>
+    <String>Tarımsal Bölgelerimizin seviyesini artırın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Project_UpgradeFood2_Name</Label>
+    <String>Tarımı Yükseltme</String>
+  </StringTable>
+  <StringTable>
+    <Label>Project_UpgradeFood2_ShortDec</Label>
+    <String>Tarımsal Bölgelerimizin seviyesini artırın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Project_UpgradeFood3_Name</Label>
+    <String>Tarımı Yükseltme</String>
+  </StringTable>
+  <StringTable>
+    <Label>Project_UpgradeFood3_ShortDec</Label>
+    <String>Tarımsal Bölgelerimizin seviyesini artırın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Project_UpgradeFood4_Name</Label>
+    <String>Tarımı Yükseltme</String>
+  </StringTable>
+  <StringTable>
+    <Label>Project_UpgradeFood4_ShortDec</Label>
+    <String>Tarımsal Bölgelerimizin seviyesini artırın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Project_UpgradeFood5_Name</Label>
+    <String>Tarımı Yükseltme</String>
+  </StringTable>
+  <StringTable>
+    <Label>Project_UpgradeFood5_ShortDec</Label>
+    <String>Tarımsal Bölgelerimizin seviyesini artırın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Project_UpgradeResearch1_Name</Label>
+    <String>Yükseltme Araştırması</String>
+  </StringTable>
+  <StringTable>
+    <Label>Project_UpgradeResearch1_ShortDec</Label>
+    <String>Araştırma Bölgelerimizin seviyesini artırın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Project_UpgradeResearch2_Name</Label>
+    <String>Yükseltme Araştırması</String>
+  </StringTable>
+  <StringTable>
+    <Label>Project_UpgradeResearch2_ShortDec</Label>
+    <String>Araştırma Bölgelerimizin seviyesini artırın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Project_UpgradeResearch3_Name</Label>
+    <String>Yükseltme Araştırması</String>
+  </StringTable>
+  <StringTable>
+    <Label>Project_UpgradeResearch3_ShortDec</Label>
+    <String>Araştırma Bölgelerimizin seviyesini artırın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Project_UpgradeResearch4_Name</Label>
+    <String>Yükseltme Araştırması</String>
+  </StringTable>
+  <StringTable>
+    <Label>Project_UpgradeResearch4_ShortDec</Label>
+    <String>Araştırma Bölgelerimizin seviyesini artırın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Project_UpgradeResearch5_Name</Label>
+    <String>Yükseltme Araştırması</String>
+  </StringTable>
+  <StringTable>
+    <Label>Project_UpgradeResearch5_ShortDec</Label>
+    <String>Araştırma Bölgelerimizin seviyesini artırın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Project_UpgradeInfluence1_Name</Label>
+    <String>Yükseltme Kültürü</String>
+  </StringTable>
+  <StringTable>
+    <Label>Project_UpgradeInfluence1_ShortDec</Label>
+    <String>Kültür Bölgelerimizin seviyesini artırın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Project_UpgradeInfluence2_Name</Label>
+    <String>Yükseltme Kültürü</String>
+  </StringTable>
+  <StringTable>
+    <Label>Project_UpgradeInfluence2_ShortDec</Label>
+    <String>Kültür Bölgelerimizin seviyesini artırın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Project_UpgradeInfluence3_Name</Label>
+    <String>Yükseltme Kültürü</String>
+  </StringTable>
+  <StringTable>
+    <Label>Project_UpgradeInfluence3_ShortDec</Label>
+    <String>Kültür Bölgelerimizin seviyesini artırın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Project_UpgradeInfluence4_Name</Label>
+    <String>Yükseltme Kültürü</String>
+  </StringTable>
+  <StringTable>
+    <Label>Project_UpgradeInfluence4_ShortDec</Label>
+    <String>Kültür Bölgelerimizin seviyesini artırın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Project_UpgradeInfluence5_Name</Label>
+    <String>Yükseltme Kültürü</String>
+  </StringTable>
+  <StringTable>
+    <Label>Project_UpgradeInfluence5_ShortDec</Label>
+    <String>Kültür Bölgelerimizin seviyesini artırın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ColonyUpgrade_PrecursorElevator_Name</Label>
+    <String>Öncü Asansör</String>
+  </StringTable>
+  <StringTable>
+    <Label>ColonyUpgrade_PrecursorElevator_ShortDec</Label>
+    <String>Malların dünya dışına gönderilmesini kolaylaştırır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ColonyUpgrade_OrbitalFactory_Name</Label>
+    <String>Orbital Fabrikası</String>
+  </StringTable>
+  <StringTable>
+    <Label>ColonyUpgrade_OrbitalFactory_ShortDec</Label>
+    <String>Koloni tarafından üretilen mineralleri artırır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ColonyUpgrade_MoistureGenerator_Name</Label>
+    <String>Nem Jeneratörü</String>
+  </StringTable>
+  <StringTable>
+    <Label>ColonyUpgrade_MoistureGenerator_ShortDec</Label>
+    <String>Su üreterek çöl dünyalarının kullanılamaz topraklarını tarıma elverişli hale getirebiliriz.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ColonyUpgrade_ThermalCore_Name</Label>
+    <String>Termal Çekirdek</String>
+  </StringTable>
+  <StringTable>
+    <Label>ColonyUpgrade_ThermalCore_ShortDec</Label>
+    <String>Yerel iklimi ısıtarak daha fazla ekilebilir arazi üretebiliriz.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ColonyUpgrade_TidalControl_Name</Label>
+    <String>Gelgit Kontrolü</String>
+  </StringTable>
+  <StringTable>
+    <Label>ColonyUpgrade_TidalControl_ShortDec</Label>
+    <String>Bu dünyanın gelgitlerini kontrol ederek yerel koloniler için hayatı daha iyi hale getirebiliriz.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ColonyUpgrade_PrisonWorld_Name</Label>
+    <String>Yörünge Hapishanesi</String>
+  </StringTable>
+  <StringTable>
+    <Label>ColonyUpgrade_PrisonWorld_ShortDec</Label>
+    <String>Küresel bir hapishane sistemi kurarak dünyanın en kötü suçlularını gönderebileceğimiz bir yerimiz var.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ColonyUpgrade_ThuliumMoon_Name</Label>
+    <String>Thulium Moon</String>
+  </StringTable>
+  <StringTable>
+    <Label>ColonyUpgrade_ThuliumMoon_ShortDec</Label>
+    <String>Değerli Thulium'dan oluşan bir Ay bu dünyanın yörüngesinde.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ColonyUpgrade_DurantiumCloud_Name</Label>
+    <String>Durantium Bulut</String>
+  </StringTable>
+  <StringTable>
+    <Label>ColonyUpgrade_DurantiumCloud_ShortDec</Label>
+    <String>Atmosfer değerli Durantium ile parıldıyor.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ColonyUpgrade_Accelerator_Name</Label>
+    <String>Öncü Hızlandırıcı</String>
+  </StringTable>
+  <StringTable>
+    <Label>ColonyUpgrade_Accelerator_ShortDec</Label>
+    <String>Kristalize Promethion, bu gezegenin tersanesinde inşa edilen her geminin Hareketlerini geliştirecektir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ColonyUpgrade_Refinery_Name</Label>
+    <String>Promethion Rafinerisi</String>
+  </StringTable>
+  <StringTable>
+    <Label>ColonyUpgrade_Refinery_ShortDec</Label>
+    <String>Bu antik Promethion rafinerisi hâlâ çalışır durumda.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ColonyUpgrade_Research_Name</Label>
+    <String>Öncül Arşivi</String>
+  </StringTable>
+  <StringTable>
+    <Label>ColonyUpgrade_Research_ShortDec</Label>
+    <String>Prekürsör kayıtlarından oluşan geniş bir koleksiyon.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ColonyUpgrade_Treasury_Name</Label>
+    <String>Öncü Hazine</String>
+  </StringTable>
+  <StringTable>
+    <Label>ColonyUpgrade_Treasury_ShortDec</Label>
+    <String>Prekürsör hazinelerinin geniş bir koleksiyonu.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ColonyUpgrade_ExperimentalWorld_Name</Label>
+    <String>Öncül Deneyler</String>
+  </StringTable>
+  <StringTable>
+    <Label>ColonyUpgrade_ExperimentalWorld_ShortDec</Label>
+    <String>Kolonistler hayatta kalabilirse, bu dünyadan gelen deneyler değerli araştırmalar sağlar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ColonyUpgrade_Satellites_Name</Label>
+    <String>Sensör Dizisi</String>
+  </StringTable>
+  <StringTable>
+    <Label>ColonyUpgrade_Satellites_ShortDec</Label>
+    <String>Bu uydu dizisi uzaktaki nesneleri bile ortaya çıkarıyor.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ColonyUpgrade_PrecursorBeacon_Name</Label>
+    <String>İletişim Dizisi</String>
+  </StringTable>
+  <StringTable>
+    <Label>ColonyUpgrade_PrecursorBeacon_ShortDec</Label>
+    <String>Gezegen için Etki yaratır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ColonyUpgrade_OrbOfDraginol_Name</Label>
+    <String>Draginol Küresi</String>
+  </StringTable>
+  <StringTable>
+    <Label>ColonyUpgrade_OrbOfDraginol_ShortDec</Label>
+    <String>Bunun dışındaki bir varoluş evresinden kalma kadim bir kalıntı. Onu elinde tutan kişinin gücünü yavaşça artırır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ColonyUpgrade_MakerWorld_Name</Label>
+    <String>Arnor'un Tahtı</String>
+  </StringTable>
+  <StringTable>
+    <Label>ColonyUpgrade_MakerWorld_ShortDec</Label>
+    <String>Bunun dışındaki bir varoluş evresinden kalma kadim bir kalıntı. Onu elinde tutan kişinin gücünü yavaşça artırır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Wonder_PlagueResearchCenter_Name</Label>
+    <String>Veba Araştırma Merkezi</String>
+  </StringTable>
+  <StringTable>
+    <Label>Wonder_PlagueResearchCenter_ShortDec</Label>
+    <String>Veba için bir tedavi araştırmaya adanmış bir araştırma tesisi.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Improvement_ThinkTank_Name</Label>
+    <String>Think Tank</String>
+  </StringTable>
+  <StringTable>
+    <Label>Improvement_ThinkTank_ShortDec</Label>
+    <String>En son teknolojiyi denemeye ve beyin fırtınası yapmaya adanmış bir araştırma tesisi.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Improvement_ThePossibilityEngine_Name</Label>
+    <String>Olasılık Motoru</String>
+  </StringTable>
+  <StringTable>
+    <Label>Improvement_ThePossibilityEngine_ShortDec</Label>
+    <String>En son teknolojiyi denemeye ve beyin fırtınası yapmaya adanmış bir araştırma tesisi.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Improvement_UnitedPlanets_Name</Label>
+    <String>Birleşik Gezegenler</String>
+  </StringTable>
+  <StringTable>
+    <Label>Improvement_UnitedPlanets_ShortDec</Label>
+    <String>Evrenin bölünmüş gruplarının ortak bir refah ve işbirliği vizyonunda birleşebileceği bir yer.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Improvement_GalacticCourt_Name</Label>
+    <String>Galaktik Mahkeme</String>
+  </StringTable>
+  <StringTable>
+    <Label>Improvement_GalacticCourt_ShortDec</Label>
+    <String>Galaksideki en yüksek mahkeme. Buraya yapılacak bir itiraz boşluğa haykırmak gibi olur.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Improvement_GalacticCommision_Name</Label>
+    <String>Galaktik Komisyon</String>
+  </StringTable>
+  <StringTable>
+    <Label>Improvement_GalacticCommision_ShortDec</Label>
+    <String>Tüm galaksi için refah ve barış sağlayacak politikaların üretileceği bir yer.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Supernova_ColonyUpgrade_DefenseMatrix_Name</Label>
+    <String>Savunma Matrisi</String>
+  </StringTable>
+  <StringTable>
+    <Label>Supernova_ColonyUpgrade_DefenseMatrix_ShortDec</Label>
+    <String>Genel gezegen savunmasını geliştiren yörüngesel otomatik savunma sağlar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Supernova_ColonyUpgrade_SpaceElevator_Name</Label>
+    <String>Uzay Asansörü</String>
+  </StringTable>
+  <StringTable>
+    <Label>Supernova_ColonyUpgrade_SpaceElevator_ShortDec</Label>
+    <String>Bir uzay asansörü, yörüngeye hammadde göndermenin lojistik maliyetini önemli ölçüde artırır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Supernova_ColonyUpgrade_OrbitalResearchLab_Name</Label>
+    <String>Orbital Araştırma Laboratuvarı</String>
+  </StringTable>
+  <StringTable>
+    <Label>Supernova_ColonyUpgrade_OrbitalResearchLab_ShortDec</Label>
+    <String>Uzay boşluğunda daha az yabancı değişken vardır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ColonyUpgrade_RecruitingStation_Name</Label>
+    <String>İşe Alım İstasyonu</String>
+  </StringTable>
+  <StringTable>
+    <Label>ColonyUpgrade_RecruitingStation_ShortDec</Label>
+    <String>Bu gezegenin fantastik niteliklerini ve fırsatlarını tanıtmaya adanmış bir uzay istasyonu.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Supernova_ColonyUpgrade_ClimateControl_Name</Label>
+    <String>İklim Kontrolü</String>
+  </StringTable>
+  <StringTable>
+    <Label>Supernova_ColonyUpgrade_ClimateControl_ShortDec</Label>
+    <String>Yörüngesel uydular hava durumunu manipüle edebilir ve gezegenin verimliliğini artırabilir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Supernova_ColonyUpgrade_ColonizationCenter_Name</Label>
+    <String>Kolonizasyon Merkezi</String>
+  </StringTable>
+  <StringTable>
+    <Label>Supernova_ColonyUpgrade_ColonizationCenter_ShortDec</Label>
+    <String>Nüfusunuzun vatandaş üretme oranını artırır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Supernova_ColonyUpgrade_OrbitalPrison_Name</Label>
+    <String>Yörünge Hapishanesi</String>
+  </StringTable>
+  <StringTable>
+    <Label>Supernova_ColonyUpgrade_OrbitalPrison_ShortDec</Label>
+    <String>Küresel bir hapishane sistemi kurarak dünyanın en kötü suçlularını gönderebileceğimiz bir yerimiz var.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Supernova_ColonyUpgrade_AtmosphericCleanser_Name</Label>
+    <String>Atmosferik Temizleyici</String>
+  </StringTable>
+  <StringTable>
+    <Label>Supernova_ColonyUpgrade_AtmosphericCleanser_ShortDec</Label>
+    <String>Atmosferi temizleyerek gezegenin sakinleri için yaşamı daha iyi hale getirebiliriz.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Supernova_ColonyUpgrade_SensorArray_Name</Label>
+    <String>Sensör Dizisi</String>
+  </StringTable>
+  <StringTable>
+    <Label>Supernova_ColonyUpgrade_SensorArray_ShortDec</Label>
+    <String>Bu uydu dizisi uzaktaki nesneleri bile ortaya çıkarıyor.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Supernova_ColonyUpgrade_PlanetaryBeacon_Name</Label>
+    <String>Gezegensel İşaret</String>
+  </StringTable>
+  <StringTable>
+    <Label>Supernova_ColonyUpgrade_PlanetaryBeacon_ShortDec</Label>
+    <String>Gezegen için Etki yaratır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Supernova_ColonyUpgrade_ColonialMarket_Name</Label>
+    <String>Orbital Pazar</String>
+  </StringTable>
+  <StringTable>
+    <Label>Supernova_ColonyUpgrade_ColonialMarket_ShortDec</Label>
+    <String>Yerel bir ticaret merkezi bu dünyadaki malların değerini artırır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Supernova_ColonyUpgrade_OrbitalAcademy_Name</Label>
+    <String>Orbital Akademi</String>
+  </StringTable>
+  <StringTable>
+    <Label>Supernova_ColonyUpgrade_OrbitalAcademy_ShortDec</Label>
+    <String>Bu gezegenin en iyi ve en parlak öğrencilerinin eğitim gördüğü ve yarının liderleri olmaya hazırlandığı bir yer.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Supernova_ColonyUpgrade_TopGunAcademy_Name</Label>
+    <String>Top Gun Akademisi</String>
+  </StringTable>
+  <StringTable>
+    <Label>Supernova_ColonyUpgrade_TopGunAcademy_ShortDec</Label>
+    <String>Hıza ihtiyaç duyan savaş pilotları yeteneklerini geliştirmek için burada toplanır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Improvement_GalacticNavigationNetwork_Name</Label>
+    <String>Galaktik Navigasyon Ağı</String>
+  </StringTable>
+  <StringTable>
+    <Label>Improvement_GalacticNavigationNetwork_ShortDec</Label>
+    <String>Uygarlığınızdaki tüm gemilerin hareketini artırır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Improvement_NavigationCenter_Name</Label>
+    <String>Navigasyon Merkezi</String>
+  </StringTable>
+  <StringTable>
+    <Label>Improvement_NavigationCenter_ShortDec</Label>
+    <String>Bu gezegenin tersanesinden gelen gemilerin hızını artırır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Improvement_GalacticNavigatorsGuild_Name</Label>
+    <String>Galaktik Navigatör Loncası</String>
+  </StringTable>
+  <StringTable>
+    <Label>Improvement_GalacticNavigatorsGuild_ShortDec</Label>
+    <String>Bu gezegenin tersanesinde inşa edilen gemilerin hareket hızını artırır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Improvement_HyperionBrainTrust_Name</Label>
+    <String>Improvement_HyperionBrainTrust_Name_tk</String>
+  </StringTable>
+  <StringTable>
+    <Label>Improvement_HyperionBrainTrust_ShortDec</Label>
+    <String>Improvement_HyperionBrainTrust_ShortDec_tk</String>
+  </StringTable>
+  <StringTable>
+    <Label>RecyclingCenter_Name</Label>
+    <String>Gezegensel Geri Dönüşüm Merkezi</String>
+  </StringTable>
+  <StringTable>
+    <Label>RecyclingCenter_ShortDec</Label>
+    <String>[HS=HS_Pollution]Kirliliği[/HS] azaltmak amacıyla malzemelerin yeniden kullanılmasına adanmış devasa bir yapı.</String>
+  </StringTable>
+  <StringTable>
+    <Label>PainAmplifier_Name</Label>
+    <String>Ağrı Amplifikatörü</String>
+  </StringTable>
+  <StringTable>
+    <Label>PainAmplifier_ShortDec</Label>
+    <String>[HS=HS_Research]Research[/HS] artırmak amacıyla odaklanmalarını sağlamak için vatandaşlarımızın sürekli acısını artırır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ConstructBroadcastModule_Name</Label>
+    <String>Yayın Kültürü</String>
+  </StringTable>
+  <StringTable>
+    <Label>ConstructBroadcastModule_ShortDec</Label>
+    <String>Kasamız için, kültürümüzü hedef dost bir gezegenden yayınlamak için kullanılabilecek bir Yayın modülü üretir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>GalacticReserve_Name</Label>
+    <String>Galaktik Para Birimi Rezervi</String>
+  </StringTable>
+  <StringTable>
+    <Label>GalacticReserve_ShortDec</Label>
+    <String>Para biriminizi galaksinin birleştirici ekonomik temel taşı olarak konumlandırın.</String>
+  </StringTable>
+  <!--Adding text for future Orbital upgrades after text lock 9.22.23-->
+  <!--Note: String labels have temporary _TK tag-->
+  <StringTable>
+    <Label>OfficerSchool_Name_TK</Label>
+    <String>Subay Eğitim Okulu</String>
+  </StringTable>
+  <StringTable>
+    <Label>OfficerSchool_ShortDec_TK</Label>
+    <String>En iyi ve en parlaklarımızın eğitilip subay olarak şekillendirileceği bir yer.</String>
+  </StringTable>
+  <StringTable>
+    <Label>WarInstitution_Name_TK</Label>
+    <String>Savaş Kurumu</String>
+  </StringTable>
+  <StringTable>
+    <Label>WarInstitution_ShortDec_TK</Label>
+    <String>Kayıtlı tarihteki tüm filo savaşlarının en küçük ayrıntıları bu uzay istasyonunun salonlarında inceleniyor.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ConquestCenter_Name_TK</Label>
+    <String>Fetih Merkezi</String>
+  </StringTable>
+  <StringTable>
+    <Label>ConquestCenter_ShortDec_TK</Label>
+    <String>Bu uzay üssü, en parlak stratejistlerimizin istila sanatı üzerine çalıştıkları stratejik bir merkez olarak hizmet vermektedir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>TacticalCollege_Name_TK</Label>
+    <String>Taktik Koleji</String>
+  </StringTable>
+  <StringTable>
+    <Label>TacticalCollege_ShortDec_TK</Label>
+    <String>Bu uzay istasyonu, uzay tabanlı savaş stratejileri konusunda kapsamlı bir eğitim sağlamaktadır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>TacticalInstruction_Name_TK</Label>
+    <String>Taktiksel Eğitim</String>
+  </StringTable>
+  <StringTable>
+    <Label>TacticalInstruction_ShortDec_TK</Label>
+    <String>Uzay savaşında daha büyük gemi sınıflarına komuta etmeye özgü taktikler ve stratejiler hakkında derinlemesine eğitim sağlar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>LogisticsArray_Name_TK</Label>
+    <String>Lojistik Dizisi</String>
+  </StringTable>
+  <StringTable>
+    <Label>LogisticsArray_ShortDec_TK</Label>
+    <String>Bu lojistik dizi uzay istasyonu, devlet kontrolü ve geniş yıldızlararası imparatorlukların yönetimi konusunda kapsamlı bir eğitim sağlamaktadır.</String>
+  </StringTable>
+</StringTableList>

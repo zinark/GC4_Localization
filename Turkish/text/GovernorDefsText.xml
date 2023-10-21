@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<StringTableList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+  <!-- Created with the Gal Civ 3 Editor -->
+  <!-- GovernorDefsText.xml -->
+  <StringTable>
+    <Label>AIHomeworld_Name</Label>
+    <String>Yapay Zeka Ana Dünyası</String>
+  </StringTable>
+  <StringTable>
+    <Label>AIHomeworld_Dec</Label>
+    <String>Yapay Zeka Ana Dünya Valisi</String>
+  </StringTable>
+  <StringTable>
+    <Label>AIManufacturing_Name</Label>
+    <String>Yapay Zeka Üretim Dünyası</String>
+  </StringTable>
+  <StringTable>
+    <Label>AIManufacturing_Dec</Label>
+    <String>Üretim odaklı bir gezegen inşa ediyor</String>
+  </StringTable>
+  <StringTable>
+    <Label>AIResearch_Name</Label>
+    <String>Yapay Zeka Araştırma Dünyası</String>
+  </StringTable>
+  <StringTable>
+    <Label>AIResearch_Dec</Label>
+    <String>Araştırmaya odaklanarak gezegeni inşa eder</String>
+  </StringTable>
+  <StringTable>
+    <Label>AIWealth_Name</Label>
+    <String>Yapay Zeka Servet Dünyası</String>
+  </StringTable>
+  <StringTable>
+    <Label>AIWealth_Dec</Label>
+    <String>Zenginliğe odaklanarak gezegeni inşa eder</String>
+  </StringTable>
+  <StringTable>
+    <Label>BalancedGovernor_Name</Label>
+    <String>Dengeli Vali</String>
+  </StringTable>
+  <StringTable>
+    <Label>BalancedGovernor_Dec</Label>
+    <String>Gezegeni iyi dengelenecek şekilde inşa eder.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ManufacturingGovernor_Name</Label>
+    <String>İmalat Valisi</String>
+  </StringTable>
+  <StringTable>
+    <Label>ManufacturingGovernor_Dec</Label>
+    <String>Üretim odaklı bir gezegen inşa ediyor</String>
+  </StringTable>
+  <StringTable>
+    <Label>ResearchGovernor_Name</Label>
+    <String>Araştırma Müdürü</String>
+  </StringTable>
+  <StringTable>
+    <Label>ResearchGovernor_Dec</Label>
+    <String>Araştırmaya odaklanarak gezegeni inşa eder</String>
+  </StringTable>
+  <StringTable>
+    <Label>WealthGovernor_Name</Label>
+    <String>Varlık Valisi</String>
+  </StringTable>
+  <StringTable>
+    <Label>WealthGovernor_Dec</Label>
+    <String>Zenginliğe odaklanarak gezegeni inşa eder</String>
+  </StringTable>
+</StringTableList>

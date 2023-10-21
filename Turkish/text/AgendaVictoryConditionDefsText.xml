@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<StringTableList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+  <StringTable>
+    <Label>AgendaVictoryConditionDef_None_Name</Label>
+    <String>Gündem yok.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AgendaVictoryConditionDef_None_Desc</Label>
+    <String>Burada görecek bir şey yok.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AgendaVictoryConditionDef_DefeatRandomAIPlayer_Name</Label>
+    <String>Rastgele Yapay Zeka Oyuncusunu Yen.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AgendaVictoryConditionDef_DefeatRandomAIPlayer_Desc</Label>
+    <String>Farklı bir sektörde başlayan rastgele bir yapay zeka oyuncusunu yenin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AgendaVictoryConditionDef_DefeatRandomAIPlayer_Progress_Format</Label>
+    <String>Yenmek {PLAYERFACTIONLONG}: {AMOUNT} fethedilecek çekirdek dünyalar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AgendaVictoryConditionDef_ClaimRelics_Name</Label>
+    <String>Prekürsör Kalıntılarını talep edin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AgendaVictoryConditionDef_ClaimRelics_Desc</Label>
+    <String>Öncü Yadigarlarının çoğunu ele geçirin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AgendaVictoryConditionDef_ClaimRelics_Progress_Format</Label>
+    <String>Talep Edildi {AMOUNT} \ {VALUE} Prekürsör Kalıntıları.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AgendaVictoryConditionDef_ClaimPrecursorWorlds_Name</Label>
+    <String>Öncü Dünyaları Talep Edin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AgendaVictoryConditionDef_ClaimPrecursorWorlds_Desc</Label>
+    <String>Öncü Dünyaların çoğunu ele geçirin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AgendaVictoryConditionDef_ClaimPrecursorWorlds_Progress_Format</Label>
+    <String>Talep Edildi {AMOUNT} \ {VALUE} Öncü Dünyalar.</String>
+  </StringTable>
+</StringTableList>

@@ -1,0 +1,1171 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<StringTableList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+  <StringTable>
+    <Label>CitizenTrait_Angry_Name</Label>
+    <String>[COLOR=ApprovalRed][ICON=APPROVAL_SAD_ICON] Angry[/COLOR]</String>
+  </StringTable>
+  <StringTable>
+    <Label>CitizenTrait_Angry_Dec</Label>
+    <String>Her şey dağılıyor.</String>
+  </StringTable>
+  <StringTable>
+    <Label>CitizenTrait_Totalitarianism_Name</Label>
+    <String>[ICON=Authority_Icon] Totaliter</String>
+  </StringTable>
+  <StringTable>
+    <Label>CitizenTrait_Totalitarianism_Dec</Label>
+    <String>Kamusal ve özel yaşamın tüm yönlerinin tek bir otoritenin yönetimi altında olduğu, devlet tarafından mutlak güç ve kontrole inanır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>CitizenTrait_Egalitarianism_Name</Label>
+    <String>[ICON=Pragmatizm_Icon] Eşitlikçi</String>
+  </StringTable>
+  <StringTable>
+    <Label>CitizenTrait_Egalitarianism_Dec</Label>
+    <String>Tüm hissedebilen varlıkların temel eşitliğine inanır, tür, köken gezegen veya diğer özelliklerden bağımsız olarak eşit hak ve fırsatları savunur.</String>
+  </StringTable>
+  <StringTable>
+    <Label>CitizenTrait_Pacifism_Name</Label>
+    <String>[ICON=Calm_Icon] Pasifist</String>
+  </StringTable>
+  <StringTable>
+    <Label>CitizenTrait_Pacifism_Dec</Label>
+    <String>Yıldızlararası savaşa ve şiddete karşı çıkar, farklı türler ve medeniyetler arasında diplomasi ve karşılıklı saygı yoluyla çatışmaların barışçıl yollarla çözülmesini savunur.</String>
+  </StringTable>
+  <StringTable>
+    <Label>CitizenTrait_Individualism_Name</Label>
+    <String>[ICON=Diversity_Icon] Bireyci</String>
+  </StringTable>
+  <StringTable>
+    <Label>CitizenTrait_Individualism_Dec</Label>
+    <String>Bireysel hakların, kişisel özgürlüğün ve kendine güvenin, genellikle topluluk veya toplumun ihtiyaç ve çıkarlarından daha öncelikli olduğuna inanır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>CitizenTrait_Progressivism_Name</Label>
+    <String>[ICON=Knowledgeable_Icon] İlerici</String>
+  </StringTable>
+  <StringTable>
+    <Label>CitizenTrait_Progressivism_Dec</Label>
+    <String>Genellikle türler ve gezegensel sistemler arasında evrensel eşitliğe odaklanarak, teknolojik ilerleme ve toplumsal reformun durmaksızın takip edilmesine inanır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>CitizenTrait_Collectivism_Name</Label>
+    <String>[ICON=Harmony_Icon] Kolektivist</String>
+  </StringTable>
+  <StringTable>
+    <Label>CitizenTrait_Collectivism_Dec</Label>
+    <String>Genellikle ortak sorumluluk ve kolektif eyleme odaklanarak, bireysel çıkarlar yerine grup, topluluk veya topluma öncelik verilmesine inanır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>CitizenTrait_Traditionalism_Name</Label>
+    <String>[ICON=Tradition_Icon] Gelenekselci</String>
+  </StringTable>
+  <StringTable>
+    <Label>CitizenTrait_Traditionalism_Dec</Label>
+    <String>Yerleşik gelenekleri, uygulamaları ve kurumları korumanın önemine inanır ve toplumsal değişime ihtiyatla yaklaşır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>CitizenTrait_Nihilism_Name</Label>
+    <String>[ICON=Malevolence_Icon] Nihilist</String>
+  </StringTable>
+  <StringTable>
+    <Label>CitizenTrait_Nihilism_Dec</Label>
+    <String>Yaşamın özünde var olan anlam veya değerin reddine veya inkârına inanır. Başkalarına acı çektirmek ödüldür.</String>
+  </StringTable>
+  <StringTable>
+    <Label>CitizenTrait_Clone_Name</Label>
+    <String>[ICON=Trait_Clone_Icon] Klon</String>
+  </StringTable>
+  <StringTable>
+    <Label>CitizenTrait_Clone_Dec</Label>
+    <String>Klonlar Nüfus olarak üretilmektedir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>CitizenTrait_Criminal_Name</Label>
+    <String>[ICON=Trait_Criminal_Icon] Suçlu</String>
+  </StringTable>
+  <StringTable>
+    <Label>CitizenTrait_Criminal_Dec</Label>
+    <String>Bu gezegendeki [HS=HS_Crime]Crime[/HS] oranını artırıyor, ama en azından suç oranından o kadar şikayet etmiyorlar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>CitizenTrait_Convict_Name</Label>
+    <String>[ICON=Trait_Ex-Convict_Icon] Eski Hükümlü</String>
+  </StringTable>
+  <StringTable>
+    <Label>CitizenTrait_Convict_Dec</Label>
+    <String>Bu vatandaş hapse atılmış ve serbest bırakılmıştır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>CitizenTrait_Happy_Name</Label>
+    <String>[COLOR=ApprovalGreen][ICON=APPROVAL_HAPPY_ICON] Happy[/COLOR]</String>
+  </StringTable>
+  <StringTable>
+    <Label>CitizenTrait_Happy_Dec</Label>
+    <String>Bu gezegeni seviyorum.</String>
+  </StringTable>
+  <StringTable>
+    <Label>CitizenTrait_Loyal_Name</Label>
+    <String>[COLOR=ApprovalGreen][ICON=APPROVAL_HAPPY_ICON] Sadık[/COLOR]</String>
+  </StringTable>
+  <StringTable>
+    <Label>CitizenTrait_Loyal_Dec</Label>
+    <String>Seni seviyoruz.</String>
+  </StringTable>
+  <StringTable>
+    <Label>CitizenTrait_Opportunity_Name</Label>
+    <String>[ICON=Opportunity_Icon] Fırsatçı</String>
+  </StringTable>
+  <StringTable>
+    <Label>CitizenTrait_Opportunity_Dec</Label>
+    <String>Bu vatandaş, bireylerin çaba ve başarılarına göre ödüllendirilmesi gerektiğine inanmaktadır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>CitizenTrait_Infected_Name</Label>
+    <String>[ICON=CitizenTrait_Infected_Icon] Enfekte</String>
+  </StringTable>
+  <StringTable>
+    <Label>CitizenTrait_Infected_Dec</Label>
+    <String>Bu vatandaşın kafatasından çıkan duyarlı bir kapsül var.</String>
+  </StringTable>
+  <StringTable>
+    <Label>CitizenTrait_Trauma_Name</Label>
+    <String>[ICON=CitizenTrait_Infected_Icon] Travma</String>
+  </StringTable>
+  <StringTable>
+    <Label>CitizenTrait_Trauma_Dec</Label>
+    <String>Bu vatandaş korkunç bir olaydan zar zor kurtuldu.</String>
+  </StringTable>
+  <StringTable>
+    <Label>CitizenTrait_Mutant_Name</Label>
+    <String>[ICON=Trait_Mutant_Icon] Mutant</String>
+  </StringTable>
+  <StringTable>
+    <Label>CitizenTrait_Mutant_Dec</Label>
+    <String>Bu vatandaş, hiçbiri süper güç sağlamayan iğrenç mutasyonlardan muzdariptir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>CitizenTrait_Emporium_Name</Label>
+    <String>[ICON=UnitTrait_Emporium] Endless Emporium</String>
+  </StringTable>
+  <StringTable>
+    <Label>CitizenTrait_Emporium_Dec</Label>
+    <String>Bu vatandaş galaksiler arası ticarete inanıyor.</String>
+  </StringTable>
+  <StringTable>
+    <Label>CitizenTrait_NaturalLeague_Name</Label>
+    <String>[ICON=GovernorTrait_Doctor_Icon] Doğal Birlik</String>
+  </StringTable>
+  <StringTable>
+    <Label>CitizenTrait_NaturalLeague_Dec</Label>
+    <String>Bu vatandaş sibernetikten ve sentetik yaşamdan nefret ediyor.</String>
+  </StringTable>
+  <StringTable>
+    <Label>CitizenTrait_Pacifist_Name</Label>
+    <String>[ICON=UnitTrait_Pacifist_Icon] Pasifist</String>
+  </StringTable>
+  <StringTable>
+    <Label>CitizenTrait_Pacifist_Dec</Label>
+    <String>Bu vatandaş savaştan nefret eder ve barış zamanlarında rahattır.[BR]-1% Direniş ve Askerlik</String>
+  </StringTable>
+  <StringTable>
+    <Label>CitizenTrait_Warforged_Name</Label>
+    <String>[ICON=UnitTrait_Veteran_Icon] Warforged</String>
+  </StringTable>
+  <StringTable>
+    <Label>CitizenTrait_Warforged_Dec</Label>
+    <String>Bu vatandaş savaşın bizi güçlendireceğine inanıyor.[BR]+1% Direniş ve Askerlik</String>
+  </StringTable>
+  <StringTable>
+    <Label>CitizenTrait_SyntheticLife_Name</Label>
+    <String>[ICON=RaceType_Synthetic_Icon] Sentetik Yaşam</String>
+  </StringTable>
+  <StringTable>
+    <Label>CitizenTrait_SyntheticLife_Dec</Label>
+    <String>Yaşamın birçok şekli vardır. Hepsi kemik, et ve kan gerektirmez.</String>
+  </StringTable>
+  <StringTable>
+    <Label>CitizenTrait_Slave_Name</Label>
+    <String>[ICON=RaceType_Synthetic_Icon] Thrall</String>
+  </StringTable>
+  <StringTable>
+    <Label>CitizenTrait_Slave_Dec</Label>
+    <String>Sefalet içinde çalışıyorlar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>CitizenTrait_TheWay_Name</Label>
+    <String>[ICON=Trait_TheWay_Icon] Yol</String>
+  </StringTable>
+  <StringTable>
+    <Label>CitizenTrait_TheWay_Dec</Label>
+    <String>Krynn dini, devlete ondalık vermenin ibadetin önemli bir parçası olduğunu öğretir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>CitizenTrait_NeuralClamp_Name</Label>
+    <String>[ICON=Trait_NeuralClamp_Icon] Nöral Kelepçe</String>
+  </StringTable>
+  <StringTable>
+    <Label>CitizenTrait_NeuralClamp_Dec</Label>
+    <String>Bu vatandaşların ruh hali, öfke ve şiddet gibi sinir bozucu düşünceleri uzak tutmak için kontrol ediliyor.</String>
+  </StringTable>
+  <StringTable>
+    <Label>CitizenTrait_Liberty_Name</Label>
+    <String>[ICON=Liberty_Icon] Özgürlükçü</String>
+  </StringTable>
+  <StringTable>
+    <Label>CitizenTrait_Liberty_Dec</Label>
+    <String>Bireylerin baskıcı kontrolden bağımsız olarak kendi yollarını çizmekte özgür oldukları bir topluma inanır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>CitizenTrait_Neutral_Name</Label>
+    <String>[COLOR=ApprovalYellow][ICON=APPROVAL_CONTENT_ICON] Nötr[/COLOR]</String>
+  </StringTable>
+  <StringTable>
+    <Label>CitizenTrait_Neutral_Dec</Label>
+    <String>Her şey yolunda sanırım.</String>
+  </StringTable>
+  <StringTable>
+    <Label>CitizenTrait_Plagued_Name</Label>
+    <String>[ICON=UnitTrait_Plagued_Icon] Belalı</String>
+  </StringTable>
+  <StringTable>
+    <Label>CitizenTrait_Plagued_Dec</Label>
+    <String>Ben daha ölmedim!</String>
+  </StringTable>
+  <StringTable>
+    <Label>CitizenTrait_Protesting_Name</Label>
+    <String>[COLOR=ApprovalRed][ICON=CitizenTrait_Protesting_Icon] Protesto [/COLOR]</String>
+  </StringTable>
+  <StringTable>
+    <Label>CitizenTrait_Protesting_Dec</Label>
+    <String>Yeter artık. (Artık ikramiyelerimi vermiyorum)</String>
+  </StringTable>
+  <StringTable>
+    <Label>DiplomatTrait_Advocate_Name</Label>
+    <String>[ICON=UnitTrait_Advocate_Icon] Avukat</String>
+  </StringTable>
+  <StringTable>
+    <Label>DiplomatTrait_Advocate_Dec</Label>
+    <String>Bir diplomat olarak, uygarlığınızın kamuoyundaki imajını iyileştirir. Bu da onların dünyalarını sizin kontrolünüze geçmeye daha yatkın hale getirir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>DiplomatTrait_Embezzler_Name</Label>
+    <String>[ICON=DiplomatTrait_Embezzler_Icon] Zimmetçi</String>
+  </StringTable>
+  <StringTable>
+    <Label>DiplomatTrait_Embezzler_Dec</Label>
+    <String>Bir diplomat olarak atandıkları medeniyetin mali işleriyle derinden ilgilenirler ve akıcı ahlakları zaman zaman bazılarını yolumuzdan saptırmalarına izin verir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>DiplomatTrait_Investigator_Name</Label>
+    <String>[ICON=DiplomatTrait_Investigator_Icon] Araştırmacı</String>
+  </StringTable>
+  <StringTable>
+    <Label>DiplomatTrait_Investigator_Dec</Label>
+    <String>Bir diplomat olarak, görevlendirildikleri medeniyetin Araştırmalarını yakından takip eder ve zaman zaman teknoloji çalabilir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>DiplomatTrait_Negotiator_Name</Label>
+    <String>[ICON=DiplomatTrait_Negotiator_Icon] Müzakereci</String>
+  </StringTable>
+  <StringTable>
+    <Label>DiplomatTrait_Negotiator_Dec</Label>
+    <String>Bir diplomat olarak, görevlendirildikleri medeniyetle yapılan anlaşmalar için mallarımızın değerini artırır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>DiplomatTrait_Peacemaker_Name</Label>
+    <String>[ICON=GovernorTrait_Peacemaker_Icon] Peacemaker</String>
+  </StringTable>
+  <StringTable>
+    <Label>DiplomatTrait_Peacemaker_Dec</Label>
+    <String>Bir diplomat olarak, atandıkları uygarlığın size savaş açma olasılığını azaltır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>DiplomatTrait_Smuggler_Name</Label>
+    <String>[ICON=DiplomatTrait_Investigator_Icon] Kaçakçı</String>
+  </StringTable>
+  <StringTable>
+    <Label>DiplomatTrait_Smuggler_Dec</Label>
+    <String>Bir diplomat olarak, atandıkları uygarlığın [HS=HS_Crime]Crime[/HS] değerini artırır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>DiplomatTrait_Spy_Name</Label>
+    <String>[ICON=DiplomatTrait_Spy_Icon] Casus</String>
+  </StringTable>
+  <StringTable>
+    <Label>DiplomatTrait_Spy_Dec</Label>
+    <String>Bir diplomat olarak, kendilerine atanan uygarlık filolarının varış yerlerini açıklar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>LeaderTrait_Manipulative_Name</Label>
+    <String>[ICON=Trait_Manipulative_Icon] Manipülatif</String>
+  </StringTable>
+  <StringTable>
+    <Label>LeaderTrait_Manipulative_Dec</Label>
+    <String>+3 Aldatma</String>
+  </StringTable>
+  <StringTable>
+    <Label>DiplomatTrait_Supportive_Name</Label>
+    <String>[ICON=DiplomatTrait_Supportive_Icon] Destekleyici</String>
+  </StringTable>
+  <StringTable>
+    <Label>DiplomatTrait_Supportive_Dec</Label>
+    <String>Bir diplomat atandığı uygarlığın [HS=HS_Manufacturing]Manufacturing[/HS] değerini 5%. artırır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>DiplomatTrait_Toxic_Name</Label>
+    <String>[ICON=Trait_Toxic_Icon] Zehirli</String>
+  </StringTable>
+  <StringTable>
+    <Label>DiplomatTrait_Toxic_Dec</Label>
+    <String>Bir Toksik diplomat, atandığı medeniyetin [HS=HS_Approval]Approval[/HS] değerini 5%. azaltır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>DiplomatTrait_Underminer_Name</Label>
+    <String>[ICON=DiplomatTrait_Underminer_Icon] Underminer</String>
+  </StringTable>
+  <StringTable>
+    <Label>DiplomatTrait_Underminer_Dec</Label>
+    <String>Bir diplomat atandığı uygarlığın [HS=HS_Resistance]Direncini[/HS] 10%. oranında azaltır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>GovernorTrait_Biologist_Name</Label>
+    <String>[ICON=UnitTrait_Biologist_Icon] Biyolog</String>
+  </StringTable>
+  <StringTable>
+    <Label>GovernorTrait_Biologist_Dec</Label>
+    <String>Vali olarak atandığında +%20 [HS=HS_Food]Food[/HS].</String>
+  </StringTable>
+  <StringTable>
+    <Label>GovernorTrait_Brave_Name</Label>
+    <String>[ICON=UnitTrait_Brave_Icon] Cesur</String>
+  </StringTable>
+  <StringTable>
+    <Label>GovernorTrait_Brave_Dec</Label>
+    <String>Vali olarak atandığında +%15 [HS=HS_Resistance]Direnç[/HS].</String>
+  </StringTable>
+  <StringTable>
+    <Label>LeaderTrait_Corrupt_Name</Label>
+    <String>[ICON=UnitTrait_Corrupt_Icon] Bozuk</String>
+  </StringTable>
+  <StringTable>
+    <Label>LeaderTrait_Corrupt_Dec</Label>
+    <String>+%3 küresel [HS=HS_Crime]Suç[/HS].</String>
+  </StringTable>
+  <StringTable>
+    <Label>LeaderTrait_Cruel_Name</Label>
+    <String>[ICON=UnitTrait_Cruel_Icon] Zalim</String>
+  </StringTable>
+  <StringTable>
+    <Label>LeaderTrait_Cruel_Dec</Label>
+    <String>-2 Sosyal, +2 Gözdağı.</String>
+  </StringTable>
+  <StringTable>
+    <Label>LeaderTrait_Distracted_Name</Label>
+    <String>[ICON=UnitTrait_Unorganized_Icon] Dikkatim dağıldı</String>
+  </StringTable>
+  <StringTable>
+    <Label>LeaderTrait_Distracted_Dec</Label>
+    <String>-2 Diligence.</String>
+  </StringTable>
+  <StringTable>
+    <Label>GovernorTrait_Doctor_Name</Label>
+    <String>[ICON=GovernorTrait_Doctor_Icon] Hekim</String>
+  </StringTable>
+  <StringTable>
+    <Label>GovernorTrait_Doctor_Dec</Label>
+    <String>Vali olarak atandığında +%20 [HS=HS_Growth]Growth[/HS].</String>
+  </StringTable>
+  <StringTable>
+    <Label>GovernorTrait_Draconian_Name</Label>
+    <String>[ICON=GovernorTrait_Famous_Icon] Draconian</String>
+  </StringTable>
+  <StringTable>
+    <Label>GovernorTrait_Draconian_Dec</Label>
+    <String>+3 [HS=HS_Control]Control[/HS].</String>
+  </StringTable>
+  <StringTable>
+    <Label>GovernorTrait_Emporium_Name</Label>
+    <String>[ICON=UnitTrait_Emporium] Endless Emporium</String>
+  </StringTable>
+  <StringTable>
+    <Label>GovernorTrait_Emporium_Dec</Label>
+    <String>Vali olarak atandığında +%10 [HS=HS_ColonyGrossIncome]Income[/HS].</String>
+  </StringTable>
+  <StringTable>
+    <Label>GovernorTrait_Enviromentalist_Name</Label>
+    <String>[ICON=GovernorTrait_Doctor_Icon] Çevreci</String>
+  </StringTable>
+  <StringTable>
+    <Label>GovernorTrait_Enviromentalist_Dec</Label>
+    <String>Vali olarak atandığında -%10 Kirlilik.</String>
+  </StringTable>
+  <StringTable>
+    <Label>GovernorTrait_Prescient_Name</Label>
+    <String>[ICON=GovernorTrait_Prescient_Icon] Prescient</String>
+  </StringTable>
+  <StringTable>
+    <Label>GovernorTrait_Prescient_Dec</Label>
+    <String>Vali olarak atandığında +%10 [HS=HS_Research]Research[/HS] ve -%20 [HS=HS_Manufacturing]Manufacturing[/HS].</String>
+  </StringTable>
+  <StringTable>
+    <Label>LeaderTrait_Strange_Name</Label>
+    <String>[ICON=GovernorTrait_Strange_Icon] Strange</String>
+  </StringTable>
+  <StringTable>
+    <Label>LeaderTrait_Strange_Dec</Label>
+    <String>-2 Sosyal.</String>
+  </StringTable>
+  <StringTable>
+    <Label>GovernorTrait_Faithful_Name</Label>
+    <String>[ICON=GovernorTrait_Faithful_Icon] Sadık</String>
+  </StringTable>
+  <StringTable>
+    <Label>GovernorTrait_Faithful_Dec</Label>
+    <String>Vali olarak atandığında +%3 Onay[BR]+%10 Sadakat[BR]-%10 Araştırma.</String>
+  </StringTable>
+  <StringTable>
+    <Label>GovernorTrait_Famous_Name</Label>
+    <String>[ICON=GovernorTrait_Famous_Icon] Ünlü</String>
+  </StringTable>
+  <StringTable>
+    <Label>GovernorTrait_Famous_Dec</Label>
+    <String>Vali olarak atandığında +%10 [HS=HS_Turizm]Turizm[/HS].</String>
+  </StringTable>
+  <StringTable>
+    <Label>GovernorTrait_Industrial_Name</Label>
+    <String>[ICON=Trait_Industrial_Icon] Endüstriyel</String>
+  </StringTable>
+  <StringTable>
+    <Label>GovernorTrait_Industrial_Dec</Label>
+    <String>Vali olarak atandığında +%10 [HS=HS_Pollution]Pollution[/HS] ve [HS=HS_Manufacturing]Manufacturing[/HS].</String>
+  </StringTable>
+  <StringTable>
+    <Label>GovernorTrait_Infamous_Name</Label>
+    <String>[ICON=GovernorTrait_Infamous_Icon] Infamous</String>
+  </StringTable>
+  <StringTable>
+    <Label>GovernorTrait_Infamous_Dec</Label>
+    <String>Vali olarak atandığında -25% [HS=HS_Turizm]Turizm[/HS].</String>
+  </StringTable>
+  <StringTable>
+    <Label>LeaderTrait_Kind_Name</Label>
+    <String>[ICON=GovernorTrait_Kind_Icon] Tür</String>
+  </StringTable>
+  <StringTable>
+    <Label>LeaderTrait_Kind_Dec</Label>
+    <String>+5 Sosyal ve Vali olarak Protestoları Bastıramaz.</String>
+  </StringTable>
+  <StringTable>
+    <Label>GovernorTrait_Opportunist_Name</Label>
+    <String>[ICON=GovernorTrait_Opportunist_Icon] Fırsatçı</String>
+  </StringTable>
+  <StringTable>
+    <Label>GovernorTrait_Opportunist_Dec</Label>
+    <String>Vali olarak atandıklarında, gezegenleri fethedilirse yeni sahibine katılırlar.[BR]-10 Sadakat.</String>
+  </StringTable>
+  <StringTable>
+    <Label>LeaderTrait_Focused_Name</Label>
+    <String>[ICON=GovernorTrait_Organized_Icon] Odaklanmış</String>
+  </StringTable>
+  <StringTable>
+    <Label>LeaderTrait_Focused_Dec</Label>
+    <String>+5 Çalışkanlık.</String>
+  </StringTable>
+  <StringTable>
+    <Label>GovernorTrait_Paranoid_Name</Label>
+    <String>[ICON=GovernorTrait_Paranoid_Icon] Paranoyak</String>
+  </StringTable>
+  <StringTable>
+    <Label>GovernorTrait_Paranoid_Dec</Label>
+    <String>Bir Vali olarak atandığında, gezegenleri fethedilirse lider havuzunuza geri kaçacaktır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>LeaderTrait_Charismatic_Name</Label>
+    <String>[ICON=GovernorTrait_Famous_Icon] Karizmatik</String>
+  </StringTable>
+  <StringTable>
+    <Label>LeaderTrait_Charismatic_Dec</Label>
+    <String>+3 Sosyal ve +2 İkna.</String>
+  </StringTable>
+  <StringTable>
+    <Label>LeaderTrait_Rude_Name</Label>
+    <String>[ICON=GovernorTrait_Infamous_Icon] Kaba</String>
+  </StringTable>
+  <StringTable>
+    <Label>LeaderTrait_Rude_Dec</Label>
+    <String>-2 Sosyal.</String>
+  </StringTable>
+  <StringTable>
+    <Label>GovernorTrait_Slumlord_Name</Label>
+    <String>[ICON=GovernorTrait_Slumlord_Icon] Slumlord</String>
+  </StringTable>
+  <StringTable>
+    <Label>GovernorTrait_Slumlord_Dec</Label>
+    <String>Vali olarak atandığında +3 Nüfus Kapasitesi ve -%6 Onay.</String>
+  </StringTable>
+  <StringTable>
+    <Label>GovernorTrait_Timid_Name</Label>
+    <String>[ICON=GovernorTrait_Timid_Icon] Timid</String>
+  </StringTable>
+  <StringTable>
+    <Label>GovernorTrait_Timid_Dec</Label>
+    <String>-20% Direnç.</String>
+  </StringTable>
+  <StringTable>
+    <Label>LeaderTrait_Brilliant_Name</Label>
+    <String>[ICON=LeaderTrait_Academic_Icon] Brilliant</String>
+  </StringTable>
+  <StringTable>
+    <Label>LeaderTrait_Brilliant_Dec</Label>
+    <String>+5 Zeka.</String>
+  </StringTable>
+  <StringTable>
+    <Label>LeaderTrait_NaturalLeague_Name</Label>
+    <String>[ICON=GovernorTrait_Doctor_Icon] Doğal Birlik</String>
+  </StringTable>
+  <StringTable>
+    <Label>LeaderTrait_NaturalLeague_Dec</Label>
+    <String>Vali olarak atandığında +%10 [HS=HS_Growth]Growth[/HS].</String>
+  </StringTable>
+  <StringTable>
+    <Label>LeaderTrait_Ethical_Name</Label>
+    <String>[ICON=Trait_Ethical_Icon] Etik</String>
+  </StringTable>
+  <StringTable>
+    <Label>LeaderTrait_Ethical_Dec</Label>
+    <String>-3% Küresel [HS=HS_Crime]Suç[/HS].</String>
+  </StringTable>
+  <StringTable>
+    <Label>LeaderTrait_Warforged_Name</Label>
+    <String>[ICON=UnitTrait_Veteran_Icon] Warforged</String>
+  </StringTable>
+  <StringTable>
+    <Label>LeaderTrait_Warforged_Dec</Label>
+    <String>Komutan olarak atandığında iki kat deneyim.</String>
+  </StringTable>
+  <StringTable>
+    <Label>UnitTrait_Totalitarianism_Name</Label>
+    <String>[ICON=Authority_Icon] Otoriter</String>
+  </StringTable>
+  <StringTable>
+    <Label>UnitTrait_Totalitarianism_Dec</Label>
+    <String>Yetki ideolojisini artırır[BR]+10 Kontrol.</String>
+  </StringTable>
+  <StringTable>
+    <Label>UnitTrait_Pacifism_Name</Label>
+    <String>[ICON=Calm_Icon] Pasifizm</String>
+  </StringTable>
+  <StringTable>
+    <Label>UnitTrait_Pacifism_Dec</Label>
+    <String>Pasifizm ideolojisini artırır</String>
+  </StringTable>
+  <StringTable>
+    <Label>UnitTrait_Nihilism_Name</Label>
+    <String>[ICON=Focus_Icon] Pragmatik</String>
+  </StringTable>
+  <StringTable>
+    <Label>UnitTrait_Nihilism_Dec</Label>
+    <String>Pragmatik ideolojiyi ve +1 Gözdağı'nı artırır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>UnitTrait_Individualism_Name</Label>
+    <String>[ICON=Diversity_Icon] Bireyci</String>
+  </StringTable>
+  <StringTable>
+    <Label>UnitTrait_Individualism_Dec</Label>
+    <String>Bireycilik ideolojisini artırır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>UnitTrait_Collectivism_Name</Label>
+    <String>[ICON=Equality_Icon] Eşitlikçi</String>
+  </StringTable>
+  <StringTable>
+    <Label>UnitTrait_Collectivism_Dec</Label>
+    <String>Eşitlik ideolojisini artırır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>UnitTrait_Focus_Name</Label>
+    <String>[ICON=Focus_Icon] Odaklanmış</String>
+  </StringTable>
+  <StringTable>
+    <Label>UnitTrait_Focus_Dec</Label>
+    <String>+2 Diligence</String>
+  </StringTable>
+  <StringTable>
+    <Label>UnitTrait_Innovation_Name</Label>
+    <String>[ICON=Innovation_Icon] Yenilikçi</String>
+  </StringTable>
+  <StringTable>
+    <Label>UnitTrait_Innovation_Dec</Label>
+    <String>Yenilikçilik ideolojisini ve +2 Zekayı artırır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>UnitTrait_Liberty_Name</Label>
+    <String>[ICON=Liberty_Icon] Özgürlükçü</String>
+  </StringTable>
+  <StringTable>
+    <Label>UnitTrait_Liberty_Dec</Label>
+    <String>Bireycilik ideolojisi farkındalığını artırır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>UnitTrait_Egalitarianism_Name</Label>
+    <String>[ICON=Opportunity_Icon] Fırsatçı</String>
+  </StringTable>
+  <StringTable>
+    <Label>UnitTrait_Egalitarianism_Dec</Label>
+    <String>Eşitlikçilik ideolojisi farkındalığını artırır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>UnitTrait_Traditionalism_Name</Label>
+    <String>[ICON=Tradition_Icon] Geleneksel</String>
+  </StringTable>
+  <StringTable>
+    <Label>UnitTrait_Traditionalism_Dec</Label>
+    <String>Gelenek ideolojisini artırır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>UnitTrait_Cheap_Name</Label>
+    <String>[ICON=UnitTrait_Cheap_Icon] Ucuz</String>
+  </StringTable>
+  <StringTable>
+    <Label>UnitTrait_Cheap_Dec</Label>
+    <String>Daha düşük işe alım maliyeti.</String>
+  </StringTable>
+  <StringTable>
+    <Label>UnitTrait_Cybernetic_Name</Label>
+    <String>[ICON=UnitTrait_Cybernetic_Icon] Sibernetik</String>
+  </StringTable>
+  <StringTable>
+    <Label>UnitTrait_Cybernetic_Dec</Label>
+    <String>Sibernetik güçlendirme, nüfusumuzun bir kısmı tarafından nefretle karşılanmaktadır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>UnitTrait_Genius_Name</Label>
+    <String>[ICON=LeaderTrait_Academic_Icon] Dahi</String>
+  </StringTable>
+  <StringTable>
+    <Label>UnitTrait_Genius_Dec</Label>
+    <String>İşe alındığında güncel teknolojik araştırmaları tamamlar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>UnitTrait_Greedy_Name</Label>
+    <String>[ICON=UnitTrait_Greedy_Icon] Açgözlü</String>
+  </StringTable>
+  <StringTable>
+    <Label>UnitTrait_Greedy_Dec</Label>
+    <String>Artan İşe Alım maliyeti.</String>
+  </StringTable>
+  <StringTable>
+    <Label>UnitTrait_Icon_Name</Label>
+    <String>[ICON=LeaderTrait_Academic_Icon] Kültürel Simge</String>
+  </StringTable>
+  <StringTable>
+    <Label>UnitTrait_Icon_Dec</Label>
+    <String>Serbest [HS=HS_CulturePoint]Kültür Noktası[/HS] işe alındığında.</String>
+  </StringTable>
+  <StringTable>
+    <Label>CitizenTrait_Consuming_Name</Label>
+    <String>[ICON=UnitTrait_Greedy_Icon] Tüketme</String>
+  </StringTable>
+  <StringTable>
+    <Label>CitizenTrait_Consuming_Dec</Label>
+    <String>Bu tür diğer türlerin içine yumurta bırakır. Bu yumurtalar çatladığında diğer vatandaş öldürülür ve yeni bir üye doğar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>LeaderTrait_Sovereign_Name</Label>
+    <String>[ICON=LeaderTrait_Sovereign_Icon] Hükümdar</String>
+  </StringTable>
+  <StringTable>
+    <Label>LeaderTrait_Sovereign_Dec</Label>
+    <String>Uygarlık Egemeni[BR]+10 Sosyal.</String>
+  </StringTable>
+  <StringTable>
+    <Label>CitizenTrait_ConsumedHuman_Name</Label>
+    <String>[ICON=Trait_Consumed_Icon] Bir İnsandan Çıktı</String>
+  </StringTable>
+  <StringTable>
+    <Label>CitizenTrait_ConsumedHuman_Dec</Label>
+    <String>Bir insandan çıktı.</String>
+  </StringTable>
+  <StringTable>
+    <Label>CitizenTrait_ConsumedDrengin_Name</Label>
+    <String>[ICON=Trait_Consumed_Icon] Bir Drengin'den Çıktı</String>
+  </StringTable>
+  <StringTable>
+    <Label>CitizenTrait_ConsumedDrengin_Dec</Label>
+    <String>Bir Drengin'den yumurtadan çıktı.</String>
+  </StringTable>
+  <StringTable>
+    <Label>CitizenTrait_ConsumedArcean_Name</Label>
+    <String>[ICON=Trait_Consumed_Icon] Bir Okyanustan Çıktı</String>
+  </StringTable>
+  <StringTable>
+    <Label>CitizenTrait_ConsumedArcean_Dec</Label>
+    <String>Bir Arcean'dan çıktı.</String>
+  </StringTable>
+  <StringTable>
+    <Label>CitizenTrait_ConsumedTorian_Name</Label>
+    <String>[ICON=Trait_Consumed_Icon] Bir Torian'dan Çıktı</String>
+  </StringTable>
+  <StringTable>
+    <Label>CitizenTrait_ConsumedTorian_Dec</Label>
+    <String>Bir Torian'dan çıktı.</String>
+  </StringTable>
+  <StringTable>
+    <Label>CitizenTrait_ConsumedDrath_Name</Label>
+    <String>[ICON=Trait_Consumed_Icon] Bir Drath'tan Çıktı</String>
+  </StringTable>
+  <StringTable>
+    <Label>CitizenTrait_ConsumedDrath_Dec</Label>
+    <String>Bir Drath'tan yumurtadan çıktı.</String>
+  </StringTable>
+  <StringTable>
+    <Label>CitizenTrait_ConsumedAltarian_Name</Label>
+    <String>[ICON=Trait_Consumed_Icon] Bir Altarian'dan Çıktı</String>
+  </StringTable>
+  <StringTable>
+    <Label>CitizenTrait_ConsumedAltarian_Dec</Label>
+    <String>Bir Altarian'dan doğmuş.</String>
+  </StringTable>
+  <StringTable>
+    <Label>CitizenTrait_ConsumedIridium_Name</Label>
+    <String>[ICON=Trait_Consumed_Icon] Bir İridyumdan Çıktı</String>
+  </StringTable>
+  <StringTable>
+    <Label>CitizenTrait_ConsumedIridium_Dec</Label>
+    <String>Bir Iridium'dan çıktı.</String>
+  </StringTable>
+  <StringTable>
+    <Label>CitizenTrait_ConsumedIconian_Name</Label>
+    <String>[ICON=Trait_Consumed_Icon] Bir Iconian'dan Çıktı</String>
+  </StringTable>
+  <StringTable>
+    <Label>CitizenTrait_ConsumedIconian_Dec</Label>
+    <String>Bir Iconian'dan çıktı.</String>
+  </StringTable>
+  <StringTable>
+    <Label>CitizenTrait_ConsumedManti_Name</Label>
+    <String>[ICON=Trait_Consumed_Icon] Bir Mantıdan Çıktı</String>
+  </StringTable>
+  <StringTable>
+    <Label>CitizenTrait_ConsumedManti_Dec</Label>
+    <String>Bir mantıdan çıktı.</String>
+  </StringTable>
+  <StringTable>
+    <Label>CitizenTrait_ConsumedMimot_Name</Label>
+    <String>[ICON=Trait_Consumed_Icon] Bir Mimottan Çıktı</String>
+  </StringTable>
+  <StringTable>
+    <Label>CitizenTrait_ConsumedMimot_Dec</Label>
+    <String>Bir Mimot'tan yumurtadan çıktı.</String>
+  </StringTable>
+  <StringTable>
+    <Label>CitizenTrait_ConsumedNavigators_Name</Label>
+    <String>[ICON=Trait_Consumed_Icon] Bir Navigatörden Tarandı</String>
+  </StringTable>
+  <StringTable>
+    <Label>CitizenTrait_ConsumedNavigators_Dec</Label>
+    <String>Bir Navigator'dan çıktı.</String>
+  </StringTable>
+  <StringTable>
+    <Label>CitizenTrait_ConsumedXeloxi_Name</Label>
+    <String>[ICON=Trait_Consumed_Icon] Bir Xeloxi'den yumurtadan çıktı</String>
+  </StringTable>
+  <StringTable>
+    <Label>CitizenTrait_ConsumedXeloxi_Dec</Label>
+    <String>Bir Xeloxi'den yumurtadan çıktı.</String>
+  </StringTable>
+  <StringTable>
+    <Label>CitizenTrait_ConsumedBaratak_Name</Label>
+    <String>[ICON=Trait_Consumed_Icon] Bir Baratak'tan Çıktı</String>
+  </StringTable>
+  <StringTable>
+    <Label>CitizenTrait_ConsumedBaratak_Dec</Label>
+    <String>Bir Baratak'tan yumurtadan çıktı.</String>
+  </StringTable>
+  <StringTable>
+    <Label>LeaderTrait_Vendetta_Name</Label>
+    <String>[ICON=Trait_Vendetta_Icon] Vendetta</String>
+  </StringTable>
+  <StringTable>
+    <Label>LeaderTrait_Vendetta_Dec</Label>
+    <String>Kolay affetmez.</String>
+  </StringTable>
+  <StringTable>
+    <Label>UnitTrait_Compassion_Name</Label>
+    <String>[ICON=Compassion_Icon] Şefkatli</String>
+  </StringTable>
+  <StringTable>
+    <Label>UnitTrait_Compassion_Dec</Label>
+    <String>İnsanların refahını önemser.</String>
+  </StringTable>
+  <StringTable>
+    <Label>LeaderTrait_ArrangedMarriage_Name</Label>
+    <String>[ICON=Trait_Defiant_Icon] Meydan okuyan</String>
+  </StringTable>
+  <StringTable>
+    <Label>LeaderTrait_ArrangedMarriage_Dec</Label>
+    <String>Sıklıkla yerel gelenek ve göreneklere meydan okur.</String>
+  </StringTable>
+  <StringTable>
+    <Label>LeaderTrait_LostFortune_Name</Label>
+    <String>[ICON=Trait_Gambler_Icon] Kumarbaz</String>
+  </StringTable>
+  <StringTable>
+    <Label>LeaderTrait_LostFortune_Dec</Label>
+    <String>Para konusunda sorumsuz.</String>
+  </StringTable>
+  <StringTable>
+    <Label>LeaderTrait_Scars_Name</Label>
+    <String>[ICON=Trait_Scarred_Icon] Yaralı</String>
+  </StringTable>
+  <StringTable>
+    <Label>LeaderTrait_Scars_Dec</Label>
+    <String>Nedeni bilinmiyor.[BR]-4 Sosyal[BR]-2 Çalışkanlık</String>
+  </StringTable>
+  <StringTable>
+    <Label>LeaderTrait_Brooch_Name</Label>
+    <String>[ICON=Trait_AlienArtifact_Icon] Uzaylı Eseri</String>
+  </StringTable>
+  <StringTable>
+    <Label>LeaderTrait_Brooch_Dec</Label>
+    <String>Sahip oldukları uzaylı eserine hayranlık duyuyor.</String>
+  </StringTable>
+  <StringTable>
+    <Label>LeaderTrait_SovereignSpouse_Name</Label>
+    <String>[ICON=GovernorTrait_Famous_Icon] Eşi</String>
+  </StringTable>
+  <StringTable>
+    <Label>LeaderTrait_SovereignSpouse_Dec</Label>
+    <String>Eşiniz[BR]+5 Çalışkanlık[BR]+5 Kararlılık[BR]+5 Sosyal</String>
+  </StringTable>
+  <StringTable>
+    <Label>CitizenTrait_Telepathic_Name</Label>
+    <String>[ICON=Trait_Criminal_Icon] Telepatik</String>
+  </StringTable>
+  <StringTable>
+    <Label>CitizenTrait_Telepathic_Dec</Label>
+    <String>Telepatik vatandaşlar inanılmaz bir yetenek sergilerler. Daha yüksek istatistiklere sahiptirler ve varlıkları dünyalarında [HS=HS_Crime]Crime[/HS] azaltır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>CitizenTrait_Evolving_1_Name</Label>
+    <String>Evrimleşme</String>
+  </StringTable>
+  <StringTable>
+    <Label>CitizenTrait_Evolving_1_Dec</Label>
+    <String>Bu vatandaş zaman içinde başka bir ırka dönüşecektir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>CitizenTrait_Evolving_2_Name</Label>
+    <String>Evrimleşme</String>
+  </StringTable>
+  <StringTable>
+    <Label>CitizenTrait_Evolving_2_Dec</Label>
+    <String>Bu vatandaş zaman içinde başka bir ırka dönüşecektir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>UnitTrait_Telepathic_Altarian_Name</Label>
+    <String>[ICON=UnitTrait_Greedy_Icon] Telepatik</String>
+  </StringTable>
+  <StringTable>
+    <Label>UnitTrait_Telepathic_Altarian_Dec</Label>
+    <String>Vali olarak atandığında -%10 Suç[BR]+%10 Kontrol.</String>
+  </StringTable>
+  <StringTable>
+    <Label>UnitTrait_Telepathic_Crystalline_Name</Label>
+    <String>[ICON=UnitTrait_Greedy_Icon] Telepatik</String>
+  </StringTable>
+  <StringTable>
+    <Label>UnitTrait_Telepathic_Crystalline_Dec</Label>
+    <String>Vali olarak atandığında -10% Suç[BR]+10 Kontrol</String>
+  </StringTable>
+  <StringTable>
+    <Label>UnitTrait_Telepathic_Seeing_Name</Label>
+    <String>[ICON=UnitTrait_Greedy_Icon] Telepatik</String>
+  </StringTable>
+  <StringTable>
+    <Label>UnitTrait_Telepathic_Seeing_Dec</Label>
+    <String>Vali olarak atandığında -10% Suç[BR]+10 Kontrol</String>
+  </StringTable>
+  <StringTable>
+    <Label>LeaderTrait_RaisedBySquatters_Name</Label>
+    <String>[ICON=DiplomatTrait_Underminer_Icon] Gecekonducular tarafından yetiştirildi</String>
+  </StringTable>
+  <StringTable>
+    <Label>LeaderTrait_RaisedBySquatters_Dec</Label>
+    <String>Yoksul bir fabrikada gecekonducular tarafından yetiştirilmiş.</String>
+  </StringTable>
+  <StringTable>
+    <Label>LeaderTrait_TrainedChef_Name</Label>
+    <String>[ICON=Trait_NeuralClamp_Icon] Eğitilmiş Şef</String>
+  </StringTable>
+  <StringTable>
+    <Label>LeaderTrait_TrainedChef_Dec</Label>
+    <String>Şeflik eğitimi almış ve bir restoran açmayı hayal ediyor.</String>
+  </StringTable>
+  <StringTable>
+    <Label>LeaderTrait_BrainwashedCultist_Name</Label>
+    <String>[ICON=Trait_NeuralClamp_Icon] Beyni Yıkanmış Tarikatçı</String>
+  </StringTable>
+  <StringTable>
+    <Label>LeaderTrait_BrainwashedCultist_Desc</Label>
+    <String>Eskiden dini tarikatlar tarafından beyni yıkanmış.</String>
+  </StringTable>
+  <StringTable>
+    <Label>LeaderTrait_Claustrophobia_Name</Label>
+    <String>[ICON=Trait_Manipulative_Icon] Klostrofobi</String>
+  </StringTable>
+  <StringTable>
+    <Label>LeaderTrait_Claustrophobia_Dec</Label>
+    <String>Klostrofobiden muzdarip, uzay gemilerinde olmaktan nefret ediyor.</String>
+  </StringTable>
+  <StringTable>
+    <Label>LeaderTrait_PartyLoyalist_Name</Label>
+    <String>[ICON=UnitTrait_Advocate_Icon] Parti Sadık</String>
+  </StringTable>
+  <StringTable>
+    <Label>LeaderTrait_PartyLoyalist_Dec</Label>
+    <String>Siyasi partileri dışında hiç arkadaşı veya ailesi yoktur.</String>
+  </StringTable>
+  <StringTable>
+    <Label>LeaderTrait_FailedMedSchool_Name</Label>
+    <String>[ICON=GovernorTrait_Doctor_Icon] Başarısız Tıp Fakültesi</String>
+  </StringTable>
+  <StringTable>
+    <Label>LeaderTrait_FailedMedSchool_Desc</Label>
+    <String>Tıp fakültesinde başarısız olmuş ve bu konuda konuşmaktan hoşlanmıyor.</String>
+  </StringTable>
+  <StringTable>
+    <Label>LeaderTrait_AvoidedService_Name</Label>
+    <String>[ICON=Trait_Ex-Convict_Icon] Kaçınılan Hizmet</String>
+  </StringTable>
+  <StringTable>
+    <Label>LeaderTrait_AvoidedService_Dec</Label>
+    <String>Aile bağlantıları nedeniyle askerlik hizmetinden kaçındı.</String>
+  </StringTable>
+  <StringTable>
+    <Label>LeaderTrait_ExcludedInheritance_Name</Label>
+    <String>[ICON=GovernorTrait_Timid_Icon] Hariç Tutulan Kalıtım</String>
+  </StringTable>
+  <StringTable>
+    <Label>LeaderTrait_ExcludedInheritance_Dec</Label>
+    <String>Bir aile mirasından dışlanmış ve bu konuda çok acı çekiyor.</String>
+  </StringTable>
+  <StringTable>
+    <Label>LeaderTrait_ScarredDuelist_Name</Label>
+    <String>[ICON=Trait_Scarred_Icon] Yaralı Düellocu</String>
+  </StringTable>
+  <StringTable>
+    <Label>LeaderTrait_ScarredDuelist_Desc</Label>
+    <String>Romantik bir rakiple düelloda yaralanmış. Yine de kazandılar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>LeaderTrait_NoSenseOfSmell_Name</Label>
+    <String>[ICON=Trait_Ex-Convict_Icon] Koku Duyusu Yok</String>
+  </StringTable>
+  <StringTable>
+    <Label>LeaderTrait_NoSenseOfSmell_Dec</Label>
+    <String>Endüstriyel bir kazada koku alma duyularını kaybettiler.</String>
+  </StringTable>
+  <StringTable>
+    <Label>LeaderTrait_MinorNobility_Name</Label>
+    <String>[ICON=DiplomatTrait_Charismatic_Icon] Küçük Asalet</String>
+  </StringTable>
+  <StringTable>
+    <Label>LeaderTrait_MinorNobility_Dec</Label>
+    <String>Küçük soylulardan geliyor.</String>
+  </StringTable>
+  <StringTable>
+    <Label>LeaderTrait_TibetanMonastery_Name</Label>
+    <String>[ICON=DiplomatTrait_Charismatic_Icon] Tibet Manastırı</String>
+  </StringTable>
+  <StringTable>
+    <Label>LeaderTrait_TibetanMonastery_Desc</Label>
+    <String>Gençliklerini bir Tibet manastırında geçirmişler.</String>
+  </StringTable>
+  <StringTable>
+    <Label>LeaderTrait_WharfRat_Name</Label>
+    <String>[ICON=Trait_Ex-Convict_Icon] Wharf Rat</String>
+  </StringTable>
+  <StringTable>
+    <Label>LeaderTrait_WharfRat_Desc</Label>
+    <String>Eski bir iskele faresi, bir liman kentinin varoşlarından kaçmış.</String>
+  </StringTable>
+  <StringTable>
+    <Label>LeaderTrait_MilitaryChild_Name</Label>
+    <String>[ICON=Trait_Vendetta_Icon] Askeri Çocuk</String>
+  </StringTable>
+  <StringTable>
+    <Label>LeaderTrait_MilitaryChild_Desc</Label>
+    <String>Askeri bir ailede büyüdü, sürekli güneş sistemi etrafında hareket ediyordu.</String>
+  </StringTable>
+  <StringTable>
+    <Label>LeaderTrait_FormerSailor_Name</Label>
+    <String>[ICON=Trait_Ex-Convict_Icon] Eski Denizci</String>
+  </StringTable>
+  <StringTable>
+    <Label>LeaderTrait_FormerSailor_Desc</Label>
+    <String>Eski bir denizci, denizde aylarca yalnız kalmaya alışkın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>LeaderTrait_CareerDiplomat_Name</Label>
+    <String>[ICON=DiplomatTrait_Negotiator_Icon] Kariyer Diplomatı</String>
+  </StringTable>
+  <StringTable>
+    <Label>LeaderTrait_CareerDiplomat_Desc</Label>
+    <String>Tüm detayları anlamayı seven kariyer sahibi bir diplomat.</String>
+  </StringTable>
+  <StringTable>
+    <Label>LeaderTrait_OvercameAddiction_Name</Label>
+    <String>[ICON=Trait_NeuralClamp_Icon] Bağımlılığın Üstesinden Gelmek</String>
+  </StringTable>
+  <StringTable>
+    <Label>LeaderTrait_OvercameAddiction_Desc</Label>
+    <String>Felç edici bir uyuşturucu bağımlılığının üstesinden geldi.</String>
+  </StringTable>
+  <StringTable>
+    <Label>LeaderTrait_FrostbittenToes_Name</Label>
+    <String>[ICON=CitizenTrait_Infected_Icon] Donmuş Ayak Parmakları</String>
+  </StringTable>
+  <StringTable>
+    <Label>LeaderTrait_FrostbittenToes_Desc</Label>
+    <String>Bir dağcılık kazasında iki parmağını donarak kaybetti.</String>
+  </StringTable>
+  <StringTable>
+    <Label>LeaderTrait_DetailOrientedEngineer_Name</Label>
+    <String>[ICON=GovernorTrait_Organized_Icon] Detay Odaklı Mühendis</String>
+  </StringTable>
+  <StringTable>
+    <Label>LeaderTrait_DetailOrientedEngineer_Dec</Label>
+    <String>Eski bir mühendis, küçük ayrıntılar dikkatini kolayca dağıtıyor.</String>
+  </StringTable>
+  <StringTable>
+    <Label>LeaderTrait_BadlyBurnt_Name</Label>
+    <String>[ICON=CitizenTrait_Infected_Icon] Kötü Yanmış</String>
+  </StringTable>
+  <StringTable>
+    <Label>LeaderTrait_BadlyBurnt_Dec</Label>
+    <String>Çocukken bir yemek kazasında feci şekilde yanmış.</String>
+  </StringTable>
+  <StringTable>
+    <Label>LeaderTrait_DeceasedFriend_Name</Label>
+    <String>[ICON=DiplomatTrait_Underminer_Icon] Vefat Eden Arkadaş</String>
+  </StringTable>
+  <StringTable>
+    <Label>LeaderTrait_DeceasedFriend_Dec</Label>
+    <String>Çocukluklarında çoktan ölmüş bir arkadaşlarına benzemek için kendilerine bakım yaparlar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>LeaderTrait_AlienCoinFlipper_Name</Label>
+    <String>[ICON=Trait_AlienArtifact_Icon] Uzaylı Bozuk Para Çevirici</String>
+  </StringTable>
+  <StringTable>
+    <Label>LeaderTrait_AlienCoinFlipper_Desc</Label>
+    <String>Sürekli uzaylı kökenli bir yazı tura atıyor.</String>
+  </StringTable>
+  <StringTable>
+    <Label>LeaderTrait_GrammarEnforcer_Name</Label>
+    <String>[ICON=LeaderTrait_Academic_Icon] Gramer Uygulayıcısı</String>
+  </StringTable>
+  <StringTable>
+    <Label>LeaderTrait_GrammarEnforcer_Desc</Label>
+    <String>Doğru dilbilgisi kullanımını şiddetle zorladığı bilinmektedir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>LeaderTrait_FormerGladiator_Name</Label>
+    <String>[ICON=UnitTrait_Veteran_Icon] Eski Gladyatör</String>
+  </StringTable>
+  <StringTable>
+    <Label>LeaderTrait_FormerGladiator_Dec</Label>
+    <String>Sayısız savaşta özgürlüğünü kazanmış eski bir gladyatör.</String>
+  </StringTable>
+  <StringTable>
+    <Label>LeaderTrait_PsychicBond_Name</Label>
+    <String>[ICON=Trait_NeuralClamp_Icon] Uzaylı ile psişik bağ</String>
+  </StringTable>
+  <StringTable>
+    <Label>LeaderTrait_Arrogant_Name</Label>
+    <String>[ICON=GovernorTrait_Paranoid_Icon] Kibirli</String>
+  </StringTable>
+  <StringTable>
+    <Label>LeaderTrait_Arrogant_Dec</Label>
+    <String>Son derece kibirli.</String>
+  </StringTable>
+  <StringTable>
+    <Label>LeaderTrait_PsychicBond_Dec</Label>
+    <String>Tehlikeli bir uzaylıyla psişik bir bağı var.</String>
+  </StringTable>
+  <StringTable>
+    <Label>LeaderTrait_SpaceExplorer_Name</Label>
+    <String>[ICON=Trait_Ex-Convict_Icon] Uzay Kaşifi</String>
+  </StringTable>
+  <StringTable>
+    <Label>LeaderTrait_SpaceExplorer_Desc</Label>
+    <String>Yıllarca ortadan kaybolan ve ne olduğunu hatırlamadan yeniden ortaya çıkan ünlü bir uzay kaşifi.</String>
+  </StringTable>
+  <StringTable>
+    <Label>LeaderTrait_SurvivedMutiny_Name</Label>
+    <String>[ICON=Trait_Ex-Convict_Icon] İsyandan Kurtuldu</String>
+  </StringTable>
+  <StringTable>
+    <Label>LeaderTrait_SurvivedMutiny_Dec</Label>
+    <String>Bir uzay gemisi isyanından kurtuldu ve hikayeyi anlatmak için yaşadı.</String>
+  </StringTable>
+  <StringTable>
+    <Label>LeaderTrait_AncientAlienLibrary_Name</Label>
+    <String>[ICON=Trait_AlienArtifact_Icon] Antik Uzaylı Kütüphanesi</String>
+  </StringTable>
+  <StringTable>
+    <Label>LeaderTrait_AncientAlienLibrary_Dec</Label>
+    <String>Eski bir uzaylı kütüphanesini keşfetti ve yasaklanmış bilgilerini öğrendi.</String>
+  </StringTable>
+  <StringTable>
+    <Label>LeaderTrait_ReincarnatedHero_Name</Label>
+    <String>[ICON=UnitTrait_Veteran_Icon] Reenkarne Kahraman</String>
+  </StringTable>
+  <StringTable>
+    <Label>LeaderTrait_ReincarnatedHero_Dec</Label>
+    <String>Efsanevi bir kahramanın reenkarnasyonu olduğuna inanır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>LeaderTrait_AncientCultist_Name</Label>
+    <String>[ICON=Trait_NeuralClamp_Icon] Kadim Tarikatçı</String>
+  </StringTable>
+  <StringTable>
+    <Label>LeaderTrait_AncientCultist_Dec</Label>
+    <String>Bir zamanlar çoktan ölmüş bir uzaylı tanrıya tapan bir tarikata aitti.</String>
+  </StringTable>
+  <StringTable>
+    <Label>LeaderTrait_TimeTraveler_Name</Label>
+    <String>[ICON=UnitTrait_Cybernetic_Icon] Zaman Yolcusu</String>
+  </StringTable>
+  <StringTable>
+    <Label>LeaderTrait_TimeTraveler_Dec</Label>
+    <String>Distopik bir gelecekten geldiğini iddia ediyor ve bunun olmasını engellemeye çalışıyor.</String>
+  </StringTable>
+  <StringTable>
+    <Label>LeaderTrait_AsteroidMiner_Name</Label>
+    <String>[ICON=Trait_Industrial_Icon] Asteroid Madencisi</String>
+  </StringTable>
+  <StringTable>
+    <Label>LeaderTrait_AsteroidMiner_Dec</Label>
+    <String>Issız bir asteroitte nadir bir maden yatağı bulduktan sonra zengin oldu.</String>
+  </StringTable>
+  <StringTable>
+    <Label>LeaderTrait_RenownedArchaeologist_Name</Label>
+    <String>[ICON=DiplomatTrait_Charismatic_Icon] Ünlü Arkeolog</String>
+  </StringTable>
+  <StringTable>
+    <Label>LeaderTrait_RenownedArchaeologist_Dec</Label>
+    <String>Eski uygarlıkların gizemlerini ortaya çıkarmaya çalışan ünlü bir arkeolog.</String>
+  </StringTable>
+  <StringTable>
+    <Label>LeaderTrait_MissingTwin_Name</Label>
+    <String>[ICON=Trait_Clone_Icon] Eksik İkiz</String>
+  </StringTable>
+  <StringTable>
+    <Label>LeaderTrait_MissingTwin_Dec</Label>
+    <String>Yıllar önce kaybolan bir tek yumurta ikizim vardı.</String>
+  </StringTable>
+</StringTableList>

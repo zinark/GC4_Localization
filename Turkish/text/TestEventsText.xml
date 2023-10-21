@@ -1,0 +1,232 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<StringTableList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+  <StringTable>
+    <Label>TestRandomCoreWorldEvent_Name</Label>
+    <String>Hata Ayıklama: Rastgele Çekirdek Dünya Olayını Test Et</String>
+  </StringTable>
+  <StringTable>
+    <Label>TestRandomCoreWorldEvent_Dec</Label>
+    <String>{PLANETNAME} üzerinde ne istersiniz?</String>
+  </StringTable>
+  <StringTable>
+    <Label>TestRandomColonyEvent_Name</Label>
+    <String>Hata Ayıklama: Rastgele Koloni Olayını Test Et</String>
+  </StringTable>
+  <StringTable>
+    <Label>TestRandomColonyEvent_Dec</Label>
+    <String>{PLANETNAME} üzerinde ne istersiniz?</String>
+  </StringTable>
+  <StringTable>
+    <Label>TestCitizenEvent_Name</Label>
+    <String>Hata Ayıklama: Vatandaş Olayını Test Et</String>
+  </StringTable>
+  <StringTable>
+    <Label>TestCitizenEvent_Dec</Label>
+    <String>Bloop blop bip. Ne istersin?</String>
+  </StringTable>
+  <StringTable>
+    <Label>TestCitizenEvent_1_Bonus_Name</Label>
+    <String>Bana biraz vatandaş ver.</String>
+  </StringTable>
+  <StringTable>
+    <Label>TestCitizenEvent_1_Bonus_Dec</Label>
+    <String>Yor Asker, Korath Mühendis, Torian Bilim Adamı</String>
+  </StringTable>
+  <StringTable>
+    <Label>TestCitizenEvent_2_Bonus_Name</Label>
+    <String>Bana birkaç lider verin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>TestCitizenEvent_2_Bonus_Dec</Label>
+    <String>İnsan Vali, Diplomat Snathi ve Yor Lider.</String>
+  </StringTable>
+  <StringTable>
+    <Label>TestCitizenEvent_3_Bonus_Name</Label>
+    <String>Şu anda bir şey yok.</String>
+  </StringTable>
+  <StringTable>
+    <Label>TestCitizenEvent_3_Bonus_Dec</Label>
+    <String>Ne kadar sıkıcı</String>
+  </StringTable>
+  <StringTable>
+    <Label>TestDiplomacyEvent_Name</Label>
+    <String>Hata Ayıklama: Diplomasi Etkinliğini Test Et</String>
+  </StringTable>
+  <StringTable>
+    <Label>TestDiplomacyEvent_Dec</Label>
+    <String>{PLAYERFACTION:1}'nin gezgin bir vatandaşını bulduk ve bize umutla bakıyorlar. Onlara nasıl davranmalıyız?</String>
+  </StringTable>
+  <StringTable>
+    <Label>TestDiplomacyEvent_1_Bonus_Name</Label>
+    <String>Kibar ol.</String>
+  </StringTable>
+  <StringTable>
+    <Label>TestDiplomacyEvent_1_Bonus_Dec</Label>
+    <String>Süresiz olarak +5 ilişki</String>
+  </StringTable>
+  <StringTable>
+    <Label>TestDiplomacyEvent_1_ModDec</Label>
+    <String>Bize iyi davrandın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>TestDiplomacyEvent_2_Bonus_Name</Label>
+    <String>İyi ol.</String>
+  </StringTable>
+  <StringTable>
+    <Label>TestDiplomacyEvent_2_Bonus_Dec</Label>
+    <String>3 ay boyunca +1 ilişki</String>
+  </StringTable>
+  <StringTable>
+    <Label>TestDiplomacyEvent_2_ModDec</Label>
+    <String>Bizim için iyiydin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>TestDiplomacyEvent_3_Bonus_Name</Label>
+    <String>Kaba ol.</String>
+  </StringTable>
+  <StringTable>
+    <Label>TestDiplomacyEvent_3_Bonus_Dec</Label>
+    <String>-5 ilişkiler süresiz olarak</String>
+  </StringTable>
+  <StringTable>
+    <Label>TestDiplomacyEvent_3_ModDec</Label>
+    <String>Bize kötü davrandın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>TestEvent_PickAPlanet_Name</Label>
+    <String>Hata ayıklama: Bir Gezegen Seçin</String>
+  </StringTable>
+  <StringTable>
+    <Label>TestEvent_PickAPlanet_Dec</Label>
+    <String>Test gezegeni görevleri için Prime {PLANETNAME}?</String>
+  </StringTable>
+  <StringTable>
+    <Label>TestEvent_PickAPlanet_1_Name</Label>
+    <String>Evet</String>
+  </StringTable>
+  <StringTable>
+    <Label>TestEvent_PickAPlanet_1_Dec</Label>
+    <String>Yap şunu.</String>
+  </StringTable>
+  <StringTable>
+    <Label>TestEvent_PickAPlanet_2_Name</Label>
+    <String>Hayır</String>
+  </StringTable>
+  <StringTable>
+    <Label>TestEvent_PickAPlanet_2_Dec</Label>
+    <String>Seçimi beğenmedim</String>
+  </StringTable>
+  <StringTable>
+    <Label>TestEvent_PickAPlanet_Followup1_Name</Label>
+    <String>Hata ayıklama: Bir Gezegen Seç TAKİP</String>
+  </StringTable>
+  <StringTable>
+    <Label>TestEvent_PickAPlanet_Followup1_Dec</Label>
+    <String>Tebrikler, {PLANETNAME} seçildi.</String>
+  </StringTable>
+  <StringTable>
+    <Label>TestEvent_PickAPlanet_Followup1_1_Name</Label>
+    <String>Görev hazırlama bayrağını kaldırın</String>
+  </StringTable>
+  <StringTable>
+    <Label>TestEvent_PickAPlanet_Followup1_1_Dec</Label>
+    <String>Benden bu kadar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>TestEvent_PickAPlanet_Followup1_2_Name</Label>
+    <String>Bayrak kalsın</String>
+  </StringTable>
+  <StringTable>
+    <Label>TestEvent_PickAPlanet_Followup1_2_Dec</Label>
+    <String>Daha fazla görev bekliyor</String>
+  </StringTable>
+  <!-- Test popup -->
+  <StringTable>
+    <Label>TestEvent_Popup_Name</Label>
+    <String>Hata Ayıklama Açılır pencere</String>
+  </StringTable>
+  <StringTable>
+    <Label>TestEvent_Popup_Dec</Label>
+    <String>Birini işe almışsın, iyi iş. Artık gezegeninizin de büyümesini sağlıyorlar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>TestEvent_Spawn_Faction_Choice_1_Dec</Label>
+    <String>Torialıları doğurur</String>
+  </StringTable>
+  <StringTable>
+    <Label>TestEvent_Spawn_Faction_Choice_1_Bonus_Dec</Label>
+    <String>+ 1 Torian Sivilleştirme</String>
+  </StringTable>
+  <StringTable>
+    <Label>TestEvent_Spawn_SubFaction_Choice_1_Dec</Label>
+    <String>Uygarlığınızın bir alt grubunu ortaya çıkarır</String>
+  </StringTable>
+  <StringTable>
+    <Label>TestEvent_Spawn_SubFaction_Choice_1_Bonus_Dec</Label>
+    <String>+ 1 Rakip</String>
+  </StringTable>
+  <StringTable>
+    <Label>TEST_SPAWN_SUB_FACTION_NAME</Label>
+    <String>Özgürleştirilenler</String>
+  </StringTable>
+  <StringTable>
+    <Label>TEST_SPAWN_SUB_FACTION_LEADERNAME</Label>
+    <String>Ren Sere</String>
+  </StringTable>
+  <StringTable>
+    <Label>TEST_SPAWN_SUB_FACTION_LEADER_DESC</Label>
+    <String>Halkını özgür tutmaya yemin etmiş bir halk adamı.</String>
+  </StringTable>
+  <StringTable>
+    <Label>TestEvent_Popup_1_Name</Label>
+    <String>Güzel</String>
+  </StringTable>
+  <StringTable>
+    <Label>TestEvent_Popup_1_Dec</Label>
+    <String>fasulyeler</String>
+  </StringTable>
+  <StringTable>
+    <Label>TestEvent_GrowthBonus</Label>
+    <String>İşe Alınan Vali</String>
+  </StringTable>
+  <StringTable>
+    <Label>TestEvent_SpawnFaction_Name</Label>
+    <String>Yeni Grup Ortaya Çıktı</String>
+  </StringTable>
+  <StringTable>
+    <Label>TestEvent_SpawnFaction_Dec</Label>
+    <String>Yakınınızda ortaya çıkan yeni bir fraksiyon arayın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>TestEvent_GovernorLoyalty_Name</Label>
+    <String>Skandal</String>
+  </StringTable>
+  <StringTable>
+    <Label>TestEvent_GovernorLoyalty_Dec</Label>
+    <String>{PLANETNAME} valisi {GOVERNORNAME}'ün, kendi dünyasının vatandaşları pahasına kişisel dostlarını kayırdığına inanılıyor. [BR][BR]Danışmanlarımız suçlamaları araştırdı ve bunların yanlış olduğunu ve {GOVERNORNAME}'in yanlış bir şey yapmadığını belirledi. [BR][BR]Yine de, en azından valiyi bir şekilde azarlamamız için yüksek bir kamuoyu tepkisi var, yoksa sözde yolsuzluğun suç ortağı gibi görüneceğiz.</String>
+  </StringTable>
+  <StringTable>
+    <Label>TestEvent_GovernorLoyalty_Choice_Support_Name</Label>
+    <String>Vali yanlış bir şey yapmadı ve biz de onları destekleyeceğiz.</String>
+  </StringTable>
+  <StringTable>
+    <Label>TestEvent_GovernorLoyalty_Choice_Support_Dec</Label>
+    <String>[ICON=LeaderStat_Loyalty_Icon] {GOVERNORNAME} için +10 Sadakat</String>
+  </StringTable>
+  <StringTable>
+    <Label>TestEvent_GovernorLoyalty_Choice_Support_Label</Label>
+    <String>Yanımda durdun</String>
+  </StringTable>
+  <StringTable>
+    <Label>TestEvent_GovernorLoyalty_Choice_Condemn_Name</Label>
+    <String>Valiyi kınayın. Politikanın bedeli bu.</String>
+  </StringTable>
+  <StringTable>
+    <Label>TestEvent_GovernorLoyalty_Choice_Condemn_Dec</Label>
+    <String>[ICON=LeaderStat_Loyalty_Icon] -10 {GOVERNORNAME} için Sadakat</String>
+  </StringTable>
+  <StringTable>
+    <Label>TestEvent_GovernorLoyalty_Choice_Condemn_Label</Label>
+    <String>Beni mahkum ettin.</String>
+  </StringTable>
+</StringTableList>

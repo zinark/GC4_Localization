@@ -1,0 +1,311 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<FlavorTextDefs xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
+  <FlavorTextDef>
+    <InternalName>WORDONTHESTREET_STARVING</InternalName>
+    <FlavorTextOption>
+      <Text>Bu dünyanın vatandaşları açlıktan ölüyor. İmparatorluğumuzu beslemek için daha fazla çiftçiye ya da verimli kelimeleri kolonileştirmeye ihtiyacımız var.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>WORDONTHESTREET_OVERCROWDED</InternalName>
+    <FlavorTextOption>
+      <Text>Dünya nüfusu hızla artıyor. Bazıları aşırı kalabalıktan şikayet ediyor, ancak bu sadece muhteşem dünyamızın bir sonucu.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>WORDONTHESTREET_POPULATIONCAP</InternalName>
+    <FlavorTextOption>
+      <Text>Burada bir konut krizi var. Konut bölgeleri inşa etmemiz ya da insanları başka dünyalara taşımamız gerekiyor.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>WORDONTHESTREET_LOWRESISTANCE</InternalName>
+    <FlavorTextOption>
+      <Text>Bu dünya hem müttefiklerimizin hem de düşmanlarımızın gıpta ettiği bir yer. Ama savunmamız olmadan onu nasıl koruyabiliriz?</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>WORDONTHESTREET_PROTESTING</InternalName>
+    <FlavorTextOption>
+      <Text>Her şeyi yaptım ama bu gezegenin vatandaşları isyan ediyor. Endişelerini gidermek için hükümetimizin desteğine ihtiyacımız var.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>WORDONTHESTREET_PLANETNOTDEFENDED</InternalName>
+    <FlavorTextOption>
+      <Text>Yörüngede hiç gemi olmadan onu saldırılardan korumayı nasıl umabiliriz?</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>WORDONTHESTREET_HIGHALIENCULTURE</InternalName>
+    <FlavorTextOption>
+      <Text>Bu dünyanın vatandaşları yabancı bir yaşam tarzını benimsemiş durumda. Çok azı uygarlığımızla bir bağ hissediyor.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>WORDONTHESTREET_INDEBT</InternalName>
+    <FlavorTextOption>
+      <Text>Harcamalarımızı kısıtlamalıyız. Bu gezegenin vatandaşları zaten erzak istifliyor.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>WORDONTHESTREET_NEEDWEALTHIMPROVEMENT</InternalName>
+    <FlavorTextOption>
+      <Text>Bu gezegen ekonomik fırsatlarla dolu. Bundan faydalanmak için burada daha fazla zenginlik iyileştirmesi yapmalıyız.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>WORDONTHESTREET_NEEDENTREPRENEUR</InternalName>
+    <FlavorTextOption>
+      <Text>Bu gezegen ekonomik kaynaklar açısından zengin, ancak burada bundan faydalanacak girişimcilerimiz yok.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>WORDONTHESTREET_NEEDRESEARCHIMPROVEMENT</InternalName>
+    <FlavorTextOption>
+      <Text>Bu gezegen teknolojik mucizelerle dolu. Bundan faydalanmak için burada daha fazla araştırma geliştirmesi inşa etmeliyiz.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>WORDONTHESTREET_NEEDSCIENTIST</InternalName>
+    <FlavorTextOption>
+      <Text>Bilim insanları olmadan bu gezegenin teknolojik harikaları boşa harcanıyor.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>WORDONTHESTREET_HIGHCRIME</InternalName>
+    <FlavorTextOption>
+      <Text>Bu gezegendeki yüksek suç oranı pek çok vatandaşımızı sokaklarımızda yürümeye korkar hale getiriyor. En yoksul vatandaşlarımız bu durumdan en doğrudan etkilenenlerdir, ancak zenginlerimiz arasındaki yolsuzluk da aynı derecede yaygındır.</Text>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerRaceTrait>RavenousAbility</SpeakerRaceTrait>
+      </Requirements>
+      <Text>Bu gezegende büyük bir düzensizlik var.</Text>
+      <PreferenceWeight>5000</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>WORDONTHESTREET_HIGHPOLLUTION</InternalName>
+    <FlavorTextOption>
+      <Text>Gezegenin düşüş gününü kutladık ama kirlilikten kimse havai fişekleri göremedi. İnsanların burada yaşamasını istiyorsak bu gezegeni temizlemeliyiz.</Text>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerRaceTrait>RadiatedAbility</SpeakerRaceTrait>
+      </Requirements>
+      <Text>Bu dünyadaki kirlilik çok yüksek ve biz bunu seviyoruz.</Text>
+      <PreferenceWeight>5000</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerRaceTrait>RavenousAbility</SpeakerRaceTrait>
+      </Requirements>
+      <Text>Kovan kirlilikten dolayı sorun yaşıyor.</Text>
+      <PreferenceWeight>5000</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>WORDONTHESTREET_HIGHMORALE</InternalName>
+    <FlavorTextOption>
+      <Text>Bu dünyanın vatandaşları galaksideki en sadık ve mutlu insanlar arasında yer alıyor. Bu da kısmen benim mükemmel liderliğim sayesindedir.</Text>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerRaceTrait>RadiatedAbility</SpeakerRaceTrait>
+      </Requirements>
+      <Text>Kirleticiler kolaylıkla hareket ediyor.</Text>
+      <PreferenceWeight>5000</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerRaceTrait>RavenousAbility</SpeakerRaceTrait>
+      </Requirements>
+      <Text>Kovan memnun.</Text>
+      <PreferenceWeight>5000</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>WORDONTHESTREET_LOWMORALE</InternalName>
+    <FlavorTextOption>
+      <Text>Buradaki vatandaşlar için elimden geleni yaptım. İşler daha da kötüye gitmeden gerçek bir değişime ihtiyacımız var.</Text>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerRaceTrait>RadiatedAbility</SpeakerRaceTrait>
+      </Requirements>
+      <Text>Kirleticiler olması gerektiği gibi parlamıyor.</Text>
+      <PreferenceWeight>5000</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerRaceTrait>RavenousAbility</SpeakerRaceTrait>
+      </Requirements>
+      <Text>Kovan öfkeyle dolup taşıyor.</Text>
+      <PreferenceWeight>5000</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>WORDONTHESTREET_MIDMORALE</InternalName>
+    <FlavorTextOption>
+      <Text>Bu dünyanın vatandaşları mutlu görünüyor. Her zaman bazı şikâyetçiler vardır ama ben olsam endişelenmezdim.</Text>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerRaceTrait>RadiatedAbility</SpeakerRaceTrait>
+      </Requirements>
+      <Text>Kirleticilerin parlaması yeterli görünüyor.</Text>
+      <PreferenceWeight>5000</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerRaceTrait>RavenousAbility</SpeakerRaceTrait>
+      </Requirements>
+      <Text>Kovan aç ama memnun.</Text>
+      <PreferenceWeight>5000</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>WORDONTHESTREET_HIGHTAXES</InternalName>
+    <FlavorTextOption>
+      <Text>Bu gezegenin vatandaşları artık yüksek vergilerimize katlanamıyor. Lütfen vergileri düşürün ve onları rahatlatın.</Text>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerRaceTrait>RavenousAbility</SpeakerRaceTrait>
+      </Requirements>
+      <Text>Kovan, merkezi otoriteye bu kadar çok şey aktarmak zorunda kalmaktan hoşnut değildir.</Text>
+      <PreferenceWeight>5000</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>WORDONTHESTREET_POLICESTATE</InternalName>
+    <FlavorTextOption>
+      <Text>Bu gezegenin vatandaşları Polis Devleti politikasını yürürlüğe koymamızı istiyor. Bunu istemeyenler ise muhtemelen işe yaramaz suçlulardır.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>WORDONTHESTREET_YOUAREJUSTANUMBER</InternalName>
+    <FlavorTextOption>
+      <Text>Burada tehlikeli bir kendini ifade etme ve uyumsuzluk eğilimi kök salmış durumda. Siz Sadece Bir Numarasınız politikasını yürürlüğe koymalı ve insanları faydalı tekrarlayan işlerine geri döndürmeliyiz.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>WORDONTHESTREET_GUNRIGHTS</InternalName>
+    <FlavorTextOption>
+      <Text>Özgürlük buradaki insanlar için çok önemlidir. Silah Pazarı politikasını yürürlüğe koymalı ve vatandaşlarımızın istedikleri silahı alıp satmalarına izin vermeliyiz.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>WORDONTHESTREET_UNIVERSALHEALTHCRE</InternalName>
+    <FlavorTextOption>
+      <Text>Buradaki vatandaşlar yeterli tıbbi bakım alamıyor. Evrensel Sağlık Hizmeti politikasını yürürlüğe koymalı ve onlara hükümetimizin vatandaşlarına hizmet ettiğini göstermeliyiz, tersi değil.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>WORDONTHESTREET_NEEDSHIPYARD</InternalName>
+    <FlavorTextOption>
+      <Text>Bu dünyanın bir tersaneye ihtiyacı var!</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>WORDONTHESTREET_NAMES</InternalName>
+    <FlavorTextOption>
+      <Text>Angela</Text>
+      <Text>Brad</Text>
+      <Text>Debbie</Text>
+      <Text>Cari</Text>
+      <Text>Raul.</Text>
+      <Text>Hermie</Text>
+      <Text>Kim</Text>
+      <Text>Larry.</Text>
+      <Text>Harry</Text>
+      <Text>Jesse</Text>
+      <Text>Jimmy</Text>
+      <Text>Jennifer</Text>
+      <Text>Paul</Text>
+      <Text>Pat</Text>
+      <Text>Scott</Text>
+      <Text>Suzy</Text>
+      <Text>Alberto</Text>
+      <Text>Samantha</Text>
+      <Text>Peter</Text>
+      <Text>A.J.</Text>
+      <Text>George</Text>
+      <Text>Andrew</Text>
+      <Text>Derek</Text>
+      <Text>Eddie</Text>
+      <Text>Sandie</Text>
+      <Text>Edward</Text>
+      <Text>Eddie</Text>
+      <Text>Eric</Text>
+      <Text>Akash</Text>
+      <Text>Teddy</Text>
+      <Text>James</Text>
+      <Text>Alex</Text>
+      <Text>Akil</Text>
+      <Text>Jim</Text>
+      <Text>Chauncy</Text>
+      <Text>Edwardo</Text>
+      <Text>Timmy</Text>
+      <Text>Lisa</Text>
+      <Text>Zack</Text>
+      <Text>Kelly</Text>
+      <Text>Wayne</Text>
+      <Text>Ryan</Text>
+      <Text>Maddison</Text>
+      <Text>Garth</Text>
+      <Text>Leo</Text>
+      <Text>Robert</Text>
+      <Text>Alan</Text>
+      <Text>Kathy</Text>
+      <Text>Jodi</Text>
+      <Text>Michael</Text>
+      <Text>Brian</Text>
+      <Text>Kris</Text>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_DRENGIN</ListenerFaction>
+      </Requirements>
+      <Text>Dathbar</Text>
+      <Text>Igrath</Text>
+      <Text>Moorthon</Text>
+      <Text>Quinthor</Text>
+      <Text>Umorth</Text>
+      <Text>Egbar</Text>
+      <Text>Otath</Text>
+      <Text>Petunar</Text>
+      <Text>Daisor</Text>
+      <Text>Melithor</Text>
+      <Text>Dracor</Text>
+      <Text>Kibath</Text>
+      <Text>Randoth</Text>
+      <Text>Rrah</Text>
+      <Text>Yuigrah</Text>
+      <Text>Grendon</Text>
+      <Text>Dinrog</Text>
+      <Text>Mitheon</Text>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_ALTARIAN</ListenerFaction>
+      </Requirements>
+      <Text>Epano</Text>
+      <Text>Altos</Text>
+      <Text>Umis</Text>
+      <Text>Raltos</Text>
+      <Text>Iltas</Text>
+      <Text>Civis</Text>
+      <Text>Atmos</Text>
+      <Text>Arlemis</Text>
+      <Text>Ergos</Text>
+      <Text>Caltis</Text>
+      <Text>Eltos</Text>
+      <Text>Caltos</Text>
+      <Text>Arlemos</Text>
+      <Text>Altis</Text>
+      <Text>Caltis</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+</FlavorTextDefs>

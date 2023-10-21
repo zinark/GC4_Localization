@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<StringTableList
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+    <!-- Created with the GC4 editor -->
+    <!-- UnitRaceText.xml -->
+    <StringTable>
+        <Label>Race_Altarian_Name</Label>
+        <String>Altarian</String>
+    </StringTable>
+    <StringTable>
+        <Label>Race_Altarian_Dec</Label>
+        <String>Çoğu Altarian bir Mer'i, hayatlarını adadıkları bir felsefeyi benimser. Bu onları diğer türlerden daha ideolojik yapar ve [HS=HS_Ideology]İdeolojileri[/HS] imparatorluklarının veya valilerininkiyle eşleştiğinde daha onaylayıcı, onlara karşı olduğunda ise daha onaylamaz olurlar. Ayrıca pahalı bir süreç olsa da [HS=HS_DivineEmpath]Divine Empaths[/HS] olarak da uzmanlaşabilirler.</String>
+    </StringTable>
+    <StringTable>
+        <Label>Race_Arcean_Name</Label>
+        <String>Arcean</String>
+    </StringTable>
+    <StringTable>
+        <Label>Race_Arcean_Dec</Label>
+        <String>Okyanus'un metanetli doğası onları [HS=HS_Ideology]ideolojik[/HS] olmaktan alıkoyar. Bunun yerine orduya saygı duyarlar ve Okyanus askerleri ek [HS=HS_Approval]Onay[/HS] kazanır ve asla pasifist değildirler.</String>
+    </StringTable>
+    <StringTable>
+        <Label>Race_Baratak_Name</Label>
+        <String>Baratak</String>
+    </StringTable>
+    <StringTable>
+        <Label>Race_Baratak_Dec</Label>
+        <String>Barataklar mutlu olmak için çok az şeye ihtiyaç duyan sağlam vatandaşlardır. Ancak [HS=HS_Pollution]Kirliliğe[/HS] karşı hassastırlar ve çok kirli dünyalarda mutlu ya da sağlıklı olmazlar.</String>
+    </StringTable>
+    <StringTable>
+        <Label>Race_Drath_Name</Label>
+        <String>Drath</String>
+    </StringTable>
+    <StringTable>
+        <Label>Race_Drath_Dec</Label>
+        <String>Drathlar miraslarına ve geniş kredi depolarına düşkün kadim bir ırktır. Hazinelerindeki Kredilere bağlı olarak bir [HS=HS_Approval]Onay[/HS] bonusu alırlar.</String>
+    </StringTable>
+    <StringTable>
+        <Label>Race_Drengin_Name</Label>
+        <String>Drengin</String>
+    </StringTable>
+    <StringTable>
+        <Label>Race_Drengin_Dec</Label>
+        <String>Drengin'in yüksek [HS=HS_Resistance]Direnci[/HS] ve güçlü [HS=HS_Soldier]Askerler[/HS] olma eğilimi vardır. Drengin'in savunmasız dünyalarda yaşamak için [HS=HS_Approval]Approval[/HS] cezası yoktur. Kendilerini savunurlar.</String>
+    </StringTable>
+    <StringTable>
+        <Label>Race_Festron_Name</Label>
+        <String>Festron</String>
+    </StringTable>
+    <StringTable>
+        <Label>Race_Festron_Dec</Label>
+        <String>Festron orman dünyalarını sever. Ayrıca zaman zaman aynı dünyayı paylaştıkları diğer türleri de öldürürler.</String>
+    </StringTable>
+    <StringTable>
+        <Label>Race_Human_Name</Label>
+        <String>Human</String>
+    </StringTable>
+    <StringTable>
+        <Label>Race_Human_Dec</Label>
+        <String>İnsanlar esneklikleri ve üretkenlikleriyle tanınırlar. Diğer türlere göre daha düşük [HS=HS_Expectations]Beklentilere[/HS] sahiptirler.</String>
+    </StringTable>
+    <StringTable>
+        <Label>Race_Iconian_Name</Label>
+        <String>Iconian</String>
+    </StringTable>
+    <StringTable>
+        <Label>Race_Iconian_Dec</Label>
+        <String>İkonianlar, Yorlar tarafından neredeyse yok edildikleri için hala travma yaşayan paranoyak bir türdür. Bu nedenle, onlarla bir dünyayı paylaşırlarsa önemli bir [HS=HS_Approval]Onay[/HS] cezasına maruz kalırlar. Ve diğer türler kadar sinirli olsalar da, pasif yapıları protesto etmelerini engeller.</String>
+    </StringTable>
+    <StringTable>
+        <Label>Race_Iridium_Name</Label>
+        <String>Iridium</String>
+    </StringTable>
+    <StringTable>
+        <Label>Race_Iridium_Dec</Label>
+        <String>İridyum'un yüksek Sosyalliği onları mükemmel [HS=HS_Trader]Tüccarlar[/HS] yapar. Hazinenizdeki Kredilere bağlı olarak bir [HS=HS_Approval]Approval[/HS] bonusu alırlar.</String>
+    </StringTable>
+    <StringTable>
+        <Label>Race_Manti_Name</Label>
+        <String>Manti</String>
+    </StringTable>
+    <StringTable>
+        <Label>Race_Manti_Dec</Label>
+        <String>Mantılar [HS=HS_Aquatic]Su[/HS] dünyalarını sever. Bu dünyalarda bulunduklarında büyük bir [HS=HS_Approval]Onay[/HS] bonusu, bulunmadıklarında ise hafif bir ceza alırlar.</String>
+    </StringTable>
+    <StringTable>
+        <Label>Race_Mimot_Name</Label>
+        <String>Mimot</String>
+    </StringTable>
+    <StringTable>
+        <Label>Race_Mimot_Dec</Label>
+        <String>Ortalamanın üzerinde bir [HS=HS_Growth]Büyüme[/HS] oranına sahip ortalama bir ırk. Gezegenleri hızla istila eder ve mevcut tüm [HS=HS_Food]Yiyecekleri[/HS] tüketirler.</String>
+    </StringTable>
+    <StringTable>
+        <Label>Race_Navigators_Name</Label>
+        <String>Navigators</String>
+    </StringTable>
+    <StringTable>
+        <Label>Race_Navigators_Dec</Label>
+        <String>Gezgin toplumu, genellikle diğer her şeyi dışlayarak, evrenin harikalarını araştırmak üzerine kurulmuştur. Yüksek [HS=HS_Intelligence]Zekaları[/HS] onları galaksideki en iyi bilim insanları yapar.</String>
+    </StringTable>
+    <StringTable>
+        <Label>Race_Onyx_Name</Label>
+        <String>Onyx</String>
+    </StringTable>
+    <StringTable>
+        <Label>Race_Onyx_Dec</Label>
+        <String>Onikslerin organik gıdaya ihtiyacı yoktur ve kendilerini evrenin enerjisiyle idame ettirirler. [HS=HS_OnyxHiveGrowth]Oniks Kovan Büyümesi[/HS] oranı, uygarlıklarının sahip olduğu Promethion miktarına bağlıdır.</String>
+    </StringTable>
+    <StringTable>
+        <Label>Race_Torian_Name</Label>
+        <String>Torian</String>
+    </StringTable>
+    <StringTable>
+        <Label>Race_Torian_Dec</Label>
+        <String>Torianlar [HS=HS_Aquatic]Sucul[/HS] dünyaları sever. Onlarda olduklarında büyük bir [HS=HS_Approval]Onay[/HS] bonusu, olmadıklarında ise hafif bir ceza alırlar. Ancak Drengin tarafından boyun eğdirilmeleri, dünyaları Drengin vatandaşlarıyla paylaştıklarında onları mutsuz eder.</String>
+    </StringTable>
+    <StringTable>
+        <Label>Race_Xeloxi_Name</Label>
+        <String>Xeloxi</String>
+    </StringTable>
+    <StringTable>
+        <Label>Race_Xeloxi_Dec</Label>
+        <String>Xeloxi'nin çok az kurtarıcı özelliği vardır, eğer çok azdan kastınız hiç olmamasıysa. Kültürleri güçlü eylemleri ödüllendirir ve etik ya da merhamet gibi kaygılar uzun zaman önce kaybolmuştur. Her Xeloxi bir suçludur ve [HS=HS_Crime]Suç[/HS] üretir..</String>
+    </StringTable>
+    <StringTable>
+        <Label>Race_Yor_Name</Label>
+        <String>Yor</String>
+    </StringTable>
+    <StringTable>
+        <Label>Race_Yor_Dec</Label>
+        <String>Sentetik bir tür olarak Yor, [HS=HS_Food]Yiyecek[/HS] gerektirmez veya herhangi bir doğal [HS=HS_Growth]Büyüme[/HS]'ye sahip değildir. Bunun yerine vatandaşları üretilir.[BR][BR]Ayrıca Kirlilik, Aşırı Kalabalıklaşma veya Nüfus Kapasitelerine ulaşma nedeniyle herhangi bir [HS=HS_Approval]Approval[/HS] cezasına maruz kalmazlar.</String>
+    </StringTable>
+    <StringTable>
+        <Label>Race_Burran_Name</Label>
+        <String>Burran</String>
+    </StringTable>
+    <StringTable>
+        <Label>Race_Burran_Dec</Label>
+        <String>Bir dizi 7 "zorluğun" tanrısal bir varoluşa yükselmelerine neden olacağına inanan barışçıl bir tür. Her bir zorluğu başarmak uzun yıllar alır ve bunlardan sadece ilk 3'ü kendi gezegenlerinde gerçekleştirilebilir, daha sonra görevlerini yerine getirmek için evreni keşfederler.</String>
+    </StringTable>
+    <StringTable>
+        <Label>Race_Orphica_Name</Label>
+        <String>Orphica Enclave</String>
+    </StringTable>
+    <StringTable>
+        <Label>Race_Orphica_Dec</Label>
+        <String>Orphic Enclave sadece kadim, hain bir süper bilgisayarın gücünü artırmaya hizmet eder.</String>
+    </StringTable>
+    <StringTable>
+        <Label>Race_Klepart_Name</Label>
+        <String>Klepart</String>
+    </StringTable>
+    <StringTable>
+        <Label>Race_Klepart_Dec</Label>
+        <String>Türlerinin ilk birleşik teknik başarısı, çağrılarını uzaya göndermek için büyük bir işaret kulesinin yaratılmasıydı. Açıldıktan birkaç gün sonra bir cevap alındı, dünyalarının yörüngesinde bir savaş gemisi filosu belirdi ve ana gezegenlerindeki tüm çocukları toplamak için akıncılar gönderildi. Ve sonra akıncılar gitmiş. Klepart'ın bütün bir nesli kayboldu. Bir sonraki nesil artık uzayı kendi başlarına keşfetmeye başlayacak kadar büyüdü, ancak akıncıların geri döneceğinden korkmaya devam ediyorlar ve bir gün kendilerinden çalınan çocukları bulacakları konusunda umutlular.</String>
+    </StringTable>
+    <StringTable>
+        <Label>Race_Kaxx_Name</Label>
+        <String>Kaxx Collective</String>
+    </StringTable>
+    <StringTable>
+        <Label>Race_Kaxx_Dec</Label>
+        <String>Kendi dünyalarının uyuyan bir yaratığın kozası olduğuna ve onu korumak için gezegene yerleştirildiklerine inanıyorlar. Bir gün yaratığın uyanacağına ve ya evrene yeni bir yaşam yayacağına ya da herkesi öldüreceğine inanıyorlar.</String>
+    </StringTable>
+    <StringTable>
+        <Label>Race_Odair_Name</Label>
+        <String>Odair Conclave</String>
+    </StringTable>
+    <StringTable>
+        <Label>Race_Odair_Dec</Label>
+        <String>Aşırı nihilistler, evrenin entropinin nihai çekimine yenik düşeceği anları geri saymaktadır. Özellikle Krynn'lerin (inançlarına göre) en aptallar olduğuna inanırlar, ancak herhangi biri hakkında heyecanlanmak için zorlanırlar. Galaksilerinin kenarında, içine ayrıntılı yapılar göndermekten zevk aldıkları "Tanrı'nın Esneyen Ağzı" adında bir kara delik vardır.</String>
+    </StringTable>
+    <StringTable>
+        <Label>Race_Lantern_Name</Label>
+        <String>Lantern</String>
+    </StringTable>
+    <StringTable>
+        <Label>Race_Lantern_Dec</Label>
+        <String>İlk galaktik tüccarlar onları diğer türler tarafından sevilen ancak Fenerler için son derece bağımlılık yapan öforik buharlarla tanıştırana kadar genç ama gelecek vaat eden bir ırktı. Artık Fener toplumuna ilacın ek kaynaklarının araştırılması hakimdir ve tüm vatandaşlar her zaman bu ilacın etkisinde tutulmaktadır.</String>
+    </StringTable>
+    <StringTable>
+        <Label>Race_Snathi_Name</Label>
+        <String>Snathi</String>
+    </StringTable>
+    <StringTable>
+        <Label>Race_Snathi_Dec</Label>
+        <String>Snathi zeki ve beceriklidir, ancak suçlu olma olasılıkları çok yüksektir.</String>
+    </StringTable>
+    <StringTable>
+        <Label>Race_Trandal_Name</Label>
+        <String>Trandal</String>
+    </StringTable>
+    <StringTable>
+        <Label>Race_Trandal_Dec</Label>
+        <String>Kolayca dikkati dağılan ve her zaman aç olan Trandallar emir almakta iyidir, hepsi bu kadar.</String>
+    </StringTable>
+    <StringTable>
+        <Label>Race_Tywom_Name</Label>
+        <String>Tywom</String>
+    </StringTable>
+    <StringTable>
+        <Label>Race_Tywom_Dec</Label>
+        <String>Tywomlar çok zeki değildir ve kesinlikle sosyal olarak çok becerikli değildirler. Tek olumlu özellikleri inanılmaz derecede düşük [HS=HS_Expectations]Beklentileri[/HS]. Kötü muamele görmeye çok alışkındırlar ve diğer türlerle aynı dünyayı paylaştıklarında daha da mutlu olurlar. Gerçi diğer türler bundan hoşlanmayabilir.</String>
+    </StringTable>
+    <StringTable>
+        <Label>Race_Korath_Name</Label>
+        <String>Korath</String>
+    </StringTable>
+    <StringTable>
+        <Label>Race_Korath_Dec</Label>
+        <String>Drenginlerin huysuz olduğunu düşünüyorsanız, Korathlar daha da kötüdür. İnanılmaz [HS=HS_Resolve]Azim[/HS] ve [HS=HS_Diligence]Çalışkanlık[/HS] özelliklerine sahip olmalarına rağmen sosyal becerileri eksiktir ve dünyayı diğer türlerle paylaşmaktan hoşlanmazlar.</String>
+    </StringTable>
+    <StringTable>
+        <Label>Race_Slyne_Name</Label>
+        <String>Slyne</String>
+    </StringTable>
+    <StringTable>
+        <Label>Race_Slyne_Dec</Label>
+        <String>Slyne'lar hayatta kalmak için organik gıdaya ihtiyaç duymazlar, ancak yavaş [HS=HS_Growth]Büyüme[/HS] hızları galaksiye diğer türler kadar hızlı yayılmalarını engeller.</String>
+    </StringTable>
+    <StringTable>
+        <Label>Race_Thalan_Name</Label>
+        <String>Thalan</String>
+    </StringTable>
+    <StringTable>
+        <Label>Race_Thalan_Dec</Label>
+        <String>Thalanlar bizimkinden daha gelişmiş bir boyuttan geliyorlar. İçgörüleri onlara artan bir [HS=HS_Intelligence]Zeka[/HS] ve aynı zamanda artan [HS=HS_Expectations]Beklentiler[/HS] sağlar.</String>
+    </StringTable>
+    <StringTable>
+        <Label>Race_Phamysht_Name</Label>
+        <String>Phamysht</String>
+    </StringTable>
+    <StringTable>
+        <Label>Race_Phamysht_Dec</Label>
+        <String>Phamysht'ler sizi öldürene kadar kibar ve ilgi çekici bir türdür. Yine de, yüksek [HS=HS_Social]Sosyal[/HS] ve [HS=HS_Intelligence]Zekâ[/HS], eşit derecede yüksek [HS=HS_Expectations]Beklentilerini[/HS] telafi eder.</String>
+    </StringTable>
+    <StringTable>
+        <Label>Race_Scryve_Name</Label>
+        <String>Scryve</String>
+    </StringTable>
+    <StringTable>
+        <Label>Race_Scryve_Dec</Label>
+        <String>Scryve azalıyor. Vatandaşlarının her biri inanılmaz derecede yüksek [HS=HS_Diligence]Çalışkanlık[/HS], [HS=HS_Intelligence]Zeka[/HS] ve [HS=HS_Resolve]Kararlılık[/HS] özelliklerine sahiptir ancak düşük [HS=HS_Growth]Büyüme[/HS] oranları nedeniyle elleri kolları bağlıdır ve bu da başka bir türü ele geçirmedikleri sürece yıldızlar arasında yayılmalarını zorlaştıracaktır.</String>
+    </StringTable>
+    <StringTable>
+        <Label>Race_Crystalline_Name</Label>
+        <String>Luxar</String>
+    </StringTable>
+    <StringTable>
+        <Label>Race_Crystalline_Dec</Label>
+         <String>Luxar'ın organik gıdaya ihtiyacı yoktur, ancak [HS=HS_OnyxHiveGrowth]Büyümeleri[/HS] genellikle organik türlerden daha azdır. Büyümeleri, depoladıkları Promethion miktarına bağlı olarak artırılabilir[BR][BR]Düşük büyüme oranlarına rağmen, yüksek [HS=HS_Diligence]Diligence[/HS], [HS=HS_Intelligence]Intelligence[/HS] ve [HS=HS_Resolve]Resolve[/HS] onları neredeyse her görev için uygun hale getirir.</String>
+    </StringTable>
+    <StringTable>
+        <Label>Race_Absolute_Name</Label>
+        <String>Irradiated Amoeba</String>
+    </StringTable>
+    <StringTable>
+        <Label>Race_Absolute_Dec</Label>
+        <String>Işınlanmış vatandaşlar yeterli zaman verilirse evrimleşir, her evrim bir öncekinden daha yeteneklidir. Başlangıçtaki Amip aşamasında, sık sık ürerler ve hızlı evrimleşirler ancak zayıf işçilerdir.</String>
+    </StringTable>
+    <StringTable>
+        <Label>Race_Absolute2_Name</Label>
+        <String>Irradiated Larva</String>
+    </StringTable>
+    <StringTable>
+        <Label>Race_Absolute2_Dec</Label>
+        <String>Yeterli zaman verilirse ışınlanmış vatandaşlar evrimleşir, her evrim bir öncekinden daha yeteneklidir. Larva aşamasında [HS=HS_Growth]Büyüme Hızları[/HS] yavaşlar, ancak Amip formlarından daha yeteneklidirler.</String>
+    </StringTable>
+    <StringTable>
+        <Label>Race_Absolute3_Name</Label>
+        <String>Irradiated Nymph</String>
+    </StringTable>
+    <StringTable>
+        <Label>Race_Absolute3_Dec</Label>
+        <String>Yeterli zaman verilirse ışınlanmış vatandaşlar evrimleşir, her evrim bir öncekinden daha yeteneklidir. Son Su Perisi aşamasında, [HS=HS_Growth]Büyüme Hızları[/HS] önemli ölçüde yavaşlar, ancak oldukça yeteneklidirler.</String>
+    </StringTable>
+    <StringTable>
+        <Label>Race_Seeing_Name</Label>
+        <String>Intueri</String>
+    </StringTable>
+    <StringTable>
+        <Label>Race_Seeing_Dec</Label>
+    <String>Intueri yüksek [HS=HS_Diligence]Çalışkanlığa[/HS] ve düşük [HS=HS_Expectations]Beklentilere[/HS] sahiptir. Grubun ihtiyaçlarını kendi ihtiyaçlarından üstün tutarlar. Gerçek karmaşık düşünceden yoksun - düşük [HS=HS_Intelligence]Zeka[/HS] bekleyin.</String>
+    </StringTable>
+    <StringTable>
+        <Label>Race_Moth_Name</Label>
+        <String>Phalenoids</String>
+    </StringTable>
+    <StringTable>
+        <Label>Race_Moth_Dec</Label>
+        <String>Zeki ve sosyal yaratıklar olan Phalenoids [HS=HS_Intelligence]Intelligence[/HS] ve [HS=HS_Social]Social[/HS] alanlarında üstündür, ancak kötü askerler olurlar. Diğer türlerle arkadaş olmayı tercih ederler. Dünyalarını diğer türlerle paylaştıklarında [HS=HS_Approval]Onayları[/HS] artar.</String>
+    </StringTable>
+    <StringTable>
+        <Label>Race_Feline_Name</Label>
+        <String>Feline</String>
+    </StringTable>
+    <StringTable>
+        <Label>Race_Feline_Dec</Label>
+        <String>Zarif ve zeki olan Felinoidler keskin zekaları ve çevik kurnazlıklarıyla öne çıkarlar. Bilim insanları, diplomatlar veya casuslar olarak gelişen stratejik öneme sahip rolleri tercih ederler ve karmaşık sistemlere yakınlık gösterirler. Son derece bireyci olduklarından, düzenli askeri rollerde zorlanabilirler. Meraklı doğaları onları usta kültürel adaptörler haline getirir ve diğer türlerle birlikte yaşarken [HS=HS_Approval]Approval[/HS] bonusu kazanırlar.</String>
+    </StringTable>
+    <StringTable>
+        <Label>Race_Canine_Name</Label>
+        <String>Canine</String>
+    </StringTable>
+    <StringTable>
+        <Label>Race_Canine_Dec</Label>
+        <String>Sadık ve sezgisel olan Kaninoidler olağanüstü takım çalışması ve olağanüstü içgüdüler sergilerler. Askeri ya da polislik görevleri gibi işbirliği ve koruma gerektiren rollerde doğal olarak başarılıdırlar. Tipik olarak bağımsız entelektüel arayışlara yönelmeseler de, bir grup dinamiği içinde zorlu taktik operatörlerdir. Sosyal mizaçları güçlü bağlar oluşturur ve dünyalarını diğer türlerle paylaşırken onlara [HS=HS_Approval]Approval[/HS] desteği kazandırır. Beklentileri çok düşüktür.</String>
+    </StringTable>
+    <StringTable>
+        <Label>Race_Avian_Name</Label>
+        <String>Avian</String>
+    </StringTable>
+    <StringTable>
+        <Label>Race_Avian_Dec</Label>
+        <String>Zarif ve ileri görüşlü olan Avianoidler stratejik öngörüleri ve havadaki ustalıklarıyla tanınırlar. Gözcüler, diplomatlar veya stratejik planlamacılar gibi geniş bir bakış açısı gerektiren rollerde mükemmeldirler. Çeviklikleri yer tabanlı askeri çatışmalarda daha az etkili olabilir. Uyuma yönelik doğal bir eğilimleri olduğundan, dünyalarındaki farklı türlerle bir arada yaşarken [HS=HS_Approval]Approval[/HS] bonusu kazanırlar.</String>
+    </StringTable>
+    <StringTable>
+        <Label>Race_Minor_Name</Label>
+        <String>Minor Race</String>
+    </StringTable>
+    <StringTable>
+        <Label>Race_Minor_Dec</Label>
+        <String>Kendi güneş sistemlerinin dışına seyahat edemeyen daha az gelişmiş bir tür.</String>
+    </StringTable>
+</StringTableList>

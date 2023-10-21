@@ -1,0 +1,151 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<FlavorTextDefs xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
+  <FlavorTextDef>
+    <InternalName>HISTORY_LEADER</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <CitizenRace>Race_Absolute</CitizenRace>
+      </Requirements>
+      <Text>Hayatta kaldıkları garip çağların hikayelerini anlatıyor.</Text>
+      <Text>Hayatı geçici olaylara indirgeyen ihtişamı anlar.</Text>
+      <Text>Sadece düşünceleri ve hayalleri tartışacağız.</Text>
+      <Text>Evreni bir çizgi roman olarak görür, bilinç ise şakadır.</Text>
+      <Text>Zihinleri evrenin içeriğini ilişkilendiremeyenleri kıskanır.</Text>
+      <Text>Bilimleri tek bir yöne doğru zorlamaya çalışır.</Text>
+      <Text>Karanlık gezegenlerin amaçsızca evreni dolaştığına şahit oldum.</Text>
+      <Text>Cahillere ya da onların sakin yaşamlarına imrenmez.</Text>
+      <Text>Zaman ve mekanla ilgili tesadüfi hususları dikkate alır.</Text>
+      <Text>Kaosa çekilir.</Text>
+      <Text>Uyanıkken ve uykudayken görülen rüyalar.</Text>
+      <Text>Sık sık gizli yerlere rünler çizer.</Text>
+      <Text>Olasılık ve gerçeklik arasında ayrım yapmak için mücadele eder.</Text>
+      <Text>Bilinmeyen bir şey için yıldızları arar.</Text>
+      <Text>Olmaması gerekene tanıklık ettim.</Text>
+      <PreferenceWeight>10</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <CitizenRace>Race_Absolute2</CitizenRace>
+      </Requirements>
+      <Text>Hayatta kaldıkları garip çağların hikayelerini anlatıyor.</Text>
+      <Text>Hayatı geçici olaylara indirgeyen ihtişamı anlar.</Text>
+      <Text>Sadece düşünceleri ve hayalleri tartışacağız.</Text>
+      <Text>Evreni bir çizgi roman olarak görür, bilinç ise şakadır.</Text>
+      <Text>Zihinleri evrenin içeriğini ilişkilendiremeyenleri kıskanır.</Text>
+      <Text>Bilimleri tek bir yöne doğru zorlamaya çalışır.</Text>
+      <Text>Karanlık gezegenlerin amaçsızca evreni dolaştığına şahit oldum.</Text>
+      <Text>Cahillere ya da onların sakin yaşamlarına imrenmez.</Text>
+      <Text>Zaman ve mekanla ilgili tesadüfi hususları dikkate alır.</Text>
+      <Text>Kaosa çekilir.</Text>
+      <Text>Uyanıkken ve uykudayken görülen rüyalar.</Text>
+      <Text>Sık sık gizli yerlere rünler çizer.</Text>
+      <Text>Olasılık ve gerçeklik arasında ayrım yapmak için mücadele eder.</Text>
+      <Text>Bilinmeyen bir şey için yıldızları arar.</Text>
+      <Text>Olmaması gerekene tanıklık ettim.</Text>
+      <PreferenceWeight>10</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <CitizenRace>Race_Absolute3</CitizenRace>
+      </Requirements>
+      <Text>Hayatta kaldıkları garip çağların hikayelerini anlatıyor.</Text>
+      <Text>Hayatı geçici olaylara indirgeyen ihtişamı anlar.</Text>
+      <Text>Sadece düşünceleri ve hayalleri tartışacağız.</Text>
+      <Text>Evreni bir çizgi roman olarak görür, bilinç ise şakadır.</Text>
+      <Text>Zihinleri evrenin içeriğini ilişkilendiremeyenleri kıskanır.</Text>
+      <Text>Bilimleri tek bir yöne doğru zorlamaya çalışır.</Text>
+      <Text>Karanlık gezegenlerin amaçsızca evreni dolaştığına şahit oldum.</Text>
+      <Text>Cahillere ya da onların sakin yaşamlarına imrenmez.</Text>
+      <Text>Zaman ve mekanla ilgili tesadüfi hususları dikkate alır.</Text>
+      <Text>Kaosa çekilir.</Text>
+      <Text>Uyanıkken ve uykudayken görülen rüyalar.</Text>
+      <Text>Sık sık gizli yerlere rünler çizer.</Text>
+      <Text>Olasılık ve gerçeklik arasında ayrım yapmak için mücadele eder.</Text>
+      <Text>Bilinmeyen bir şey için yıldızları arar.</Text>
+      <Text>Olmaması gerekene tanıklık ettim.</Text>
+      <PreferenceWeight>10</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>LASTNAME</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <CitizenRace>Race_Absolute2</CitizenRace>
+      </Requirements>
+      <Text>Vharalath</Text>
+      <Text>Kai</Text>
+      <Text>Alhuz</Text>
+      <Text>Sathoth</Text>
+      <Text>Sothul</Text>
+      <Text>Carcoth</Text>
+      <Text>Kaivon</Text>
+      <Text>Ulgoth</Text>
+      <Text>Ngull</Text>
+      <Text>Pathul</Text>
+      <Text>Anilath</Text>
+      <Text>Scul</Text>
+      <Text>Scios</Text>
+      <PreferenceWeight>1</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <CitizenRace>Race_Absolute3</CitizenRace>
+      </Requirements>
+      <Text>Vharalath</Text>
+      <Text>Kai</Text>
+      <Text>Alhuz</Text>
+      <Text>Sathoth</Text>
+      <Text>Sothul</Text>
+      <Text>Carcoth</Text>
+      <Text>Kaivon</Text>
+      <Text>Ulgoth</Text>
+      <Text>Ngull</Text>
+      <Text>Pathul</Text>
+      <Text>Anilath</Text>
+      <Text>Scul</Text>
+      <Text>Scios</Text>
+      <PreferenceWeight>1</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>FIRSTNAME</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <CitizenRace>Race_Absolute2</CitizenRace>
+      </Requirements>
+      <Text>Phr'</Text>
+      <Text>Yith'</Text>
+      <Text>Thu'</Text>
+      <Text>Tsa'</Text>
+      <Text>Ins'</Text>
+      <Text>Carco'</Text>
+      <Text>Mor'</Text>
+      <Text>Nyar'</Text>
+      <Text>N'</Text>
+      <Text>Py'</Text>
+      <Text>C'</Text>
+      <Text>R'</Text>
+      <Text>Lye'</Text>
+      <PreferenceWeight>1</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <CitizenRace>Race_Absolute3</CitizenRace>
+      </Requirements>
+      <Text>Phr'</Text>
+      <Text>Yith'</Text>
+      <Text>Thu'</Text>
+      <Text>Tsa'</Text>
+      <Text>Ins'</Text>
+      <Text>Carco'</Text>
+      <Text>Mor'</Text>
+      <Text>Nyar'</Text>
+      <Text>N'</Text>
+      <Text>Py'</Text>
+      <Text>C'</Text>
+      <Text>R'</Text>
+      <Text>Lye'</Text>
+      <PreferenceWeight>1</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+</FlavorTextDefs>

@@ -1,0 +1,493 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<FlavorTextDefs xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
+  <FlavorTextDef>
+    <InternalName>FIRST_CONTACT_MAIN</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>FACTION_KORATH</SpeakerFaction>
+      </Requirements>
+      <Text>Bunu kısa tutalım. Türünüzün neye benzediğini bilmem, dünyalarınızı paramparça edip iradelerinizi kırdığımızda neyi avlayacağımı bilmem için yeterli.</Text>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>FACTION_KORATH</SpeakerFaction>
+      </Requirements>
+      <Text>Evren sadece ve sadece Korath'a aittir. Varlığımıza cüret eden herkesi yok edeceğiz.</Text>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>FACTION_KORATH</SpeakerFaction>
+      </Requirements>
+      <Text>Sizi Korath'ın ellerinde yok olmaktan kurtaracağını düşündüğünüz her şeye koşun ve ağlayın.</Text>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>FACTION_TERRAN</SpeakerFaction>
+        <ListenerFaction>FACTION_KORATH</ListenerFaction>
+      </Requirements>
+      <Text>Görüyorum ki İmparatorluk'un reddedilmişleri bile hayatta kalmayı başarmış. Sanırım ruh halin düzelirse iyi geçinmeyi deneyebiliriz.</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>FACTION_NAVIGATORS</SpeakerFaction>
+        <ListenerFaction>FACTION_KORATH</ListenerFaction>
+      </Requirements>
+      <Text>Galaksinin kötü güçleriyle yaptığınız anlaşma her şeyi mahvedecek. Eğer bir faydası olacaksa, tarih boyunca izlediğiniz yolu yeniden gözden geçirmenizi rica ediyoruz.</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>FACTION_MIMOT</SpeakerFaction>
+        <ListenerFaction>FACTION_KORATH</ListenerFaction>
+      </Requirements>
+      <Text>Oh, hayır. Söylentilerin yanlış olmasını umuyordum.</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>FACTION_DRENGIN</SpeakerFaction>
+        <ListenerFaction>FACTION_KORATH</ListenerFaction>
+      </Requirements>
+      <Text>Savurgan Klan geri dönüyor. İmparatorluğa bir kez daha diz çökmeye mi geldiniz? Şok birliklerimiz olarak geri dönün ve evren birleşmiş bir İmparatorluğun dehşetini tanısın.</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>FACTION_ARCEAN</SpeakerFaction>
+        <ListenerFaction>FACTION_KORATH</ListenerFaction>
+      </Requirements>
+      <Text>Drenginler şimdi de kendi aralarında mı didişiyor? Çatışma arzun gerçekten bu kadar sınırsız mı?</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>FACTION_TORIAN</SpeakerFaction>
+        <ListenerFaction>FACTION_KORATH</ListenerFaction>
+      </Requirements>
+      <Text>Kendinize ne derseniz deyin, Drengin'e merhametim yok.</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>FACTION_RESISTANCE</SpeakerFaction>
+        <ListenerFaction>FACTION_KORATH</ListenerFaction>
+      </Requirements>
+      <Text>Hayır! Bu olamaz. İmparatorluk düştüğünde Korath Klanı'nın yok olduğunu sanıyordum.</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>FACTION_KORATH</SpeakerFaction>
+        <ListenerFaction>FACTION_TERRAN</ListenerFaction>
+      </Requirements>
+      <Text>Güzel, İttifak hayatta kalıyor. Hiç intikam alamamış olmaktan nefret ederdim.</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>FACTION_KORATH</SpeakerFaction>
+        <ListenerFaction>FACTION_NAVIGATORS</ListenerFaction>
+      </Requirements>
+      <Text>Korath Klanı'nın Drengin İmparatorluğu'nun uzatmış olabileceği merhamete saygı duymadığını bilin. Hiçbir hareket sizi yok olmaktan kurtaramaz.</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>FACTION_KORATH</SpeakerFaction>
+        <ListenerFaction>FACTION_MIMOT</ListenerFaction>
+      </Requirements>
+      <Text>Zayıf, küçük türünüzün hayatta kalmasına izin verilmiş olması, evrenin kendisinin ne kadar zayıf olmasına izin verdiğinin bir kanıtıdır. Bunu düzelteceğimizden emin olabilirsiniz.</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>FACTION_KORATH</SpeakerFaction>
+        <ListenerFaction>FACTION_DRENGIN</ListenerFaction>
+      </Requirements>
+      <Text>İmparatorluk başarısız oldu! Zincirleriniz sizi zayıflara bağlamaktan başka bir işe yaramıyor. İlerlemenin tek yolu yok olmak! Korath Klanı Drengin mirasını devam ettirecek. Zayıflığınıza ihtiyacımız yok.</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>FACTION_KORATH</SpeakerFaction>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Metalden yapıldığınız için sizi bağışlayacağımızı sanmayın. Yok oluş sizin için de gelecek ve biz de parçalanmış bedenlerinizi silahlarımızı ve gemilerimizi onarmak için kullanacağız.</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>FACTION_KORATH</SpeakerFaction>
+        <ListenerFaction>FACTION_TORIAN</ListenerFaction>
+      </Requirements>
+      <Text>Hayatta kaldınız. İmparatorluğun bir başka başarısızlığı. Korath Klanı aynı hatayı yapmayacak.</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>FACTION_KORATH</SpeakerFaction>
+        <ListenerFaction>FACTION_RESISTANCE</ListenerFaction>
+      </Requirements>
+      <Text>Seni bulduk. Evrenin köşelerine sinerek çok uzun zaman geçirdiniz ama bu sefer sizi kaybetmeyeceğiz. Korath Klanı sonunda hayatta kalan grubunuzu yok edecek.</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>FACTION_KORATH</SpeakerFaction>
+        <ListenerFaction>FACTION_SEEING</ListenerFaction>
+      </Requirements>
+      <Text>Bu bir şaka olmalı. Bu kadar uzun süre hayatta kalmış olamazsın.</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>FIRST_CONTACT_RESPONSE_PEACEFUL</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KORATH</ListenerFaction>
+      </Requirements>
+      <Text>Umarım sadece bazı toplantılarımız bu kadar düşmanca olur.</Text>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>FACTION_TERRAN</SpeakerFaction>
+        <ListenerFaction>FACTION_KORATH</ListenerFaction>
+      </Requirements>
+      <Text>Diline dikkat et, yoksa çığlık atan kafandan çekip alırım.</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>FACTION_NAVIGATORS</SpeakerFaction>
+        <ListenerFaction>FACTION_KORATH</ListenerFaction>
+      </Requirements>
+      <Text>Korath Klanı'nın merhamet göstermediğini unutuyorsun.</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>FACTION_MIMOT</SpeakerFaction>
+        <ListenerFaction>FACTION_KORATH</ListenerFaction>
+      </Requirements>
+      <Text>Umut, zayıflar arasında yaygın bir hatadır.</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>FACTION_DRENGIN</SpeakerFaction>
+        <ListenerFaction>FACTION_KORATH</ListenerFaction>
+      </Requirements>
+      <Text>Ha! Zayıf Drenginler, İmparatorluk'takiler gibi, Drengin değildir.</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>FACTION_ARCEAN</SpeakerFaction>
+        <ListenerFaction>FACTION_KORATH</ListenerFaction>
+      </Requirements>
+      <Text>Kendine dikkat et! Korath Klanı'nın zayıfları yok etmek için bir nedene ihtiyacı yok.</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>FACTION_TORIAN</SpeakerFaction>
+        <ListenerFaction>FACTION_KORATH</ListenerFaction>
+      </Requirements>
+      <Text>İhtiyacın olmayacak.</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>FACTION_RESISTANCE</SpeakerFaction>
+        <ListenerFaction>FACTION_KORATH</ListenerFaction>
+      </Requirements>
+      <Text>Korath Klanı'nı yok edecek kadar güçlü hiçbir şey yok.</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>FACTION_KORATH</SpeakerFaction>
+        <ListenerFaction>FACTION_TERRAN</ListenerFaction>
+      </Requirements>
+      <Text>Bu düşmanlığı sürdürmemize gerek yok.</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>FACTION_KORATH</SpeakerFaction>
+        <ListenerFaction>FACTION_NAVIGATORS</ListenerFaction>
+      </Requirements>
+      <Text>Umarım zaman verilirse tekrar düşünürsünüz.</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>FACTION_KORATH</SpeakerFaction>
+        <ListenerFaction>FACTION_MIMOT</ListenerFaction>
+      </Requirements>
+      <Text>Bizi göründüğümüzden daha dirençli bulacaksınız.</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>FACTION_KORATH</SpeakerFaction>
+        <ListenerFaction>FACTION_DRENGIN</ListenerFaction>
+      </Requirements>
+      <Text>Diline dikkat et! Asi bir lejyondan başka bir şey değilsiniz.</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>FACTION_KORATH</SpeakerFaction>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Tehdit kaydedildi. Sonuçlarda bir değişiklik olmasını bekliyoruz.</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>FACTION_KORATH</SpeakerFaction>
+        <ListenerFaction>FACTION_TORIAN</ListenerFaction>
+      </Requirements>
+      <Text>İstediğin kadar tehdit et. Senden korkmayı reddediyorum.</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>FACTION_KORATH</SpeakerFaction>
+        <ListenerFaction>FACTION_RESISTANCE</ListenerFaction>
+      </Requirements>
+      <Text>Direniş, yönetebileceğiniz en kötü duruma karşı hazırlıklı.</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>FACTION_KORATH</SpeakerFaction>
+        <ListenerFaction>FACTION_SEEING</ListenerFaction>
+      </Requirements>
+      <Text>Şaka yapmıyoruz.</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>FIRST_CONTACT_RESPONSE_NEUTRAL</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_KORATH</ListenerFaction>
+      </Requirements>
+      <Text>Öfke nöbetin bitene kadar bekleyeceğim.</Text>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>FACTION_TERRAN</SpeakerFaction>
+        <ListenerFaction>FACTION_KORATH</ListenerFaction>
+      </Requirements>
+      <Text>Gülme şansınız varken gülün. Korath klanı yakında yok oluşunuzu görecek.</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>FACTION_NAVIGATORS</SpeakerFaction>
+        <ListenerFaction>FACTION_KORATH</ListenerFaction>
+      </Requirements>
+      <Text>Tarih boyunca izleyeceğimiz yol bir fetih yolu olacaktır.</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>FACTION_MIMOT</SpeakerFaction>
+        <ListenerFaction>FACTION_KORATH</ListenerFaction>
+      </Requirements>
+      <Text>Teslimiyet ve Korath sizi ve korkularınızı dinlendirir.</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>FACTION_DRENGIN</SpeakerFaction>
+        <ListenerFaction>FACTION_KORATH</ListenerFaction>
+      </Requirements>
+      <Text>Siz zincirler öneriyorsunuz; biz de aşağılanmanızdan ölüm yoluyla kurtulmanızı önereceğiz.</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>FACTION_ARCEAN</SpeakerFaction>
+        <ListenerFaction>FACTION_KORATH</ListenerFaction>
+      </Requirements>
+      <Text>Bunu kendi yok oluşunuzu garantilediğiniz an olarak hatırlayın.</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>FACTION_TORIAN</SpeakerFaction>
+        <ListenerFaction>FACTION_KORATH</ListenerFaction>
+      </Requirements>
+      <Text>Artık İmparatorluk kurallarına bağlı olmayan Korath, sonunda sizi varlığınızdan silebilir.</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>FACTION_RESISTANCE</SpeakerFaction>
+        <ListenerFaction>FACTION_KORATH</ListenerFaction>
+      </Requirements>
+      <Text>Ben de senin küçük direnişinin bittiğini sanıyordum.</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>FACTION_KORATH</SpeakerFaction>
+        <ListenerFaction>FACTION_TERRAN</ListenerFaction>
+      </Requirements>
+      <Text>Deneyin, ben de size İmparatorluğa ne yaptığımızı hatırlatmaktan mutluluk duyarım.</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>FACTION_KORATH</SpeakerFaction>
+        <ListenerFaction>FACTION_NAVIGATORS</ListenerFaction>
+      </Requirements>
+      <Text>O zaman bu toplantı sona ermiştir.</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>FACTION_KORATH</SpeakerFaction>
+        <ListenerFaction>FACTION_MIMOT</ListenerFaction>
+      </Requirements>
+      <Text>Daha önce de yenildiniz, yine yenilirsiniz. Endişelenmeyeceğim.</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>FACTION_KORATH</SpeakerFaction>
+        <ListenerFaction>FACTION_DRENGIN</ListenerFaction>
+      </Requirements>
+      <Text>Kuduz bir savaş köpeğiyle yapılacak tek bir şey vardır.</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>FACTION_KORATH</SpeakerFaction>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Konuşma == faydasız. İletişimi Sonlandır.</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>FACTION_KORATH</SpeakerFaction>
+        <ListenerFaction>FACTION_TORIAN</ListenerFaction>
+      </Requirements>
+      <Text>Düşündüğün kadar tehditkâr değilsin. Bu iletişimi sonlandırıyorum.</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>FACTION_KORATH</SpeakerFaction>
+        <ListenerFaction>FACTION_RESISTANCE</ListenerFaction>
+      </Requirements>
+      <Text>Direniş taktiklerinize aşina. Bizim için bir tehdit değilsin.</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>FACTION_KORATH</SpeakerFaction>
+        <ListenerFaction>FACTION_SEEING</ListenerFaction>
+      </Requirements>
+      <Text>Yorulduk.</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>TAUNT_PLAYER</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>FACTION_KORATH</SpeakerFaction>
+      </Requirements>
+      <Text>Direnmeye devam etmeniz nafile. Korath sizin yok oluşunuzu görecek.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>DECLARE_WAR_MAIN</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>FACTION_KORATH</SpeakerFaction>
+      </Requirements>
+      <Text>Yeterince uzun süre çürümenize izin verdik. Medeniyetinizi parçalamanın ve galaksiyi sizin gibilerden kurtarmanın zamanı geldi![BR][BR][COLOR=UIDefaultHighlight](We are at war)[/COLOR]</Text>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>FACTION_KORATH</SpeakerFaction>
+        <ListenerFaction>FACTION_TERRAN</ListenerFaction>
+      </Requirements>
+      <Text>Drengin'in başına yeterince bela oldun. Seni ezip geçmenin zamanı geldi. On yıl içinde kimse Terran İttifakını hatırlamayacak.[BR][BR][COLOR=UIDefaultHighlight](We are at war)[/COLOR]</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>FACTION_KORATH</SpeakerFaction>
+        <ListenerFaction>FACTION_RESISTANCE</ListenerFaction>
+      </Requirements>
+      <Text>Kaderinizden yeterince kaçtınız. Korath sizin küçük serseri grubunuzu ezip geçecek.[BR][BR][COLOR=UIDefaultHighlight](We are at war)[/COLOR]</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>GENERIC_GREETING</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>FACTION_KORATH</SpeakerFaction>
+      </Requirements>
+      <Text>Korath Klanı tarafından yok edilmenize teslim olmak için burada değilseniz, ne istiyorsunuz?</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>TRADE_OFFER_REFUSE</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>FACTION_KORATH</SpeakerFaction>
+      </Requirements>
+      <Text>Ben seni ayırmadan önce bu teklifi tekrar düşün.</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>TRADE_OFFER_PERFORMED</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>FACTION_KORATH</SpeakerFaction>
+      </Requirements>
+      <Text>Bu ticaretin güvenliğinizi sağladığını düşünmeyin.</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>TRADE_OFFER_WAITING</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>FACTION_KORATH</SpeakerFaction>
+      </Requirements>
+      <Text>Bu takası zamanıma değecek şekilde yap yoksa zorla alırım.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>PLAYER_TRADE_COUNTER_OFFER_HEADER</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>FACTION_KORATH</SpeakerFaction>
+      </Requirements>
+      <Text>Eee?</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>EXTRA_OPTIONS_MAIN_TEXT</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>FACTION_KORATH</SpeakerFaction>
+      </Requirements>
+      <Text>Kendini Korath'la konuşmaya layık mı görüyorsun?</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+</FlavorTextDefs>

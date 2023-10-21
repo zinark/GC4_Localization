@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<StringTableList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+  <!-- Created with the GC4 editor -->
+  <!-- ShipHullStatText.xml -->
+  <StringTable>
+    <Label>Tiny_Name</Label>
+    <String>Avcı Gövdesi</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tiny_Dec</Label>
+    <String>Kırılgan ama ucuz gövde boyutu. Gözcüler ve avcılar gibi küçük gemiler için idealdir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Small_Name</Label>
+    <String>Fırkateyn Gövdesi</String>
+  </StringTable>
+  <StringTable>
+    <Label>Small_Dec</Label>
+    <String>Daha küçük saldırı gemileri ve eskortlar için ideal gövde boyutu.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Medium_Name</Label>
+    <String>Kruvazör Gövdesi</String>
+  </StringTable>
+  <StringTable>
+    <Label>Medium_Dec</Label>
+    <String>Daha küçük Başkent gemileri ve daha büyük Eskortlar için ideal gövde boyutu.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Large_Name</Label>
+    <String>Savaş Gemisi Gövdesi</String>
+  </StringTable>
+  <StringTable>
+    <Label>Large_Dec</Label>
+    <String>Pahalı, ancak hemen hemen her şeyi yapabilecek taşıma kapasitesine sahip sağlam gövde boyutu.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Huge_Name</Label>
+    <String>Korkusuz Gövde</String>
+  </StringTable>
+  <StringTable>
+    <Label>Huge_Dec</Label>
+    <String>Gövde boyutu nihai savaş gemileri için tasarlanmıştır, pahalıdır, ancak kendi başına küçük bir silah filosunu taşıyabilir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Cargo_Name</Label>
+    <String>Kargo</String>
+  </StringTable>
+  <StringTable>
+    <Label>Cargo_Dec</Label>
+    <String>Kırılgan gövde boyutu ve savaş için tasarlanmamıştır. Koloni Gemileri ve İnşaatçılar gibi gemileri oluşturmak için kullanılır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Starbase_Name</Label>
+    <String>Yıldız Üssü</String>
+  </StringTable>
+  <StringTable>
+    <Label>Starbase_Dec</Label>
+    <String>Gövde Yeni yıldız üsleri tasarlamak için kullanılır.</String>
+  </StringTable>
+</StringTableList>

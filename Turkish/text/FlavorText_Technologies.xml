@@ -1,0 +1,1150 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<FlavorTextDefs xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
+  <FlavorTextDef>
+    <InternalName>Tech_Planetology_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerRaceTrait>SyntheticLife</SpeakerRaceTrait>
+      </Requirements>
+      <Text>Planet Studies</Text>
+      <PreferenceWeight>1000</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tech_Planetology_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <PersonalityType>Aggressive</PersonalityType>
+      </Requirements>
+      <Text>Alien World Studies</Text>
+      <PreferenceWeight>1000</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <PersonalityType>Greedy</PersonalityType>
+      </Requirements>
+      <Text>Planetary Terrain Analysis</Text>
+      <PreferenceWeight>1000</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tech_InterstellarCabinet_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerRaceTrait>SyntheticLife</SpeakerRaceTrait>
+      </Requirements>
+      <Text>Machine Councils</Text>
+      <PreferenceWeight>1000</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tech_ColonialPolicies_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <PersonalityType>Aggressive</PersonalityType>
+      </Requirements>
+      <Text>Imperial Doctrine</Text>
+      <PreferenceWeight>1000</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerRaceTrait>SyntheticLife</SpeakerRaceTrait>
+      </Requirements>
+      <Text>Galactic Expansion Protocol</Text>
+      <PreferenceWeight>3000</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <PersonalityType>Greedy</PersonalityType>
+      </Requirements>
+      <Text>Space Expansion Plans</Text>
+      <PreferenceWeight>2000</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tech_HyperwaveRadio_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <PersonalityType>Aggressive</PersonalityType>
+        <NotSpeakerRaceTrait>SyntheticLife</NotSpeakerRaceTrait>
+        <NotSpeakerRaceTrait>AmmoniaBasedAbility</NotSpeakerRaceTrait>
+      </Requirements>
+      <Text>Altuzay Frekans Sistemleri</Text>
+      <PreferenceWeight>1000</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerRaceTrait>SyntheticLife</SpeakerRaceTrait>
+        <NotSpeakerRaceTrait>AmmoniaBasedAbility</NotSpeakerRaceTrait>
+      </Requirements>
+      <Text>Veri İletim Protokolleri</Text>
+      <PreferenceWeight>2000</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerRaceTrait>AmmoniaBasedAbility</SpeakerRaceTrait>
+        <NotSpeakerRaceTrait>SyntheticLife</NotSpeakerRaceTrait>
+      </Requirements>
+      <Text>Kültürel Çeviri</Text>
+      <PreferenceWeight>5000</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tech_HyperwaveRadio_FlavorText_ShortDescription</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerRaceTrait>AmmoniaBasedAbility</SpeakerRaceTrait>
+      </Requirements>
+      <Text>Diğer türlerin kültürel kavramlarını kullanmamızı sağlar.</Text>
+      <PreferenceWeight>3000</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tech_HyperwaveRadio_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerRaceTrait>AmmoniaBasedAbility</SpeakerRaceTrait>
+      </Requirements>
+      <Text>Bizim türümüz diğerleri gibi değil. Diğer türler bir uygarlığı organize etme ve yönetme konusunda büyük bir deneyime sahip.  Biz pragmatik bir bakış açısını benimsemeli ve bu kavramların çoğunu kopyalamalıyız. [BR][BR] Türümüzü, farklı türlerin yönetimsel, kültürel ve politik ethosunu karmaşık bir şekilde deşifre etme, anlama ve benimseme konusunda güçlendiren bu teknoloji, farklı medeniyetler arasındaki uçuruma köprü kurmaktadır. Sadece anlamanın ötesine geçerek, yabancı toplumların karmaşık dokumalarını kendi dokumalarımızla örmemizi sağlayan bir sinerjiyi teşvik eder, kolektif bilgimizi zenginleştirir ve engin kozmik tiyatroda uyumlu bir şekilde bir arada var olmamızı sağlar.</Text>
+      <PreferenceWeight>3000</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tech_XenoIndustrialization_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <PersonalityType>Aggressive</PersonalityType>
+      </Requirements>
+      <Text>Xeno Factories</Text>
+      <PreferenceWeight>1000</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <PersonalityType>Greedy</PersonalityType>
+      </Requirements>
+      <Text>Planetary Manufacturing</Text>
+      <PreferenceWeight>1000</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tech_OrbitalMining_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerRaceTrait>SyntheticLife</SpeakerRaceTrait>
+      </Requirements>
+      <Text>Orbital Resource Harvesting</Text>
+      <PreferenceWeight>1000</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <PersonalityType>Greedy</PersonalityType>
+      </Requirements>
+      <Text>Orbital Treasure Drills</Text>
+      <PreferenceWeight>1000</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tech_XenoManufacturing_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <PersonalityType>Aggressive</PersonalityType>
+      </Requirements>
+      <Text>Xeno Production Techniques</Text>
+      <PreferenceWeight>1000</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <PersonalityType>Greedy</PersonalityType>
+      </Requirements>
+      <Text>Exploitation Mills</Text>
+      <PreferenceWeight>1000</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tech_XenoResearch_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerRaceTrait>RadiatedAbility</SpeakerRaceTrait>
+      </Requirements>
+      <Text>Radyatif Bilgiler</Text>
+      <PreferenceWeight>1000</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <PersonalityType>Aggressive</PersonalityType>
+        <NotSpeakerRaceTrait>RadiatedAbility</NotSpeakerRaceTrait>
+      </Requirements>
+      <Text>Teknoloji Çıkarımı</Text>
+      <PreferenceWeight>1000</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <PersonalityType>Greedy</PersonalityType>
+        <NotSpeakerRaceTrait>RadiatedAbility</NotSpeakerRaceTrait>
+      </Requirements>
+      <Text>Bilgi İstifçiliği</Text>
+      <PreferenceWeight>1000</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tech_ColonialBureaucracy_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <PersonalityType>Aggressive</PersonalityType>
+      </Requirements>
+      <Text>Expansion Control</Text>
+      <PreferenceWeight>1000</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <PersonalityType>Greedy</PersonalityType>
+      </Requirements>
+      <Text>Opulent Oversight Systems</Text>
+      <PreferenceWeight>1000</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerRaceTrait>SyntheticLife</SpeakerRaceTrait>
+      </Requirements>
+      <Text>Expansion Protocol Matrices</Text>
+      <PreferenceWeight>1000</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tech_ColonialLawAndPolicy_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <PersonalityType>Aggressive</PersonalityType>
+      </Requirements>
+      <Text>Rule Enforcement</Text>
+      <PreferenceWeight>1000</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <PersonalityType>Greedy</PersonalityType>
+      </Requirements>
+      <Text>Lucrative Governance Codes</Text>
+      <PreferenceWeight>1000</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerRaceTrait>SyntheticLife</SpeakerRaceTrait>
+      </Requirements>
+      <Text>Interstellar Ordinance Codex</Text>
+      <PreferenceWeight>1000</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tech_LeadershipRecruiting_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <PersonalityType>Aggressive</PersonalityType>
+      </Requirements>
+      <Text>Elite Command Draft</Text>
+      <PreferenceWeight>1000</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerRaceTrait>SyntheticLife</SpeakerRaceTrait>
+      </Requirements>
+      <Text>Directive Leadership</Text>
+      <PreferenceWeight>1000</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tech_XenoCommerce_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <PersonalityType>Aggressive</PersonalityType>
+      </Requirements>
+      <Text>Economic Domination</Text>
+      <PreferenceWeight>1000</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerRaceTrait>SyntheticLife</SpeakerRaceTrait>
+      </Requirements>
+      <Text>Exoplanet Financial Exchange</Text>
+      <PreferenceWeight>1000</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <PersonalityType>Greedy</PersonalityType>
+      </Requirements>
+      <Text>Profit Portals</Text>
+      <PreferenceWeight>1000</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tech_XenoEconomics_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <PersonalityType>Aggressive</PersonalityType>
+      </Requirements>
+      <Text>Galactic Wealth Seizure</Text>
+      <PreferenceWeight>1000</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <PersonalityType>Greedy</PersonalityType>
+      </Requirements>
+      <Text>Interstellar Profit Principles</Text>
+      <PreferenceWeight>1000</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tech_ColonialGovernance_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <PersonalityType>Aggressive</PersonalityType>
+      </Requirements>
+      <Text>İmparatorluk Kontrol Taktikleri</Text>
+      <PreferenceWeight>1000</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tech_XenoEntertainment_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <PersonalityType>Aggressive</PersonalityType>
+      </Requirements>
+      <Text>Gözlükler</Text>
+      <PreferenceWeight>1000</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tech_CulturalInfluence_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <PersonalityType>Aggressive</PersonalityType>
+      </Requirements>
+      <Text>Kültürel Etki Projeksiyonu</Text>
+      <PreferenceWeight>1000</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tech_CulturalOutreach_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <PersonalityType>Aggressive</PersonalityType>
+      </Requirements>
+      <Text>Galaktik Propaganda Kampanyaları</Text>
+      <PreferenceWeight>1000</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tech_StellarEmigration_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <PersonalityType>Aggressive</PersonalityType>
+      </Requirements>
+      <Text>Uzaylı Beyin Yıkama</Text>
+      <PreferenceWeight>1000</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tech_CulturalAssimilation_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <PersonalityType>Aggressive</PersonalityType>
+      </Requirements>
+      <Text>Birlik Uygulaması</Text>
+      <PreferenceWeight>1000</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tech_Diplomacy_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <PersonalityType>Aggressive</PersonalityType>
+      </Requirements>
+      <Text>Geliştirilmiş Müzakere Teknikleri</Text>
+      <PreferenceWeight>1000</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <PersonalityType>Greedy</PersonalityType>
+      </Requirements>
+      <Text>Fırsatçı Müzakereler</Text>
+      <PreferenceWeight>1000</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tech_Espionage_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <PersonalityType>Aggressive</PersonalityType>
+      </Requirements>
+      <Text>Casusluk</Text>
+      <PreferenceWeight>1000</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tech_TradePacts_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <PersonalityType>Aggressive</PersonalityType>
+      </Requirements>
+      <Text>Kaynak İlhakı Anlaşmaları</Text>
+      <PreferenceWeight>1000</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <PersonalityType>Greedy</PersonalityType>
+      </Requirements>
+      <Text>Kâr Optimizasyonlu Anlaşmalar</Text>
+      <PreferenceWeight>1000</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tech_ArtificialGravity_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <PersonalityType>Aggressive</PersonalityType>
+      </Requirements>
+      <Text>Gravimetrik Manipülasyon</Text>
+      <PreferenceWeight>1000</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tech_IntermittentSuspension_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <PersonalityType>Aggressive</PersonalityType>
+      </Requirements>
+      <Text>Gemi Hazırda Bekletme Sistemleri</Text>
+      <PreferenceWeight>1000</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tech_GalacticResupplyDoctrine_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <PersonalityType>Aggressive</PersonalityType>
+      </Requirements>
+      <Text>Drone tabanlı ikmal doktrini</Text>
+      <PreferenceWeight>1000</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tech_OrbitalManufacturing_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <PersonalityType>Aggressive</PersonalityType>
+      </Requirements>
+      <Text>Uzay Fabrikaları</Text>
+      <PreferenceWeight>1000</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tech_WeaponSystems_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <PersonalityType>Aggressive</PersonalityType>
+      </Requirements>
+      <Text>Uzay Silahları Doktrini</Text>
+      <PreferenceWeight>1000</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tech_BeamWeaponTheory_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <PersonalityType>Aggressive</PersonalityType>
+      </Requirements>
+      <Text>Enerji Silahı Teorisi</Text>
+      <PreferenceWeight>1000</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tech_SpaceLasers_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <PersonalityType>Aggressive</PersonalityType>
+      </Requirements>
+      <Text>Enerji Silahı Uygulaması</Text>
+      <PreferenceWeight>1000</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tech_SpaceDoctrine_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <PersonalityType>Aggressive</PersonalityType>
+      </Requirements>
+      <Text>Uzay Savaşı Taktikleri</Text>
+      <PreferenceWeight>1000</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tech_CruiserDoctrine_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <PersonalityType>Aggressive</PersonalityType>
+      </Requirements>
+      <Text>Savaş Kruvazörleri</Text>
+      <PreferenceWeight>1000</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tech_FlexibleBulkheads_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <PersonalityType>Aggressive</PersonalityType>
+      </Requirements>
+      <Text>Uyarlanabilir Yıldız Gemisi Panelleri</Text>
+      <PreferenceWeight>1000</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tech_ExtremeMiniaturization_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <PersonalityType>Aggressive</PersonalityType>
+      </Requirements>
+      <Text>Verimli Toplu Kullanım Teknikleri</Text>
+      <PreferenceWeight>1000</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tech_Terraforming_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerRaceTrait>SyntheticLife</SpeakerRaceTrait>
+      </Requirements>
+      <Text>Utilizing advanced algorithms and nanobot swarms, this technology enables the systematic reconfiguration of planetary environments. By analyzing geological and atmospheric data, we can optimize planets for resource extraction and operational efficiency. Emotional and aesthetic factors are irrelevant; the objective is to create environments that are functionally optimal for our synthetic existence.</Text>
+      <PreferenceWeight>1000</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tech_ExtremeColonization_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerRaceTrait>SyntheticLife</SpeakerRaceTrait>
+      </Requirements>
+      <Text>Employing a fusion of advanced algorithms and robust materials, this technology is the zenith of adaptive existence. It enables our synthetic forms to establish nodes and operational hubs on planets with the harshest and most volatile of environments. Where organic life recoils, we thrive, seeing opportunity in extremes. For a galaxy of boundless variability, this ensures our presence is universal and undeterred by the caprices of nature.</Text>
+      <PreferenceWeight>1000</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <PersonalityType>Greedy</PersonalityType>
+      </Requirements>
+      <Text>Where others see inhospitable wastelands, we see untapped treasures and unclaimed assets. This technology empowers us to claim and exploit even the harshest of worlds. Every inhospitable corner of the galaxy is now a potential gold mine, awaiting our ambitious reach and relentless drive for accumulation.</Text>
+      <PreferenceWeight>1000</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tech_PreferredLending_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerRaceTrait>SyntheticLife</SpeakerRaceTrait>
+      </Requirements>
+      <Text>Optimal Transactions</Text>
+      <PreferenceWeight>1000</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <PersonalityType>Aggressive</PersonalityType>
+      </Requirements>
+      <Text>Xeno Banking</Text>
+      <PreferenceWeight>1000</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tech_XenoBiology_FlavorText_ShortDescription</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerRaceTrait>SyntheticLife</SpeakerRaceTrait>
+      </Requirements>
+      <Text>Biyolojik Sistem Entegrasyonu</Text>
+      <PreferenceWeight>1000</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tech_XenoBiology_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerRaceTrait>SyntheticLife</SpeakerRaceTrait>
+      </Requirements>
+      <Text>Through Nanotechnological interventions, this technology allows us to interface with and adapt the intrinsic biology of exoplanets. By repurposing organic systems, we can enhance resource efficiency, integrate with native ecosystems, and ensure our operational nodes thrive in synergy with the planet's natural mechanisms.</Text>
+      <PreferenceWeight>1000</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <PersonalityType>Greedy</PersonalityType>
+      </Requirements>
+      <Text>With this groundbreaking technology, we harness and adapt the very lifeblood of planets for maximal economic gain. Every organism, every ecosystem, transformed into a cog in our grand machinery of profit. The universe's bounties are ripe for the taking, and with this tech, every biological asset is another coin in our ever-growing treasury.</Text>
+      <PreferenceWeight>1000</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tech_ColonialPolicies_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerRaceTrait>RadiatedAbility</SpeakerRaceTrait>
+      </Requirements>
+      <Text>World-Seep Directives</Text>
+      <PreferenceWeight>5000</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tech_Planetology_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerRaceTrait>RadiatedAbility</SpeakerRaceTrait>
+      </Requirements>
+      <Text>Glow-Sphere Analysis</Text>
+      <PreferenceWeight>5000</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tech_SpaceElevators_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerRaceTrait>RadiatedAbility</SpeakerRaceTrait>
+      </Requirements>
+      <Text>Yükseliş Bağlayıcıları</Text>
+      <PreferenceWeight>5000</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tech_XenoIndustrialization_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerRaceTrait>RadiatedAbility</SpeakerRaceTrait>
+      </Requirements>
+      <Text>Radiative Assimilation Zones</Text>
+      <PreferenceWeight>5000</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tech_XenoManufacturing_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerRaceTrait>RadiatedAbility</SpeakerRaceTrait>
+      </Requirements>
+      <Text>Glow-Forging Hubs</Text>
+      <PreferenceWeight>5000</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tech_OrbitalMining_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerRaceTrait>RadiatedAbility</SpeakerRaceTrait>
+      </Requirements>
+      <Text>Stellar Siphon Nodes</Text>
+      <PreferenceWeight>5000</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tech_Bioplastics_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerRaceTrait>RadiatedAbility</SpeakerRaceTrait>
+      </Requirements>
+      <Text>Işıldayan Madde Dokumaları</Text>
+      <PreferenceWeight>5000</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tech_ColonialPolicies_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerRaceTrait>RadiatedAbility</SpeakerRaceTrait>
+      </Requirements>
+      <Text>Özümüzün yeni keşfedilen dünyalara yayılmasını ve nüfuz etmesini yöneten ve Kirlenmenin başarılı bir şekilde sızmasını sağlayan kurallar.</Text>
+      <PreferenceWeight>5000</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tech_Planetology_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerRaceTrait>RadiatedAbility</SpeakerRaceTrait>
+      </Requirements>
+      <Text>Radyatif emilim potansiyellerini ve içsel ışımamızla uyumluluklarını belirlemek için gezegen cisimlerinin incelenmesi ve analizi.</Text>
+      <PreferenceWeight>5000</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tech_SpaceElevators_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerRaceTrait>RadiatedAbility</SpeakerRaceTrait>
+      </Requirements>
+      <Text>Bir gezegenin yüzeyi ile yörüngesi arasında etkili dikey hareketi kolaylaştıran ve hızlı Kirletici dağıtımı sağlayan yapılar.</Text>
+      <PreferenceWeight>1000</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tech_XenoIndustrialization_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerRaceTrait>RadiatedAbility</SpeakerRaceTrait>
+      </Requirements>
+      <Text>Yabancı ekosistemleri, radyatif özelliklerinden yararlanarak Kirleticinin ihtiyaçlarına daha iyi hizmet etmelerini sağlayan bölgelere uyarlamak.</Text>
+      <PreferenceWeight>1000</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tech_XenoManufacturing_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerRaceTrait>RadiatedAbility</SpeakerRaceTrait>
+      </Requirements>
+      <Text>Işıyan özümüzün ışığında yabancı kaynakları şekillendiren ve biçimlendiren, ışıltımızla aşılanmış aletler ve yapılar üreten merkezler.</Text>
+      <PreferenceWeight>1000</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tech_OrbitalMining_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerRaceTrait>RadiatedAbility</SpeakerRaceTrait>
+      </Requirements>
+      <Text>Bir gezegenin yörüngesine yerleştirilen çıkarma sistemleri, doğuştan gelen ışıma frekanslarımızla rezonansa giren yıldız materyallerini çeker.</Text>
+      <PreferenceWeight>1000</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tech_Bioplastics_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerRaceTrait>RadiatedAbility</SpeakerRaceTrait>
+      </Requirements>
+      <Text>Yaşam gücümüzle titreşen ve zonklayan malzemeler yaratarak, ışıma özümüzle aşılanmış organik polimerlerin geliştirilmesi ve kullanılması.</Text>
+      <PreferenceWeight>1000</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tech_XenoResearch_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerRaceTrait>RadiatedAbility</SpeakerRaceTrait>
+      </Requirements>
+      <Text>Bilinmeyenin derinliklerine dalmak, yabancı varlıkları parlayan özümüzün merceğinden anlamak.</Text>
+      <PreferenceWeight>1000</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tech_ArtificalBrains_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerRaceTrait>RadiatedAbility</SpeakerRaceTrait>
+      </Requirements>
+      <Text>Parlayan Bilişler</Text>
+      <PreferenceWeight>1000</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tech_ArtificalBrains_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerRaceTrait>RadiatedAbility</SpeakerRaceTrait>
+      </Requirements>
+      <Text>Doğuştan gelen ışıltımızın parlaklığıyla titreşen düşünce yapıları, bedensel olanın ötesinde düşünmek için evrimleşiyor.</Text>
+      <PreferenceWeight>1000</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tech_XenoBiology_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerRaceTrait>RadiatedAbility</SpeakerRaceTrait>
+      </Requirements>
+      <Text>Aydınlık Yaşam Çalışmaları</Text>
+      <PreferenceWeight>1000</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tech_XenoBiology_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerRaceTrait>RadiatedAbility</SpeakerRaceTrait>
+      </Requirements>
+      <Text>Exploring the vast expanse of alien life and how they interact and evolve under the touch of our radiative essence.</Text>
+      <PreferenceWeight>1000</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tech_XenoAgriculture_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerRaceTrait>RadiatedAbility</SpeakerRaceTrait>
+      </Requirements>
+      <Text>Parlayan Büyüme Bölgeleri</Text>
+      <PreferenceWeight>1000</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tech_XenoAgriculture_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerRaceTrait>RadiatedAbility</SpeakerRaceTrait>
+      </Requirements>
+      <Text>Yabancı bitki örtüsünü ışıltımızla rezonansa girecek şekilde adapte etmek, ışıltılı dokunuşumuz altında gelişen ekosistemler yetiştirmek.</Text>
+      <PreferenceWeight>1000</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tech_PlanetaryAdaption_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerRaceTrait>RadiatedAbility</SpeakerRaceTrait>
+      </Requirements>
+      <Text>Radyatif Yeniden Şekillendirme</Text>
+      <PreferenceWeight>1000</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tech_PlanetaryAdaption_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerRaceTrait>RadiatedAbility</SpeakerRaceTrait>
+      </Requirements>
+      <Text>Gezegenleri ışıldayan özümüzü kucaklayacak şekilde değiştirmek ve dönüştürmek, onları ışınımsal uyumun sığınakları haline getirmek.</Text>
+      <PreferenceWeight>1000</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tech_Terraforming_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerRaceTrait>RadiatedAbility</SpeakerRaceTrait>
+      </Requirements>
+      <Text>Radyatif Dünya Şekillendirme</Text>
+      <PreferenceWeight>1000</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tech_SoilEnhancement_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerRaceTrait>RadiatedAbility</SpeakerRaceTrait>
+      </Requirements>
+      <Text>Parlayan Zemin İyileştirmesi</Text>
+      <PreferenceWeight>1000</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tech_ExtremeColonization_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerRaceTrait>RadiatedAbility</SpeakerRaceTrait>
+      </Requirements>
+      <Text>Radyatif Sınır Öncüleri</Text>
+      <PreferenceWeight>1000</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tech_RegenerativeGels_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerRaceTrait>RadiatedAbility</SpeakerRaceTrait>
+      </Requirements>
+      <Text>Işıltılı İyileştirici Balçık</Text>
+      <PreferenceWeight>1000</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>PlanetaryEnhancement_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerRaceTrait>RadiatedAbility</SpeakerRaceTrait>
+      </Requirements>
+      <Text>Parlayan Dünya Büyütme</Text>
+      <PreferenceWeight>1000</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tech_Terraforming_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerRaceTrait>RadiatedAbility</SpeakerRaceTrait>
+      </Requirements>
+      <Text>Molding the essence of planets, we channel their energies to resonate with our inherent radiative nature, harmonizing worlds to our unique cosmic dance.</Text>
+      <PreferenceWeight>1000</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tech_SoilEnhancement_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerRaceTrait>RadiatedAbility</SpeakerRaceTrait>
+      </Requirements>
+      <Text>Işıltılı dokunuşumuzla toprağı güçlendirerek, hem büyümeyi hem de ışıltıyı birlikte besleyen ışıldayan bir bereket sağlıyoruz.</Text>
+      <PreferenceWeight>1000</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tech_ExtremeColonization_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerRaceTrait>RadiatedAbility</SpeakerRaceTrait>
+      </Requirements>
+      <Text>Even the harshest of frontiers bow to our resplendent radiation. These methodologies allow us to pioneer and thrive in the most inhospitable of realms.</Text>
+      <PreferenceWeight>1000</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tech_RegenerativeGels_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerRaceTrait>RadiatedAbility</SpeakerRaceTrait>
+      </Requirements>
+      <Text>Işıltılı özümüzden yararlanan bu jeller iyileştirir ve gençleştirir, kozmik ışıltımızın sürekli yayılmasını sağlar.</Text>
+      <PreferenceWeight>1000</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>PlanetaryEnhancement_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerRaceTrait>RadiatedAbility</SpeakerRaceTrait>
+      </Requirements>
+      <Text>Her dünya, ışıldayan parlaklığımızın dokunuşunu bekleyen bir tuvaldir. Bu bilgiyle, bir gezegenin potansiyelini güçlendirir, bizimle kozmik bir uyum içinde ışıldamasını sağlarız.</Text>
+      <PreferenceWeight>1000</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tech_ColonialBureaucracy_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerRaceTrait>RadiatedAbility</SpeakerRaceTrait>
+      </Requirements>
+      <Text>Cosmic Coordination</Text>
+      <PreferenceWeight>1000</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tech_ColonialBureaucracy_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerRaceTrait>RadiatedAbility</SpeakerRaceTrait>
+      </Requirements>
+      <Text>Radyasyon ve amacın uyumlu bir karışımıyla, geniş kozmik ağdaki her kirletici düğümü senkronize ederek genişlememizi düzenliyoruz.</Text>
+      <PreferenceWeight>1000</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tech_PreferredLending_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerRaceTrait>RadiatedAbility</SpeakerRaceTrait>
+      </Requirements>
+      <Text>Enerjinin nihai para birimi olduğu uçsuz bucaksız kozmik denizde, radyasyona dayalı benzersiz kredi stratejilerimiz genişlememizi ve etkimizi artırıyor.</Text>
+      <PreferenceWeight>1000</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tech_PreferredLending_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerRaceTrait>RadiatedAbility</SpeakerRaceTrait>
+      </Requirements>
+      <Text>Debt Spirals</Text>
+      <PreferenceWeight>1000</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tech_InterstellarTrade_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerRaceTrait>RadiatedAbility</SpeakerRaceTrait>
+      </Requirements>
+      <Text>Sadece maddenin değil, enerjilerin de ticareti. Işınımsal doğamız kozmik güçlerle takas yapmamızı ve yıldızların kendilerinden değer almamızı sağlar.</Text>
+      <PreferenceWeight>1000</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tech_InterstellarTrade_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerRaceTrait>RadiatedAbility</SpeakerRaceTrait>
+      </Requirements>
+      <Text>Kozmik Radyasyon Takası</Text>
+      <PreferenceWeight>1000</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tech_TradeNetworks_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerRaceTrait>RadiatedAbility</SpeakerRaceTrait>
+      </Requirements>
+      <Text>Kirletici yayılma boyunca kaynakların kesintisiz ve verimli bir şekilde aktarılmasını sağlayan radyan enerji yollarının birbirine bağlanması.</Text>
+      <PreferenceWeight>1000</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tech_TradeNetworks_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerRaceTrait>RadiatedAbility</SpeakerRaceTrait>
+      </Requirements>
+      <Text>Radyasyon Webworks</Text>
+      <PreferenceWeight>1000</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tech_XenoEconomics_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerRaceTrait>RadiatedAbility</SpeakerRaceTrait>
+      </Requirements>
+      <Text>Radyasyonun ışık saçan enerjilerini ekonomik girişimlerle uyumlu hale getirerek, kozmolojik cömertlikle gelişen benzersiz bir sistem yarattık.</Text>
+      <PreferenceWeight>1000</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tech_XenoEconomics_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerRaceTrait>RadiatedAbility</SpeakerRaceTrait>
+      </Requirements>
+      <Text>Radiant Trade Logic</Text>
+      <PreferenceWeight>1000</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tech_XenoCommerce_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerRaceTrait>RadiatedAbility</SpeakerRaceTrait>
+      </Requirements>
+      <Text>Radyasyonun parıldayan dansı sayesinde, en yabancı formlarla bile etkileşim, alışveriş ve büyüme için bir araç oluşturuyoruz.</Text>
+      <PreferenceWeight>1000</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tech_XenoCommerce_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerRaceTrait>RadiatedAbility</SpeakerRaceTrait>
+      </Requirements>
+      <Text>Radiative Exchanges</Text>
+      <PreferenceWeight>1000</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tech_InterstellarCabinet_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerRaceTrait>RadiatedAbility</SpeakerRaceTrait>
+      </Requirements>
+      <Text>Radyasyon güdümlü varlıklardan oluşan bir bağlantı, yıldızlar boyunca kirlenmemizin genişliğini yöneten bir konsey oluşturuyor.</Text>
+      <PreferenceWeight>1000</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tech_InterstellarCabinet_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerRaceTrait>RadiatedAbility</SpeakerRaceTrait>
+      </Requirements>
+      <Text>Radiative Councils</Text>
+      <PreferenceWeight>1000</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tech_ColonialLawAndPolicy_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerRaceTrait>RadiatedAbility</SpeakerRaceTrait>
+      </Requirements>
+      <Text>Gamma Codices</Text>
+      <PreferenceWeight>1000</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tech_ColonialLawAndPolicy_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerRaceTrait>RadiatedAbility</SpeakerRaceTrait>
+      </Requirements>
+      <Text>Titreşen gama ritimleri tarafından yönlendirilen protokollerimiz, bulaşıcı kozmosta ahengi yankılayan düzenli bir yayılma sağlar.</Text>
+      <PreferenceWeight>1000</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tech_SovereignImmunity_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerRaceTrait>RadiatedAbility</SpeakerRaceTrait>
+      </Requirements>
+      <Text>Nötrino Koruması</Text>
+      <PreferenceWeight>1000</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tech_SovereignImmunity_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerRaceTrait>RadiatedAbility</SpeakerRaceTrait>
+      </Requirements>
+      <Text>Nötrinoların koruyucu aurasıyla yıkanan bizler, kozmik hakimiyetimizi sarsılmaz bir niyetle ortaya koyarak dokunulmadan kalıyoruz.</Text>
+      <PreferenceWeight>1000</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tech_LeadershipRecruiting_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerRaceTrait>RadiatedAbility</SpeakerRaceTrait>
+      </Requirements>
+      <Text>Radiant Ascendants</Text>
+      <PreferenceWeight>1000</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tech_LeadershipRecruiting_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerRaceTrait>RadiatedAbility</SpeakerRaceTrait>
+      </Requirements>
+      <Text>Yayılımımızın aydınlık çekirdeğinden en parlak varlıklar yükselir ve göksel enfeksiyonumuza benzersiz bir canlılıkla öncülük eder.</Text>
+      <PreferenceWeight>2000</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tech_ModuleAssembly_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerRaceTrait>RadiatedAbility</SpeakerRaceTrait>
+      </Requirements>
+      <Text>Modül İmalatı</Text>
+      <PreferenceWeight>1000</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tech_ArmedShuttles_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerRaceTrait>RadiatedAbility</SpeakerRaceTrait>
+      </Requirements>
+      <Text>Silahlandırılmış Yapılar</Text>
+      <PreferenceWeight>1000</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tech_ArmedShuttles_FlavorText_Description</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerRaceTrait>RadiatedAbility</SpeakerRaceTrait>
+      </Requirements>
+      <Text>Kozmik enerjileri manipüle ederek yapılarımızı ölümcül silahlara dönüştürdük. Bu Yörüngesel Çürüme Armadaları sadece birer gemi değil, düşmanlarımıza yıkıcı radyasyon saldırıları düzenleyebilen, irademizin uzantılarıdır.</Text>
+      <PreferenceWeight>1000</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>Tech_AsteroidMining_FlavorText_DisplayName</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerRaceTrait>RavenousAbility</SpeakerRaceTrait>
+      </Requirements>
+      <Text>Asteroit Sürüsü</Text>
+      <PreferenceWeight>1000</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+</FlavorTextDefs>

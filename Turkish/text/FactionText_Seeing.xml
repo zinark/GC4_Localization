@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<StringTableList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+  <StringTable>
+    <Label>FACTION_SEEING_Name</Label>
+    <String>Intueri Agrega</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_SEEING_ShortName</Label>
+    <String>Intueri</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_SEEING_LeaderName</Label>
+    <String>Visus</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_SEEING_Dec</Label>
+    <String>Intueri'ler anlamlı bir karmaşık düşünce yeteneğine sahip olmayan bir kovan zihindir. Gördükleri her şeyi kavrayabilir ve taklit edebilirler ancak bağımsız olarak bilimsel atılımlar geliştirme konusunda çok yavaştırlar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_SEEING_LeaderDec</Label>
+    <String>Çok şey görür, daha fazlasını anlar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_SEEING_Callsign</Label>
+    <String>I.A.S.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_SEEING_StartupTitle</Label>
+    <String>Galaktik Tanıklar</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_SEEING_StartupDescription</Label>
+    <String>Sezgiler, izledikleri kişiler kadar hızlı gelişir. Tanık oldukları şeyleri kolayca kavrayabilir ve taklit edebilirler; ancak yaratıcı düşünce ve problem çözme yeteneklerinden yoksun olmaları kendi keşiflerini yapma becerilerini etkiler.[BR][BR]İntueri'nin kolektif bilinci Luxar ile temas kurana kadar neredeyse bin yıldır durgundu. Onların yıldız gemilerine ve ışıktan daha hızlı sürücülerine ilk kez baktıktan sonra, Intueri hızla yıldızlara yöneldi. Şimdi kendi zekâlarını genişletmek için başkalarının bilgisini çok uzaklarda arıyorlar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_SEEING_StartupTraitsDescription</Label>
+    <String>Intueri'ler yüksek keşif ve sensör menziline sahiptir, bu da galaksiyi hızlı bir şekilde haritalandırmalarını sağlar. Düşük Araştırma oranlarını telafi etmek için Intueri, diğer uygarlıklardan teknoloji ve araştırma çalmalarını sağlayan güçlü bir araç olan Kozmik Göz'e sahiptir.</String>
+  </StringTable>
+</StringTableList>

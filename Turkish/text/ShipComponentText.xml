@@ -1,0 +1,1649 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<StringTableList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+  <!-- Created with the GC4 editor -->
+  <!-- ShipComponentText.xml -->
+  <StringTable>
+    <Label>SurveyModule_Name</Label>
+    <String>Bayrak Modülü</String>
+  </StringTable>
+  <StringTable>
+    <Label>SurveyModule_Dec</Label>
+    <String>Q-1 Araştırma modülü, birkaç yıl önce bir kazı alanında keşfedilen Öncü teknolojilerden inşa edilmiştir. Bu eşsiz cihaz geminin yıldızlararası anomalileri araştırmasını sağlar. Sakın kaybetmeyin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>StartingSurveyModule_Name</Label>
+    <String>Deneysel Anket Modülü</String>
+  </StringTable>
+  <StringTable>
+    <Label>StartingSurveyModule_Dec</Label>
+    <String>Mevcut kullanıcı tarafından bulunmadan önce Öncüler tarafından inşa edildiğine inanılan Survey modülleri, yıldızlararası anomalilerin gizemlerine nüfuz etmek için egzotik teknolojilerden yararlanır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>CommandShipModule_Name</Label>
+    <String>Komuta Merkezi</String>
+  </StringTable>
+  <StringTable>
+    <Label>CommandShipModule_Dec</Label>
+    <String>[ICON=LeaderStat_Diligence_Icon] Komutanın [HS=HS_HitPoints]Hit Points[/HS] değerine göre artırılmış [HS=HS_Diligence]Diligence[/HS].[BR][ICON=LeaderStat_Resolve_Icon] Komutanın [HS=HS_Resolve]Resolve[/HS] değerine göre artırılmış Saldırı.</String>
+  </StringTable>
+  <StringTable>
+    <Label>CommandShipModule_Arcean_Name</Label>
+    <String>Arcean Komuta Merkezi</String>
+  </StringTable>
+  <StringTable>
+    <Label>CommandShipModule_Arcean_Dec</Label>
+    <String>[ICON=LeaderStat_Diligence_Icon] Komutanın [HS=HS_HitPoints]Hit Points[/HS] değerine göre artırılmış [HS=HS_Diligence]Diligence[/HS].[BR][ICON=LeaderStat_Resolve_Icon] Komutanın [HS=HS_Resolve]Resolve[/HS] değerine göre artırılmış Saldırı.</String>
+  </StringTable>
+  <StringTable>
+    <Label>CommandShipModule_Resistance_Name</Label>
+    <String>Direniş Komuta Merkezi</String>
+  </StringTable>
+  <StringTable>
+    <Label>CommandShipModule_Resistance_Dec</Label>
+    <String>[ICON=LeaderStat_Diligence_Icon] Komutanın [HS=HS_HitPoints]Hit Points[/HS] değerine [HS=HS_Diligence]Diligence[/HS] değerine bağlı olarak artırıldı. [BR][ICON=LeaderStat_Resolve_Icon] Komutanın [HS=HS_Resolve]Azmine[/HS] bağlı olarak artan Saldırı.[BR][ICON=Stat_Special_Icon] +%100 Deneyim.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AsteroidModule_Name</Label>
+    <String>Madencilik Lazer</String>
+  </StringTable>
+  <StringTable>
+    <Label>AsteroidModule_Dec</Label>
+    <String>SpaceT Model 3A Asteroid Madencilik Sistemi.</String>
+  </StringTable>
+  <StringTable>
+    <Label>HypergateComponent_Name</Label>
+    <String>Hypergate Bileşeni</String>
+  </StringTable>
+  <StringTable>
+    <Label>HypergateComponent_Dec</Label>
+    <String>Hipergatların inşasına izin verir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>UnitTransportModule_Name</Label>
+    <String>Birim Taşıma Modülü</String>
+  </StringTable>
+  <StringTable>
+    <Label>UnitTransportModule_Dec</Label>
+    <String>İstilalar için birimleri taşır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Lasers_Name</Label>
+    <String>Lazerler</String>
+  </StringTable>
+  <StringTable>
+    <Label>Lasers_Dec</Label>
+    <String>Westinghouse OTO Nimbus Lazer Dizisi.[BR][BR][HS=HS_BeamWeapon]Işın silahları[/HS] makul bir üretim maliyetiyle orta düzeyde hasar sağlar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ParticleBeam_Name</Label>
+    <String>Parçacık Işını</String>
+  </StringTable>
+  <StringTable>
+    <Label>ParticleBeam_Dec</Label>
+    <String>Westinghouse M103 Melera Hafif Gravitik Füzyon Darbe topu.[BR][BR][HS=HS_BeamWeapon]Işın silahları[/HS] makul bir üretim maliyetiyle orta düzeyde hasar sağlar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_ExperimentalLaser_Name</Label>
+    <String>Deneysel Lazer</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_ExperimentalLaser_Dec</Label>
+    <String>Deneysel bir lazer sistemi.[BR][BR][HS=HS_BeamWeapon]Işın silahları[/HS] makul bir üretim maliyetiyle orta düzeyde hasar sağlar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Disrupters_Name</Label>
+    <String>Yıkıcı Banka</String>
+  </StringTable>
+  <StringTable>
+    <Label>Disrupters_Dec</Label>
+    <String>Walther X-2 Madde Bozucu Sistem.[BR][BR][HS=HS_BeamWeapon]Işın silahları[/HS] makul bir üretim maliyetiyle orta düzeyde hasar sağlar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Plasma_Name</Label>
+    <String>Plazma Bölmesi</String>
+  </StringTable>
+  <StringTable>
+    <Label>Plasma_Dec</Label>
+    <String>Westinghouse M2000 Plazma Podu.[BR][BR][HS=HS_BeamWeapon]Işın silahları[/HS] makul bir üretim maliyetiyle orta düzeyde hasar sağlar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ParticleBeamX_Name</Label>
+    <String>Geliştirilmiş Parçacık Işını</String>
+  </StringTable>
+  <StringTable>
+    <Label>ParticleBeamX_Dec</Label>
+    <String>Westinghouse M105 Melera Hafif Gravitik Füzyon Darbe topu.[BR][BR][HS=HS_BeamWeapon]Işın silahları[/HS] makul bir üretim maliyetiyle orta düzeyde hasar sağlar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>DisruptersX_Name</Label>
+    <String>Geliştirilmiş Yıkıcı Bankası</String>
+  </StringTable>
+  <StringTable>
+    <Label>DisruptersX_Dec</Label>
+    <String>Walther X-3 Madde Bozucu Sistem.[BR][BR][HS=HS_BeamWeapon]Işın silahları[/HS] makul bir üretim maliyetiyle orta düzeyde hasar sağlar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>DisruptersXe_Name</Label>
+    <String>Deneysel Yıkıcı Bankası</String>
+  </StringTable>
+  <StringTable>
+    <Label>DisruptersXe_Dec</Label>
+    <String>Walther X-3a Madde Bozucu Sistem.[BR][BR][HS=HS_BeamWeapon]Işın silahları[/HS] makul bir üretim maliyetiyle orta düzeyde hasar sağlar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>PlasmaX_Name</Label>
+    <String>Geliştirilmiş Plazma Kapsülü</String>
+  </StringTable>
+  <StringTable>
+    <Label>PlasmaX_Dec</Label>
+    <String>Westinghouse M2000A Omni Plazma Podu.[BR][BR]120 Terawatt güç kullanan bu plazma tabanlı silah sistemi makul bir üretim maliyetiyle orta düzeyde hasar sağlar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>PlasmaXe_Name</Label>
+    <String>Deneysel Plazma Kapsülü</String>
+  </StringTable>
+  <StringTable>
+    <Label>PlasmaXe_Dec</Label>
+    <String>Westinghouse M2000A-X Omni Plazma Podu.[BR][BR]130 Terawatt güç kullanan bu plazma tabanlı silah sistemi makul bir üretim maliyetiyle orta düzeyde hasar sağlar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>PhasedCannons_Name</Label>
+    <String>Aşamalı Toplar</String>
+  </StringTable>
+  <StringTable>
+    <Label>PhasedCannons_Dec</Label>
+    <String>Westinghouse M3KA1 Aşamalı enerji silah sistemi.[BR][BR]175 Terawatt güç sağlayan bu aşamalı enerji silah sistemi, tüm ışın silah sistemleri gibi, makul bir üretim maliyetiyle orta düzeyde hasar sağlar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>DoomRay_Name</Label>
+    <String>Doom Işını</String>
+  </StringTable>
+  <StringTable>
+    <Label>DoomRay_Dec</Label>
+    <String>Westinghouse MX-Z1 Aşamalı "Doom" ışını.[BR][BR]Bu silah sisteminin nasıl çalıştığı çok gizli. Sizin için bile.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Missile_HypersonicMissile_Name</Label>
+    <String>Hipersonik Füze</String>
+  </StringTable>
+  <StringTable>
+    <Label>Missile_HypersonicMissile_Dec</Label>
+    <String>Banthar M1 Uzay Füzesi.[BR][BR][HS=HS_MissileWeapon]Füze silahları[/HS] savaşta biraz daha zayıftır ancak düşman filolarına menzilden saldırmak için kullanılabilir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Stinger_Name</Label>
+    <String>Stinger</String>
+  </StringTable>
+  <StringTable>
+    <Label>Stinger_Dec</Label>
+    <String>Kısa menzilli füze saldırısını etkinleştirir.[BR][BR][HS=HS_MissileWeapon]Füze silahları[/HS] savaşta biraz daha zayıftır ancak düşman filolarına menzilden saldırmak için kullanılabilir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_ExperimentalMissile_Name</Label>
+    <String>Deneysel Füze Bankası</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_ExperimentalMissile_Dec</Label>
+    <String>Orta menzilli füze saldırısını etkinleştirir.[BR][BR][HS=HS_MissileWeapon]Füze silahları[/HS] savaşta biraz daha zayıftır ancak düşman filolarına menzilden saldırmak için kullanılabilir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Harpoon_Name</Label>
+    <String>İntikamcı</String>
+  </StringTable>
+  <StringTable>
+    <Label>Harpoon_Dec</Label>
+    <String>Raytheox M-4 "Avenger" füzesi.[BR][BR]Nükleer bir yük taşır. [HS=HS_MissileWeapon]Füze silahları[/HS] savaşta biraz daha zayıftır ancak menzildeki düşman filolarına saldırmak için kullanılabilir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Phoenix_Name</Label>
+    <String>Anka Kuşu Füzesi</String>
+  </StringTable>
+  <StringTable>
+    <Label>Phoenix_Dec</Label>
+    <String>Sandrala "Phoenix" Orta Boy Füze[BR][BR]Sandrala, büyük hasar vermek için füzyon tabanlı bir nükleer reaksiyon kullanır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>PhotonicWarhead_Name</Label>
+    <String>Fotonik Savaş Başlığı</String>
+  </StringTable>
+  <StringTable>
+    <Label>PhotonicWarhead_Dec</Label>
+    <String>Melera Ağır "Fotonik" savaş başlığı.[BR][BR]Melera düşmana yıkıcı bir füzyon reaksiyonu sunar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>HarpoonX_Name</Label>
+    <String>Harpoon Füzesi</String>
+  </StringTable>
+  <StringTable>
+    <Label>HarpoonX_Dec</Label>
+    <String>Raytheox M-4X "Harpoon" füzesi. Kısa menzilli füze saldırısı sağlar.[BR][BR]Bir antimadde yükü taşır. [HS=HS_MissileWeapon]Füze silahları[/HS] savaşta biraz daha zayıftır ancak düşman filolarına menzilden saldırmak için kullanılabilir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>PhoenixX_Name</Label>
+    <String>Matadrox Füzesi</String>
+  </StringTable>
+  <StringTable>
+    <Label>PhoenixX_Dec</Label>
+    <String>Raytheonix "Matadrox" Orta Boy Füze.[BR][BR]Antimadde tabanlı bir savaş başlığı gönderir. [HS=HS_MissileWeapon]Füze silahları[/HS] savaşta biraz daha zayıftır ancak düşman filolarına menzilden saldırmak için kullanılabilir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>PhotonicWarheadX_Name</Label>
+    <String>MeleraX Savaş Başlığı</String>
+  </StringTable>
+  <StringTable>
+    <Label>PhotonicWarheadX_Dec</Label>
+    <String>Geliştirilmiş Melera "Fotonik" savaş başlığı.[BR][BR]Geliştirilmiş Melera, reaksiyonu yoğunlaştırmak için bir antimadde parçası ekler.</String>
+  </StringTable>
+  <StringTable>
+    <Label>TritonTorpedoes_Name</Label>
+    <String>Triton Torpidoları</String>
+  </StringTable>
+  <StringTable>
+    <Label>TritonTorpedoes_Dec</Label>
+    <String>GH-32 "Triton" Yıldız Torpidosu muazzam tahrip kabiliyeti için antimadde gerektirir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>NightmareTorpedoes_Name</Label>
+    <String>Kabus Torpidoları</String>
+  </StringTable>
+  <StringTable>
+    <Label>NightmareTorpedoes_Dec</Label>
+    <String>Raytheonix Mk 76 "Kabus" Yıldız Torpidosu, düşmana büyük hasar vermek için uzay-zaman dokusunda geçici zayıflıklar yaratır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Cannon_Name</Label>
+    <String>Yıldız Topu</String>
+  </StringTable>
+  <StringTable>
+    <Label>Cannon_Dec</Label>
+    <String>Arsenal Mk III "Yıldız" topu.[BR][BR][HS=HS_KineticWeapon]Kinetik Silahlar[/HS] yüksek hasarı yüksek Üretim maliyeti ile birleştirir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>PulseCannon_Name</Label>
+    <String>Railgun</String>
+  </StringTable>
+  <StringTable>
+    <Label>PulseCannon_Dec</Label>
+    <String>Arsenal Mk V Uzay raylı tüfeği.[BR][BR][HS=HS_KineticWeapon]Kinetik Silahlar[/HS] yüksek hasarı yüksek Üretim maliyeti ile birleştirir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_ExperimentalKinetic_Name</Label>
+    <String>Deneysel Top</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_ExperimentalKinetic_Dec</Label>
+    <String>[HS=HS_KineticWeapon]Kinetik Silahlar[/HS] yüksek hasarı yüksek Üretim maliyeti ile birleştirir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MassDriver_Name</Label>
+    <String>Darbe Topu</String>
+  </StringTable>
+  <StringTable>
+    <Label>MassDriver_Dec</Label>
+    <String>General Destruction Pulse Cannon Mk I.[BR][BR][HS=HS_KineticWeapon]Kinetik Silahlar[/HS] yüksek hasarı yüksek Üretim maliyetiyle birleştirir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>VulcanicDriver_Name</Label>
+    <String>Graviton Tabancası</String>
+  </StringTable>
+  <StringTable>
+    <Label>VulcanicDriver_Dec</Label>
+    <String>Copeland Industries Graviton "Gun", düşman gövdelerini parçalamak için yüksek ateş hızı sağlamak üzere egzotik malzemeler kullanır.[BR][BR][HS=HS_KineticWeapon]Kinetik Silahlar[/HS] yüksek hasarı yüksek Üretim maliyeti ile birleştirir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>PulseCannonX_Name</Label>
+    <String>Geliştirilmiş Raylı Tüfek</String>
+  </StringTable>
+  <StringTable>
+    <Label>PulseCannonX_Dec</Label>
+    <String>General Destruction Mk I Railgun, merminin yoğunluğunu büyük ölçüde artırmak için bir Thulium parçasını entegre eder.[BR][BR][HS=HS_KineticWeapon]Kinetik Silahlar[/HS] yüksek hasarı yüksek Üretim maliyeti ile birleştirir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MassDriverX_Name</Label>
+    <String>Geliştirilmiş Darbe Topu</String>
+  </StringTable>
+  <StringTable>
+    <Label>MassDriverX_Dec</Label>
+    <String>Genel Yıkım "Parçalayıcı" Darbe Topu. Mermi yoğunluğunu artırmak için Tülyum kullanır.[BR][BR][HS=HS_KineticWeapon]Kinetik Silahlar[/HS] yüksek hasarı yüksek Üretim maliyetiyle birleştirir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>VulcanicDriverX_Name</Label>
+    <String>Graviton Vulcan Silahı</String>
+  </StringTable>
+  <StringTable>
+    <Label>VulcanicDriverX_Dec</Label>
+    <String>Copeland Industries Geliştirilmiş "Vulcan" silahı, mühimmatın yan tarafını artırmadan hedefe daha fazla kütle iletmek için Thulium kullanır.[BR][BR][HS=HS_KineticWeapon]Kinetik Silahlar[/HS] yüksek hasarı yüksek Üretim maliyeti ile birleştirir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>QuantumDriver_Name</Label>
+    <String>Kuantum Sürücü</String>
+  </StringTable>
+  <StringTable>
+    <Label>QuantumDriver_Dec</Label>
+    <String>Meridoc "Kuantum" Sürücü Mk-I. Aslen alt uzay akışı odak noktalarını parçalamak için kullanılan Kuantum sürücüsü çok güçlü bir silah sistemi oluşturur.[BR][BR][HS=HS_KineticWeapon]Kinetik Silahlar[/HS] yüksek hasarı yüksek Üretim maliyeti ile birleştirir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>SingularityDriver_Name</Label>
+    <String>Tekillik Sürücüsü</String>
+  </StringTable>
+  <StringTable>
+    <Label>SingularityDriver_Dec</Label>
+    <String>Meridoc Kara Delik Projektörü.[BR][BR]Düşmana bir tekillik parçası (küçük bir kara delik) ateşler. Temas büyük hasara yol açar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Deflectors_Name</Label>
+    <String>Deflektörler</String>
+  </StringTable>
+  <StringTable>
+    <Label>Deflectors_Dec</Label>
+    <String>Kalkan Gücünü Artırır</String>
+  </StringTable>
+  <StringTable>
+    <Label>AdvDeflectors_Name</Label>
+    <String>Gelişmiş Deflektörler</String>
+  </StringTable>
+  <StringTable>
+    <Label>AdvDeflectors_Dec</Label>
+    <String>Eleryum kullanarak Kalkan Gücünü artırır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ShieldGenerators_Name</Label>
+    <String>Kalkan Jeneratörleri</String>
+  </StringTable>
+  <StringTable>
+    <Label>ShieldGenerators_Dec</Label>
+    <String>Kalkan Gücünü Artırır</String>
+  </StringTable>
+  <StringTable>
+    <Label>AdvShieldGenerators_Name</Label>
+    <String>Gelişmiş Kalkan Jeneratörleri</String>
+  </StringTable>
+  <StringTable>
+    <Label>AdvShieldGenerators_Dec</Label>
+    <String>Eleryum kullanarak Kalkan Gücünü artırır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>BarrierFields_Name</Label>
+    <String>Bariyer Alanları</String>
+  </StringTable>
+  <StringTable>
+    <Label>BarrierFields_Dec</Label>
+    <String>Kalkan Gücünü Artırır</String>
+  </StringTable>
+  <StringTable>
+    <Label>AdvBarrierFields_Name</Label>
+    <String>Gelişmiş Bariyer Alanları</String>
+  </StringTable>
+  <StringTable>
+    <Label>AdvBarrierFields_Dec</Label>
+    <String>Eleryum kullanarak Kalkan Gücünü artırır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ForceFields_Name</Label>
+    <String>Kuvvet Alanları</String>
+  </StringTable>
+  <StringTable>
+    <Label>ForceFields_Dec</Label>
+    <String>Kalkan Gücünü Artırır</String>
+  </StringTable>
+  <StringTable>
+    <Label>InvulnerabilityField_Name</Label>
+    <String>Dokunulmazlık Alanı</String>
+  </StringTable>
+  <StringTable>
+    <Label>InvulnerabilityField_Dec</Label>
+    <String>Kalkan Gücünü Artırır</String>
+  </StringTable>
+  <StringTable>
+    <Label>Chaff_Name</Label>
+    <String>Saman</String>
+  </StringTable>
+  <StringTable>
+    <Label>Chaff_Dec</Label>
+    <String>Kaçmayı Artırır</String>
+  </StringTable>
+  <StringTable>
+    <Label>PointDefense_Name</Label>
+    <String>Kaçış</String>
+  </StringTable>
+  <StringTable>
+    <Label>PointDefense_Dec</Label>
+    <String>Kaçmayı Artırır</String>
+  </StringTable>
+  <StringTable>
+    <Label>AdvPointDefense_Name</Label>
+    <String>Gelişmiş Kaçınma</String>
+  </StringTable>
+  <StringTable>
+    <Label>AdvPointDefense_Dec</Label>
+    <String>Antimadde tespiti ile Kaçınma gücünü artırır</String>
+  </StringTable>
+  <StringTable>
+    <Label>ECM_Name</Label>
+    <String>ECM</String>
+  </StringTable>
+  <StringTable>
+    <Label>ECM_Dec</Label>
+    <String>Kaçmayı Artırır</String>
+  </StringTable>
+  <StringTable>
+    <Label>AdvECM_Name</Label>
+    <String>Gelişmiş ECM</String>
+  </StringTable>
+  <StringTable>
+    <Label>AdvECM_Dec</Label>
+    <String>Antimadde tespiti ile Kaçınma gücünü artırır</String>
+  </StringTable>
+  <StringTable>
+    <Label>DroneSentries_Name</Label>
+    <String>Drone Nöbetçileri</String>
+  </StringTable>
+  <StringTable>
+    <Label>DroneSentries_Dec</Label>
+    <String>Kaçmayı Artırır</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArreonMissileDefense_Name</Label>
+    <String>Arreon Füze Savunması</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArreonMissileDefense_Dec</Label>
+    <String>Kaçmayı Artırır</String>
+  </StringTable>
+  <StringTable>
+    <Label>HullPlating_Name</Label>
+    <String>Gövde Kaplama</String>
+  </StringTable>
+  <StringTable>
+    <Label>HullPlating_Dec</Label>
+    <String>Zırh Derecesini Artırır</String>
+  </StringTable>
+  <StringTable>
+    <Label>TitaniumPlating_Name</Label>
+    <String>Titanyum Kaplama</String>
+  </StringTable>
+  <StringTable>
+    <Label>TitaniumPlating_Dec</Label>
+    <String>Zırh Derecesini Artırır</String>
+  </StringTable>
+  <StringTable>
+    <Label>CarbonCrystalComposite_Name</Label>
+    <String>Karbon Kristal Kaplama</String>
+  </StringTable>
+  <StringTable>
+    <Label>CarbonCrystalComposite_Dec</Label>
+    <String>Zırh Derecesini Artırır</String>
+  </StringTable>
+  <StringTable>
+    <Label>DurantiumComposite_Name</Label>
+    <String>Thulium Kompozit</String>
+  </StringTable>
+  <StringTable>
+    <Label>DurantiumComposite_Dec</Label>
+    <String>Thulium kullanarak Zırh Derecesini artırır</String>
+  </StringTable>
+  <StringTable>
+    <Label>KanviumLaminate_Name</Label>
+    <String>Kanvium Laminat</String>
+  </StringTable>
+  <StringTable>
+    <Label>KanviumLaminate_Dec</Label>
+    <String>Zırh Derecesini Artırır</String>
+  </StringTable>
+  <StringTable>
+    <Label>ZeroPointArmor_Name</Label>
+    <String>Sıfır Noktası Zırhı</String>
+  </StringTable>
+  <StringTable>
+    <Label>ZeroPointArmor_Dec</Label>
+    <String>Zırh Derecesini Artırır</String>
+  </StringTable>
+  <StringTable>
+    <Label>ColonyModule_Name</Label>
+    <String>Koloni Modülü</String>
+  </StringTable>
+  <StringTable>
+    <Label>ColonyModule_Dec</Label>
+    <String>Bir geminin Kolonileşmesine izin verir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ConstructorModule_Name</Label>
+    <String>Kurucu Modül</String>
+  </StringTable>
+  <StringTable>
+    <Label>ConstructorModule_Dec</Label>
+    <String>Bir geminin yıldız üssü inşa etmesine izin verir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ConstructorModuleAuto_Name</Label>
+    <String>Verimli Kurucu Modülü</String>
+  </StringTable>
+  <StringTable>
+    <Label>ConstructorModuleAuto_Dec</Label>
+    <String>Bir geminin yıldız üssü inşa etmesine izin verir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>CargoModule_Name</Label>
+    <String>Kargo Modülü</String>
+  </StringTable>
+  <StringTable>
+    <Label>CargoModule_Dec</Label>
+    <String>Bir geminin ticaret rotası oluşturmasına izin verir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>SupplyModule_Name</Label>
+    <String>Besleme Modülü</String>
+  </StringTable>
+  <StringTable>
+    <Label>SupplyModule_Dec</Label>
+    <String>Bir geminin İmalatı başka bir dünyaya taşımasına izin verir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>SupplyModule_Prolific_Name</Label>
+    <String>Prolific Tedarik Modülü</String>
+  </StringTable>
+  <StringTable>
+    <Label>SupplyModule_Prolific_Dec</Label>
+    <String>Bir geminin İmalatı başka bir dünyaya taşımasına izin verir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>TransportModule_Name</Label>
+    <String>Taşıma Modülü</String>
+  </StringTable>
+  <StringTable>
+    <Label>TransportModule_Dec</Label>
+    <String>Bir geminin gezegenleri istila etmesine izin verir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AdvancedTransportModule_Name</Label>
+    <String>Gelişmiş Taşıma Modülü</String>
+  </StringTable>
+  <StringTable>
+    <Label>AdvancedTransportModule_Dec</Label>
+    <String>Bir geminin Gezegenleri İstila etmesine izin verir ve 2 Önleme Uçağı taşır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>SporeModule_Name</Label>
+    <String>Spor Modülü</String>
+  </StringTable>
+  <StringTable>
+    <Label>SporeModule_Dec</Label>
+    <String>İşgal sırasında tüm dünya nüfusunu öldürür.</String>
+  </StringTable>
+  <StringTable>
+    <Label>CarrierModule_Name</Label>
+    <String>Taşıyıcı Modül</String>
+  </StringTable>
+  <StringTable>
+    <Label>CarrierModule_Dec</Label>
+    <String>4 Hızlı ve ölümcül Savaşçı taşır</String>
+  </StringTable>
+  <StringTable>
+    <Label>AssaultCarrierModule_Name</Label>
+    <String>Saldırı Taşıyıcı Modülü</String>
+  </StringTable>
+  <StringTable>
+    <Label>AssaultCarrierModule_Dec</Label>
+    <String>9 Hızlı ve ölümcül Saldırı Savaşçısı taşır</String>
+  </StringTable>
+  <StringTable>
+    <Label>RepairBay_Name</Label>
+    <String>Onarım Bölmesi</String>
+  </StringTable>
+  <StringTable>
+    <Label>RepairBay_Dec</Label>
+    <String>[ICON=Hitpoints_Icon] Aylık +2 Filo Onarımı</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_HitPoints_Name</Label>
+    <String>Gövde Desteği</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_HitPoints_Dec</Label>
+    <String>[ICON=Hitpoints_Icon] +4 Hit Puanı</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_HitPointsCap_Name</Label>
+    <String>Gövde Takviyesi</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_HitPointsCap_Dec</Label>
+    <String>[ICON=Hitpoints_Icon] +4 Vuruş Puanı ve +%20 Vuruş Puanı</String>
+  </StringTable>
+  <StringTable>
+    <Label>ReinforcedHullX_Name</Label>
+    <String>Genişletilmiş Güçlendirilmiş Gövde</String>
+  </StringTable>
+  <StringTable>
+    <Label>ReinforcedHullX_Dec</Label>
+    <String>Maliyet söz konusu olmadığında son derece pahalı gövde iyileştirmesi.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_Regen_Name</Label>
+    <String>Dökümhane</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_Regen_Dec</Label>
+    <String>[ICON=Hitpoints_Icon] Ay başına +4 Onarım</String>
+  </StringTable>
+  <StringTable>
+    <Label>DivineTempleSupportModule_Name</Label>
+    <String>İlahi Tapınak Modülü</String>
+  </StringTable>
+  <StringTable>
+    <Label>DivineTempleSupportModule_Dec</Label>
+    <String>Bir filodaki tüm gemilerde her türlü savunmayı büyük ölçüde artırın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrecursorProtectionField_Name</Label>
+    <String>Prekürsör Koruma Alanı</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrecursorProtectionField_Dec</Label>
+    <String>Bir filodaki tüm gemilerde her türlü savunmayı büyük ölçüde artırın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ZalonDefenseSystem_Name</Label>
+    <String>Zalon Savunma Sistemi</String>
+  </StringTable>
+  <StringTable>
+    <Label>ZalonDefenseSystem_Dec</Label>
+    <String>[ICON=Stat_Special_Icon] Savaştaki düşman gemilerinin tüm savunma türlerini %15 oranında azaltır</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_InfiniteRange_Name</Label>
+    <String>Sonsuz Menzil</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_InfiniteRange_Dec</Label>
+    <String>[ICON=Shiprange_Icon] Bu gemi sınırsız menzile sahiptir</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_Escape_Name</Label>
+    <String>Flash Motor</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_Escape_Dec</Label>
+    <String>[ICON=Stat_Special_Icon] Savaştan kaçmak için %75 şans</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_Escape25_Name</Label>
+    <String>İticiler</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_Escape25_Dec</Label>
+    <String>[ICON=Stat_Special_Icon] Savaştan kaçmak için %25 şans</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_InvasionCredits_Name</Label>
+    <String>Worldbridge</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_InvasionCredits_Dec</Label>
+    <String>[ICON=Stat_Credits_Net_Icon] İşgal edilen gezegen başına +100 Kredi</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_SurveyAntimatter_Name</Label>
+    <String>Madde Dönüştürücü</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_SurveyAntimatter_Dec</Label>
+    <String>[ICON=CanSurveyIcon] Sörveyden +1 Antimadde</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_BattlePromethion_Name</Label>
+    <String>Esans Şişesi</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_BattlePromethion_Dec</Label>
+    <String>[ICON=CanSurveyIcon] Savaştan +1 Promethion</String>
+  </StringTable>
+  <StringTable>
+    <Label>Upgrade_Salvage_Name</Label>
+    <String>Kurtarma</String>
+  </StringTable>
+  <StringTable>
+    <Label>Upgrade_Salvage_Dec</Label>
+    <String>[ICON=Stat_Credits_Net_Icon] Araştırılan Anomali Başına +25 Kredi</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_Faction1_Name</Label>
+    <String>Deneysel</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_Faction1_Dec</Label>
+    <String>Bu gemi fraksiyonumuza özgüdür</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_Prototype_Name</Label>
+    <String>Prototip</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_Prototype_Dec</Label>
+    <String>Prototipler benzersizdir, bir kez yok edildiklerinde sonsuza dek yok olurlar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ProbeModule_Name</Label>
+    <String>Prob Modülü</String>
+  </StringTable>
+  <StringTable>
+    <Label>ProbeModule_Dec</Label>
+    <String>[ICON=Shiprange_Icon] Sınırsız Aralık</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_HitPointsZOC50_Name</Label>
+    <String>Integrity Cloud</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_HitPointsZOC50_Dec</Label>
+    <String>[ICON=Hitpoints_Icon] Sınırların içindeyken +%50 Hit Puanı</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_AntimatterBomb_Name</Label>
+    <String>Antimadde Bombası</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_AntimatterBomb_Dec</Label>
+    <String>[ICON=Stat_Special_Icon] Antimadde Bombası 1 karelik yarıçap içindeki düşman filolarına hasar verir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_RepairDrones_Name</Label>
+    <String>Onarım Dronu</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_RepairDrones_Dec</Label>
+    <String>[ICON=Stat_Special_Icon] Dronlar yakındaki herhangi bir filoyu onarmak için gönderilebilir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_FleetShields_Name</Label>
+    <String>Saha Jeneratörü</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_FleetShields_Dec</Label>
+    <String>[ICON=ShieldStrengthIcon] +%20 Filo Kalkan Gücü</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_FleetPointDefense_Name</Label>
+    <String>Füze Bozucu</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_FleetPointDefense_Dec</Label>
+    <String>[ICON=PointDefenseIcon] +%20 Filo Kaçırma</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_FleetArmor_Name</Label>
+    <String>Bütünlük Alanı</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_FleetArmor_Dec</Label>
+    <String>[ICON=ArmorRateingIcon] +%20 Filo Zırhı</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_FleetDefense_Name</Label>
+    <String>3 Fazlı Savunma Sistemi</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_FleetDefense_Dec</Label>
+    <String>[ICON=ArmorRateingIcon] +10% Tüm Filo Savunmaları</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_BoostEngine_Name</Label>
+    <String>Boost Motor</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_BoostEngine_Dec</Label>
+    <String>[ICON=Moves_Icon] +1 Hareket</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_Moves_Name</Label>
+    <String>Yıldızlararası Sürücü</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_Moves_Dec</Label>
+    <String>[ICON=Moves_Icon] +2 Hareket</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_Moves3_Name</Label>
+    <String>Korumasız İtici</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_Moves3_Dec</Label>
+    <String>[ICON=Moves_Icon] +3 Hareketler[BR][ICON=Hitpoints_Icon] -50% Hit Puanı</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_Moves2_Name</Label>
+    <String>Promethion Sürücü</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_Moves2_Dec</Label>
+    <String>[ICON=Moves_Icon] +3 Hareket (Promethion gerektirir)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_WarpDrive_Name</Label>
+    <String>Warp Sürücüsü</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_WarpDrive_Dec</Label>
+    <String>[ICON=Moves_Icon] +3 Hareket</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_SlipStreamDrive_Name</Label>
+    <String>Slipstream Sürücü</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_SlipStreamDrive_Dec</Label>
+    <String>[ICON=Moves_Icon] +4 Hareket</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_WeaponRange_Name</Label>
+    <String>Tahmine Dayalı Hedefleme</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_WeaponRange_Dec</Label>
+    <String>Geminin silah menzilini artırır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_PromethionHeal_Name</Label>
+    <String>Promethion Odası</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_PromethionHeal_Dec</Label>
+    <String>[ICON=Stat_Special_Icon] Filoyu tamamen iyileştirir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_SensorRange_Name</Label>
+    <String>Sensör Dizisi</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_SensorRange_Dec</Label>
+    <String>[ICON=SensorRange_Icon] +2 Sensör Aralığı</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_SensorRange4_Name</Label>
+    <String>Alt Uzay Sensörü</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_SensorRange4_Dec</Label>
+    <String>[ICON=SensorRange_Icon] +4 Sensör Aralığı</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_SensorRange20_Name</Label>
+    <String>Titanik Göz Sensörü</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_SensorRange20_Dec</Label>
+    <String>[ICON=SensorRange_Icon] +12 Sensör Aralığı</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_Beam20_Name</Label>
+    <String>Işın Yükselteci</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_Beam20_Dec</Label>
+    <String>[ICON=BeamAttackIcon] +20% Işın Saldırısı</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_Beam30_Name</Label>
+    <String>Prizma Kafes</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_Beam30_Dec</Label>
+    <String>[ICON=BeamAttackIcon] +30% Işın Saldırısı[BR][ICON=Hitpoints_Icon] -20% Hit Puanı</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_Missile20_Name</Label>
+    <String>Füze Amplifikatörü</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_Missile20_Dec</Label>
+    <String>[ICON=MissileAttackIcon] +20% Füze Saldırısı</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_Missile30_Name</Label>
+    <String>Yıkım Ücretleri</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_Missile30_Dec</Label>
+    <String>[ICON=MissileAttackIcon] +30% Füze Saldırısı[BR][ICON=Hitpoints_Icon] -20% Hit Puanı</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_Kinetic20_Name</Label>
+    <String>Kinetik Amplifikatör</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_Kinetic20_Dec</Label>
+    <String>[ICON=KineticAttackIcon] +%20 Kinetik Saldırı</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_Kinetic30_Name</Label>
+    <String>Tırtıklı Mühimmatlar</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_Kinetic30_Dec</Label>
+    <String>[ICON=KineticAttackIcon] +%30 Kinetik Saldırı[BR][ICON=Hitpoints_Icon] -%20 Hit Puanı</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_SpawnFreighter_Name</Label>
+    <String>Yük Gemisi Dökümhanesi</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_SpawnFreighter_Dec</Label>
+    <String>[ICON=Stat_Special_Icon] Bir Yük Gemisi Doğurabilir</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_SpawnGunboat_Name</Label>
+    <String>Gunboat Dökümhanesi</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_SpawnGunboat_Dec</Label>
+    <String>[ICON=Stat_Special_Icon] Bir Savaş Teknesi Doğurabilir</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_SpawnLoireagClone_Name</Label>
+    <String>Klon Dökümhanesi</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_SpawnLoireagClone_Dec</Label>
+    <String>[ICON=Stat_Special_Icon] Kendisinin bir klonunu doğurabilir</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_SpawnProbe_Name</Label>
+    <String>Sonda Dökümhanesi</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_SpawnProbe_Dec</Label>
+    <String>[ICON=Stat_Special_Icon] Bir Sonda Doğurabilir</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_SpawnTransport_Name</Label>
+    <String>Taşıma Dökümhanesi</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_SpawnTransport_Dec</Label>
+    <String>[ICON=Stat_Special_Icon] Bir Taşıyıcı Doğurabilir</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_SpawnColony_Name</Label>
+    <String>Koloni Dökümhanesi</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_SpawnColony_Dec</Label>
+    <String>[ICON=Stat_Special_Icon] Bir Koloni Gemisi Doğurabilir</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_CrimeAOE_Name</Label>
+    <String>Kaçakçı Koyu</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_CrimeAOE_Dec</Label>
+    <String>[ICON=CrimeIcon32] Menzil içindeki Tarafsız ve Düşman dünyalara +%10 [HS=HS_Crime]Crime[/HS]</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_CrimeAOEPerLevel_Name</Label>
+    <String>Onboard Cantina</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_CrimeAOEPerLevel_Dec</Label>
+    <String>[ICON=CrimeIcon32] Menzil içindeki Tarafsız ve Düşman dünyalara +%30 [HS=HS_Crime]Crime[/HS]</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_InfluencePerLevel_Name</Label>
+    <String>Gemide Tapınak</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_InfluencePerLevel_Dec</Label>
+    <String>[ICON=InfluenceGrowth_Icon] Aralıktaki çekirdek dünyalara +%20 [HS=HS_Influence]Influence[/HS]</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_Influence50_Name</Label>
+    <String>Reliquary</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_Influence50_Dec</Label>
+    <String>[ICON=InfluenceGrowth_Icon] Aralıktaki çekirdek dünyalara +%50 [HS=HS_Influence]Influence[/HS]</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_ArmorPerLevel_Name</Label>
+    <String>Temperli Gövde</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_ArmorPerLevel_Dec</Label>
+    <String>[ICON=ArmorRateingIcon] Seviye Başına +1 Zırh</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_SensorRangePerLevel_Name</Label>
+    <String>Yankı Sensörü</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_SensorRangePerLevel_Dec</Label>
+    <String>[ICON=SensorRange_Icon] Seviye Başına +1 Sensör Menzili</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_HPPerLevel_Name</Label>
+    <String>Bağlayıcı Ajan</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_HPPerLevel_Dec</Label>
+    <String>[ICON=Hitpoints_Icon] Seviye Başına +4 Hit Puanı</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_FleetHPPerLevel_Name</Label>
+    <String>Yıldız Dökümhanesi</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_FleetHPPerLevel_Dec</Label>
+    <String>[ICON=Hitpoints_Icon] +12 Filo Hit Puanı</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_FleetArmorPerLevel_Name</Label>
+    <String>Gövde Desteği</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_FleetArmorPerLevel_Dec</Label>
+    <String>[ICON=ArmorRateingIcon] +4 Filo Zırhı</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_KineticAttackPerLevel_Name</Label>
+    <String>Atalet Kılavuzu</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_KineticAttackPerLevel_Dec</Label>
+    <String>[ICON=KineticAttackIcon] +1 [HS=HS_KineticWeapon]Kinetik[/HS] Seviye Başına Saldırı</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_Income20_Name</Label>
+    <String>Stellar Resort</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_Income20_Dec</Label>
+    <String>[ICON=Stat_Credits_Net_Icon] +20% [HS=HS_ColonyGrossIncome]Bu geminin yörüngesinde bulunduğu gezegene gelir[/HS]</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_Income25_Name</Label>
+    <String>Stellar Resort</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_Income25_Dec</Label>
+    <String>[ICON=Stat_Credits_Net_Icon] +25% [HS=HS_ColonyGrossIncome]Bu geminin yörüngesinde bulunduğu gezegene gelir[/HS]</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_Manufacturing20_Name</Label>
+    <String>Yıldız Fırın</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_Manufacturing20_Dec</Label>
+    <String>[ICON=Stat_Manufacturing_Icon] Bu geminin yarıçapındaki dünyalara +20% [HS=HS_Manufacturing]Manufacturing[/HS]</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_Manufacturing25_Name</Label>
+    <String>Yıldız Fırın</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_Manufacturing25_Dec</Label>
+    <String>[ICON=Stat_Manufacturing_Icon] Bu geminin yarıçapındaki dünyalara +25% [HS=HS_Manufacturing]Manufacturing[/HS]</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_Approval20_Name</Label>
+    <String>Harmonium</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_Approval20_Dec</Label>
+    <String>[ICON=ApprovalStatIcon] Aralıktaki tüm dünyalara +%20 [HS=HS_Approval]Approval[/HS]</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_RangedTourism30_Name</Label>
+    <String>Yıldız Kumarhanesi</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_RangedTourism30_Dec</Label>
+    <String>[ICON=Stat_Tourism_Income_Icon] Aralıktaki tüm dünyalara +%30 [HS=HS_Turizm]Turizm[/HS]</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_Growth30_Name</Label>
+    <String>Biochamber</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_Growth30_Dec</Label>
+    <String>[ICON=Stat_Growth_Icon] Aralıktaki tüm dünyalara +%30 [HS=HS_Growth]Growth[/HS]</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_Food30_Name</Label>
+    <String>Tohum Depolama</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_Food30_Dec</Label>
+    <String>[ICON=Stat_Food_Icon] Aralıktaki tüm dünyalara +%30 [HS=HS_Food]Food[/HS]</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_Decay50_Name</Label>
+    <String>Ulaşım Ağı</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_Decay50_Dec</Label>
+    <String>[ICON=Stat_Special_Icon] -50% [HS=HS_ColonyDecay]Aralıktaki tüm dünyalara Çürüme[/HS]</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_Pollution50_Name</Label>
+    <String>Temizleme Filtresi</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_Pollution50_Dec</Label>
+    <String>[ICON=ControlPollution32] -50% [HS=HS_Pollution]Kirlilik[/HS] aralığındaki tüm dünyalara</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_Research30_Name</Label>
+    <String>Sıfır Yerçekimi Laboratuvarı</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_Research30_Dec</Label>
+    <String>[ICON=Stat_Research_Icon] Aralıktaki tüm dünyalara +%30 [HS=HS_Research]Research[/HS]</String>
+  </StringTable>
+  <StringTable>
+    <Label>Upgrade_HitPointsCap_Name</Label>
+    <String>Mürettebat Odaları</String>
+  </StringTable>
+  <StringTable>
+    <Label>Upgrade_HitPointsCap_Dec</Label>
+    <String>Gemimizin en değerli varlığı, her türlü acil duruma hazırlıklı, kendini işine adamış bir mürettebattır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Upgrade_Moves_Name</Label>
+    <String>Komuta Köprüsü</String>
+  </StringTable>
+  <StringTable>
+    <Label>Upgrade_Moves_Dec</Label>
+    <String>Dümenimizdeki araçları geliştirerek gemimizi daha etkili ve verimli hale getirebiliriz.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Upgrade_SensorRange_Name</Label>
+    <String>İletişim Terminali</String>
+  </StringTable>
+  <StringTable>
+    <Label>Upgrade_SensorRange_Dec</Label>
+    <String>Daha geniş bir sensör ekipmanı yelpazesi, galaksinin harikalarını daha fazla keşfetmemizi ve tehditlerinden kaçınmamızı sağlayacaktır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Upgrade_BeamUpgrade_Name</Label>
+    <String>Eleryum Hücresi</String>
+  </StringTable>
+  <StringTable>
+    <Label>Upgrade_BeamUpgrade_Dec</Label>
+    <String>Lazerlerimizi elerium ile güçlendirerek güçlerini artırabiliriz.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Upgrade_MissileUpgrade_Name</Label>
+    <String>Antimadde Savaş Başlığı</String>
+  </StringTable>
+  <StringTable>
+    <Label>Upgrade_MissileUpgrade_Dec</Label>
+    <String>Küçük antimadde örnekleri bile savaş başlıklarımızın patlamasını iyileştirebilir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Upgrade_KineticUpgrade_Name</Label>
+    <String>Durantium Forge</String>
+  </StringTable>
+  <StringTable>
+    <Label>Upgrade_KineticUpgrade_Dec</Label>
+    <String>Titanyum ve alüminyum alaşımları durantiyum kompozit mühimmatlar tarafından hızla parçalanır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Upgrade_AIController_Name</Label>
+    <String>Yapay Zeka Kontrolörü</String>
+  </StringTable>
+  <StringTable>
+    <Label>Upgrade_AIController_Dec</Label>
+    <String>Yapay zekanın kritik sistemlerimizi çalıştırmasına izin vermek bize yönetecek daha az şey bırakıyor.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Upgrade_VirtualBridge_Name</Label>
+    <String>Sanal Köprü</String>
+  </StringTable>
+  <StringTable>
+    <Label>Upgrade_VirtualBridge_Dec</Label>
+    <String>Savaşları tekrar oynayarak mürettebatımız zaferlerimizden daha fazla şey öğrenebilir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Upgrade_Cantena_Name</Label>
+    <String>Cantina</String>
+  </StringTable>
+  <StringTable>
+    <Label>Upgrade_Cantena_Dec</Label>
+    <String>Mürettebatımızın rahatlayabileceği, gevşeyebileceği ve savaşta onlara yardımcı olacak bağları kurabileceği bir yer.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Upgrade_ImmuneNebula_Name</Label>
+    <String>Çevresel Kalkan</String>
+  </StringTable>
+  <StringTable>
+    <Label>Upgrade_ImmuneNebula_Dec</Label>
+    <String>Filodaki tüm gemileri hasar verici Nebula Etkilerine karşı bağışık hale getirir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Upgrade_DroneCarrier_Name</Label>
+    <String>Drone Taşıyıcı Bölmesi</String>
+  </StringTable>
+  <StringTable>
+    <Label>Upgrade_DroneCarrier_Dec</Label>
+    <String>2 küçük ama kötü Önleme Dronu taşır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_FleetMoves_Name</Label>
+    <String>Slipstream Hızlandırıcı</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_FleetMoves_Dec</Label>
+    <String>[ICON=Moves_Icon] +1 Filo Hareketleri</String>
+  </StringTable>
+  <StringTable>
+    <Label>Upgrade_FleetMoves_Name</Label>
+    <String>Slipstream Hızlandırıcı</String>
+  </StringTable>
+  <StringTable>
+    <Label>Upgrade_FleetMoves_Dec</Label>
+    <String>[ICON=Moves_Icon] +1 Filo Hareketleri</String>
+  </StringTable>
+  <StringTable>
+    <Label>Upgrade_FleetShields_Name</Label>
+    <String>Saha Jeneratörü</String>
+  </StringTable>
+  <StringTable>
+    <Label>Upgrade_FleetShields_Dec</Label>
+    <String>Filodaki tüm gemiler için temel bir Kalkan sistemi oluşturur</String>
+  </StringTable>
+  <StringTable>
+    <Label>Upgrade_FleetShieldsTech_Name</Label>
+    <String>Saha Jeneratörü</String>
+  </StringTable>
+  <StringTable>
+    <Label>Upgrade_FleetShieldsTech_Dec</Label>
+    <String>Filodaki tüm gemiler için temel bir Kalkan sistemi oluşturur</String>
+  </StringTable>
+  <StringTable>
+    <Label>Upgrade_FleetPointDefense_Name</Label>
+    <String>Füze Bozucu</String>
+  </StringTable>
+  <StringTable>
+    <Label>Upgrade_FleetPointDefense_Dec</Label>
+    <String>Filodaki tüm gemiler için temel bir Kaçınma sistemi oluşturur</String>
+  </StringTable>
+  <StringTable>
+    <Label>Upgrade_FleetPointDefenseTech_Name</Label>
+    <String>Füze Bozucu</String>
+  </StringTable>
+  <StringTable>
+    <Label>Upgrade_FleetPointDefenseTech_Dec</Label>
+    <String>Filodaki tüm gemiler için temel bir Kaçınma sistemi oluşturur</String>
+  </StringTable>
+  <StringTable>
+    <Label>Upgrade_FleetArmor_Name</Label>
+    <String>Bütünlük Alanı</String>
+  </StringTable>
+  <StringTable>
+    <Label>Upgrade_FleetArmor_Dec</Label>
+    <String>Filodaki tüm gemiler için temel bir Zırh sistemi oluşturur</String>
+  </StringTable>
+  <StringTable>
+    <Label>Upgrade_FleetArmorTech_Name</Label>
+    <String>Bütünlük Alanı</String>
+  </StringTable>
+  <StringTable>
+    <Label>Upgrade_FleetArmorTech_Dec</Label>
+    <String>Filodaki tüm gemiler için temel bir Zırh sistemi oluşturur</String>
+  </StringTable>
+  <StringTable>
+    <Label>Upgrade_WeaponRange_Name</Label>
+    <String>Uzatma Matrisi</String>
+  </StringTable>
+  <StringTable>
+    <Label>Upgrade_WeaponRange_Dec</Label>
+    <String>Geminin silahlarının menzilini artırın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Upgrade_WeaponCooldown_Name</Label>
+    <String>Diablokatalizör</String>
+  </StringTable>
+  <StringTable>
+    <Label>Upgrade_WeaponCooldown_Dec</Label>
+    <String>Geminin silahlarının ateş hızını artırır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Upgrade_Jamming_Name</Label>
+    <String>Gizli Alan</String>
+  </StringTable>
+  <StringTable>
+    <Label>Upgrade_Jamming_Dec</Label>
+    <String>Geminin savaşta hedef alınmasını çok daha zorlaştırır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Upgrade_EnemyShields_Name</Label>
+    <String>Sızdırma Alanı</String>
+  </StringTable>
+  <StringTable>
+    <Label>Upgrade_EnemyShields_Dec</Label>
+    <String>Düşman filosunun Kalkan gücünü %50 azaltır</String>
+  </StringTable>
+  <StringTable>
+    <Label>Upgrade_EnemyShieldsTech_Name</Label>
+    <String>Sızdırma Alanı</String>
+  </StringTable>
+  <StringTable>
+    <Label>Upgrade_EnemyShieldsTech_Dec</Label>
+    <String>Düşman filosunun Kalkan gücünü %50 azaltır</String>
+  </StringTable>
+  <StringTable>
+    <Label>Upgrade_EnemyPointDefense_Name</Label>
+    <String>Nokta Kesintisi</String>
+  </StringTable>
+  <StringTable>
+    <Label>Upgrade_EnemyPointDefense_Dec</Label>
+    <String>Düşman filosunun Kaçışını %50 azaltır</String>
+  </StringTable>
+  <StringTable>
+    <Label>Upgrade_EnemyPointDefenseTech_Name</Label>
+    <String>Nokta Kesintisi</String>
+  </StringTable>
+  <StringTable>
+    <Label>Upgrade_EnemyPointDefenseTech_Dec</Label>
+    <String>Düşman filosunun Kaçışını %50 azaltır</String>
+  </StringTable>
+  <StringTable>
+    <Label>Upgrade_EnemyArmor_Name</Label>
+    <String>Bütünlük Bozucu</String>
+  </StringTable>
+  <StringTable>
+    <Label>Upgrade_EnemyArmor_Dec</Label>
+    <String>Düşman filosunun zırhını %50 azaltır</String>
+  </StringTable>
+  <StringTable>
+    <Label>Upgrade_EnemyArmorTech_Name</Label>
+    <String>Bütünlük Bozucu</String>
+  </StringTable>
+  <StringTable>
+    <Label>Upgrade_EnemyArmorTech_Dec</Label>
+    <String>Düşman filosunun zırhını %50 azaltır</String>
+  </StringTable>
+  <StringTable>
+    <Label>Upgrade_FleetAttack_Name</Label>
+    <String>Bilinmeyen Tanrı'nın Gözü</String>
+  </StringTable>
+  <StringTable>
+    <Label>Upgrade_FleetAttack_Dec</Label>
+    <String>Filodaki tüm gemilerin saldırısını artırır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Upgrade_ShipBeamAttack_Name</Label>
+    <String>Işın Büyütme Dizisi</String>
+  </StringTable>
+  <StringTable>
+    <Label>Upgrade_ShipBeamAttack_Dec</Label>
+    <String>Filodaki tüm [HS=HS_BeamWeapon]Beam[/HS] silahlarının verdiği hasarı artırır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Upgrade_ShipMissileAttack_Name</Label>
+    <String>Füze Güdüm Dizisi</String>
+  </StringTable>
+  <StringTable>
+    <Label>Upgrade_ShipMissileAttack_Dec</Label>
+    <String>Filodaki tüm [HS=HS_MissileWeapon]Missile[/HS] silahlarının verdiği hasarı artırır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Upgrade_ShipKineticAttack_Name</Label>
+    <String>Ataletsel Alan Projektörü</String>
+  </StringTable>
+  <StringTable>
+    <Label>Upgrade_ShipKineticAttack_Dec</Label>
+    <String>Filodaki tüm [HS=HS_KineticWeapon]Kinetic[/HS] silahların verdiği hasarı artıran gemi yükseltmesi.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_ResearchPerSurvey_Name</Label>
+    <String>Analiz Odası</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_ResearchPerSurvey_Dec</Label>
+    <String>+1 [ICON=Stat_Research_Icon] [HS=HS_Research]Surveying'den Araştırma[/HS]</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_AttackZOC50_Name</Label>
+    <String>Enerji Rölesi</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_AttackZOC50_Dec</Label>
+    <String>[ICON=BeamAttackIcon] +%50 [HS=HS_BeamWeapon]Beam[/HS] Sınırların içindeyken saldırı[BR][ICON=KineticAttackIcon] +%50 [HS=HS_KineticWeapon]Kinetic[/HS] Sınırların içindeyken saldırı[BR][ICON=MissileAttackIcon] +%50 [HS=HS_MissileWeapon]Füze[/HS] Sınırların içindeyken saldırı</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_HitPointsZOC_Name</Label>
+    <String>Blister Paket</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_HitPointsZOC_Dec</Label>
+    <String>[ICON=Hitpoints_Icon] Sınırların içindeyken +%100 Hit Puanı</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_FleetBeams1_Name</Label>
+    <String>Daelic Lens</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_FleetBeams1_Dec</Label>
+    <String>[ICON=BeamAttackIcon] +1 Filo [HS=HS_BeamWeapon]Işın[/HS] Saldırısı</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_FleetKinetic3_Name</Label>
+    <String>Momentum Amp</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_FleetKinetic3_Dec</Label>
+    <String>[ICON=KineticAttackIcon] +3 Filo [HS=HS_KineticWeapon]Kinetik[/HS] Saldırı</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_FleetMissile2_Name</Label>
+    <String>Paylaşılan Rehberlik</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_FleetMissile2_Dec</Label>
+    <String>[ICON=MissileAttackIcon] +2 Filo [HS=HS_MissileWeapon]Füze[/HS] Saldırısı</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_FleetMoves2_Name</Label>
+    <String>Dalga Amplifikatörü</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_FleetMoves2_Dec</Label>
+    <String>[ICON=Moves_Icon] +2 Filo Hareketleri</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_FleetHeal8_Name</Label>
+    <String>Bakım Demirhanesi</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_FleetHeal8_Dec</Label>
+    <String>[ICON=Hitpoints_Icon] Ay başına +8 Filo Onarımı</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_FleetDefense4_Name</Label>
+    <String>Arda Cihaz</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_FleetDefense4_Dec</Label>
+    <String>[ICON=ShieldStrengthIcon] +4 Filo Kalkanı gücü[BR][ICON=PointDefenseIcon] +4 Filo Kaçınma[BR][ICON=ZırhDeğerlendirmeIcon] +4 Filo Zırhı</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_FleetHitPoints8_Name</Label>
+    <String>Çekirdek Modül</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_FleetHitPoints8_Dec</Label>
+    <String>[ICON=Hitpoints_Icon] +8 Filo Hit Puanı</String>
+  </StringTable>
+  <StringTable>
+    <Label>BattleshipModule_Name</Label>
+    <String>Savaş Gemisi Modülü</String>
+  </StringTable>
+  <StringTable>
+    <Label>BattleshipModule_Dec</Label>
+    <String>Savaş Gemisi sınıfı gemileri etkinleştirmek için özel bir modül gereklidir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FighterModule_Name</Label>
+    <String>Avcı Modülü</String>
+  </StringTable>
+  <StringTable>
+    <Label>FighterModule_Dec</Label>
+    <String>Avcı sınıfı gemileri etkinleştirmek için özel bir modül gereklidir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>BomberModule_Name</Label>
+    <String>Bombacı Modülü</String>
+  </StringTable>
+  <StringTable>
+    <Label>BomberModule_Dec</Label>
+    <String>Bombacı sınıfı gemileri etkinleştirmek için özel bir modül gereklidir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FrigateModule_Name</Label>
+    <String>Fırkateyn Modülü</String>
+  </StringTable>
+  <StringTable>
+    <Label>FrigateModule_Dec</Label>
+    <String>Destroyer sınıfı gemileri etkinleştirmek için özel bir modül gereklidir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>CruiserModule_Name</Label>
+    <String>Kruvazör Modülü</String>
+  </StringTable>
+  <StringTable>
+    <Label>CruiserModule_Dec</Label>
+    <String>Kruvazör sınıfı gemileri etkinleştirmek için özel bir modül gereklidir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>DreadnoughtModule_Name</Label>
+    <String>Dreadnought Modülü</String>
+  </StringTable>
+  <StringTable>
+    <Label>DreadnoughtModule_Dec</Label>
+    <String>Dreadnought sınıfı gemileri etkinleştirmek için özel bir modül gereklidir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>SiegeModule_Name</Label>
+    <String>Kuşatma Modülü</String>
+  </StringTable>
+  <StringTable>
+    <Label>SiegeModule_Dec</Label>
+    <String>Kuşatma sınıfı gemileri etkinleştirmek için özel bir modül gereklidir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>SurveyModuleX_Name</Label>
+    <String>Anket Modülü</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrecursorParticleBeam_Name</Label>
+    <String>Öncü Parçacık Işını</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrecursorParticleBeam_Dec</Label>
+    <String>Öncü Hyperion Küçültülmüş Parçacık Işını.[BR][BR]Bu [HS=HS_BeamWeapon]Işın silahı[/HS] gücüne ve maliyetine göre alışılmadık derecede küçüktür.</String>
+  </StringTable>
+  <StringTable>
+    <Label>GaussCannon_Name</Label>
+    <String>Gauss Topu</String>
+  </StringTable>
+  <StringTable>
+    <Label>GaussCannon_Dec</Label>
+    <String>Novatron G-7 "Pulsar Punch" Gauss Topu.[BR][BR]Mermileri yıkıcı hızlara çıkarmak için manyetik alanlardan yararlanır. [HS=HS_KineticWeapon]Kinetik silahlar[/HS] savaşın sıcağında sağlam hasar çıkışı ve güvenilirlik sunar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>HeliosRockets_Name</Label>
+    <String>Helios Roketleri</String>
+  </StringTable>
+  <StringTable>
+    <Label>HeliosRockets_Dec</Label>
+    <String>Celestitech H-9 "Sun Scorcher" Helios Roketleri.[BR][BR]Patlayıcı mermileri yoğun itiş gücüyle iter, önemli hasar verebilir. [HS=HS_MissileWeapon]Füze silahları[/HS] menzil ve yıkıcı potansiyelin dengeli bir karışımını sunar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>NeutrinoBeamEmitter_Name</Label>
+    <String>Nötrino Yayıcı</String>
+  </StringTable>
+  <StringTable>
+    <Label>NeutrinoBeamEmitter_Dec</Label>
+    <String>Astrotech N-3 "Void Vaporizer" Nötrino Işın Yayıcı.[BR][BR]Gövdeleri yırtabilecek konsantre bir nötrino ışını yayar. [HS=HS_BeamWeapon]Işın silahları[/HS] makul bir üretim maliyetiyle orta derecede hasar sağlar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_PrecursorBoostEngine_Name</Label>
+    <String>Öncü Motor</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_PrecursorBoostEngine_Dec</Label>
+    <String>Bu eski, kurtarılmış Precursor motoru, gücüne ve maliyetine göre oldukça küçüktür.</String>
+  </StringTable>
+  <StringTable>
+    <Label>WeaponJammer_Name</Label>
+    <String>Silah Karıştırıcı</String>
+  </StringTable>
+  <StringTable>
+    <Label>WeaponJammer_Dec</Label>
+    <String>Versala Corp K-305 Standart Karıştırıcı. Kuantum dolanıklığını kullanarak düşman gemilerinin gemiyi tam olarak hedefleyebilme olasılığını bozar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>TargetingComputer_Name</Label>
+    <String>Bilgisayar Hedefleme</String>
+  </StringTable>
+  <StringTable>
+    <Label>TargetingComputer_Dec</Label>
+    <String>Elos Ltd. TX-5 Hedefleme Bilgisayarı. Bir dizi kuantum düğümünü geniş bir yay şeklinde dağıtarak bir tür dinamik radyo teleskopu oluşturur ve bunu kullanan silahların isabet oranını artırır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_SlowMove_Heavy_Name</Label>
+    <String>Ağır İtici</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_SlowMove_Heavy_Dec</Label>
+    <String>[ICON=Moves_Icon] -3 Moves[BR][ICON=Hitpoints_Icon] +%20 Hit Puanı</String>
+  </StringTable>
+  <StringTable>
+    <Label>TwitchCatalyzer_Name</Label>
+    <String>Twitch Katalizörü</String>
+  </StringTable>
+  <StringTable>
+    <Label>TwitchCatalyzer_Dec</Label>
+    <String>Kaçmayı Artırır</String>
+  </StringTable>
+  <StringTable>
+    <Label>PestMotherModule_Name</Label>
+    <String>Haşere Ana Modülü</String>
+  </StringTable>
+  <StringTable>
+    <Label>PestMotherModule_Dec</Label>
+    <String>Haşere Ana parazitlerini dökebilir. Yıkıcı bir istila gücü oluştururlar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_DigestionBattery_Name</Label>
+    <String>Sindirim Bataryası</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_DigestionBattery_Dec</Label>
+    <String>Her savaş zaferinden sonra [ICON=Hitpoints_Icon] 40 Hitpoints geri yükler.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_MetamorphosedHide_Name</Label>
+    <String>Metamorfize Edilmiş Post</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_MetamorphosedHide_Dec</Label>
+    <String>[ICON=Hitpoints_Icon] Hitpoints'e -50% ile 50%. arasında rastgele bir değiştirici ekler Her zaferden sonra yeniden hesaplanır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_SensorRange8_Name</Label>
+    <String>Derin Uzay Sensörü</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_SensorRange8_Dec</Label>
+    <String>[ICON=SensorRange_Icon] +6 Sensör Aralığı</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_LifeSupport_Name</Label>
+    <String>Yaşam Desteği</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_LifeSupport_Dec</Label>
+    <String>[ICON=Shiprange_Icon] +8 Gemi Menzili</String>
+  </StringTable>
+</StringTableList>

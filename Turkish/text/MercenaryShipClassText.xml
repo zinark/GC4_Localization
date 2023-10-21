@@ -1,0 +1,1805 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<StringTableList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../Schema/Lib/StringTable.xsd">
+  <!-- Created with the GC4 editor -->
+  <!-- MercenaryShipClassText.xml -->
+  <StringTable>
+    <Label>Ship_Elembrial_Name</Label>
+    <String>Elembrial</String>
+  </StringTable>
+  <StringTable>
+    <Label>Ship_Elembrial_Dec</Label>
+    <String>Bu savaş gemisi filosundaki tüm gemiler için kalkan yansıtır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Ship_FloatingFortress_Name</Label>
+    <String>Yüzen Kale</String>
+  </StringTable>
+  <StringTable>
+    <Label>Ship_FloatingFortress_Dec</Label>
+    <String>Mercenary Crane'in bilim gemisi.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Ship_GoldenBazaar_Name</Label>
+    <String>Altın Çarşı</String>
+  </StringTable>
+  <StringTable>
+    <Label>Ship_GoldenBazaar_Dec</Label>
+    <String>Her zaman yeni iş fırsatları arar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Ship_Nail_Name</Label>
+    <String>Çivi</String>
+  </StringTable>
+  <StringTable>
+    <Label>Ship_Nail_Dec</Label>
+    <String>Küçük ama sağlam bir öncü savaş gemisi.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Ship_CosmosDread_Name</Label>
+    <String>Kozmos Dehşeti</String>
+  </StringTable>
+  <StringTable>
+    <Label>Ship_CosmosDread_Dec</Label>
+    <String>Büyük korsan Starbeard'ın "amiral gemisi". Silahlı bir asteroid madencisinden biraz daha fazlası.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Ship_TheArc_Name</Label>
+    <String>The Arc</String>
+  </StringTable>
+  <StringTable>
+    <Label>Ship_TheArc_Dec</Label>
+    <String>Galaksinin dört bir yanından gelen flora ve fauna ile dolu bu uçan ekoloji laboratuvarı.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Ship_Praxis_Name</Label>
+    <String>Praksis</String>
+  </StringTable>
+  <StringTable>
+    <Label>Ship_Praxis_Dec</Label>
+    <String>Acımasız ve kötü niyetli LL-88'in savaş gemisi.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Ship_Prospector_Name</Label>
+    <String>The Prospector</String>
+  </StringTable>
+  <StringTable>
+    <Label>Ship_Prospector_Dec</Label>
+    <String>Dışarıda inanamayacağınız şeyler var.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Ship_Independence_Name</Label>
+    <String>Bağımsızlık</String>
+  </StringTable>
+  <StringTable>
+    <Label>Ship_Independence_Dec</Label>
+    <String>Açık denizlerde özgürlük ve macera aradığı bilinen bir gemi.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Ship_Enforcer_Name</Label>
+    <String>İnfazcı</String>
+  </StringTable>
+  <StringTable>
+    <Label>Ship_Enforcer_Dec</Label>
+    <String>Vatandaşlar bu tehditkâr geminin baskıcı gölgesi altında çok çalışmak zorunda kalmaktadır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Ship_Goodwill_Name</Label>
+    <String>Şerefiye</String>
+  </StringTable>
+  <StringTable>
+    <Label>Ship_Goodwill_Dec</Label>
+    <String>Galaksi boyunca bilinen bir barış sembolü.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Ship_Negotiator_Name</Label>
+    <String>Müzakereci</String>
+  </StringTable>
+  <StringTable>
+    <Label>Ship_Negotiator_Dec</Label>
+    <String>Nerede pazarlık yaptığınız, ne pazarlık yaptığınız kadar önemlidir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Ship_Zarkov_Name</Label>
+    <String>Zarkov'un Özgürlüğü</String>
+  </StringTable>
+  <StringTable>
+    <Label>Ship_Zarkov_Dec</Label>
+    <String>Bu gemide bir şeyler oluyor. Sadece siyah bir ışık hikayeyi anlatacaktır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Ship_Sander_Name</Label>
+    <String>Aydınlatıcı</String>
+  </StringTable>
+  <StringTable>
+    <Label>Ship_Sander_Name_Dec</Label>
+    <String>Galaksi bir sürü şeyle dolu. Gidip onları alalım.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Ship_Raptor_Name</Label>
+    <String>Raptor</String>
+  </StringTable>
+  <StringTable>
+    <Label>Ship_Raptor_Dec</Label>
+    <String>Bu deneysel savaş gemisi trilyoner E.G. Arms tarafından tasarlanmıştır. Yapımında kullanılan bileşenler onun hayatının çalışmasının sonucudur, ancak trajik bir şekilde inşaat başlamadan önce ölmüştür.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Ship_Retribution_Name</Label>
+    <String>İntikam</String>
+  </StringTable>
+  <StringTable>
+    <Label>Ship_Retribution_Dec</Label>
+    <String>Galaksinin dört bir yanına dağılmış parçalardan yeniden inşa edildi.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Ship_Sabre_Name</Label>
+    <String>Kılıç</String>
+  </StringTable>
+  <StringTable>
+    <Label>Ship_Sabre_Dec</Label>
+    <String>Paralı Asker Prens Viturian'ın küçük ve ışınlara dayanıklı savaş gemisi.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Ship_Splinter_Name</Label>
+    <String>Splinter</String>
+  </StringTable>
+  <StringTable>
+    <Label>Ship_Splinter_Dec</Label>
+    <String>Diğer sondalar evreni keşfeder. Bu sonda yol boyunca bulduğu her şeyi parçalarına ayırıyor.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Ship_Stargazer_Name</Label>
+    <String>Stargazer</String>
+  </StringTable>
+  <StringTable>
+    <Label>Ship_Stargazer_Dec</Label>
+    <String>Yakın zamanda yeniden etkinleştirilen bir öncü prob.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Ship_Whisper_Name</Label>
+    <String>Fısıltı</String>
+  </StringTable>
+  <StringTable>
+    <Label>Ship_Whisper_Dec</Label>
+    <String>Paralı Asker Retuio III'ün idari gemisi.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Ship_Ysengard_Name</Label>
+    <String>Ysengard</String>
+  </StringTable>
+  <StringTable>
+    <Label>Ship_Ysengard_Dec</Label>
+    <String>Mirazu Ysen'in silahlı gemisi.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Ship_Bacchanal_Name</Label>
+    <String>Bacchanal</String>
+  </StringTable>
+  <StringTable>
+    <Label>Ship_Bacchanal_Dec</Label>
+    <String>Paralı Asker Annjeanette Sil'in gürültülü parti mavnası.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier2MercenaryShip02_Name</Label>
+    <String>Tecton</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier2MercenaryShip02_Dec</Label>
+    <String>Paralı Asker Kootu Erji'nin inanılmaz dirençli Koloni Gemisi.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier2MercenaryShip05_Name</Label>
+    <String>Trireme</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier2MercenaryShip05_Dec</Label>
+    <String>Dirençli paralı asker Fitrios Pompados'un yük gemisi.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier2MercenaryShip06_Name</Label>
+    <String>Coronado</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier2MercenaryShip06_Dec</Label>
+    <String>Paralı Asker Dr. Jondi Ians'ın öncül araştırmaları yapan bilim gemisi.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier2MercenaryShip07_Name</Label>
+    <String>Saygının Tonu</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier2MercenaryShip07_Dec</Label>
+    <String>Paralı Cezacı'nın onay artırıcı gezegen Destek Gemisi.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier2MercenaryShip08_Name</Label>
+    <String>Sussinkt</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier2MercenaryShip08_Dec</Label>
+    <String>Paralı Asker Kalli Datun'un ekonomiyi güçlendiren gezegensel Destek Gemisi.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier2MercenaryShip09_Name</Label>
+    <String>Elsa</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier2MercenaryShip09_Dec</Label>
+    <String>Paralı Asker Melkiur Savante'nin araştırma artırıcı gezegen Destek Gemisi.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier2MercenaryShip10_Name</Label>
+    <String>The Phonz</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier2MercenaryShip10_Dec</Label>
+    <String>Paralı Asker Ghhhhhhsk'ın nüfuz artırıcı gezegen destek gemisi.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier2MercenaryShip11_Name</Label>
+    <String>Uğurlu Başlangıç</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier2MercenaryShip11_Dec</Label>
+    <String>Paralı Asker Dillerin Efendisi'nin nüfuz artırıcı gezegensel Destek Gemisi.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier2MercenaryShip16_Name</Label>
+    <String>Peşinde</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier2MercenaryShip16_Dec</Label>
+    <String>Paralı Amiral Waro'nun güçlü füze savaş gemisi.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier2MercenaryShip17_Name</Label>
+    <String>Engerek</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier2MercenaryShip17_Dec</Label>
+    <String>Paralı Asker Gece Yumruğu'nun güçlü ışın savaş gemisi.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier2MercenaryShip21_Name</Label>
+    <String>Gestalt</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier2MercenaryShip21_Dec</Label>
+    <String>Paralı Asker Strafford Leet'in kaçınma ve isabet oranını artıran Destek Gemisi.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier2MercenaryShip22_Name</Label>
+    <String>Erragis</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier2MercenaryShip22_Dec</Label>
+    <String>Illia'lı Paralı Asker Ban Seurt'un kütle sürücüsünü yok eden Destek Gemisi.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier2MercenaryShip23_Name</Label>
+    <String>Miccim</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier2MercenaryShip23_Dec</Label>
+    <String>Paralı Asker Yiyiz Ziyiy'in askeri üretimi artıran gezegensel Destek Gemisi.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier2MercenaryShip24_Name</Label>
+    <String>Scow</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier2MercenaryShip24_Dec</Label>
+    <String>Paralı Asker Evelon Masha'nın kurtarma gemisi.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier3MercenaryShip01_Name</Label>
+    <String>Jest</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier3MercenaryShip01_Dec</Label>
+    <String>Paralı Asker Laqt Reecher'ın Yıldız Üssü güçlendirici Destek Gemisi.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier3MercenaryShip02_Name</Label>
+    <String>Son Nefes</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier3MercenaryShip02_Dec</Label>
+    <String>Paralı Asker Son Boyar'ın dünyalaştırma gemisi.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier3MercenaryShip03_Name</Label>
+    <String>Swayer-11</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier3MercenaryShip03_Dec</Label>
+    <String>Paralı Askerlerin gizemli Kurucu Gemisi ruire podaq nu.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier3MercenaryShip09_Name</Label>
+    <String>Bağlantılı Aerie</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier3MercenaryShip09_Dec</Label>
+    <String>Paralı Flockeader Jat'ın aşırı doldurulmuş taşıyıcısı.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier3MercenaryShip13_Name</Label>
+    <String>Kolektif</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier3MercenaryShip13_Dec</Label>
+    <String>Paralı Asker Poelacca'nın güçlü ve dengeli savaş gemisi.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier3MercenaryShip14_Name</Label>
+    <String>The Helmder</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier3MercenaryShip14_Dec</Label>
+    <String>Mercenary XRT80-DEF'in devasa ve sıkışma donanımlı taşıyıcısı.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier3MercenaryShip15_Name</Label>
+    <String>The Shaout</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier3MercenaryShip15_Dec</Label>
+    <String>Paralı Asker Enopriumta Xu'nun dretnotu.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier3MercenaryShip16_Name</Label>
+    <String>Hermitage</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier3MercenaryShip16_Dec</Label>
+    <String>Paralı Asker Yaşlı Kriat'ın güçlü ışın kruvazörü.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier3MercenaryShip18_Name</Label>
+    <String>Cixma</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier3MercenaryShip18_Dec</Label>
+    <String>Paralı Asker Hon Malteuse'un güçlü prototip savaş gemisi.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier3MercenaryShip19_Name</Label>
+    <String>Karavan</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier3MercenaryShip19_Dec</Label>
+    <String>Paralı Asker Kelpie Wittque'in hız ve menzil artırıcı Destek Gemisi.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier3MercenaryShip20_Name</Label>
+    <String>The Derr</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier3MercenaryShip20_Dec</Label>
+    <String>Paralı Asker Brootus'un savunmayı güçlendiren Destek Gemisi.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier3MercenaryShip21_Name</Label>
+    <String>Wraith</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier3MercenaryShip21_Dec</Label>
+    <String>Paralı Asker Gölgesi'nin prototip savaş gemisi.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier3MercenaryShip22_Name</Label>
+    <String>Pewpewpewpew</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier3MercenaryShip22_Dec</Label>
+    <String>Paralı Asker Slim Tuir'in iyi silahlanmış ve zırhlı saldırı gemisi.</String>
+  </StringTable>
+  <StringTable>
+    <Label>SentinelTiny_Name</Label>
+    <String>Gözcü</String>
+  </StringTable>
+  <StringTable>
+    <Label>SentinelTiny_Dec</Label>
+    <String>Barış korunmalıdır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>SentinelSmall_Name</Label>
+    <String>İnfazcı</String>
+  </StringTable>
+  <StringTable>
+    <Label>SentinelSmall_Dec</Label>
+    <String>Barış korunmalıdır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>SentinelMedium_Name</Label>
+    <String>Cezalandırıcı</String>
+  </StringTable>
+  <StringTable>
+    <Label>SentinelMedium_Dec</Label>
+    <String>Barış korunmalıdır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>SentinelLarge_Name</Label>
+    <String>Adalet</String>
+  </StringTable>
+  <StringTable>
+    <Label>SentinelLarge_Dec</Label>
+    <String>Barış korunmalıdır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>SentinelHuge_Name</Label>
+    <String>İnfazcı</String>
+  </StringTable>
+  <StringTable>
+    <Label>SentinelHuge_Dec</Label>
+    <String>Barış korunmalıdır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>PirateSpaceMonsterTiny_Name</Label>
+    <String>Bitterling</String>
+  </StringTable>
+  <StringTable>
+    <Label>PirateSpaceMonsterTiny_Dec</Label>
+    <String>Başka bir boyuttan gelen, güç ve kayıp yerlerine çekilen yaratıklar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>PirateSpaceMonsterSmall_Name</Label>
+    <String>Crovanosaur</String>
+  </StringTable>
+  <StringTable>
+    <Label>PirateSpaceMonsterSmall_Dec</Label>
+    <String>Gemileri parçalayan ve enerji sistemleriyle ziyafet çeken başka bir boyuttan gelen avcılar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>PirateSpaceMonsterMedium_Name</Label>
+    <String>Umbral Korku</String>
+  </StringTable>
+  <StringTable>
+    <Label>PirateSpaceMonsterMedium_Dec</Label>
+    <String>Ölen güneşlere ve arkalarında bıraktıkları paramparça dünyalara çekildiler.</String>
+  </StringTable>
+  <StringTable>
+    <Label>PirateSpaceMonsterLarge_Name</Label>
+    <String>Ashbringer</String>
+  </StringTable>
+  <StringTable>
+    <Label>PirateSpaceMonsterLarge_Dec</Label>
+    <String>Neredeyse tüm uzaylı türleri, bu yaratıklardan birinin korkunç bir ziyaretine dair ortak bir mitolojiyi paylaşmaktadır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>PirateSpaceMonsterHuge_Name</Label>
+    <String>Kraliçe</String>
+  </StringTable>
+  <StringTable>
+    <Label>PirateSpaceMonsterHuge_Dec</Label>
+    <String>Neyse ki nadiren, kraliçenin varlığı delilik ve ölüm getirir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Victory_Name</Label>
+    <String>Zafer</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Victory_Dec</Label>
+    <String>Prototip bir saldırı gemisi. Tehlikeli ve hızlı, eğer onu kullanacak birini bulabilirsek.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Curiosity_Name</Label>
+    <String>Merak</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Curiosity_Dec</Label>
+    <String>Başlangıçta evreni incelemek için donatılan bu aracın, bulduklarına karşı kendini savunabilmesi gerektiğini de kısa sürede tespit ettik.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Perserverance_Name</Label>
+    <String>Azim</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Perserverance_Dec</Label>
+    <String>Perseverance ilerlememizin sembolüdür ve dünya çapında bir kutlamayla lanse edilmiştir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Gaze_Name</Label>
+    <String>Bakışlar</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Gaze_Dec</Label>
+    <String>Prototip bir lazer ve tüm bir filoyu koruyabilecek kadar büyük kalkanlar bu gemiyi tehlikeli bir komuta gemisi yapar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_HivebaseOne_Name</Label>
+    <String>Hivebase Bir</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_HivebaseOne_Dec</Label>
+    <String>Zayıf silahlarına ve savunma eksikliğine aldanmayın. Bu, tüm düşman filolarıyla savaşabilen yüzen bir drone platformudur.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Apex_Name</Label>
+    <String>Apex</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Apex_Dec</Label>
+    <String>Askeri amiral gemimiz. Trilyoner bir askeri müteahhit tarafından hediye edildi. Tek yapmamız gereken ona komuta edecek değerli birini bulmak.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Sickle_Name</Label>
+    <String>Orak</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Sickle_Dec</Label>
+    <String>Bu uzak menzilli füze destroyeri, neredeyse bir güneş sistemi uzaktaki düşman filolarını yok edebilir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Festron7_Name</Label>
+    <String>Orak</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Festron7_Dec</Label>
+    <String>Bu uzak menzilli füze destroyeri, neredeyse bir güneş sistemi uzaktaki düşman filolarını yok edebilir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Drengin1_Name</Label>
+    <String>Rhuin'in Yolu</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Drengin1_Dec</Label>
+    <String>Taktiksel bir yapay zeka, bu geminin daha büyük filolara kolayca entegre olmasını sağlar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Festron1_Name</Label>
+    <String>Savaş Fısıltısı</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Festron1_Dec</Label>
+    <String>Taktiksel bir yapay zeka, bu geminin daha büyük filolara kolayca entegre olmasını sağlar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Drengin2_Name</Label>
+    <String>Örs</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Drengin2_Dec</Label>
+    <String>Bir gemiden çok, motoru takılı bir lazer prototipi. Mürettebat lazerle ne kadar çok deneyim kazanırsa, o kadar güçlü hale gelecektir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Drengin3_Name</Label>
+    <String>Demir Yumruk</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Drengin3_Dec</Label>
+    <String>Başlangıçta isyanlara karşı koymak için tasarlanan bu savaş gemisi, işçilerimizi ve düşmanlarımızı iyi davranışa zorlamakta da aynı derecede beceriklidir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Drengin4_Name</Label>
+    <String>Boyun Eğmeyen İrade</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Drengin4_Dec</Label>
+    <String>Çok sayıda kayıt ekipmanıyla yüklü olan bu gemi her zaferi en ince ayrıntısına kadar kaydedebilir. Ve gücümüzü sorgulayanlar için tekrar oynatabilir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Drengin5_Name</Label>
+    <String>Kirpik</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Drengin5_Dec</Label>
+    <String>Bu efsanevi gemi, savaştan sonra hızla toparlanma ve tekrar savaşma yeteneği nedeniyle düşmanlarımız tarafından korkulmaktadır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Festron5_Name</Label>
+    <String>Avernus</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Festron5_Dec</Label>
+    <String>Bu efsanevi gemi, savaştan sonra hızla toparlanma ve tekrar savaşma yeteneği nedeniyle düşmanlarımız tarafından korkulmaktadır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Drengin6_Name</Label>
+    <String>Skyfire</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Drengin6_Dec</Label>
+    <String>Bu güçlü savaş gemisi savaş zamanlarında mühimmat, barış zamanlarında ise üretim için bir demirhanedir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Drengin7_Name</Label>
+    <String>Fethin Kalbi</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Drengin7_Dec</Label>
+    <String>Bu amiral gemisi imparatorluğumuzun bir sembolüdür. Onu görmek hem vatandaşlarımıza hem de askerlerimize ilham veriyor.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Navigator1_Name</Label>
+    <String>Göz Kırpmayan Göz</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Navigator1_Dec</Label>
+    <String>Evrenin sınırına kadar seyahat edebilir ve bulduklarını geri iletebilir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Navigator2_Name</Label>
+    <String>Merak</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Navigator2_Dec</Label>
+    <String>Başlangıçta evreni incelemek için donatılan bu aracın, bulduklarına karşı kendini savunabilmesi gerektiğini de kısa sürede tespit ettik.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Navigator3_Name</Label>
+    <String>Slip'in Kuyruklu Yıldızı</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Navigator3_Dec</Label>
+    <String>Fiziksel mekânın sınırlamaları sandığımızdan daha esnektir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Navigator4_Name</Label>
+    <String>Çekirdek</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Navigator4_Dec</Label>
+    <String>Bu gemi maddeyi parçalayarak yeni malzemeler yaratabilir. Ancak bu işlem uygar dünyalardan uzakta yapılmalıdır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Navigator5_Name</Label>
+    <String>Son Anı</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Navigator5_Dec</Label>
+    <String>Süreç oldukça ürkütücü olsa da, bu geminin bir savaştan sonra gerçekleştirebildiği bilimsel analizi alkışlıyoruz.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Navigator6_Name</Label>
+    <String>Ebedi Şehir</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Navigator6_Dec</Label>
+    <String>Her zaman yıldızların arasında yaşamayı arzuladık. Bu nesil geminin şanslı sakinleri bunu deneyimleyebiliyorlar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Navigator7_Name</Label>
+    <String>Voyager</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Navigator7_Dec</Label>
+    <String>Tamamen kendi kendine yetebilen bu gemi evrenin sınırına kadar seyahat edebilir ve yol boyunca karşılaştığı her şeyi yok edebilir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Festron2_Name</Label>
+    <String>Mantis</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Festron2_Dec</Label>
+    <String>Başlangıçta asteroitlerden hammadde elde etmek için tasarlanan bu işlem, düşman gemilerinde kullanıldığında daha da kolaylaşıyordu.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Festron3_Name</Label>
+    <String>Pençe</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Festron3_Dec</Label>
+    <String>Bu geminin gövdesini kabus gibi bir yumurta odası dolduruyor. Yakalanan mürettebatı yeni yumurtadan çıkanlara maruz bırakarak onları davamıza döndürebiliriz.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Festron4_Name</Label>
+    <String>Son Anı</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Festron4_Dec</Label>
+    <String>Süreç oldukça ürkütücü olsa da, bu geminin bir savaştan sonra gerçekleştirebildiği bilimsel analizi alkışlıyoruz.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Festron6_Name</Label>
+    <String>Charon</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Festron6_Dec</Label>
+    <String>Bu geminin farklı medeniyetler arasında pek çok ismi vardır; Kurt Adam, Kan Meleği, Düşen Yıldız. Ancak adı ne olursa olsun, her zaman korku içinde konuşulur.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_EndlessZeros_Name</Label>
+    <String>Sonsuz Sıfır</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_EndlessZeros_Dec</Label>
+    <String>Bu geminin her yönü otomatiktir. Tek bir komutanın kontrol etmesini kolaylaştırıyor.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_VoidInTime_Name</Label>
+    <String>Yankılanan Boşluk</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_VoidInTime_Dec</Label>
+    <String>"Dalgakıran" ve "Savaş Arabası" olarak da bilinen bu gemi filosuna liderlik eder ve etraflarındaki uzayı bükerken onları öne çeker.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_SufferingWithin_Name</Label>
+    <String>İçimizdeki Acı</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_SufferingWithin_Dec</Label>
+    <String>Bu gemi tüm mürettebat intihar ettikten sonra keşfedilmiştir. Ününe rağmen, yeniden kullanıldı.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_BeforeCreation_Name</Label>
+    <String>Yaratılıştan Önce</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_BeforeCreation_Dec</Label>
+    <String>Tüm bir filoyu güçlendirmek için tasarlanmıştır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_AfterDeath_Name</Label>
+    <String>Ölümden Sonra</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_AfterDeath_Dec</Label>
+    <String>Bütün bir filoyu savunmak için tasarlandı.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_InfiniteResolve_Name</Label>
+    <String>Sonsuz Kararlılık</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_InfiniteResolve_Dec</Label>
+    <String>Bir savaş gemisi ve bir top üretim dökümhanesi.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Nameless_Name</Label>
+    <String>İsimsizler</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Nameless_Dec</Label>
+    <String>Seyahat ederken ve savaş sırasında yakındaki gemileri yeniden inşa edebilecek kadar gelişmiş bir onarım gemisi.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Appeleur_Name</Label>
+    <String>Appeleur</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Appeleur_Dec</Label>
+    <String>Gemideki yapı, galaksiye neredeyse sonsuz sayıda sonda gönderilmesine olanak tanır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Wisp_Name</Label>
+    <String>Wisp</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Wisp_Dec</Label>
+    <String>Drengin filolarından kaçmak için özellikle uygun olan efsanevi bir kaçış gemisi.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Puca_Name</Label>
+    <String>Puca</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Puca_Dec</Label>
+    <String>Düşman filoları çevik Puca'ya saldırmak için uzayın derinliklerine çekildi.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Loireag_Name</Label>
+    <String>Loireag</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Loireag_Dec</Label>
+    <String>Başlangıçta hızla büyüyen mürettebata barınma sağlamak için tasarlanmış efsanevi bir gemi.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Harpazein_Name</Label>
+    <String>Harpazein</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Harpazein_Dec</Label>
+    <String>"Dreamlight" ya da "Mist" olarak da adlandırılan bu geminin mürettebatı görüler ve canlı rüyalar gördüğünü bildirmiştir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Dullahan_Name</Label>
+    <String>Dullahan</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Dullahan_Dec</Label>
+    <String>Nesiller doğar ve tüm yaşamlarını bu gemideki yoğun eğitim bölmelerinde geçirirler. Karaya ilk ayak basışları bir istilanın parçası olarak olur.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Gruff_Name</Label>
+    <String>The Gruff</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Gruff_Dec</Label>
+    <String>Bir savaş gemisinden çok yüzen bir demirhane, zaman ve malzeme verildiğinde bütün bir filoyu üretebilir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Xeloxi1_Name</Label>
+    <String>Eufemie'nin Kayığı</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Xeloxi1_Dec</Label>
+    <String>Eufemie ünlü bir Xeloxi akıncısıydı. Bir Sığınak limanında kaybolmuş olsa da, efsanevi gemisi hala duruyor.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Xeloxi2_Name</Label>
+    <String>Lenore'un Uyanışı</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Xeloxi2_Dec</Label>
+    <String>Bu geminin silahları düşmanı yok etmek yerine hareketsiz bırakacak şekilde ayarlanmıştır. Genellikle düşman gemisinin ele geçirilmesine izin verir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Xeloxi3_Name</Label>
+    <String>Marisail</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Xeloxi3_Dec</Label>
+    <String>Korsanlar arasında "Kan Dişi" olarak adlandırılır. Bu geminin asteroit kuşakları içinde saklandığı ve savunmasız hedeflere füzeler fırlattığı bilinmektedir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Xeloxi4_Name</Label>
+    <String>Killigrew</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Xeloxi4_Dec</Label>
+    <String>Refuge'de Killigrew tarafından yok edilen gemileri listeleyen bir anıt bulunmaktadır. Liste büyüdükçe efsane de büyüyor.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Xeloxi5_Name</Label>
+    <String>Ladgerda</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Xeloxi5_Dec</Label>
+    <String>Bir uzaylı motoru, geminin gerçek uzaydan çıkıp bir cep evreninden geçerek birkaç ışık haftası uzağa gitmesini sağlar. Mürettebat da bunu savaşlardan kaçmak için kullanıyor.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Xeloxi6_Name</Label>
+    <String>Xeloxi'nin Ağıtları</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Xeloxi6_Dec</Label>
+    <String>Acımasız bir katliamda öldürülenler tarafından lanetlenmiş. Ne yapılırsa yapılsın o ruhlar kalır ve gemiye ne yapılırsa yapılsın o da kalır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Xeloxi7_Name</Label>
+    <String>Yesenda'nın Mavnası</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Xeloxi7_Dec</Label>
+    <String>Xeloxi imparatorluğunun en azılı suçlularına ve diğerlerine ev sahipliği yapmaktadır. Cinayetler sık işlenir, ancak dışarıya değil içeriye bakan bir güvenlik sistemi sayesinde ayaklanmalar kontrol altına alınır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Iridium1_Name</Label>
+    <String>Scuttle Vinç</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Iridium1_Dec</Label>
+    <String>Aslen bir öncü ıslah gemisi. O zamandan beri anomalileri araştırmak ve kendini savunmak için yeniden tasarlandı.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Iridium2_Name</Label>
+    <String>Stellar Resort</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Iridium2_Dec</Label>
+    <String>Ekso-şirketler en yüksek ve en lüks tatil köyleri için yarışırken, Panetta uzayda bir tane yaratarak hepsini geride bıraktı.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Iridium3_Name</Label>
+    <String>Line Guardian</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Iridium3_Dec</Label>
+    <String>Ticaret yollarını korumak Kurumsal Sektör'ün hayatta kalmasının anahtarıdır. Ve hiçbir gemi bu amaç doğrultusunda bundan daha fazlasını yapmamıştır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Iridium4_Name</Label>
+    <String>Harondin'in Akıncısı</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Iridium4_Dec</Label>
+    <String>Harondin'in kişisel gemisi, hatırı sayılır servetini inşa etmeye başladığı yerdi. Artık geminin kaptanlığını yapacak vakti yok ama gemi hâlâ etkileyici.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Iridium5_Name</Label>
+    <String>Büyük Pazar</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Iridium5_Dec</Label>
+    <String>Tür veya ittifaka bakılmaksızın herkesin binmesine izin vermesi açısından alışılmadık bir gemi. Bu çok sayıda soruna yol açıyor, ancak aynı zamanda herhangi bir dünyadakilere rakip olan merkezi bir pazar yeri yarattı.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Iridium6_Name</Label>
+    <String>Worldbridge</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Iridium6_Dec</Label>
+    <String>Başlangıçta şehir büyüklüğündeki ticaret etkinliklerini taşımak ve hızlı bir şekilde dağıtmak için tasarlanmıştı. Askerleri taşımak da satıcıları taşımak kadar kolaydı.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Iridium7_Name</Label>
+    <String>Yıldız Kumarhanesi</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Iridium7_Dec</Label>
+    <String>Galaktik bir mucize, genellikle kendi başına tamamen işlevsel bir şehirle karşılaştırılır. Nesiller boyu vatandaşlar bu gemide yaşamlarını sürdürmekte ve yakın dünyalara gelen ziyaretçilere hizmet vermektedir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Arcean1_Name</Label>
+    <String>Valiant</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Arcean1_Dec</Label>
+    <String>Başlangıçta bir Arcean savaş oyunu için tasarlanan Valiant, daha pratik amaçlar için hızla yeniden konuşlandırıldı.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Arcean2_Name</Label>
+    <String>Absolution</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Arcean2_Dec</Label>
+    <String>Arcean Yargıçlar Konseyi'nin gemisi ve onlar adına adalet dağıtma yeteneğine sahip.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Arcean3_Name</Label>
+    <String>İntikam</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Arcean3_Dec</Label>
+    <String>Kökeni bilinmeyen bir uzaylı gemisi. Arceans onu buldu ve kendi amaçlarına hizmet etmesi için donattı.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Arcean4_Name</Label>
+    <String>Terminus</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Arcean4_Dec</Label>
+    <String>Bu gemi boyutsal bir yarıktan fırlatıldı. Okyanus tasarımına benziyor, ama keşfedilmemiş bir teknolojiden.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Arcean5_Name</Label>
+    <String>Vega'nın Kulesi</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Arcean5_Dec</Label>
+    <String>Lord Vega'nın efsanevi savaş gemisi. Bir dünyanın üzerinde belirmesi hem ilham verici hem de ürkütücüdür.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Arcean6_Name</Label>
+    <String>Elysium</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Arcean6_Dec</Label>
+    <String>Elysium sadece en yetenekli savaşçıları mürettebatı arasına kabul eder. Birçoğu bir gün onun saflarına katılmayı arzular.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Arcean7_Name</Label>
+    <String>Arcadia</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Arcean7_Dec</Label>
+    <String>Arcean filosunun amiral gemisi. Efsanesi büyüdükçe, gücü de büyüyor.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Drath1_Name</Label>
+    <String>Aerolith</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Drath1_Dec</Label>
+    <String>Drath hayranları tarafından 'Meteroite' olarak adlandırılan bu gemi, uzayı keşfetmek için geliştirilmiş ve bulduğu her şeyle başa çıkmak için silahlandırılmış bir prototipti.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Drath2_Name</Label>
+    <String>Fyrdwell</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Drath2_Dec</Label>
+    <String>Karşılaşabileceği her türlü tehditle başa çıkmak üzere tasarlanmış bir prototip gemi.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Drath3_Name</Label>
+    <String>Morningstar</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Drath3_Dec</Label>
+    <String>Tek bir komutanı sürekli hayatta tutmaya yetecek kadar yaşam desteği ile donatılmıştır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Drath4_Name</Label>
+    <String>Buopoth</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Drath4_Dec</Label>
+    <String>Kurbanlarını kontrol edebilen ve onları diğer güvelerin köleleriyle savaşmaya zorlayan bir Drath bataklık güvesinden esinlenilmiştir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Drath5_Name</Label>
+    <String>Dikenli Yuva</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Drath5_Dec</Label>
+    <String>Başlangıçta Drath'ın diğer imparatorluklara ödünç verebileceği bir paralı asker gemisi olarak tasarlanmıştı. Sonunda onu kendilerine saklamaya karar verdiler.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Drath6_Name</Label>
+    <String>Stardrinker</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Drath6_Dec</Label>
+    <String>Drath amiral gemisi ve komutalarının kalbi.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Drath7_Name</Label>
+    <String>Algol</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Drath7_Dec</Label>
+    <String>Pek çok kişi bu geminin sadece bir söylenti olduğuna inanır. Çoğunlukla düşman filolarını onlara yaklaşmadan yok ettiği için savaşta hiç görülmemiştir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Baratak1_Name</Label>
+    <String>Polen</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Baratak1_Dec</Label>
+    <String>Burada yetişen verimli tohumlar yakındaki dünyaları filizlendirmek için kullanılabilir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Baratak2_Name</Label>
+    <String>Bullate</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Baratak2_Dec</Label>
+    <String>Bu geminin canlı gövdesi neredeyse aldığı hasar kadar çabuk iyileşir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Baratak3_Name</Label>
+    <String>Güneş Rüzgar</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Baratak3_Dec</Label>
+    <String>Her koloninin yakınında bulunmasından memnuniyet duyacağı efsanevi bir nakliye gemisi.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Baratak4_Name</Label>
+    <String>Nan'ın Dikeni</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Baratak4_Dec</Label>
+    <String>Bu geminin kalbinde bir his var. Baratak kalp çanlarının çoğu sakin ve sabırlı olsa da, bu savaş hayalleri kuruyor.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Baratak5_Name</Label>
+    <String>Umbel Bahçe</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Baratak5_Dec</Label>
+    <String>Bu geminin en dikkat çekici özelliği, yakındaki tüm dünyaları iyileştiren canlı atmosferik filtreler üretebilmesidir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Baratak6_Name</Label>
+    <String>Tohum Ekici</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Baratak6_Dec</Label>
+    <String>Yaşamın ve büyümenin kalesi.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Baratak7_Name</Label>
+    <String>Galaktik Kanopi</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Baratak7_Dec</Label>
+    <String>Baratak İmparatorluğu'nun ana gemisi.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Resistance1_Name</Label>
+    <String>Sığınak Şahini</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Resistance1_Dec</Label>
+    <String>Direniş sınırlarını güvende tutmak için tasarlanmış hızlı bir saldırı gemisi.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Resistance2_Name</Label>
+    <String>Orion</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Resistance2_Dec</Label>
+    <String>Saldırısı seviye ile artan mütevazı bir gemi.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Resistance3_Name</Label>
+    <String>Yıldız Kalkanı</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Resistance3_Dec</Label>
+    <String>Müttefik filoları desteklemek için tasarlanmış efsanevi bir filo savunucusu.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Resistance4_Name</Label>
+    <String>Australe</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Resistance4_Dec</Label>
+    <String>Bazen "Cennetin Gözleri" olarak da adlandırılır. Bu gemi seyahat ederken bir alt uzay röle ağı kurar ve zamanla sensör menzilini artırır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Resistance5_Name</Label>
+    <String>Pyxis Beş</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Resistance5_Dec</Label>
+    <String>Yenilikçi teknoloji sayesinde değil, kendilerini işlerine ve birbirlerine adamış inanılmaz yetenekli bir ekip sayesinde başarılı olan bir gemi.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Resistance6_Name</Label>
+    <String>Circinus</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Resistance6_Dec</Label>
+    <String>Bu savaş gemisindeki dökümhane bütün bir filoya hizmet verebilir ve onları savaşa hazır tutabilir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Resistance7_Name</Label>
+    <String>Eridanus</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Resistance7_Dec</Label>
+    <String>Direniş'in amiral gemisi ve askeri gücünün çekirdeği.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Altarian1_Name</Label>
+    <String>Sojourner</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Altarian1_Dec</Label>
+    <String>Altarianların gezgin gemisinin ziyaret ettiği uzak dünyalara şans getirdiği ve bu dünyalara ulaşımı sağladığı bilinmektedir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Altarian2_Name</Label>
+    <String>Scry</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Altarian2_Dec</Label>
+    <String>Bu gemi, komutanın psişik güçlerini geliştirerek, yabancı nesneleri çok az türün yapabileceği şekilde algılamalarını ve incelemelerini sağlar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Altarian3_Name</Label>
+    <String>Sindarin</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Altarian3_Dec</Label>
+    <String>Yerel iletişim ve veri kanallarına bağlanma konusunda eşsiz bir yeteneğe sahip olan bu gemi, kendi sınırları içindeyken neredeyse anında güçlendirilir. Ve onların dışında olduğunda savunmasızdır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Altarian4_Name</Label>
+    <String>Decalon</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Altarian4_Dec</Label>
+    <String>Geleceğe tanıklık edebilmek için yapılan başarısız bir girişim, bunun yerine geçmişi görebilen bir sistem yarattı. Daha az kullanışlı, ancak anomalileri araştırırken hala değerli.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Altarian5_Name</Label>
+    <String>Magesta</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Altarian5_Dec</Label>
+    <String>Kraliçe, Altarian Pelerini veya SkyGlaive olarak da adlandırılır. Bu efsanevi savaş gemisi hem yakındaki filoları hem de dünyaları güçlendirir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Altarian6_Name</Label>
+    <String>Amarian Ruhu</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Altarian6_Dec</Label>
+    <String>Bu gemi Altarian Savaş Konseyi'ne ev sahipliği yapıyor. Her ne kadar savaşa girmemeyi tercih etseler de etkileri çok geniştir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Altarian7_Name</Label>
+    <String>Parçalanmış Kule</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Altarian7_Dec</Label>
+    <String>Altarian medyumları geniş bir yetenek yelpazesini kapsar. Güçleriyle öldürebilenlerin ya yetenekleri kesilir ya da bu gemide mürettebat olarak görevlendirilirler.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Torian1_Name</Label>
+    <String>Od'un Gözü</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Torian1_Dec</Label>
+    <String>Toryalılar uzayın derinliklerinde yüzen mekanik bir titan olan ölü bir tanrı keşfettiler. Titan, bir gemiye dönüştürdükleri gözü hariç, tamir edilemeyecek şekilde yok edilmişti.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Torian2_Name</Label>
+    <String>Mordrain</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Torian2_Dec</Label>
+    <String>Torian'ların Drengin'den kaçmak için kullandığı gemi. Torian görünümüne rağmen aslında çalıntı bir Drengin gemisi.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Torian3_Name</Label>
+    <String>Undertow</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Torian3_Dec</Label>
+    <String>Genellikle Starbubble veya Slingshot olarak adlandırılan bu gemi hız için tasarlanmıştır ve acil durumlara hızla müdahale edebilir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Torian4_Name</Label>
+    <String>Yerçekiminin Kalbi</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Torian4_Dec</Label>
+    <String>Bu geminin motoruna güç veren antimadde kusurludur ve gemi hareket ettiğinde zamansal uzayda dalgalanmalara neden olur. Mürettebat bu sallantıları düşman filolarını yavaşlatmak için kullanmayı öğrendi.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Torian5_Name</Label>
+    <String>Tlas'ın Amiral Gemisi</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Torian5_Dec</Label>
+    <String>Çok çeşitli kayıt ekipmanları, Torian uygarlığının ve diğer pek çoklarının bu efsanevi geminin savaşlarını olduğu gibi izlemelerine olanak tanır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Torian6_Name</Label>
+    <String>Everhold</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Torian6_Dec</Label>
+    <String>İlk olarak artan Torian nüfusu için bir kaçış gemisi olarak tasarlanmıştı. Şimdi bunun yerine bir savaş gemisi olarak donatıldı.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Torian7_Name</Label>
+    <String>Resif</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Torian7_Dec</Label>
+    <String>Torianlar artık istilaya ya da çevresel çöküşe karşı savunmasız olmadan yıldızların arasında yaşamayı hayal ederler. Bu gemi o hayale doğru atılan ilk adımdır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Manti1_Name</Label>
+    <String>Pearl of Babble Glee</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Manti1_Dec</Label>
+    <String>Hükümdarın kişisel ulaşım aracında etkileyici bir laboratuvar var. Bunun araştırma için mi yoksa Babble'ın kişisel deneyleri için mi olduğu bilinmiyor.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Manti2_Name</Label>
+    <String>Küçük Ejderha</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Manti2_Dec</Label>
+    <String>Küçük olmasına rağmen şaşırtıcı derecede güçlü silahlara sahip sert bir savaş gemisi. Aslen korunan anomalilerle başa çıkmak için tasarlanmıştır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Manti3_Name</Label>
+    <String>Derinlerin Soğukluğu</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Manti3_Dec</Label>
+    <String>Algılamaya karşı neredeyse görünmez olacak şekilde tasarlanan ve kendine ait etkileyici bir sensör menziline sahip olan bu araç, uzak uzaydaki anomalileri keşfetmek için çok uygundur.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Manti4_Name</Label>
+    <String>Korunaklı Gökyüzü</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Manti4_Dec</Label>
+    <String>Manti'nin kayıp nesli için bir yaşam alanı olarak tasarlandı. Ve bir kez bulunduklarında, bir daha kaybolmamalarını sağlamak için yeterli savunma sağlamak.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Manti5_Name</Label>
+    <String>Brachyura Salamurası</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Manti5_Dec</Label>
+    <String>Bu gemi inşa edilmedi, ancak Brachyura okyanusunun derinliklerinde keşfedildi. Manti teknolojisi olmamasına rağmen onu aktif hale getirmeyi ve kullanmayı başardılar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Manti6_Name</Label>
+    <String>Hissing Shoal</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Manti6_Dec</Label>
+    <String>Bu gemi, birlikte uzay yolculuğu yapabilen, savaş başlatabilen ve bir mürettebatı idame ettirebilen otonom, özel kapsüllerden oluşan bir koleksiyondur.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Manti7_Name</Label>
+    <String>Tırpan</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Manti7_Dec</Label>
+    <String>Uzayın en derin yerlerindeki anomalilere sahip çıkmak ve orada bulduğu her şeyi yok etmek üzere tasarlanmıştır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Krynn1_Name</Label>
+    <String>Misyonerlik</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Krynn1_Dec</Label>
+    <String>Sonsuz menzil, bu sondanın Yol'un mesajını galaksinin en uzak noktalarına kadar yaymasını sağlar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Krynn2_Name</Label>
+    <String>Monitör</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Krynn2_Dec</Label>
+    <String>Yol için dini eserler toplamak üzere tasarlanan bu gemi, dünyevi anomalileri analiz etmek için de aynı derecede uygundur.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Krynn3_Name</Label>
+    <String>Haçlı</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Krynn3_Dec</Label>
+    <String>Yol'un kutsal dünyalarını savunmak ya da onları tehdit edenleri yok etmek için tasarlanmıştır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Krynn4_Name</Label>
+    <String>Yolun Kılıcı</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Krynn4_Dec</Label>
+    <String>Bu efsanevi savaş gemisi, Yol ve tüm üyeleri tarafından günlük hayır dualarına konu olmaktadır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Krynn5_Name</Label>
+    <String>Yolun Kalkanı</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Krynn5_Dec</Label>
+    <String>Yol içinde inancın sembolü olarak kullanılır. Misyonlarda yer almadığı zamanlarda genellikle heyetlere ve en önemli dini konferanslara ev sahipliği yapar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Krynn6_Name</Label>
+    <String>Rosalind'in Anısı</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Krynn6_Dec</Label>
+    <String>Bu geminin mürettebatı tamamen din adamlarından oluşuyor. Ama bu, savaş gemisini savaşta daha az zorlu yapmaz.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Krynn7_Name</Label>
+    <String>İlahi Yargı</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Krynn7_Dec</Label>
+    <String>Bu uzak menzilli füze destroyeri, neredeyse bir güneş sistemi uzaktaki düşman filolarını yok edebilir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Iconian1_Name</Label>
+    <String>Demodae</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Iconian1_Dec</Label>
+    <String>Düşman tehditlerine hızlı yanıt vermek için tasarlanan bu geminin geldiğine dair ilk işaret genellikle bir lazer ateşi telaşıdır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Iconian2_Name</Label>
+    <String>Eclipse</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Iconian2_Dec</Label>
+    <String>Bu gizemli gemi ya da mürettebatı hakkında çok az şey bilinmektedir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Iconian3_Name</Label>
+    <String>Gözcü</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Iconian3_Dec</Label>
+    <String>Genellikle Iconian sınırlarında devriye gezer ve güçlü sensörlerinin ötesindeki her şeyi tespit etmesini sağlar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Iconian4_Name</Label>
+    <String>Iso'nun Gölgesi</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Iconian4_Dec</Label>
+    <String>Iso'nun kişisel savaş gemisi. Zaman zaman ihtiyaç duyan komutanlara ödünç verir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Iconian5_Name</Label>
+    <String>Ringvault</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Iconian5_Dec</Label>
+    <String>Başlangıçta bir derin uzay laboratuvarı olan bu araç, içerdiği teknolojik sırları korumak için motorlar ve silahlarla donatıldı.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Iconian6_Name</Label>
+    <String>Maranna</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Iconian6_Dec</Label>
+    <String>Iconian uygarlığının yeni vaadi. Geniş klon odaları hem yakındaki dünyaların büyümesini teşvik ediyor hem de Iconianlıların başka bir yok oluş seviyesinde olaydan sağ çıkmasını garanti altına alıyor.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Iconian7_Name</Label>
+    <String>Dustbringer</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Iconian7_Dec</Label>
+    <String>Bu gemi, Iconian gözetiminden veya kısıtlamasından bağımsız olarak faaliyet gösterme yetkisine sahip bir Iconian askeri birimi olan Gri'nin amiral gemisidir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Onyx1_Name</Label>
+    <String>Arkose</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Onyx1_Dec</Label>
+    <String>Korsan akıncıları kovalayamayan Arkose, bunun yerine füzelerinin bunu yapmasına izin vermekten çok mutludur.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Onyx2_Name</Label>
+    <String>Jaspillite</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Onyx2_Dec</Label>
+    <String>Bu geminin silahları kaza geçirmiş bir uzaylı gemisinden çıkarıldı. Yüzyıllar öncesine aitler, ama Kovan yakın zamanda onlara nasıl güç vereceklerini buldu.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Onyx3_Name</Label>
+    <String>Breccia</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Onyx3_Dec</Label>
+    <String>Breccia'daki güçlü lazerler aslında madencilik lazerleridir. Ama düşman gövdelerini kesmek için de işe yararlar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Onyx4_Name</Label>
+    <String>Lamprophye</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Onyx4_Dec</Label>
+    <String>Güçlü füzeler, tüm bir filoyu koruyabilecek kadar gelişmiş bir nokta savunma sistemine eşlik eder.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Onyx5_Name</Label>
+    <String>Nefelinit</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Onyx5_Dec</Label>
+    <String>Kovan için Promethion yaşamın kaynağıdır. Ve bu geminin iç odaları reaksiyonu tersine çevirebilir ve yenilmiş düşmanların yaşamını Promethion'a dönüştürebilir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Onyx6_Name</Label>
+    <String>Hornfels</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Onyx6_Dec</Label>
+    <String>Bir gemiden çok mobil bir yıldız üssü olan Hornfels, yakındaki dünyaların üretimine yardımcı olabilir. Ve gerekirse onları savunabilir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Onyx7_Name</Label>
+    <String>Blueschist</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Onyx7_Dec</Label>
+    <String>Kovan'ın bu amiral gemisi kutsaldır ve birçokları Promethion'a maruz kalmasının onun duyarlı hale gelmesine neden olduğunu söyler.</String>
+  </StringTable>
+  <StringTable>
+    <Label>DreadLordTiny_Name</Label>
+    <String>Bela</String>
+  </StringTable>
+  <StringTable>
+    <Label>DreadLordTiny_Dec</Label>
+    <String>Binlerce Dreadlord keşif gemisinden biri.</String>
+  </StringTable>
+  <StringTable>
+    <Label>DreadLordSmall_Name</Label>
+    <String>Hüzün</String>
+  </StringTable>
+  <StringTable>
+    <Label>DreadLordSmall_Dec</Label>
+    <String>Taktik avcı uçakları düşmanları yok etmek veya sertleştirilmiş hedefleri belirlemek için tasarlanmıştır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>DreadLordMedium_Name</Label>
+    <String>Kabus</String>
+  </StringTable>
+  <StringTable>
+    <Label>DreadLordMedium_Dec</Label>
+    <String>Varlığı organik yaşamda endişe ve kabuslara neden olan güçlü bir savaş gemisi.</String>
+  </StringTable>
+  <StringTable>
+    <Label>DreadLordLarge_Name</Label>
+    <String>Endbringer</String>
+  </StringTable>
+  <StringTable>
+    <Label>DreadLordLarge_Dec</Label>
+    <String>Savaşları bitirmek için inşa edildi.</String>
+  </StringTable>
+  <StringTable>
+    <Label>DreadLordHuge_Name</Label>
+    <String>Umut Tutulması</String>
+  </StringTable>
+  <StringTable>
+    <Label>DreadLordHuge_Dec</Label>
+    <String>Dünya yiyicisi de denir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Crystalline1_Name</Label>
+    <String>Pırıltılı Kenar</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Crystalline1_Dec</Label>
+    <String>Sebepsiz bir saldırıya karşılık olarak geliştirildi. Savaştan mucizevi bir şekilde kurtuldu ve güç ve umudun sembolü olmaya devam ediyor.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Crystalline2_Name</Label>
+    <String>Düşen Yıldız</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Crystalline2_Dec</Label>
+    <String>Bir suç örgütü bu savaş gemisini yarattıktan sonra birbirlerine düşman oldu ve geride sadece bu işlevsel savaş gemisini bıraktı.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Crystalline3_Name</Label>
+    <String>Runewyn</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Crystalline3_Dec</Label>
+    <String>Bu gemi telepatik komutların yanı sıra dokunsal kontrolleri de kabul eder. Bu da onu hem düşmanları hem de savaşta ona bağlı olan pilot için tehlikeli hale getiriyor.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Crystalline4_Name</Label>
+    <String>Prizma</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Crystalline4_Dec</Label>
+    <String>Başlangıçta zengin bir tüccar için tasarlandı ve her şeyin en iyisiyle donatıldı. Ölümcül olduğu kadar güzeldir de.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Crystalline5_Name</Label>
+    <String>Nöbet</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Crystalline5_Dec</Label>
+    <String>Koruduğu ana gezegenin üzerinde gece gökyüzünde sıkça görüldüğü için genellikle Küçük Ay olarak adlandırılır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Crystalline6_Name</Label>
+    <String>Marimando</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Crystalline6_Dec</Label>
+    <String>Yiyeceğe ihtiyacı olmayanlar için bütün bir uzay ekosistemi. Tüm güverteler eğlence, eğitim ve üretime ayrılmıştır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Crystalline7_Name</Label>
+    <String>Ambergrove</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Crystalline7_Dec</Label>
+    <String>Komşu medeniyetleri ziyaret etmek için diplomatik bir gemi olması amaçlanmıştır. Önemli bir silahlanma diplomasinin barışçıl kalmasını sağlar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Korath1_Name</Label>
+    <String>Swift Scourage</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Korath1_Dec</Label>
+    <String>Yüzlerce savaşın yara izlerini ve savaş lekelerini taşıyor.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Korath2_Name</Label>
+    <String>Cannonquake</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Korath2_Dec</Label>
+    <String>Bu fırkateyn, eski iniş takımı bölmesi de dahil olmak üzere mümkün olan her yere silah sabit noktaları yerleştirecek şekilde modifiye edilmiştir. Bu nedenle mürettebatın gemiye taşınması gerekiyor.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Korath3_Name</Label>
+    <String>Yıkımın Habercisi</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Korath3_Dec</Label>
+    <String>Korath öncüsünün bir parçası olan bu gemi, ek bir reaktör için kargo ambarından ödün verilerek, benzeri görülmemiş bir güç/ağırlık oranına sahip olacak şekilde tasarlanmıştır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Korath4_Name</Label>
+    <String>Avcının Yükü</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Korath4_Dec</Label>
+    <String>Galaksilerin en büyük savaşçıları hakkında veriler içeren son teknoloji bir savaş simülatörü ile donatılmıştır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Korath5_Name</Label>
+    <String>Seething Fang</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Korath5_Dec</Label>
+    <String>İçinden ateşlenen kinetik mermileri hiper şarj ederek tahrip potansiyellerini büyük ölçüde artıran devrim niteliğinde bir alan jeneratörü ile donatılmıştır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Korath6_Name</Label>
+    <String>Yıkımın Kaynağı</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Korath6_Dec</Label>
+    <String>Kesin zaferlerle dolu bir geçmişe sahip efsanevi bir savaş gemisi.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Korath7_Name</Label>
+    <String>Yok Oluş</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Korath7_Dec</Label>
+    <String>Kaba bir mermi tahrik sistemine sahip korkunç bir topçu gemisi. Bu sistem tehlikelidir ve aşırı bakım gerektirir ancak topların teorik olarak sonsuz menzilde ateş etmesini sağlar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Seeing1_Name</Label>
+    <String>The Observer</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Seeing1_Dec</Label>
+    <String>Bu gemi, yolcuların her zaman duvarların arkasından dışarıyı görebilmeleri için son teknoloji ürünü sensörlere sahiptir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Seeing2_Name</Label>
+    <String>Alevli İris</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Seeing2_Dec</Label>
+    <String>Çok sayıda ışın silahı ile tanınır, uzayda kilometrelerce uzaktan görülebilen göz kamaştırıcı bir ışık gösterisi ortaya çıkarabilir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Seeing3_Name</Label>
+    <String>Derin Bakış</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Seeing3_Dec</Label>
+    <String>Bu gemi, çeşitli anomali fenomenlerini gelecekte görüntülemek üzere kaydetmek için özel ekipmanlarla donatılmıştır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Seeing4_Name</Label>
+    <String>Karanlık Algı</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Seeing4_Dec</Label>
+    <String>Her geminin ışın silahlarının enerji çıkışını kullanarak ve güçlendirerek çalışan ve böylece saldırı güçlerini önemli ölçüde artıran odaklanmış mercek teknolojisi ile donatılmıştır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Seeing5_Name</Label>
+    <String>Meraklı Görüş</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Seeing5_Dec</Label>
+    <String>Düşman zırhındaki en küçük kusurları ortaya çıkarabilen ve yıkıcı, etkili saldırıların önünü açan sofistike bir güvenlik açığı tespit sistemine sahiptir...</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Seeing6_Name</Label>
+    <String>Mercek</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Seeing6_Dec</Label>
+    <String>Bu gemi, çok uzak mesafelerdeki birden fazla düşman gemisini aynı anda doğru bir şekilde takip edebilen gelişmiş hedefleme sistemiyle tüm evrende ünlüdür.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Seeing7_Name</Label>
+    <String>Yıldız Görüşü</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Seeing7_Dec</Label>
+    <String>Olağanüstü sensör menzilleriyle bu gemi, galaksinin derinliklerine bakma ve uzaktaki gök cisimlerini ve fenomenleri erken tespit etme konusunda eşsiz bir yeteneğe sahiptir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Irradiated1_Name</Label>
+    <String>The Wriggler</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Irradiated1_Dec</Label>
+    <String>Bu gemi sürekli kıpırdanması ve ani seğirmeleriyle ünlüdür, bu da onu öngörülemez bir hedef haline getirir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Irradiated2_Name</Label>
+    <String>Hardhide</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Irradiated2_Dec</Label>
+    <String>Bu canavarın iç organları hakkında çok az şey bilinmektedir, çünkü hiçbir alet inanılmaz derecede yoğun derisine nüfuz edemez.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Irradiated3_Name</Label>
+    <String>Dişler</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Irradiated3_Dec</Label>
+    <String>Bu canavarın yayına baktığınızda ona neden diş dediklerini anlayacaksınız.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Irradiated4_Name</Label>
+    <String>Metamorfoz</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Irradiated4_Dec</Label>
+    <String>Bu canavarın derisinin ve kabuğunun sürekli başkalaşmasına neden olan benzersiz bir genetik durumu vardır. Her zaferden sonra vuruş noktaları rastgele -%50 ile +%50 arasında değişir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Irradiated5_Name</Label>
+    <String>Haşere Anne</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Irradiated5_Dec</Label>
+    <String>Bu geminin birleştiği yaratık, komuta edildiğinde dökebileceği parazitlere sahiptir, bu da yıkıcı bir istila gücü oluşturur.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Irradiated6_Name</Label>
+    <String>Uzun Pençe</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Irradiated6_Dec</Label>
+    <String>Bu canavar olağanüstü bir görme yeteneğine sahiptir ve düşmanlarını inanılmaz mesafelerden kolaylıkla tespit edip hedef almasını sağlar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Irradiated7_Name</Label>
+    <String>Büyük Maw</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Irradiated7_Dec</Label>
+    <String>Gerçek bir kozmik korku olan bu Leviathan, organik olanla mekanik olanın birleşmesinin dehşet verici olasılıklarını temsil eder. Bir savaş bittikten sonra, savaş alanındaki enkazı ve devre dışı bırakılmış gemileri sindirir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Moth1_Name</Label>
+    <String>D'Auroth</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Moth1_Dec</Label>
+    <String>D'Auroth, yeni yaşam için uzak yıldızları keşfetmek amacıyla görevlendirilen ilk gemiydi.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Moth2_Name</Label>
+    <String>Due' Lumineras</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Moth2_Dec</Label>
+    <String>Due' Lumineras, iç aydınlatmayı mevsime göre değiştiren teknolojiyi kullanan ilk gemiydi ve uzay yolculuğu deneyimini büyük ölçüde geliştirdi.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Moth3_Name</Label>
+    <String>Due' Soleary</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Moth3_Dec</Label>
+    <String>Savaşta, Due' Soleary çatışmanın yıldızı olarak görülür - çok yaklaşan herkesi hızla yakan büyük bir beden. En azından savaştan kaçınan Advance öyle diyor.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Moth4_Name</Label>
+    <String>Due' Éclipse</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Moth4_Dec</Label>
+    <String>Due' Éclipse, Advance tarafından resmi olarak tanınmamaktadır ve hiçbir kayıt tutulmamaktadır. Çoğu Phalenoid'in bildiği kadarıyla, gemi mevcut değildir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Moth5_Name</Label>
+    <String>D'Comètaut</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Moth5_Dec</Label>
+    <String>Ağır bir nakliye gemisi olan D'Comètaut, seyahat etmenin en güvenli yolu olarak övülür. Başlangıçta diplomatik misyonlara yardımcı olmak üzere tasarlanmıştır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Moth6_Name</Label>
+    <String>D'Radieut</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Moth6_Dec</Label>
+    <String>Törensel bir amiral gemisi olan D'Radieut her filonun yıldızıdır. Geminin yavaş hareket hızı ve ağır zırhı onu savunma için ideal hale getirir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Moth7_Name</Label>
+    <String>Due' Céles</String>
+  </StringTable>
+  <StringTable>
+    <Label>Commander_Moth7_Dec</Label>
+    <String>Şaşırtıcı derecede çevik bir amiral gemisi. Due' Céles, bilinen yıldız sistemlerindeki yardım çağrılarına hızla yanıt vermek üzere tasarlanmıştır.</String>
+  </StringTable>
+</StringTableList>

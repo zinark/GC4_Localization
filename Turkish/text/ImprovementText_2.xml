@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<StringTableList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+  <!-- Created with the GC4 editor -->
+  <!-- ImprovementText.xml -->
+  <StringTable>
+    <Label>HoloTheater_Name</Label>
+    <String>Holo Tiyatro</String>
+  </StringTable>
+  <StringTable>
+    <Label>HoloTheater_ShortDec</Label>
+    <String>Tüm varlıkların haber ve hikayelerle eğlenmesi için bir yer sağlar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>NetworkNexus_Name</Label>
+    <String>Ağ Nexus</String>
+  </StringTable>
+  <StringTable>
+    <Label>NetworkNexus_ShortDec</Label>
+    <String>Biyo-elektrik araştırma iletişimi için merkez.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IrradiatedFoundry_Name</Label>
+    <String>Işınlanmış Dökümhane</String>
+  </StringTable>
+  <StringTable>
+    <Label>IrradiatedFoundry_ShortDec</Label>
+    <String>Çevre bölgelere bağlı olarak büyüyen radyasyon yakıtlı üretim merkezi.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ContagionSource_Name</Label>
+    <String>Bulaşma Kaynağı</String>
+  </StringTable>
+  <StringTable>
+    <Label>ContagionSource_ShortDec</Label>
+    <String>Kozmik enfeksiyon için yayılma merkezi mitoz oranını artırır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Golgi_Name</Label>
+    <String>Golgi</String>
+  </StringTable>
+  <StringTable>
+    <Label>Golgi_ShortDec</Label>
+    <String>Hücresel işlem ve uzak görüş için merkezi merkez...</String>
+  </StringTable>
+  <StringTable>
+    <Label>Incubator_Name</Label>
+    <String>Amipli İnkübatör</String>
+  </StringTable>
+  <StringTable>
+    <Label>Incubator_ShortDec</Label>
+    <String>Hızlandırılmış büyüme ve bölünme alanı.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KnowledgeMeld_Name</Label>
+    <String>Bilgi Kaynaştırma Merkezi</String>
+  </StringTable>
+  <StringTable>
+    <Label>KnowledgeMeld_ShortDec</Label>
+    <String>Zorunlu ortak anlayış için birleşme noktası.</String>
+  </StringTable>
+  <StringTable>
+    <Label>HiveWorkerTraining_Name</Label>
+    <String>Çalışma Talimat Odası</String>
+  </StringTable>
+  <StringTable>
+    <Label>HiveWorkerTraining_ShortDec</Label>
+    <String>[HS=HS_Consuming]Consuming[/HS] nüfusunu [HS=HS_Diligence]Diligence[/HS] %50 %. oranında artıracak bir tesis Seviye yükseldikçe etkisi artar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>BrainBugs_Name</Label>
+    <String>Serebral Oda</String>
+  </StringTable>
+  <StringTable>
+    <Label>BrainBugs_ShortDec</Label>
+    <String>[HS=HS_Consuming]Consuming[/HS] nüfusunu [HS=HS_Intelligence]Intelligence[/HS] %50(%. oranında artırmanın merkez üssü Seviye yükseldikçe etkisi artar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>SocialBugs_Name</Label>
+    <String>Uyumlu Antenler</String>
+  </StringTable>
+  <StringTable>
+    <Label>SocialBugs_ShortDec</Label>
+    <String>[HS=HS_Consuming]Tüketim[/HS]birliğini [HS=HS_Social]Sosyal[/HS] becerileri %50 artırarak %. geliştirmek Seviye yükseldikçe etkisi artar..</String>
+  </StringTable>
+  <StringTable>
+    <Label>Hatchery_Name</Label>
+    <String>Kuluçkahane</String>
+  </StringTable>
+  <StringTable>
+    <Label>Hatchery_ShortDec</Label>
+    <String>Gelecek neslin doğum yeri [HS=HS_Consuming]Tüketen [/HS] vatandaşlar. Büyümeyi büyük ölçüde artırır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>WorkHive_Name</Label>
+    <String>Work Hive</String>
+  </StringTable>
+  <StringTable>
+    <Label>WorkHive_ShortDec</Label>
+    <String>[HS=HS_Consuming]Consuming[/HS] işçi kastı için [HS=HS_Diligence]Diligence[/HS] artırarak üretken merkez.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MotherHive_Name</Label>
+    <String>Ana Kovan</String>
+  </StringTable>
+  <StringTable>
+    <Label>MotherHive_ShortDec</Label>
+    <String>Bu dünyadaki [HS=HS_Consuming]Consuming[/HS] türleri için merkez. [HS=HS_Consuming]Consuming[/HS] özelliğine sahip tüm yaratıkların istatistiklerini artırır.</String>
+  </StringTable>
+</StringTableList>

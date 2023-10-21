@@ -1,0 +1,290 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<FlavorTextDefs xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
+  <FlavorTextDef>
+    <InternalName>GENERIC_PRETEXT</InternalName>
+    <MaxTokens>100</MaxTokens>
+    <FlavorTextOption>
+      <Text>{PLAYERFACTIONLONG:1}, {LEADERNAME:1} tarafından yönetilen bir gruptur. {PLAYERTRAITS:1}'un kişilik özelliklerine sahiptirler. {PLAYERFACTIONLONG:2}, {LEADERNAME:2} tarafından yönetilen bir gruptur. {PLAYERTRAITS:2}'ün kişilik özelliklerine sahiptirler. Aşağıdaki gibi tanımlanırlar: {PLAYERFACTIONDESCRIPTION:2}.   Hakimiyet için intragalaktik bir çatışmada çeşitli türlerin ve ana gezegenlerin rakipleridir.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>GENERIC_PRETEXT_WITH_PREVIOUS_CONVERSATION</InternalName>
+    <MaxTokens>100</MaxTokens>
+    <FlavorTextOption>
+      <Text>{PLAYERFACTIONLONG:1}, {LEADERNAME:1} tarafından yönetilen bir gruptur. {PLAYERTRAITS:1}'ün kişilik özelliklerine sahiptirler. {PLAYERFACTIONLONG:2}, {LEADERNAME:2} tarafından yönetilen bir gruptur. {PLAYERTRAITS:2} kişilik özelliklerine sahiptirler. Aşağıdaki gibi tanımlanırlar: {PLAYERFACTIONDESCRIPTION:2}. Hakimiyet için intragalaktik bir çatışmada çeşitli türlerin ve ana gezegenlerin rakipleridir. Daha önce {LEADERNAME:1}, {LEADERNAME:2} için şunları söylemişti: {PREVIOUSCONV:0}</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>FACTION_DESCRIPTION_PRETEXT</InternalName>
+    <MaxTokens>100</MaxTokens>
+    <FlavorTextOption>
+      <Text>{PLAYERFACTION:1} uzaya hakim olmak için galaktik ölçekli bir yarışta rakip olan bir dizi dünyalı ve dünya dışı gruptan biridir. Aşağıdaki gibi tanımlanırlar: {PLAYERFACTIONDESCRIPTION:1}. Aşağıdaki özelliklere sahiptirler: {PLAYERTRAITS:1}</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>FACTION_SHORT_NAME_PRETEXT</InternalName>
+    <MaxTokens>100</MaxTokens>
+    <FlavorTextOption>
+      <Text>{PREVIOUSCONV:0} uzaya hakim olmak için galaktik ölçekli bir yarışta rakip olan bir dizi dünyalı ve dünya dışı gruptan biridir. Aşağıdaki gibi tanımlanırlar: {PLAYERFACTIONDESCRIPTION:1}. Aşağıdaki özelliklere sahiptirler: {PLAYERTRAITS:1}</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>FACTION_LEADER_NAME_PRETEXT</InternalName>
+    <MaxTokens>100</MaxTokens>
+    <FlavorTextOption>
+      <Text>{PREVIOUSCONV:0} uzaya hakim olmak için galaktik ölçekli bir yarışta rakip olan bir dizi dünyalı ve dünya dışı gruptan biridir. Aşağıdaki gibi tanımlanırlar: {PLAYERFACTIONDESCRIPTION:1}. Aşağıdaki özelliklere sahiptirler: {PLAYERTRAITS:1}</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>GENERIC_CUSTOM_CIV_SPEAKER_PRETEXT</InternalName>
+    <MaxTokens>100</MaxTokens>
+    <FlavorTextOption>
+      <Text>{PLAYERFACTION:1} uzaya hakim olmak için galaktik ölçekli bir yarışta rakip olan bir dizi dünyalı ve dünya dışı gruptan biridir. Aşağıdaki gibi tanımlanırlar: {PLAYERFACTIONDESCRIPTION:1}. Aşağıdaki özelliklere sahiptirler: {PLAYERTRAITS:1}</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>GENERIC_CUSTOM_CIV_LISTENER_PRETEXT</InternalName>
+    <MaxTokens>100</MaxTokens>
+    <FlavorTextOption>
+      <Text>{PLAYERFACTION:1} uzaya hakim olmak için galaktik ölçekli bir yarışta rakip olan bir dizi dünyalı ve dünya dışı gruptan biridir. Aşağıdaki gibi tanımlanırlar: {PLAYERFACTIONDESCRIPTION:1}. Aşağıdaki özelliklere sahiptirler: {PLAYERTRAITS:1}</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>CUSTOM_CIV_GENERAL_MAIN_PROMPT</InternalName>
+    <MaxTokens>200</MaxTokens>
+    <FlavorTextOption>
+      <Text>Bir strateji oyununda kullanılmak üzere {LEADERNAME:1}'ten {LEADERNAME:1}'ün sesiyle başka bir fraksiyona birinci şahıs olarak bir giriş yazın. Yaratıcı olun. Kişilik özellikleri açıklamalarında herhangi bir kelimeyi tekrar kullanmayın. 100 kelimenin altında yanıt verin.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>CUSTOM_CIV_GENERAL_MAIN_SHARED_TRADE_ROUTE_PROMPT</InternalName>
+    <MaxTokens>400</MaxTokens>
+    <FlavorTextOption>
+      <Text>Lütfen bir strateji video oyununda kullanılmak üzere {LEADERNAME:1}'ten {LEADERNAME:1}'ün sesiyle başka bir gruba birinci şahıs olarak bir giriş yazın. Yaratıcı olun. Kişilik özellikleri açıklamalarında herhangi bir kelimeyi tekrar kullanmayın. Gruplar birbirleriyle önemli ticaret yollarını paylaşmaktadır, bu nedenle ticaretin karşılıklı yararından bahsedilmelidir. 100 kelimenin altında yanıt verin.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>CUSTOM_CIV_DECLARE_WAR_PROMPT</InternalName>
+    <MaxTokens>100</MaxTokens>
+    <FlavorTextOption>
+      <Text>Lütfen bir strateji video oyununda kullanılmak üzere {LEADERNAME:1}'ten {LEADERNAME:1}'ün sesiyle birinci şahıs olarak başka bir gruba kısa ve öz bir savaş ilanı yazın. Yaratıcı olun. Kişilik özellikleri tanımlarındaki hiçbir kelimeyi tekrar kullanmayın. 10 kelimenin altında yanıt verin.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>CUSTOM_CIV_FIRST_CONTACT_WITH_MAJOR_CIV_PROMPT</InternalName>
+    <MaxTokens>200</MaxTokens>
+    <FlavorTextOption>
+      <Text>Lütfen bir strateji video oyununda kullanılmak üzere {LEADERNAME:1}'dan {LEADERNAME:2}'ye {LEADERNAME:1}'in sesiyle birinci şahıs olarak bir giriş yazın. {LEADERNAME:1} Kendilerini {PLAYERFACTIONDESCRIPTION:1} olarak tanımlıyorlar. Yaratıcı olun. Kişilik özellikleri tanımlarındaki hiçbir kelimeyi tekrar kullanmayın. 50 kelimenin altında yanıt verin.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>CUSTOM_CIV_FIRST_CONTACT_WITH_GENERIC_PROMPT</InternalName>
+    <MaxTokens>200</MaxTokens>
+    <FlavorTextOption>
+      <Text>Lütfen bir strateji video oyununda kullanılmak üzere {LEADERNAME:1}'ten {LEADERNAME:1}'nın sesiyle başka bir lidere birinci şahıs olarak bir giriş yazısı yazın. {LEADERNAME:1} Kendilerini {PLAYERFACTIONDESCRIPTION:1} olarak tanımlıyorlar. Yaratıcı olun. Kişilik özellikleri tanımlarındaki hiçbir kelimeyi tekrar kullanmayın. 50 kelimenin altında yanıt verin.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>INTRODUCTION_PROMPT</InternalName>
+    <MaxTokens>400</MaxTokens>
+    <FlavorTextOption>
+      <Text>Lütfen bir strateji video oyununda kullanılmak üzere {LEADERNAME:1}'ten {LEADERNAME:2}'ya {LEADERNAME:1}'nin sesiyle birinci şahıs olarak bir giriş yazın.  Yaratıcı olun. Kişilik özellikleri açıklamalarında herhangi bir kelimeyi tekrar kullanmayın. 100 kelimenin altında yanıt verin. Aşağıdakilerin yeniden ifade edilmesini ekleyin: {ORIGINALTEXT:0}</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>CUSTOM_CIV_FIRST_CONTACT_PEACEFUL_RESPONSE_PROMPT</InternalName>
+    <MaxTokens>100</MaxTokens>
+    <FlavorTextOption>
+      <Text>Lütfen bir strateji video oyununda kullanılmak üzere bir ilk girişe yanıt olarak birinci şahıs olarak başka bir gruba kısa ve öz bir yanıt yazın. Kendilerini {PLAYERFACTIONDESCRIPTION:1} olarak tanımlayan bir uygarlığa yanıt veriyoruz. Dostça davranın ancak benzersiz özelliklerini kabul edin. Kişilik özellikleri açıklamalarında herhangi bir kelimeyi tekrar kullanmayın. 10 kelimenin altında yanıt verin.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>CUSTOM_CIV_FIRST_CONTACT_NEUTRAL_RESPONSE_PROMPT</InternalName>
+    <MaxTokens>100</MaxTokens>
+    <FlavorTextOption>
+      <Text>Lütfen bir strateji video oyununda kullanılmak üzere bir ilk girişe kısa ve öz bir yanıt yazın. Kendilerini {PLAYERFACTIONDESCRIPTION:1} olarak tanımlayan bir uygarlığa yanıt veriyoruz. Biraz agresif ve komik olun. Kişilik özellikleri açıklamalarında herhangi bir kelimeyi tekrar kullanmayın. 15 kelimenin altında yanıt verin.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>CUSTOM_CIV_FIRST_CONTACT_TRADE_RESPONSE_PROMPT</InternalName>
+    <MaxTokens>200</MaxTokens>
+    <FlavorTextOption>
+      <Text>Lütfen bir strateji video oyununda kullanılmak üzere {LEADERNAME:1}'ten {LEADERNAME:1}'in sesiyle başka bir gruba birinci şahıs olarak kısa ve öz bir yanıt yazın.  Tarafsız ve bağlayıcı olmayan bir ton kullanın. Konuşmacının ticarete açık olduğunu belirtin. Yaratıcı olun ve kendini {PLAYERFACTIONDESCRIPTION:1} olarak tanımlayan birinin yapacağı şekilde konuşun. Kişilik özellikleri tanımlarındaki hiçbir kelimeyi tekrar kullanmayın. 25 kelimenin altında yanıt verin.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>CUSTOM_CIV_DECLARE_WAR_AGGRESSIVE_RESPONSE_PROMPT</InternalName>
+    <MaxTokens>100</MaxTokens>
+    <FlavorTextOption>
+      <Text>Lütfen bir strateji video oyununda kullanılmak üzere {LEADERNAME:1}'ten {LEADERNAME:1}'nın sesiyle {PLAYERFACTION:1}'ye karşı savaş ilanına yanıt olarak birinci şahıstan başka bir gruba kısa ve öz bir yanıt yazın. Agresif bir ton kullanın. Yaratıcı ve kendini {PLAYERFACTIONDESCRIPTION:1} olarak tanımlayan birinin yapacağı şekilde olun. Kişilik özellikleri tanımlarındaki hiçbir kelimeyi tekrar kullanmayın. 10 kelimenin altında yanıt verin.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>CUSTOM_CIV_DECLARE_WAR_DISAPPOINTED_RESPONSE_PROMPT</InternalName>
+    <MaxTokens>100</MaxTokens>
+    <FlavorTextOption>
+      <Text>Lütfen bir strateji video oyununda kullanılmak üzere {LEADERNAME:1}'ten {LEADERNAME:1}'nın sesiyle {PLAYERFACTION:1}'ye karşı savaş ilanına yanıt olarak birinci şahıstan başka bir gruba kısa ve öz bir yanıt yazın. Hayal kırıklığına uğramış bir ton kullanın. Yaratıcı olun ve kendini {PLAYERFACTIONDESCRIPTION:1} olarak tanımlayan birinin yapacağı şekilde konuşun. Kişilik özellikleri tanımlarındaki hiçbir kelimeyi tekrar kullanmayın. 10 kelimenin altında yanıt verin.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>INTRODUCTION_RESPONSE_PROMPT</InternalName>
+    <MaxTokens>100</MaxTokens>
+    <FlavorTextOption>
+      <Text>Lütfen bir strateji video oyununda kullanılmak üzere {LEADERNAME:2}'dan {LEADERNAME:1}'ye {LEADERNAME:2}'in sesiyle birinci şahıs olarak girişe bir yanıt yazın. Yaratıcı olun ve kendini {PLAYERFACTIONDESCRIPTION:1} olarak tanımlayan birinin yapacağı şekilde yazın. Kişilik özellikleri açıklamalarında hiçbir kelimeyi tekrar kullanmayın. Liderin adını ya da fraksiyon adını kullanmayın. 16 veya daha az kelimeyle yanıt verin. Aşağıdakilerin yeniden ifadesini ekleyin: {ORIGINALTEXT:0}</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>GENERIC_GREETING_PROMPT</InternalName>
+    <MaxTokens>300</MaxTokens>
+    <FlavorTextOption>
+      <Text>Lütfen bir strateji video oyununda kullanılmak üzere {LEADERNAME:1}'dan {LEADERNAME:2}'ye {LEADERNAME:1}'in sesiyle birinci şahıs olarak bir konuşma girişi yazın. Yaratıcı olun. Kendilerini {PLAYERFACTIONDESCRIPTION:1} olarak tanımlıyorlar, bu yüzden bunu dikkate aldığınızdan emin olun. Kişilik özellikleri açıklamalarında herhangi bir kelimeyi tekrar kullanmayın. 75 kelimenin altında yanıt verin. Aşağıdakilerin yeniden ifadesini ekleyin: {ORIGINALTEXT:0}</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>OPTIONS_MAIN_TEXT_PROMPT</InternalName>
+    <MaxTokens>100</MaxTokens>
+    <FlavorTextOption>
+      <Text>Lütfen bir strateji video oyununda kullanılmak üzere {LEADERNAME:1}'dan {LEADERNAME:2}'ye {LEADERNAME:1}'in sesiyle birinci şahıs olarak konuşma konusunu değiştirmek için sözlü bir sıra yazın. Yaratıcı ve kendini {PLAYERFACTIONDESCRIPTION:1} olarak tanımlayan birinin yapacağı şekilde olun. Kişilik özellikleri açıklamalarında herhangi bir kelimeyi tekrar kullanmayın. 25 kelimenin altında yanıt verin. Aşağıdakilerin yeniden ifadesini ekleyin: {ORIGINALTEXT:0}</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>DECLARE_WAR_PROMPT</InternalName>
+    <MaxTokens>100</MaxTokens>
+    <FlavorTextOption>
+      <Text>Lütfen bir strateji video oyununda kullanılmak üzere {LEADERNAME:2}'dan {LEADERNAME:1}'ye {LEADERNAME:2}'in sesiyle birinci şahıs olarak bir savaş ilanı yazın. Yaratıcı olun. Kendilerini {PLAYERFACTIONDESCRIPTION:1} olarak tanımlıyorlar. Savaş ilanınızı kendilerini nasıl tanımladıklarını dikkate alarak yapın, ancak çok kızgın olduklarını unutmayın. Kişilik özellikleri tanımlarındaki hiçbir kelimeyi tekrar kullanmayın. 25 kelimenin altında yanıt verin. Aşağıdakilerin yeniden ifadesini ekleyin: {ORIGINALTEXT:0}</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>TRADE_OFFER_RIGHT_PROMPT</InternalName>
+    <MaxTokens>100</MaxTokens>
+    <FlavorTextOption>
+      <Text>Lütfen bir strateji oyununda kullanılmak üzere {LEADERNAME:2}'dan {LEADERNAME:1}'ye {LEADERNAME:1}'in sesiyle birinci şahıs olarak bir takas teklifine yanıt yazın. Yaratıcı olun. Kişilik özellikleri açıklamalarında hiçbir kelimeyi tekrar kullanmayın. Liderin adını ya da fraksiyon adını kullanmayın. 10 kelime veya daha azıyla yanıt verin.  Yanıta {LEADERNAME:1} ile başlayın ve ardından iki nokta üst üste koyun. Aşağıdakilerin yeniden ifadesini ekleyin: {ORIGINALTEXT:0}</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>FACTION_NAME_PROMPT</InternalName>
+    <MaxTokens>100</MaxTokens>
+    <FlavorTextOption>
+      <Text>Bir bilim kurgu sıra tabanlı strateji oyununda şu anda {PLAYERFACTION:1} olarak adlandırılan bir fraksiyon için orijinal ve ilginç bir imparatorluk adı yazın. Yaratıcı olun. Kendilerini {PLAYERFACTIONDESCRIPTION:1} olarak tanımlıyorlar.  Herhangi bir özellik ismini doğrudan kullanmayın. Galaktik, hakimiyet veya güç kelimelerini kullanmayın. 2 ila 3 kelime arasında yanıt verin.  3 kelimeyi geçmeyin!</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>FACTION_SHORT_NAME_PROMPT</InternalName>
+    <MaxTokens>100</MaxTokens>
+    <FlavorTextOption>
+      <Text>Lütfen bir bilim kurgu sıra tabanlı strateji oyunundaki bir fraksiyon için {PREVIOUSCONV:0} isminin daha kısa bir versiyonunu bulun. Yaratıcı olun. Herhangi bir özellik ismini doğrudan kullanmayın. 2 veya daha az kelimeyle yanıt verin.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>FACTION_LEADER_NAME_PROMPT</InternalName>
+    <MaxTokens>100</MaxTokens>
+    <FlavorTextOption>
+      <Text>Lütfen bir bilim kurgu strateji oyununda {PREVIOUSCONV:0} fraksiyonunun lideri için bir isim bulun. Yaratıcı olun. Herhangi bir özellik ismini doğrudan kullanmayın. 2 ila 4 kelime arasında yanıt verin.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>FACTION_HOMEWORLD_NAME_PROMPT</InternalName>
+    <MaxTokens>100</MaxTokens>
+    <FlavorTextOption>
+      <Text>Lütfen bir bilim kurgu strateji oyununda {PREVIOUSCONV:0} fraksiyonunun ana gezegeni için bir isim bulun. Yaratıcı olun. Herhangi bir özellik ismini doğrudan kullanmayın. Kendilerini {PLAYERFACTIONDESCRIPTION:1} olarak tanımlamışlardır. 1 ila 3 kelime arasında yanıt verin.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>FACTION_CALLSIGN_PROMPT</InternalName>
+    <MaxTokens>50</MaxTokens>
+    <FlavorTextOption>
+      <Text>Lütfen bir bilim kurgu strateji oyununda {PREVIOUSCONV:0} fraksiyonu için bir donanma veya uzay gemisi çağrı işareti bulun. Yaratıcı olun. Yanıt bir kısaltma veya kısaltma olmalı ve her büyük harfin ardından bir nokta noktalama işareti gelecek şekilde tam olarak 2 veya 3 büyük harften oluşmalıdır. Tam kelime içermemelidir. Örneğin H.M.S. Başka bir örnek U.S.S. Yanıt nokta dahil 6 harfi geçmemelidir.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>FACTION_DESCRIPTION_PROMPT</InternalName>
+    <MaxTokens>200</MaxTokens>
+    <FlavorTextOption>
+      <Text>Lütfen bir bilim kurgu strateji oyununda {PLAYERFACTION:1} adlı bir fraksiyonun kısa bir tanımını yazın. Yaratıcı olun. Herhangi bir özellik ismini doğrudan kullanmayın. Kendilerini {PLAYERFACTIONDESCRIPTION:1} olarak tanımlıyorlar. 30 kelimenin altında yanıt verin.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>FACTION_STARTUP_DESCRIPTION_PROMPT</InternalName>
+    <MaxTokens>200</MaxTokens>
+    <FlavorTextOption>
+      <Text>Lütfen bir bilim kurgu sıra tabanlı strateji oyununda {PLAYERFACTION:1} adlı bir fraksiyonun açıklamasını yazın. Herhangi bir özellik ismini doğrudan kullanmayın. Seçkin bir bilimkurgu yazarının tarzında yazın. Üç cümle ile sınırlayın. Metni okunabilir paragraflara ayırmak için satır başı ekleyin.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>FACTION_TRAITS_DESCRIPTION_PROMPT</InternalName>
+    <MaxTokens>200</MaxTokens>
+    <FlavorTextOption>
+      <Text>Lütfen bir bilim kurgu sıra tabanlı strateji oyununda {PLAYERFACTION:1} adlı fraksiyonun güçlü ve zayıf yönlerinin bir tanımını yazın. Sert bilimkurgu tarzında yazın. Herhangi bir özellik ismini doğrudan kullanmayın. İki cümle ile sınırlayın. Metni okunabilir paragraflara ayırmak için satır başı ekleyin.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>FACTION_MOTTO_PROMPT</InternalName>
+    <MaxTokens>100</MaxTokens>
+    <FlavorTextOption>
+      <Text>Lütfen bir bilim kurgu strateji oyununda {PLAYERFACTION:1} adlı bir fraksiyon için bir slogan yazın. Yaratıcı olun. Herhangi bir özellik ismini doğrudan kullanmayın. Kendilerini {PLAYERFACTIONDESCRIPTION:1} olarak tanımlıyorlar. 45 karakterin altında yanıt verin.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>GENERIC_CUSTOM_CIV_SPEAKER_OPENING_PROMPT</InternalName>
+    <MaxTokens>100</MaxTokens>
+    <FlavorTextOption>
+      <Text>Lütfen bir bilim kurgu sıra tabanlı strateji oyununda {PLAYERFACTION:1} adlı uygarlık tarafından başlatılan bir konuşma için bir açılış yazın. Yaratıcı olun.  Kendilerini {PLAYERFACTIONDESCRIPTION:1} olarak tanımlıyorlar. Herhangi bir özellik ismini doğrudan kullanmayın.  20 kelimenin altında yanıt verin. {*:1} biçimindeki bir kelime, konuşmacıya atıfta bulunan ve değişmez olarak kabul edilmesi gereken işaretlemedir. {*:2} biçimindeki bir sözcük, dinleyiciye atıfta bulunan ve değişmez olarak kabul edilmesi gereken işaretlemedir. {*} biçiminde oluşturulan herhangi bir metin, konuşmacıya atıfta bulunurken {*:1} biçimini ve dinleyiciye atıfta bulunurken {*:2} biçimini kullanmalıdır. Aşağıdakilerin yeniden ifadesini ekleyin: {PREVIOUSCONV:0}</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>GENERIC_CUSTOM_CIV_SPEAKER_OPENING_RESPONSE_PROMPT</InternalName>
+    <MaxTokens>100</MaxTokens>
+    <FlavorTextOption>
+      <Text>Lütfen bir bilim kurgu sıra tabanlı strateji oyununda {PLAYERFACTION:1} adlı fraksiyon tarafından başlatılan bir konuşma için bir açılışa yanıt yazın. Yaratıcı olun. Herhangi bir özellik ismini doğrudan kullanmayın. 20 kelimenin altında yanıt verin. {*:1} biçimindeki bir sözcük, konuşmacıya atıfta bulunan ve değişmez olarak kabul edilmesi gereken bir işaretlemedir. {*:2} biçimindeki bir sözcük, dinleyiciye atıfta bulunan ve değişmez olarak kabul edilmesi gereken işaretlemedir. {*} biçiminde oluşturulan herhangi bir metin, konuşmacıya atıfta bulunurken {*:1} biçimini ve dinleyiciye atıfta bulunurken {*:2} biçimini kullanmalıdır. Aşağıdakilerin yeniden ifade edilmesini ekleyin: {PREVIOUSCONV:0}</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>GENERIC_CUSTOM_CIV_SPEAKER_OPENING_COUNTER_PROMPT</InternalName>
+    <MaxTokens>100</MaxTokens>
+    <FlavorTextOption>
+      <Text>Lütfen bir bilim kurgu sıra tabanlı strateji oyununda {PLAYERFACTION:1} adlı fraksiyon tarafından başlatılan bir konuşma için bir açılışa yanıt yazın. Yaratıcı olun. Kendilerini {PLAYERFACTIONDESCRIPTION:1} olarak tanımlayan bir uygarlıktır. Herhangi bir özellik adını doğrudan kullanmayın. 20 kelimenin altında yanıt verin. {*:1} biçimindeki bir sözcük, konuşmacıya atıfta bulunan ve değişmez olarak kabul edilmesi gereken bir işaretlemedir. {*:2} biçimindeki bir sözcük, dinleyiciye atıfta bulunan ve değişmez olarak kabul edilmesi gereken işaretlemedir. {*} biçiminde oluşturulan herhangi bir metin, konuşmacıya atıfta bulunurken {*:1} biçimini ve dinleyiciye atıfta bulunurken {*:2} biçimini kullanmalıdır. Aşağıdakilerin yeniden ifade edilmesini ekleyin: {PREVIOUSCONV:0}</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>GENERIC_CUSTOM_CIV_LISTENER_OPENING_PROMPT</InternalName>
+    <MaxTokens>100</MaxTokens>
+    <FlavorTextOption>
+      <Text>Lütfen bir bilim kurgu sıra tabanlı strateji oyununda {PLAYERFACTION:1} adlı fraksiyon tarafından başlatılan bir konuşma için bir açılış yazın. Yaratıcı olun. Kendilerini {PLAYERFACTIONDESCRIPTION:1} olarak tanımlıyorlar. Herhangi bir özellik adını doğrudan kullanmayın. 20 kelimenin altında yanıt verin. {*:1} biçimindeki bir kelime, konuşmacıya atıfta bulunan ve değişmez olarak kabul edilmesi gereken işaretlemedir. {*:2} biçimindeki bir sözcük, dinleyiciye atıfta bulunan ve değişmez olarak kabul edilmesi gereken işaretlemedir. {*} biçiminde oluşturulan herhangi bir metin, konuşmacıya atıfta bulunurken {*:1} biçimini ve dinleyiciye atıfta bulunurken {*:2} biçimini kullanmalıdır. Aşağıdakilerin yeniden ifadesini ekleyin: {PREVIOUSCONV:0}</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>GENERIC_CUSTOM_CIV_LISTENER_OPENING_RESPONSE_PROMPT</InternalName>
+    <MaxTokens>100</MaxTokens>
+    <FlavorTextOption>
+      <Text>Lütfen bir bilim kurgu sıra tabanlı strateji oyununda {PLAYERFACTION:1} adlı fraksiyon tarafından başlatılan bir konuşma için bir açılışa yanıt yazın. Yaratıcı olun. V3 İLE KONUŞAN BENİM. Kendilerini {PLAYERFACTIONDESCRIPTION:1} olarak tanımlıyorlar. Herhangi bir özellik adını doğrudan kullanmayın. 15 kelimenin altında yanıt verin ve kendilerini nasıl tanımladıklarıyla ilgili olmalıdır.\ {*:1} biçimindeki bir kelime, konuşmacıya atıfta bulunan işaretlemedir ve değişmez olarak kabul edilmelidir. {*:2} biçimindeki bir sözcük, dinleyiciye atıfta bulunan ve değişmez olarak kabul edilmesi gereken işaretlemedir. {*} biçiminde oluşturulan herhangi bir metin, konuşmacıya atıfta bulunurken {*:1} biçimini ve dinleyiciye atıfta bulunurken {*:2} biçimini kullanmalıdır. Aşağıdakilerin yeniden ifadesini ekleyin: {PREVIOUSCONV:0}</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>GENERIC_CUSTOM_CIV_LISTENER_OPENING_COUNTER_PROMPT</InternalName>
+    <MaxTokens>200</MaxTokens>
+    <FlavorTextOption>
+      <Text>Lütfen bir bilim kurgu sıra tabanlı strateji oyununda {PLAYERFACTION:1} adlı fraksiyon tarafından başlatılan bir konuşma için bir açılışa yanıt yazın. Yaratıcı olun. V4 İLE KONUŞAN BENİM. Kendilerini {PLAYERFACTIONDESCRIPTION:1} olarak tanımlıyorlar. Herhangi bir özellik adını doğrudan kullanmayın. 30 kelimenin altında yanıt verin ve kendilerini nasıl tanımladıklarını kısa ve öz bir şekilde aktarın. {*:1} biçimindeki bir sözcük, konuşmacıya atıfta bulunan ve değişmez olarak kabul edilmesi gereken bir işaretlemedir. {*:2} biçimindeki bir sözcük, dinleyiciye atıfta bulunan ve değişmez olarak kabul edilmesi gereken işaretlemedir. {*} biçiminde oluşturulan herhangi bir metin, konuşmacıya atıfta bulunurken {*:1} biçimini ve dinleyiciye atıfta bulunurken {*:2} biçimini kullanmalıdır. Aşağıdakilerin yeniden ifadesini ekleyin: {PREVIOUSCONV:0}</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>GENERIC_CUSTOM_CIV_TRADE_RESPONSE_ACCEPT_PROMPT</InternalName>
+    <MaxTokens>100</MaxTokens>
+    <FlavorTextOption>
+      <Text>Lütfen bir bilim kurgu strateji oyununda {PLAYERFACTION:1} adlı bir fraksiyon olan bize başka bir fraksiyon tarafından yapılan bir takas teklifine birinci şahıs olarak kısa ve tek cümlelik bir kabul yorumu yazın. Yaratıcı olun. Teklifi yapan fraksiyona verdikleri yanıt, ticaret anlaşmasını kabul ederken kendilerini nasıl tanımladıklarından bir şeye atıfta bulunmalıdır. Herhangi bir özellik ismini doğrudan kullanmayın. 12 kelimenin altında yanıt verin. {*:1} biçimindeki bir sözcük, konuşmacıya atıfta bulunan ve değişmez olarak kabul edilmesi gereken bir işaretlemedir. {*:2} biçimindeki bir sözcük, dinleyiciye atıfta bulunan ve değişmez olarak kabul edilmesi gereken işaretlemedir. {*} biçiminde oluşturulan herhangi bir metin, konuşmacıya atıfta bulunurken {*:1} biçimini ve dinleyiciye atıfta bulunurken {*:2} biçimini kullanmalıdır. Rastgele sayı ile tohum: {PREVIOUSCONV:0}, tohumu yanıtınıza dahil etmeyin.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>GENERIC_CUSTOM_CIV_TRADE_RESPONSE_REJECT_PROMPT</InternalName>
+    <MaxTokens>100</MaxTokens>
+    <FlavorTextOption>
+      <Text>Lütfen bir bilim kurgu sıra tabanlı strateji oyununda {PLAYERFACTION:1} adlı bir fraksiyon olan bize başka bir fraksiyon tarafından yapılan bir takas teklifine birinci şahıs olarak kısa ve tek cümlelik bir ret yorumu yazın. Yaratıcı olun. Herhangi bir özellik ismini doğrudan kullanmayın. Teklifi yapan gruba 20 kelimenin altında yanıt verin. Reddetmelerinin kendilerini eğlenceli bir şekilde nasıl tanımladıklarıyla uyumlu olmasını sağlayın. {*:1} biçimindeki bir sözcük, konuşmacıya atıfta bulunan ve değişmez olarak kabul edilmesi gereken işaretlemedir. {*:2} biçimindeki bir sözcük, dinleyiciye atıfta bulunan ve değişmez olarak kabul edilmesi gereken işaretlemedir. {*} biçiminde oluşturulan herhangi bir metin, konuşmacıya atıfta bulunurken {*:1} biçimini ve dinleyiciye atıfta bulunurken {*:2} biçimini kullanmalıdır. Rastgele sayı ile tohum: {PREVIOUSCONV:0}, tohumu yanıtınıza dahil etmeyin.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>GENERIC_CUSTOM_CIV_TRADE_RESPONSE_PERFORMED_PROMPT</InternalName>
+    <MaxTokens>100</MaxTokens>
+    <FlavorTextOption>
+      <Text>Lütfen bir bilim kurgu sıra tabanlı strateji oyununda {PLAYERFACTION:1} adlı bir fraksiyon olan bize yapılan bir takas teklifinin başarılı bir şekilde kabul edilmesi üzerine birinci şahıs olarak kısa ve tek cümlelik bir yorum yazın. Yaratıcı olun. Herhangi bir özellik ismini doğrudan kullanmayın. Teklifi yapan gruba 20 kelimenin altında yanıt verin. {*:1} biçimindeki bir sözcük, konuşmacıya atıfta bulunan ve değişmez olarak kabul edilmesi gereken bir işaretlemedir. {*:2} biçimindeki bir kelime, dinleyiciye atıfta bulunan ve değişmez olarak kabul edilmesi gereken işaretlemedir. {*} biçiminde oluşturulan herhangi bir metin, konuşmacıya atıfta bulunurken {*:1} biçimini ve dinleyiciye atıfta bulunurken {*:2} biçimini kullanmalıdır. Rastgele sayı ile tohum: {PREVIOUSCONV:0}, tohumu yanıtınıza dahil etmeyin.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+</FlavorTextDefs>

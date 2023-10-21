@@ -1,0 +1,773 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<StringTableList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+  <!-- Created with the GC4 editor -->
+  <!-- ArtifactPowerText.xml -->
+  <StringTable>
+    <Label>ResearchCharge_Name</Label>
+    <String>Öncül Arşivi</String>
+  </StringTable>
+  <StringTable>
+    <Label>ResearchCharge_Dec</Label>
+    <String>Neredeyse sınırsız bilgi içeren bir arşiv. Onu etkinleştirerek mevcut araştırmamızı anında tamamlayabiliriz. [COLOR=UIDefaultHighlight]Mevcut Araştırmayı Tamamla[/COLOR]</String>
+  </StringTable>
+  <StringTable>
+    <Label>SocialConstruction_Name</Label>
+    <String>Nano Fabrikatör</String>
+  </StringTable>
+  <StringTable>
+    <Label>SocialConstruction_Dec</Label>
+    <String>İhtiyacımız olan her şeyi üretebilir. Etkinleştirmek, seçilen bir gezegenin sosyal projesinde anında ilerleme kaydetmemizi sağlar. [COLOR=UIDefaultHighlight]+100 Gezegen Üretimi[/COLOR]</String>
+  </StringTable>
+  <StringTable>
+    <Label>MilitaryConstruction_Name</Label>
+    <String>Motivasyon Sarmalı</String>
+  </StringTable>
+  <StringTable>
+    <Label>MilitaryConstruction_Dec</Label>
+    <String>Eski bir köle tüccarı ırkının kalıntısı. Etkinleştirildiğinde üretkenliğe ilham verir ve seçilen tersanedeki üretimi artırır. [COLOR=UIDefaultHighlight]+500 Tersane Üretimi[/COLOR]</String>
+  </StringTable>
+  <StringTable>
+    <Label>PlanetInfluence_Name</Label>
+    <String>Yankılanan Kalp Taşı</String>
+  </StringTable>
+  <StringTable>
+    <Label>PlanetInfluence_Dec</Label>
+    <String>Yaratılışın kalbinden bir parça. Etkinleştirilmesi seçilen gezegenin Nüfuzunu önemli ölçüde artırır. [COLOR=UIDefaultHighlight]+500 Nüfuz[/COLOR]</String>
+  </StringTable>
+  <StringTable>
+    <Label>PlanetClass_Name</Label>
+    <String>Kimerik Biyokütle</String>
+  </StringTable>
+  <StringTable>
+    <Label>PlanetClass_Dec</Label>
+    <String>Bu obje proto-organik madde bakımından zengin malzeme üretir. Bu madde, üzerinde kullandığımız herhangi bir dünyanın sınıfını iyileştirebilir. [COLOR=UIDefaultHighlight]+2 Kullanılabilir Karo, +1 Çiftçilik[/COLOR]</String>
+  </StringTable>
+  <StringTable>
+    <Label>FleetRepair_Name</Label>
+    <String>Mnemonic Nanites</String>
+  </StringTable>
+  <StringTable>
+    <Label>FleetRepair_Dec</Label>
+    <String>Bu Nanitler maruz kaldıkları geminin mimari kayıtlarına göre kendilerini derhal yeniden inşa edeceklerdir. [COLOR=UIDefaultHighlight]Filoyu Tamamen Onarır[/COLOR]</String>
+  </StringTable>
+  <StringTable>
+    <Label>FleetResetMoves_Name</Label>
+    <String>Takviye Bobini</String>
+  </StringTable>
+  <StringTable>
+    <Label>FleetResetMoves_Dec</Label>
+    <String>Ekstra boyutlu malzemeler hızlı bir şekilde tüketilir, ancak bir filonun hareketini geçici olarak artıracaktır. [COLOR=UIDefaultHighlight]Filo Hareketlerini Sıfırlar[/COLOR]</String>
+  </StringTable>
+  <StringTable>
+    <Label>FleetIncreaseMoves_Name</Label>
+    <String>Slipstream Hızlandırıcı</String>
+  </StringTable>
+  <StringTable>
+    <Label>FleetIncreaseMoves_Dec</Label>
+    <String>Ekstra boyutlu malzemeler hızla tüketilir, ancak bu filoya hareket hızında kalıcı bir artış sağlar. [COLOR=UIDefaultHighlight]Filo Hareketlerini Artırır[/COLOR]</String>
+  </StringTable>
+  <StringTable>
+    <Label>FleetAttack_Name</Label>
+    <String>Arnor Embers</String>
+  </StringTable>
+  <StringTable>
+    <Label>FleetAttack_Dec</Label>
+    <String>Bu harap Arnor silahı, seçilen filonun saldırısını artıracak güç kaynakları için toplanabilir. [COLOR=UIDefaultHighlight]+3 Saldırı[/COLOR]</String>
+  </StringTable>
+  <StringTable>
+    <Label>FleetExp_Name</Label>
+    <String>Nöral Bağlantı</String>
+  </StringTable>
+  <StringTable>
+    <Label>FleetExp_Dec</Label>
+    <String>Komuta personelimizi geminin kendisine bağlayarak düşmanlarımızdan daha duyarlı ve reaktif bir filo yaratabiliriz. [COLOR=UIDefaultHighlight]+10 Deneyim Puanı[/COLOR]</String>
+  </StringTable>
+  <StringTable>
+    <Label>FleetDefense_Name</Label>
+    <String>Matruşka Demirhanesi</String>
+  </StringTable>
+  <StringTable>
+    <Label>FleetDefense_Dec</Label>
+    <String>Malzemeleri boyutlar arasında katlamak, fiziğin izin verdiğinden daha güçlü kaplamalar üreterek seçilen filonun savunmasını artırır. [COLOR=UIDefaultHighlight] +15 Savunma[/COLOR]</String>
+  </StringTable>
+  <StringTable>
+    <Label>FleetHitpoints_Name</Label>
+    <String>Arnor Halo</String>
+  </StringTable>
+  <StringTable>
+    <Label>FleetHitpoints_Dec</Label>
+    <String>Arnor'un bu sembolünü etkinleştirmek, seçilen filoya bu kalıcılığın bir ölçüsünü uygulayacak ve isabet puanlarını artıracaktır. [COLOR=UIDefaultHighlight]+%10 Vuruş Puanı[/COLOR]</String>
+  </StringTable>
+  <StringTable>
+    <Label>Wormhole_Name</Label>
+    <String>Solucan Deliği Jeneratörü</String>
+  </StringTable>
+  <StringTable>
+    <Label>Wormhole_Dec</Label>
+    <String>Galaktik rölenin bu eski parçası uykuda. Etkinleştirmek seçilen bir filoyu bir yere gönderecektir, ancak nerede olduğunu kontrol edemeyiz. [COLOR=UIDefaultHighlight]Filoyu Rastgele Işınla[/COLOR]</String>
+  </StringTable>
+  <StringTable>
+    <Label>FOWReveal_Name</Label>
+    <String>Boyutlu Ayna</String>
+  </StringTable>
+  <StringTable>
+    <Label>FOWReveal_Dec</Label>
+    <String>Bu öncül eser bilinmeyen nedenlerden dolayı buraya bırakıldı. Uzayın belirli bir alanını çok ayrıntılı olarak görmemizi sağlar. [COLOR=UIDefaultHighlight]Haritanın Bir Alanını Göster[/COLOR]</String>
+  </StringTable>
+  <StringTable>
+    <Label>FleetDamage_Name</Label>
+    <String>Betatron Çarpıştırıcısı</String>
+  </StringTable>
+  <StringTable>
+    <Label>FleetDamage_Dec</Label>
+    <String>Tüm bir düşman filosuna ağır hasar verebilecek bir ışınla uzayı bükebilir. [COLOR=UIDefaultHighlight]%25 Hasar[/COLOR]</String>
+  </StringTable>
+  <StringTable>
+    <Label>SpawnOverlord_Name</Label>
+    <String>Nanit Verici</String>
+  </StringTable>
+  <StringTable>
+    <Label>SpawnOverlord_Dec</Label>
+    <String>Galaksinin herhangi bir yerine Nanit akışı iletebilir ve anında bir savaş gemisi inşa edebilir. [COLOR=UIDefaultHighlight]Bir Overlord gemisi yaratır[/COLOR]</String>
+  </StringTable>
+  <StringTable>
+    <Label>CagedMonster_Name</Label>
+    <String>Boyutsal Tuzak</String>
+  </StringTable>
+  <StringTable>
+    <Label>CagedMonster_Dec</Label>
+    <String>Bir yaratık başka bir boyuttan zorla çıkarıldı ve bizimkine hapsedildi. Onu serbest bırakabiliriz ama o da bizim peşimize düşebilir. [COLOR=UIDefaultHighlight]Küçük bir Uzay Canavarı ortaya çıkar[/COLOR]</String>
+  </StringTable>
+  <StringTable>
+    <Label>SpaceMonster_Name</Label>
+    <String>Penumbral Fener</String>
+  </StringTable>
+  <StringTable>
+    <Label>SpaceMonster_Dec</Label>
+    <String>Bu işaret uzak uzaydan bir canavarı çağıracak. Ancak dikkat edin, canavar üzerinde herhangi bir kontrol sağlamaz. [COLOR=UIDefaultHighlight]Güçlü bir Uzay Canavarı ortaya çıkar[/COLOR]</String>
+  </StringTable>
+  <StringTable>
+    <Label>PlanetPopulation_Name</Label>
+    <String>Bernal Küre</String>
+  </StringTable>
+  <StringTable>
+    <Label>PlanetPopulation_Dec</Label>
+    <String>Kendi kendine yetebilen bu yaşam alanı herhangi bir gezegende konuşlandırılabilir ve sentetik bir işgücüyle birlikte gelir. [COLOR=UIDefaultHighlight]+1 Yor Citizen[/COLOR]</String>
+  </StringTable>
+  <StringTable>
+    <Label>GlobalApproval_Name</Label>
+    <String>Empati Motoru</String>
+  </StringTable>
+  <StringTable>
+    <Label>GlobalApproval_Dec</Label>
+    <String>Bu cihaz, etkisi geçici olsa da, tüm dünyalarımız üzerinde sakinleştirici bir dalga iletebilir. [COLOR=UIDefaultHighlight]+25 ay boyunca %25 Onay[/COLOR]</String>
+  </StringTable>
+  <StringTable>
+    <Label>PlanetResistance_Name</Label>
+    <String>Ön Tanıma Sensörü</String>
+  </StringTable>
+  <StringTable>
+    <Label>PlanetResistance_Dec</Label>
+    <String>Bu kuantum sensörü, varlığına dair bilinen herhangi bir belirti olmadan önce tehditlere karşı uyarıda bulunur. [COLOR=UIDefaultHighlight]+%10 Direnç[/COLOR]</String>
+  </StringTable>
+  <StringTable>
+    <Label>ConvertDeadWorld_Name</Label>
+    <String>Yggdrasil'in Sporları</String>
+  </StringTable>
+  <StringTable>
+    <Label>ConvertDeadWorld_Dec</Label>
+    <String>Bütün bir ekosistem bu kürenin içinde yer alır. Ölü dünyalara konuşlandırıldığında, tüm dünya canlanacaktır. [COLOR=UIDefaultHighlight]Ölü Bir Dünyayı 5. Sınıf Bir Gezegene Dönüştürün[/COLOR]</String>
+  </StringTable>
+  <StringTable>
+    <Label>PlanetApproval_Name</Label>
+    <String>Harmony Beacon</String>
+  </StringTable>
+  <StringTable>
+    <Label>PlanetApproval_Dec</Label>
+    <String>Hedef dünyanın [COLOR=UIDefaultHighlight]Onayını[/COLOR] 25 ay boyunca %10 artırır. Sakinleri arasında sürekli bir memnuniyet ve hoşnutluk duygusu yaratır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>PlanetCrime_Name</Label>
+    <String>Kaos İşaretçisi</String>
+  </StringTable>
+  <StringTable>
+    <Label>PlanetCrime_Dec</Label>
+    <String>Hedef dünyanın [COLOR=UIDefaultHighlight]Onayını[/COLOR] 25 ay boyunca azaltır. Dünyanın [COLOR=UIDefaultHighlight]Suç[/COLOR] oranını kalıcı olarak artırır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>PlanetPollution_Name</Label>
+    <String>İklim Temizleyici</String>
+  </StringTable>
+  <StringTable>
+    <Label>PlanetPollution_Dec</Label>
+    <String>Bütün bir gezegenin atmosferini filtreleyebilir. [COLOR=UIDefaultHighlight]-%20 Kirlilik[/COLOR]</String>
+  </StringTable>
+  <StringTable>
+    <Label>GalacticFestival_Name</Label>
+    <String>Galaktik Festival</String>
+  </StringTable>
+  <StringTable>
+    <Label>GalacticFestival_Dec</Label>
+    <String>Tüm dünyalarımızda büyük bir festival düzenlemek 12 ay boyunca [HS=HS_Tourism]Tourism[/HS]'imizi geliştirecektir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ImpressCitizens_Name</Label>
+    <String>Vatandaşları Etkileyin</String>
+  </StringTable>
+  <StringTable>
+    <Label>ImpressCitizens_Dec</Label>
+    <String>Halkımızın sahibi sizsiniz. Bunu hatırlamalarının zamanı geldi. Bir Koloni Gemisi ve bir İnşaatçı sağlayacak</String>
+  </StringTable>
+  <StringTable>
+    <Label>DraftColonists_Name</Label>
+    <String>Taslak Koloniciler</String>
+  </StringTable>
+  <StringTable>
+    <Label>DraftColonists_Dec</Label>
+    <String>Bazen gönüllüleri beklemeyi göze alamayız. Bu ücretsiz bir Koloni gemisi sağlayacaktır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ImpressConstructors_Name</Label>
+    <String>Impress Kurucuları</String>
+  </StringTable>
+  <StringTable>
+    <Label>ImpressConstructors_Dec</Label>
+    <String>Bir İnşaatçı Gemisine ihtiyacımız var ve buna hemen ihtiyacımız var.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MartialLaw_Name</Label>
+    <String>Sıkıyönetim</String>
+  </StringTable>
+  <StringTable>
+    <Label>MartialLaw_Dec</Label>
+    <String>[HS=HS_Manufacturing]Üretiminizi [/HS] geliştirir ve [HS=HS_Research]Araştırma[/HS] ve [HS=HS_Approval]Onayınızı[/HS] 50 tur boyunca azaltır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IllicitDeals_Name</Label>
+    <String>Yasadışı Anlaşmalar</String>
+  </StringTable>
+  <StringTable>
+    <Label>IllicitDeals_Dec</Label>
+    <String>Bizim iyiliğimizi isteyen ve bunun için ödeme yapmaktan mutlu olanlar var. Bu, Krediler sağlayacak ancak medeniyetimiz genelinde [HS=HS_Crime]Crime[/HS]'ı artıracaktır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrintMoney_Name</Label>
+    <String>Para Bas</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrintMoney_Dec</Label>
+    <String>Para basmak enflasyon pahasına kısa vadeli zenginlik sağlayabilir, bu da [HS=HS_Approval]Approval[/HS] değerini düşürür.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ExploitNature_Name</Label>
+    <String>Kaynaklardan Yararlanın</String>
+  </StringTable>
+  <StringTable>
+    <Label>ExploitNature_Dec</Label>
+    <String>İhtiyaç duyduğumuz zamanlarda, devlet arazilerinin tüm kaynaklarını sömürebiliriz. Bu, bir yıl boyunca önemli bir Kirlilik sorunu yaratacaktır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ExhortGovernors_Name</Label>
+    <String>Valileri Haraca Bağlayın</String>
+  </StringTable>
+  <StringTable>
+    <Label>ExhortGovernors_Dec</Label>
+    <String>Valilerimiz davamıza cömertçe bağışta bulunacaklardır. Ama bundan hoşlanmayacaklar. [COLOR=UIDefaultHighlight]Vali başına 100 Kredi sağlar[/COLOR]</String>
+  </StringTable>
+  <StringTable>
+    <Label>InviteLeaders_Name</Label>
+    <String>Liderleri Davet Edin</String>
+  </StringTable>
+  <StringTable>
+    <Label>InviteLeaders_Dec</Label>
+    <String>En yeteneklilerimizi aramak, işe alım için 3 yeni lider sağlayacaktır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>CallElection_Name</Label>
+    <String>Seçim Çağrısı</String>
+  </StringTable>
+  <StringTable>
+    <Label>CallElection_Dec</Label>
+    <String>Hükümetinizi daha fazla ikramiye sunan ama aynı zamanda vatandaşlarınızın [HS=HS_Expectations]Expectations[/HS] beklentilerini de artıracak bir reform yapın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ColonialSupplies_Name</Label>
+    <String>Koloni Malzemeleri</String>
+  </StringTable>
+  <StringTable>
+    <Label>ColonialSupplies_Dec</Label>
+    <String>Kolonilerimize büyük miktarda malzeme sevkiyatı yapmak, onların [HS=HS_ColonyDecay]Decay[/HS] değerini 25 ay boyunca azaltacaktır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>PressureScientists_Name</Label>
+    <String>Basınç Bilimcileri</String>
+  </StringTable>
+  <StringTable>
+    <Label>PressureScientists_Dec</Label>
+    <String>Bilim insanlarımız üzerinde baskı kurmak, anında +50 [HS=HS_Research]Research[/HS] ile sonuçlanacaktır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>InspireScientists_Name</Label>
+    <String>Bilim İnsanlarına İlham Verin</String>
+  </StringTable>
+  <StringTable>
+    <Label>InspireScientists_Dec</Label>
+    <String>Bilim insanlarımıza ilham vermek, anında +50 [HS=HS_Research]Research[/HS] ile sonuçlanacaktır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>DistantVision_Name</Label>
+    <String>Uzak Görüş</String>
+  </StringTable>
+  <StringTable>
+    <Label>DistantVision_Dec</Label>
+    <String>Bir Precursor objesi kullanarak uzayın uzak bir bölümüne bakabiliriz. [COLOR=UIDefaultHighlight]Haritanın Bir Alanını Ortaya Çıkarın[/COLOR]</String>
+  </StringTable>
+  <StringTable>
+    <Label>TelescopeTakeover_Name</Label>
+    <String>Teleskop Devralma</String>
+  </StringTable>
+  <StringTable>
+    <Label>TelescopeTakeover_Dec</Label>
+    <String>Özel şirketler, hemen kullanabileceğimiz gelişmiş araştırma ekipmanlarına sahiptir. [COLOR=UIDefaultHighlight]Haritanın Bir Alanını Göster[/COLOR]</String>
+  </StringTable>
+  <StringTable>
+    <Label>DraftCivilianShips_Name</Label>
+    <String>Taslak Sivil Gemiler</String>
+  </StringTable>
+  <StringTable>
+    <Label>DraftCivilianShips_Dec</Label>
+    <String>Güvenlik, özel mülkiyetten daha önemlidir. Bu, üç serbest savunmacı sağlayacaktır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MassMobilization_Name</Label>
+    <String>Kitlesel Seferberlik</String>
+  </StringTable>
+  <StringTable>
+    <Label>MassMobilization_Dec</Label>
+    <String>Paylaşılan görev bilinci, savaşmaya istekli gönüllüler bulmayı kolaylaştırır. [COLOR=UIDefaultHighlight]Ücretsiz bir nakliye aracı doğurur[/COLOR]</String>
+  </StringTable>
+  <StringTable>
+    <Label>CrimeWave_Name</Label>
+    <String>Suç Dalgası</String>
+  </StringTable>
+  <StringTable>
+    <Label>CrimeWave_Dec</Label>
+    <String>Birkaç ipi çekerek tüm suç ağlarını organize edin. [COLOR=UIDefaultHighlight]Hedef gezegende bir suç dalgası yaratarak [HS=HS_Crime]Crime[/HS] 24 ay boyunca %200 oranında artırır.[/COLOR]</String>
+  </StringTable>
+  <StringTable>
+    <Label>ExploitPopulation_Name</Label>
+    <String>Nüfustan Yararlanın</String>
+  </StringTable>
+  <StringTable>
+    <Label>ExploitPopulation_Dec</Label>
+    <String>Bütün bir imparatorluğun iş gücünden yararlanın. [COLOR=UIDefaultHighlight]Tüm gezegenlerin çıktıları 5 ay boyunca +%200.[/COLOR]</String>
+  </StringTable>
+  <StringTable>
+    <Label>GoodWillTour_Name</Label>
+    <String>İyi Niyet Turu</String>
+  </StringTable>
+  <StringTable>
+    <Label>GoodWillTour_Dec</Label>
+    <String>Yabancı uygarlıklarla Diplomasinizi geliştirmek için İyi Niyet Turuna çıkın. [COLOR=UIDefaultHighlight]30 tur boyunca +1 Diplomasi[/COLOR]</String>
+  </StringTable>
+  <StringTable>
+    <Label>ForcedOvertime_Name</Label>
+    <String>Zorunlu Fazla Mesai</String>
+  </StringTable>
+  <StringTable>
+    <Label>ForcedOvertime_Dec</Label>
+    <String>Hedeflenen tersanede daha fazla iş yapılacak ama vatandaşlarınız mutlu olmayacak.</String>
+  </StringTable>
+  <StringTable>
+    <Label>DefenseSentinels_Artifact_Name</Label>
+    <String>Savunma Nöbetçileri</String>
+  </StringTable>
+  <StringTable>
+    <Label>DefenseSentinels_Artifact_Dec</Label>
+    <String>Seçilen koloni için bir koruyucu drone sağlar. Savunma dronları küçük saldırılara karşı koruma sağlayabilir ancak gezegeni terk edemezler.</String>
+  </StringTable>
+  <StringTable>
+    <Label>QuestArtifact_OrbOfDraginol_Artifact_Name</Label>
+    <String>Cep Evreni Eseri</String>
+  </StringTable>
+  <StringTable>
+    <Label>QuestArtifact_OrbOfDraginol_Artifact_Dec</Label>
+    <String>Draginol Küresi'nin saklı olduğu söylenen bir cep evreni açma gücüne sahip bir obje.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ImpressForeignFleet_Name</Label>
+    <String>Yabancı Filoyu Etkileyin</String>
+  </StringTable>
+  <StringTable>
+    <Label>ImpressForeignFleet_Dec</Label>
+    <String>Sınırlarınız içinde bulunan başka bir uygarlığın filosunun kontrolünü ele geçirin. Savaş halinde olduğunuz filolarda kullanılamaz.</String>
+  </StringTable>
+  <StringTable>
+    <Label>EnlistPirateFleet_Name</Label>
+    <String>Korsan Filosuna Katılın</String>
+  </StringTable>
+  <StringTable>
+    <Label>EnlistPirateFleet_Dec</Label>
+    <String>Bir Korsan filosu topla.</String>
+  </StringTable>
+  <StringTable>
+    <Label>EnlistPirateWorld_Name</Label>
+    <String>Korsan Dünyasına Katılın</String>
+  </StringTable>
+  <StringTable>
+    <Label>EnlistPirateWorld_Dec</Label>
+    <String>Bir Korsan dünyası oluşturun.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AddSurveyModule_Name</Label>
+    <String>Antik Araştırma Modülü</String>
+  </StringTable>
+  <StringTable>
+    <Label>AddSurveyModule_Dec</Label>
+    <String>Hedef yıldız gemisinin anomalileri araştırabilmesini sağlar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Unlock_Upgrade_FoodReplicator_Name</Label>
+    <String>Antik Gıda Çoğaltıcı</String>
+  </StringTable>
+  <StringTable>
+    <Label>Unlock_Upgrade_FoodReplicator_Dec</Label>
+    <String>Geminin menzilini artırarak uzun yolculuklar için yiyecek sağlar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>GuiltMagnifier_Name</Label>
+    <String>Suçluluk Büyüteci</String>
+  </StringTable>
+  <StringTable>
+    <Label>GuiltMagnifier_Dec</Label>
+    <String>İnsanların yanlış bir şey yaptıkları için kendilerini daha suçlu hissetmelerini sağlar. Azaltır [HS=HS_Crime]Suç[/HS].</String>
+  </StringTable>
+  <StringTable>
+    <Label>Found_WeaponJammer_Name</Label>
+    <String>Silah Karıştırıcı Bulundu</String>
+  </StringTable>
+  <StringTable>
+    <Label>Found_WeaponJammer_Dec</Label>
+    <String>Bunu çalmadık. Biz bulduk.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AddEnergyWeapon_Name</Label>
+    <String>Enerji İnfüzörü</String>
+  </StringTable>
+  <StringTable>
+    <Label>AddEnergyWeapon_Dec</Label>
+    <String>Bir gemiye monte edildiğinde, Enerji İnfüzörü geminin enerji silahlarını geliştirir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AddMissileWeapon_Name</Label>
+    <String>Prototip Savaş Başlığı</String>
+  </StringTable>
+  <StringTable>
+    <Label>AddMissileWeapon_Dec</Label>
+    <String>Üstün füze ateş gücü ekleyerek geminizin saldırı yeteneklerini geliştirir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AddKineticWeapon_Name</Label>
+    <String>Kütle Sürücü Modülü</String>
+  </StringTable>
+  <StringTable>
+    <Label>AddKineticWeapon_Dec</Label>
+    <String>Geminizin ateş gücünü artıran ve düşman gemilerine veya yapılarına önemli hasar veren eski ve güçlü bir kinetik gücü serbest bırakın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AddTacticalThrusterUpgradeModule_Name</Label>
+    <String>Taktik İtici Yükseltme Modülü</String>
+  </StringTable>
+  <StringTable>
+    <Label>AddTacticalThrusterUpgradeModule_Dec</Label>
+    <String>Bu modül, uygulandığı herhangi bir geminin savaş hızını ve manevra kabiliyetini önemli ölçüde artırmak için ileri teknolojiyi kullanır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AddEngineUpgradeModule_Name</Label>
+    <String>Stardrive Modülü</String>
+  </StringTable>
+  <StringTable>
+    <Label>AddEngineUpgradeModule_Dec</Label>
+    <String>Hedef geminin Hiperuzay hızını artırır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AddPlanetaryPollutionRemoverModule_Name</Label>
+    <String>Atmosferik Temizleyici</String>
+  </StringTable>
+  <StringTable>
+    <Label>AddPlanetaryPollutionRemoverModule_Dec</Label>
+    <String>Zararlı partikülleri ve toksinleri etkin bir şekilde parçalayarak koloni üzerindeki kirliliği azaltır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AddShipArmorModule_Name</Label>
+    <String>Zırh Plakası Modülü</String>
+  </StringTable>
+  <StringTable>
+    <Label>AddShipArmorModule_Dec</Label>
+    <String>Hedef gemi için artırılmış zırh savunması sağlar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AddPlanetaryBroadcasterModule_Name</Label>
+    <String>Gezegensel Yayıncı Modülü</String>
+  </StringTable>
+  <StringTable>
+    <Label>AddPlanetaryBroadcasterModule_Dec</Label>
+    <String>Bir gezegenin çevresindeki sistemler üzerindeki Etkisini artırır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AddPlanetaryCultureModule_Name</Label>
+    <String>Gezegen Kültürü Modülü</String>
+  </StringTable>
+  <StringTable>
+    <Label>AddPlanetaryCultureModule_Dec</Label>
+    <String>Uygulandığında, bir gezegende daha önce keşfedilmemiş ilgi çekici noktaları bulur ve bu da o dünya için kültürel önemin artmasına neden olur.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AddPlanetaryDefenseModule_Name</Label>
+    <String>Gezegen Savunma Modülü Ekle</String>
+  </StringTable>
+  <StringTable>
+    <Label>AddPlanetaryDefenseModule_Dec</Label>
+    <String>Hedef gezegene yönelik istilalara karşı ek bir savunma katmanı sağlar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AddEnemyDestablizerModule_Name</Label>
+    <String>Düşman Dengeleyici Modülü</String>
+  </StringTable>
+  <StringTable>
+    <Label>AddEnemyDestablizerModule_Dec</Label>
+    <String>Hedef yabancı bir dünyada suç faaliyetlerini teşvik eder.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AddEnemyDefenseSabotageModule_Name</Label>
+    <String>Düşman Savunma Sabotaj Modülü</String>
+  </StringTable>
+  <StringTable>
+    <Label>AddEnemyDefenseSabotageModule_Dec</Label>
+    <String>Düşmanın istilalara karşı savunma yeteneğini yok eder. Kullanmak için yabancı bir gezegeni hedefleyin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AddPropagandizeEnemyCitizensModule_Name</Label>
+    <String>Demoralize Edici Eser</String>
+  </StringTable>
+  <StringTable>
+    <Label>AddPropagandizeEnemyCitizensModule_Dec</Label>
+    <String>Hedef yabancı gezegenin Etkisini büyük ölçüde azaltır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AddPoisonEnemyPlanetModule_Name</Label>
+    <String>Zehirli Gaz Modülü</String>
+  </StringTable>
+  <StringTable>
+    <Label>AddPoisonEnemyPlanetModule_Dec</Label>
+    <String>Hedef yabancı dünyanın doğurganlığını bir ay içinde önemli ölçüde azaltır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>DepleteEnemyPlanetResourcesModule_Name</Label>
+    <String>Kaynak Etkisizleştirme Dizisi</String>
+  </StringTable>
+  <StringTable>
+    <Label>DepleteEnemyPlanetResourcesModule_Dec</Label>
+    <String>Hedef yabancı bir gezegendeki mineralleri okside eder, gezegenin mineral değerini düşürür.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AddFriendlyPlanetMineralScanner_Name</Label>
+    <String>Mineral Tarayıcı</String>
+  </StringTable>
+  <StringTable>
+    <Label>AddFriendlyPlanetMineralScanner_Dec</Label>
+    <String>Tek kullanımlık tarayıcı, hedef dünyamızda daha önce bilinmeyen mineral kaynaklarını bulur.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AddFriendlyPlanetTechFinderModule_Name</Label>
+    <String>Tech Finder Tarayıcı</String>
+  </StringTable>
+  <StringTable>
+    <Label>AddFriendlyPlanetTechFinderModule_Dec</Label>
+    <String>Öncülerden kalan daha önce keşfedilmemiş teknoloji parçalarını bulur ve gezegenin temel teknoloji derecesini artırır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AddSummonLeaderToServeYouModule_Name</Label>
+    <String>Lider Çağırma Modülü</String>
+  </StringTable>
+  <StringTable>
+    <Label>AddSummonLeaderToServeYouModule_Dec</Label>
+    <String>Dost bir Öncü yapılı Yor danışmanını çağırır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AddRoboticServantsForPlanetModule_Name</Label>
+    <String>Robotik Hizmetkarlar Modülü</String>
+  </StringTable>
+  <StringTable>
+    <Label>AddRoboticServantsForPlanetModule_Dec</Label>
+    <String>Hedef koloniye dost bir Yor hizmetkarı ekler.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AddRoboticStarDrone_Name</Label>
+    <String>Robotik Yıldız Dronu</String>
+  </StringTable>
+  <StringTable>
+    <Label>AddRoboticStarDrone_Dec</Label>
+    <String>Anında küçük ama ölümcül bir silah dronu inşa eder.</String>
+  </StringTable>
+  <StringTable>
+    <Label>DeathCommandos_Name</Label>
+    <String>Ölüm Komandoları</String>
+  </StringTable>
+  <StringTable>
+    <Label>DeathCommandos_Dec</Label>
+    <String>Hedefli bir saldırı için en ölümcül ve deneyimli güçlerinizi serbest bırakın. Düşman filosundaki her geminin HP'sini 25%. azaltır</String>
+  </StringTable>
+  <StringTable>
+    <Label>CosmicEye_Name</Label>
+    <String>Kozmik Göz</String>
+  </StringTable>
+  <StringTable>
+    <Label>CosmicEye_Dec</Label>
+    <String>Haritanın bir bölümünü ortaya çıkarmak için Kozmik Göz'ü kullanın. Kozmik Göz başka bir uygarlığın gezegenini görürse, bir teknoloji çalma şansı vardır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Pandemonium_Name</Label>
+    <String>Pandemonium</String>
+  </StringTable>
+  <StringTable>
+    <Label>Pandemonium_Dec</Label>
+    <String>Tüm bir gezegeni olumsuz etkilemek için telepati kullanın. [HS=HS_PlanetaryDefense]Gezegen Savunmasını[/HS] düşürmeyi, [HS=HS_Influence]Etkiyi[/HS] ve [HS=HS_Approval]Onayı[/HS] azaltmayı veya [HS=HS_Manufacturing]Üretimi[/HS] ve [HS=HS_Research]Araştırmayı[/HS] bozmayı seçin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Serenity_Name</Label>
+    <String>Serenity</String>
+  </StringTable>
+  <StringTable>
+    <Label>Serenity_Dec</Label>
+    <String>Tüm bir gezegeni olumlu yönde etkilemek için telepatiyi kullanın. [HS=HS_Growth]Growth[/HS] artırmayı, [HS=HS_Approval]Approval[/HS] geliştirmeyi veya [HS=HS_Influence]Influence[/HS] ve [HS=HS_Tourism]Tourism[/HS] artırmayı seçin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ForcedLabor_Name</Label>
+    <String>Zorla Çalıştırma</String>
+  </StringTable>
+  <StringTable>
+    <Label>ForcedLabor_Dec</Label>
+    <String>İnsanlar çok çalışıyor. Daha çok çalışabilirler.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ForcedTraining_Name</Label>
+    <String>Thrall Eğitimi</String>
+  </StringTable>
+  <StringTable>
+    <Label>ForcedTraining_Dec</Label>
+    <String>Hedef filo deneyimini artırmak için thrall'ları eğitir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>RushNewCitizen_Name</Label>
+    <String>Üretim Nüfusu</String>
+  </StringTable>
+  <StringTable>
+    <Label>RushNewCitizen_Dec</Label>
+    <String>Durantium kullanmadan hurdaları geri dönüştürerek hızlı bir şekilde daha fazla vatandaş üretebiliriz.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FleetIncreaseMovesEO_Name</Label>
+    <String>Filo Tahrik Sistemini Yükseltme</String>
+  </StringTable>
+  <StringTable>
+    <Label>FleetIncreaseMovesEO_Dec</Label>
+    <String>Hızını optimize etmek amacıyla çabalarımızı tek bir filoya odaklamak için icra yetkilerimizi kullanın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MilitaryConstructionEO_Name</Label>
+    <String>Tersane Üretiminde Artış</String>
+  </StringTable>
+  <StringTable>
+    <Label>MilitaryConstructionEO_Dec</Label>
+    <String>Üretim kaynaklarını belirli bir tersaneye hızlı bir şekilde tedarik etmek için çabalarımızı odaklayın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>InfluenceBroadcast_Name</Label>
+    <String>Yayın Kültürü</String>
+  </StringTable>
+  <StringTable>
+    <Label>InfluenceBroadcast_Dec</Label>
+    <String>Bu modül, başkalarının kültürümüze asimile olmayı istemesini sağlayacak şekilde optimize edilmiş bir mesaj içermektedir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>PlanetTiles_Name</Label>
+    <String>Gezegeni Değiştir</String>
+  </StringTable>
+  <StringTable>
+    <Label>PlanetTiles_Dec</Label>
+    <String>Bu gezegenin türümüz için kullanımını artırın. Kullanılabilir karolarına +1 ekler. Sadece Çekirdek dünyalarda kullanılmalıdır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Recapitalize_Name</Label>
+    <String>Yeniden sermayelendirme</String>
+  </StringTable>
+  <StringTable>
+    <Label>Recapitalize_Dec</Label>
+    <String>Rezerv para birimi statünüzle yeniden sermayelendirme yoluyla yeni sermaye oluşturun.</String>
+  </StringTable>
+  <StringTable>
+    <Label>SpawnMiner_Name</Label>
+    <String>Madenci Kiralama</String>
+  </StringTable>
+  <StringTable>
+    <Label>SpawnMiner_Dec</Label>
+    <String>Değerli kaynakları verimli bir şekilde çıkarmak ve üretkenliğinizi artırmak için yetenekli madencileri görevlendirin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>SpawnFreighter_Name</Label>
+    <String>Ticari Gemi Kiralama</String>
+  </StringTable>
+  <StringTable>
+    <Label>SpawnFreighter_Dec</Label>
+    <String>Ticaret yollarınızı genişletmek için deneyimli tüccarlarla bir gemiyi yönetmeleri için sözleşme yapın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AddSiege_Name</Label>
+    <String>Shock Troopers'ı ekle</String>
+  </StringTable>
+  <StringTable>
+    <Label>AddSiege_Dec</Label>
+    <String>Dünyaları fethetmeye yardımcı olmak için hedef gemiye şok askerleri yerleştirin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>PlanetFertilityIncrease_Name</Label>
+    <String>Fertilize Planet</String>
+  </StringTable>
+  <StringTable>
+    <Label>PlanetFertilityIncrease_Dec</Label>
+    <String>Hedef koloninin doğurganlığını artırır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>GiveHope_Name</Label>
+    <String>Umut Verin</String>
+  </StringTable>
+  <StringTable>
+    <Label>GiveHope_Dec</Label>
+    <String>Hedef çekirdek dünyaya onaylarını artırmak için bir dizi ilham verici konuşma yapın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mitosis_Name</Label>
+    <String>Mitoz bölünme</String>
+  </StringTable>
+  <StringTable>
+    <Label>Mitosis_Dec</Label>
+    <String>Işınlanmış bir varlığı ikiye bölerek hedef gezegende yeni bir varlık oluşturur.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Swarm_Name</Label>
+    <String>Sürü</String>
+  </StringTable>
+  <StringTable>
+    <Label>Swarm_Dec</Label>
+    <String>Altı ay boyunca türümüzün [HS=HS_Consuming]Consuming[/HS]'e sahip tüm üyeleri yeteneklerinin iki katına çıktığını görecekler.</String>
+  </StringTable>
+  <StringTable>
+    <Label>PlanetVision_Name</Label>
+    <String>Gezegensel Durugörü</String>
+  </StringTable>
+  <StringTable>
+    <Label>PlanetVision_Dec</Label>
+    <String>Uzaktan yakınında ne olduğunu görmek için hedef dünyanın sensör görüşünü büyük ölçüde genişletin. Etki bir ay sonra başlar.</String>
+  </StringTable>
+</StringTableList>

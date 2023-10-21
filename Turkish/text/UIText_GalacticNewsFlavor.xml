@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<FlavorTextDefs xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
+  <FlavorTextDef>
+    <InternalName>RandomLore_Civ_NewsDescription</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerHasUniversalTranslator>false</ListenerHasUniversalTranslator>
+        <PlayerMustKnowSpeaker>false</PlayerMustKnowSpeaker>
+        <PlayerMustKnowListener>true</PlayerMustKnowListener>
+      </Requirements>
+      <Text>Yeni keşfedilen kayıtlar, Navigatörlerin Drengin'in hızlı büyümesini durdurmak için altuzay akışı girişlerini gizlemeye yönelik umutsuz çabalarını ortaya koyarken, galaktik istikrar için geçmişte verilen mücadeleye ve bu korkunç tehdide karşı önlem geliştirme yarışına ışık tutuyor.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>RandomLore_Planet_NewsDescription</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerHasUniversalTranslator>false</ListenerHasUniversalTranslator>
+        <PlayerMustKnowSpeaker>false</PlayerMustKnowSpeaker>
+        <PlayerMustKnowListener>true</PlayerMustKnowListener>
+      </Requirements>
+      <Text>Bir zamanların önde gelen Thalan İmparatorluğu, yaklaşık bir asırlık nüfuzunun ardından gizemli bir şekilde galaktik sahneden kayboldu ve yıldızlararası topluluğu şaşkınlık içinde bırakarak aniden ortadan kaybolmalarına cevap aramaya başladı.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+</FlavorTextDefs>

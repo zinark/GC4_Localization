@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<FlavorTextDefs xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
+  <FlavorTextDef>
+    <InternalName>TheOpportunity_GenericConfirm</InternalName>
+    <FlavorTextOption>
+      <Text>İmparatorluk için.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>TheOpportunity_StartOfGame</InternalName>
+    <FlavorTextOption>
+      <Text>This is the Utha [HS=HS_Sector]Sector[/HS].[BR][BR]Here, the Empire will begin to rise again. The orders are clear: do what is needed to establish a solid foundation. The effort will require completing basic tasks to explore and [HS=HS_Colinizing]Colonize[/HS] unclaimed planets. It will also involve preparing to grow the Empire's military.[BR][BR]To form a military worthy of the Empire, [HS=HS_Starbase]Starbases[/HS] must be constructed. [HS=HS_Starbase]Starbases[/HS] eventually come in four forms: [ICON=Icon_MilitaryStarbase] [HS=HS_MilitaryStarbase]Military[/HS], [ICON=Icon_MiningStarbase] [HS=HS_MininingStarbase]Mining[/HS], [ICON=Icon_EconomicsStarbase] [HS=HS_EconomicsStarbase]Economic[/HS], and [ICON=Icon_MiningStarbase] [HS=HS_CommunicationsStarbase]Communication[/HS]. Each has a different use, so make sure to deploy them wisely. To deploy a [HS=HS_Starbase]Starbases[/HS], first build a [HS=HS_Constructor]Constructor[/HS] from a [HS=HS_Shipyard]Shipyard[/HS]. [HS=HS_Constructor]Constructors[/HS] can be converted into [HS=HS_Starbase]Starbases[/HS] with the [HS=HS_ConstructStarbase]Construct Starbase[/HS] command.[BR][BR]New Objective: Construct 3 Probes[BR]New Objective: Claim 5 Planets[BR]New Objective: Construct 3 Starbases</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>TheOpportunity_ClaimedTargetPlanets</InternalName>
+    <FlavorTextOption>
+      <Text>İmparatorluk büyüyor![BR][BR]Galaksi, Drengin İmparatorluğu'nun bayrağı karşısında neden korkudan titrediğini hatırlayacak. Ele geçirilen gezegenler sınırlarımızı güzelce genişletiyor. Takdire şayan bir iş.[BR][BR]Tamamlanan Hedef: 5 Gezegen Talep Et</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>TheOpportunity_ConstructTargetProbesNavigatorsNotFound</InternalName>
+    <FlavorTextOption>
+      <Text>Küçük bir Sondalar taburu keşif için mükemmeldir.[BR][BR]Şimdi bu [HS=HS_Sector]Sector[/HS]'ün haritasını çıkarma ve daha önce bildirilen sinyalin kaynağını bulma zamanı. Gerekirse tüm [HS=HS_Sector]Sector[/HS]'u fırçalayın![BR][BR]İzlemek istediğiniz bir nokta bulursanız, bir Gemiye [ICON=Order_Standby] [HS=HS_Standby]Standby[/HS] emrini vererek süresiz olarak boşta kalmasını sağlayın.[BR][BR]Tamamlanan Hedef: 3 Sonda İnşa Et[BR]Yeni Hedef: Sinyalin Kaynağını Bulun</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>TheOpportunity_ConstructTargetProbesNavigatorsFound</InternalName>
+    <FlavorTextOption>
+      <Text>Küçük bir Sondalar taburu keşif için mükemmeldir.[BR][BR]Artık daha önce bildirilen sinyalin kaynağının Gezginler olduğunu bildiğimize göre, onları daha yakından izleyebiliriz. Sondaları Navigatörlere göz kulak olmak ve galaksiyi keşfetmek için gerektiği gibi kullanın.[BR][BR]Bir geminin süresiz olarak bir yerde boşta kalması için [ICON=Order_Standby] [HS=HS_Standby]Standby[/HS] emrini kullanabilirsiniz, belirli bir yeri izlemek istiyorsanız mükemmeldir.[BR][BR]Tamamlanan Hedef: 3 Sonda İnşa Et</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>TheOpportunity_ConstructedTargetStarbases</InternalName>
+    <FlavorTextOption>
+      <Text>Görkemli bir gelecek için altyapı mükemmel bir şekilde ilerliyor. [BR][BR]İnşa edilen [HS=HS_Starbase]Yıldızüsleri[/HS] İmparatorluğa iyi hizmet edecektir. Yine de bunlar son yapılanlar olmamalıdır. Her zaman [HS=HS_StrategicResource]Stratejik Kaynaklar[/HS] kullanılarak toplanacak [ICON=Icon_MiningStarbase] [HS=HS_MininingStarbase]Madencilik Yıldız Üsleri[/HS] ve [ICON=Icon_MilitaryStarbase] [HS=HS_MilitaryStarbase]Askeri Yıldız Üsleri[/HS] ile güvence altına alınacak topraklar vardır.[BR][BR]Tamamlanan Hedef: 3 Yıldız Üssü İnşa Et</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>TheOpportunity_UnlockedWarships</InternalName>
+    <FlavorTextOption>
+      <Text>Nihayet! Savaş gemileriyle ilgili araştırmaların tamamlanmasıyla [HS=HS_Shipyard]Shipyard[/HS]'da bir kez daha savaş gemileri inşa edilebilir. [BR][BR]Artık zorlu bir güç oluşturmanın zamanı geldi. Sadece gelecekteki fetihler için değil, Terralıların veya müttefiklerden herhangi birinin [HS=HS_Sector]Sector[/HS] bölgesini araştırmaya karar vermesi ihtimaline karşı. [HS=HS_Fleet]Fleet[/HS] yönetimi İmparatorluğun geleceği için hayati önem taşır. [BR][BR]Bir [HS=HS_Fleet]Fleet[/HS], [HS=HS_ShipMovement]Moving[/HS] gemileri aynı karo üzerinde hareket ettirerek oluşturulabilir. Gözünüz [ICON=ShipLogistics_Icon] [HS=HS_Logistics]Logistics[/HS] üzerinde olsun. Yeterli [ICON=ShipLogistics_Icon] [HS=HS_Logistics]Logistics[/HS] yoksa, bir gemi bir [HS=HS_Fleet]Fleet[/HS]'e katılamaz. [BR][BR][HS=HS_ShipMovement]Move[/HS] Gemileri ve [HS=HS_Fleet]Filoları[/HS] gezegenin savunucuları olarak hizmet etmek ve [HS=HS_ConqueringPlanets]Conquer[/HS]'i zorlaştırmak için Gezegenlere taşıyın. Askeri güç büyüdükçe tüm bunları aklınızda tutun.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>TheOpportunity_StartOfGame</InternalName>
+    <FlavorTextOption>
+      <Text>In the vast, silent void of space, our once-mighty Drengin Empire awakens from its enforced slumber. [BR][BR]The humans and their naive allies think they've subdued us, thinking they've sealed their victory. How mistaken they are.[BR][BR] Our resurgence begins in Utha—a virgin sector, unexplored and teeming with potential. But whispers from the dark suggest we aren't the only ones here. An unknown entity hides, sending ripples through subspace. We must identify this presence, for nothing can be allowed to obstruct our path. We will find this signal, and our dominance shall once again be asserted.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>TheOpportunity_FoundSignalSource</InternalName>
+    <FlavorTextOption>
+      <Text>Başka bir uygarlık, Gezginler, altuzay sinyallerinden sorumlu görünüyor. Ne kadar zamandır burada olduklarını söylemek zor, ama önemli değil. Zayıf ve savunmasızlar. Yakında Drengin'e hesap verecekler. [HS=HS_ConqueringPlanets]Ana gezegeni fethedin[/HS] ve başkentlerini ele geçirin, başlarını alın ki direnişin nafile olduğunu anlasınlar.[BR][BR]Tamamlandı Hedef: Sinyalin Kaynağını Bulun[BR]Yeni Hedef: Gezginlerin Ana Gezegenini Fethetmek</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>TheOpportunity_FoundSignalSourceNotOnQuestStep</InternalName>
+    <FlavorTextOption>
+      <Text>Başka bir uygarlık, Gezginler, altuzay sinyallerinden sorumlu görünüyor. Ne kadar zamandır burada olduklarını söylemek zor, ama önemli değil. Zayıf ve savunmasızlar. Yakında Drengin'e hesap verecekler. [HS=HS_ConqueringPlanets]Ana gezegeni fethedin[/HS] ve başkentlerini ele geçirin, başlarını alın ki direnişin nafile olduğunu anlasınlar.[BR][BR]Yeni Hedef: Gezginlerin Ana Dünyasını Fethetmek</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>TheOpportunity_ConqueredTargetHomeworld</InternalName>
+    <FlavorTextOption>
+      <Text>Mesaj açık ve netti: Drengin İmparatorluğu bu sektörün sahibidir ve buradaki herkes Drengin yönetimine hesap verecektir. Navigatörler başkentleri düşerken bir şeyleri gizlemeye çalıştılar. Gezegenin taranması zayıf çabalarını boşa çıkaracak ve sakladıkları şeyi ortaya çıkaracaktır.[BR][BR]Tamamlandı Hedef: Gezginlerin Ana Dünyasını Fethet[BR]Yeni Hedef: Fethedilen Ana Gezegeni Tarayın</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>TheOpportunity_ScannedConqueredHomeworld</InternalName>
+    <FlavorTextOption>
+      <Text>Tamamlanan tarama Navigatörlerin bir cihazı saklamaya çalıştığını ortaya çıkardı. Arızalı bir cihaz. Değerli olmasaydı saklamak istemezlerdi. İster silah ister alet olsun, dikkatle ele alınması gerekiyor. Tamir edildiğinde, İmparatorluğun geri dönüşü için kritik olabilir.[BR][BR]Tamamlandı Hedef: Fethedilen Ana Gezegeni Tarayın</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>TheOpportunity_NeedPlanetaryInvasionTech</InternalName>
+    <FlavorTextOption>
+      <Text>Navigatör'ün günleri sayılı. Yeni direktifler var: İmparatorluğun diğer gezegenleri kuşatmasını ve [HS=HS_ConqueringPlanets]Fethetmesini [/HS] sağlayan [HS=HS_Tech]Tech[/HS] kilidini açmaya öncelik verin. Gezegen İstilası [HS=HS_Tech]Teknoloji[/HS], [HS=HS_Shipyard]Tersane[/HS]'de düşman gezegenleri kuşatabilecek gemilerin inşa edilmesini sağlayacak.[BR][BR]Yeni Hedef: Gezegen İstilasını Araştırın</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>TheOpportunity_HasPlanetaryInvasionTech</InternalName>
+    <FlavorTextOption>
+      <Text>Navigatör'ün günleri sayılı. İmparatorluk, Nakliye gemileri inşa etmek için gerekli [HS=HS_Tech]Tech[/HS]'e zaten sahip. Nakliye gemileri düşman gezegenleri kuşatmamızı ve sonunda birliklerimizin onları fethetmesini sağlar. İmparatorluğun elindeki tüm araçları kullanarak [HS=HS_ConqueringPlanets]Conquer[/HS] the Navigator's homeworld.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>TheOpportunity_ResearchedPlanetaryInvasion</InternalName>
+    <FlavorTextOption>
+      <Text>Birlikler emrinizde.[BR][BR]Nakliye gemileri uzak gezegenlere asker konuşlandırmamızı sağlıyor. Artık [HS=HS_ConqueringPlanets]Filonun [HS=HS_Fleet]Conquest_Icon] Fetih Puanı [/HS] [ICON=Conquest_Icon] yeterince yüksek olduğu sürece düşman gezegenleri [/HS] fethedebiliriz. HS=HS_Fleet]Fleet[/HS] ne kadar büyük ve [ICON=Conquest_Icon] Fetih Puanı ne kadar yüksekse, bir gezegeni fethetmek [HS=HS_ConqueringPlanets]Conquer[/HS] o kadar kolay olur.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>TheOpportunity_ResearchedPlanetaryInvasionOnquestStep</InternalName>
+    <FlavorTextOption>
+      <Text>Birlikler emrinizde.[BR][BR]Nakliye gemileri uzak gezegenlere asker konuşlandırmamızı sağlıyor. Artık [HS=HS_ConqueringPlanets]Filonun [HS=HS_Fleet]Conquest_Icon] Fetih Puanı [/HS] [ICON=Conquest_Icon] yeterince yüksek olduğu sürece düşman gezegenleri [/HS] fethedebiliriz. HS=HS_Fleet]Fleet[/HS] ne kadar büyük ve [ICON=Conquest_Icon] Fetih Puanı ne kadar yüksekse, bir gezegeni fethetmek [HS=HS_ConqueringPlanets]Conquer[/HS] o kadar kolay olur. [BR][BR]Tamamlanan Hedef: Gezegen İstilasını Araştır</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>TheOpportunity_LostAFight</InternalName>
+    <FlavorTextOption>
+      <Text>Rezalet![BR][BR]Gemilerimizi yok edecek ve hayatta kalacak kadar güçlü olduklarını düşünenleri büyüleyeceğiz. İmparatorluk gelecekteki savaşlarda zaferi birkaç yolla sağlayabilir. Bunlardan ilki, Teknoloji Ağacının Savaş dalı altında savunma, silah ve daha fazlasını araştırarak ekipmanlarımızın sürekli olarak gelişmesini sağlamaktır. Bazı [HS=HS_Tech]Teknolojiler[/HS] daha büyük gemilerin inşasına da izin verir.[BR][BR]Bir diğer teknik ise gemilerin [HS=HS_Fleet]Filolar[/HS] halinde gruplandırılmasını sağlamaktır. [HS=HS_Fleet]Fleets[/HS]'i [HS=HS_ShipMovement]Moving[/HS] Gemileri aynı karo üzerinde hareket ettirerek oluşturun. Bir [HS=HS_Fleet]Fleet[/HS], [ICON=ShipLogistics_Icon] [HS=HS_Logistics]Logistics[/HS] tarafından boyut olarak kısıtlanır, bu nedenle bir [HS=HS_Fleet]Fleet[/HS] oluşmuyor veya genişlemiyorsa, [ICON=ShipLogistics_Icon] [HS=HS_Logistics]Logistics[/HS] puanı muhtemelen çok yüksektir. [BR][BR]Son olarak, saldırıda kalarak savaşların ne zaman gerçekleşeceğini kontrol edin. Gücümüzü korurken düşmanlarımızı zayıflatmak için İmparatorluk lehine ağırlıklı savaşlar başlatın. Çabucak alt edemeyeceğiniz kadar güçlü filolardan kaçının ve Işın Yayılımı ve Füze Yayılımı gibi mesafe taktiklerini kullanın.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+</FlavorTextDefs>

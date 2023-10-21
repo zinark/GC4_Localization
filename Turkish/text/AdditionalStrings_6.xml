@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+  <StringTable>
+    <Label>ScoutingFleet_Name</Label>
+    <String>[ICON=ColonyShip_Icon] Aufklärungsflotte</String>
+  </StringTable>
+  <StringTable>
+    <Label>ScoutingFleet_ShortName</Label>
+    <String>Aufklärungsflotte</String>
+  </StringTable>
+  <StringTable>
+    <Label>ScoutingFleet_Dec</Label>
+    <String>Beginnt mit einem Kolonieschiff und drei Sonden.</String>
+  </StringTable>
+  <StringTable>
+    <Label>NocturnalAbility_SeasonOfWakingTitle_Format</Label>
+    <String>Erwachenszeit ({AMOUNT} Monate verbleibend)</String>
+  </StringTable>
+  <StringTable>
+    <Label>NocturnalAbility_SeasonOfDreamingTitle_Format</Label>
+    <String>Traumzeit ({AMOUNT} Monate verbleiben)</String>
+  </StringTable>
+  <StringTable>
+    <Label>NocturnalAbility_SeasonOfWakingDescription</Label>
+    <String>Entwickelt, um in Zyklen zu arbeiten, die jeweils 15 Monate dauern.[BR][BR]Zeit des Erwachens: [HS=HS_Manufacturing]Herstellung[/HS] und [HS=HS_Growth]Wachstum[/HS] sind verstärkt. [BR][BR]{AMOUNT} Monate verbleiben.</String>
+  </StringTable>
+  <StringTable>
+    <Label>NocturnalAbility_SeasonOfDreamingDescription</Label>
+    <String>Entwickelt um in Zyklen zu arbeiten, jeder dauert 15 Monate.[BR][BR]Traumzeit: [HS=HS_Research]Forschung[/HS] und [HS=HS_Influence]Einfluss[/HS] sind gesteigert. [BR][BR]{AMOUNT} Monate verbleiben.</String>
+  </StringTable>
+  <StringTable>
+    <Label>TITLELANGUAGESELECT_HELPTRANSLATE_LABEL</Label>
+    <String>Hilfe Übersetzen</String>
+  </StringTable>
+</StringTableList>

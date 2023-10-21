@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<StringTableList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+  <StringTable>
+    <Label>FIRST_COLONY_NAME</Label>
+    <String>İlk Koloni</String>
+  </StringTable>
+  <StringTable>
+    <Label>FIRST_COLONY_DESC</Label>
+    <String>Bu koloninin kurulmasıyla birlikte galaksiye ilk adımımızı atmış bulunuyoruz. Kolonicilerimiz halkımızı yüce kılan her şeyi temsil ediyor ve bu sayede bu yeni yabancı dünyada başarılı olmak için her türlü şansa sahip olacaklar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FIRST_DURANTIUM_NAME</Label>
+    <String>İlk Durantiyum Madeni</String>
+  </StringTable>
+  <StringTable>
+    <Label>FIRST_DURANTIUM_DESC</Label>
+    <String>Madencilerimiz, gümüşi altın renginde bir parıltıyla kaplı kayalık döküntülerle geri döndüler: Durantium. Daha önce gördüğümüz her şeyden daha yoğun ve dirençli olan bu maddeyi düzenli olarak tedarik etmek, gemi tasarımında yeni atılımlara yol açacaktır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FIRST_ELERIUM_NAME</Label>
+    <String>İlk Eleryum Madeni</String>
+  </StringTable>
+  <StringTable>
+    <Label>FIRST_ELERIUM_DESC</Label>
+    <String>Gizemli madde Elerium'un ilk partisini çekerken maden gemisini doğal olmayan bir parıltı dolduruyor. Yüksek enerji sistemlerini güçlendiren bir madde. Yüksek enerjili ışın silahları ve bazı yerel uygulamalar için hayati önem taşıyacak.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FIRST_PROMETHION_NAME</Label>
+    <String>İlk Promethion Madeni</String>
+  </StringTable>
+  <StringTable>
+    <Label>FIRST_PROMETHION_DESC</Label>
+    <String>Sondalarımızın ilk grubu eser miktarda Promethion içeren kutularla geri döndü. Malzeme son derece kararsız olduğu için eser miktarda olması gerekiyor. Çok çeşitli uygulamalardaki araştırma çabalarımız için hayati önem taşıdığını kanıtlayacaktır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FIRST_THULIUM_NAME</Label>
+    <String>İlk Tülyum Madeni</String>
+  </StringTable>
+  <StringTable>
+    <Label>FIRST_THULIUM_DESC</Label>
+    <String>Tulyuma bakınca pek bir şey göremezsiniz, şaşırtıcı derecede donuk bir dokusu ve rengi vardır. Sadece daha yüksek boyutlarda gerçek karakterini gösterir, Nötronyum'un kararlı bir formu, muazzam yoğunlukta bir malzemedir. Bu, bir dizi yeni sistem için hayati bir bileşen olacaktır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FIRST_ANTIMATTER_NAME</Label>
+    <String>İlk Antimadde Madeni</String>
+  </StringTable>
+  <StringTable>
+    <Label>FIRST_ANTIMATTER_DESC</Label>
+    <String>Antimadde madenciliği sondalarımızdan ilki (kepçeli bir motordan biraz daha fazlası) değerli kargosuyla bir kara deliğin çevresinden geri döner. Topladığı antimadde yakında gelişmiş silah ve güç üretim sistemlerinin geliştirilmesinde kullanılacak.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FIRST_TRADE_ROUTE_NAME</Label>
+    <String>İlk Ticaret Rotası</String>
+  </StringTable>
+  <StringTable>
+    <Label>FIRST_TRADE_ROUTE_DESC</Label>
+    <String>En küçük bir törenle, ticaret fırkateynlerinizden ilki kızağından uzaklaşır. Geri döndüğünde, galaksinin zenginliğinin küçük bir bölümünü içerecek, halkınız için kesinlikle uzun bir karlı takas serisinin ilki olacak.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FIRST_STARBASE_NAME</Label>
+    <String>İlk Yıldız Üssü</String>
+  </StringTable>
+  <StringTable>
+    <Label>FIRST_STARBASE_DESC</Label>
+    <String>Halkımız daha önce de uzayda kalıcı yapılar inşa etti ama hiçbiri bunun gibi değildi. Bu yıldız üssü medeniyetimizin bir uzantısı. Yaptığımız her şey, olduğumuz her şey burada bulunabilir. Buradan medeniyetimizi kesinlikle daha da ileriye taşıyacağız.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FIRST_ANOMALY_NAME</Label>
+    <String>İlk Anomali Araştırması</String>
+  </StringTable>
+  <StringTable>
+    <Label>FIRST_ANOMALY_DESC</Label>
+    <String>Araştırma gemimiz gizemli nesneye dikkatle yaklaşıyor, tüm sensörler maksimum kazanca ayarlanmış durumda. Evrenin birçok sırrından biri, belki de büyük bir tehlike ya da değerli bir hazine, yakında bize açıklanacak.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FIRST_SUBSPACE_STREAM_TRAVEL_NAME</Label>
+    <String>İlk Altuzay Akışı Uçuşu</String>
+  </StringTable>
+  <StringTable>
+    <Label>FIRST_SUBSPACE_STREAM_TRAVEL_DESC</Label>
+    <String>Bir parıltı ve fizik hilesi ile gemi yok oldu, türümüzün daha önce gittiğinden daha uzağa ve daha hızlı seyahat etti. Bugün galaksi çok ama çok küçüldü.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FIRST_INVASION_NAME</Label>
+    <String>İlk İstila</String>
+  </StringTable>
+  <StringTable>
+    <Label>FIRST_INVASION_DESC</Label>
+    <String>Bulduğumuz her gezegen boş olmayacak; bunu bir süredir biliyoruz. Ama bugün bir başkasından bir gezegen almaya çalıştığımız ilk gün. Bugün, uzun süre kutlayacağımız bir zafere işaret edecek.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FIRST_GOVERNMENT_UPGRADE_NAME</Label>
+    <String>İlk Seçim</String>
+  </StringTable>
+  <StringTable>
+    <Label>FIRST_GOVERNMENT_UPGRADE_DESC</Label>
+    <String>Halkımız sözünü söyledi ve bazıları bilgelikten şüphe duysa da, hiç kimse süreçten şüphe duymamalıdır. Yeni hükümetimize açık bir yetki verildi. Onlara en iyisini dileyelim, çünkü onların başarısızlığı bizim başarısızlığımız olacaktır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FIRST_PRECURSOR_RELIC_NAME</Label>
+    <String>İlk Haberci Kalıntısı</String>
+  </StringTable>
+  <StringTable>
+    <Label>FIRST_PRECURSOR_RELIC_DESC</Label>
+    <String>Tarayıcı okumaları yetersiz, ama kesin olan bir şey var: bu nesne eski. Sondalarımız garip cihazın etrafında manevra yaptıkça, bunu yapan varlıkların bizden çok daha güçlü ve deneyimli oldukları anlaşılıyor. Onların eserlerine bakmak bile bir ayrıcalık.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FIRST_TERROR_STAR_USED_NAME</Label>
+    <String>Kullanılan İlk Terör Yıldızı</String>
+  </StringTable>
+  <StringTable>
+    <Label>FIRST_TERROR_STAR_USED_DESC</Label>
+    <String>Uygarlığımız bir Terör Yıldızı'nın yıkıcı gücünü serbest bırakarak tüm bir sistemi ve barındırdığı tüm yaşamı yok etti. Artık geri dönüş yok; Dehşet Çağı başladı.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FIRST_TERROR_STAR_BUILT_NAME</Label>
+    <String>Terör Yıldızı Tamamlandı</String>
+  </StringTable>
+  <StringTable>
+    <Label>FIRST_TERROR_STAR_BUILT_DESC</Label>
+    <String>Yeni inşa ettiğiniz uzay istasyonu savaş silahlarının en üst noktası. Sistemi yok eden bir Ölüm Işını ile donatılan düşmanlarınızın bu devi alt etmek için bazı zor manevralar yapması gerekecek (sadece termal egzoz portuna dikkat edin).</String>
+  </StringTable>
+</StringTableList>

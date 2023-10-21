@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<StringTableList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+  <StringTable>
+    <Label>GameMode_Sandbox_Name</Label>
+    <String>Çatışma</String>
+  </StringTable>
+  <StringTable>
+    <Label>GameMode_Sandbox_Desc</Label>
+    <String>Standart Galaktik Medeniyetler 4 kuralları. İnsan oyuncuların ve yapay zeka oyuncularının takım oluşturmasına izin verir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>GameMode_Arena_Name</Label>
+    <String>Arena</String>
+  </StringTable>
+  <StringTable>
+    <Label>GameMode_Arena_Desc</Label>
+    <String>Yapay zeka oyuncuları yok. Tüm oyuncular sürekli olarak birbirleriyle savaş halindedir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>GameMode_Agenda_Name</Label>
+    <String>Gündem</String>
+  </StringTable>
+  <StringTable>
+    <Label>GameMode_Agenda_Desc</Label>
+    <String>Tüm insan oyunculara rastgele bir hedef atanır. Bunu ilk tamamlayan oyunu kazanır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>GameMode_HiddenAgenda_Name</Label>
+    <String>Gizli Gündem</String>
+  </StringTable>
+  <StringTable>
+    <Label>GameMode_HiddenAgenda_Desc</Label>
+    <String>Oyunculara oyunu kazanmak için yerine getirilmesi gereken rastgele bir hedef atanır. Amacınızın ne olduğunu sadece siz bilirsiniz.</String>
+  </StringTable>
+  <StringTable>
+    <Label>GameMode_Survival_Name</Label>
+    <String>Hayatta kalma</String>
+  </StringTable>
+  <StringTable>
+    <Label>GameMode_Survival_Desc</Label>
+    <String>İnsanlar sürekli olarak yapay zeka oyuncularıyla savaş halindedir. Yapay zeka oyuncuları zaman içinde bonuslar kazanır ve yenilmezler. Kazanan, en uzun süre hayatta kalan oyuncudur.</String>
+  </StringTable>
+</StringTableList>

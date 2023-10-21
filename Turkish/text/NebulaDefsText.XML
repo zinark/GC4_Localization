@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<StringTableList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+  <StringTable>
+    <Label>NormalNebula_Name</Label>
+    <String>Nebula[BR]-%75 Hareket</String>
+  </StringTable>
+  <StringTable>
+    <Label>NormalStorm_Name</Label>
+    <String>Toz Bulutu[BR]-%100 Savunma Sistemleri</String>
+  </StringTable>
+  <StringTable>
+    <Label>GasStorm_Name</Label>
+    <String>Gaz Bulutu[BR]-%25 Taktiksel Hareket[BR]-%50 Hareket[BR]-Azaltılmış Sensör Menzili</String>
+  </StringTable>
+  <StringTable>
+    <Label>RadiationStorm_Name</Label>
+    <String>Radyasyon Fırtınası[BR]-%25 Vuruş Puanı[BR]-%50 Hareket[BR]-Azaltılmış Sensör Menzili</String>
+  </StringTable>
+</StringTableList>

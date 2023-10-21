@@ -1,0 +1,453 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<StringTableList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+  <StringTable>
+    <Label>Hotspot_ConquestTitle</Label>
+    <String>Fetih Zaferi</String>
+  </StringTable>
+  <StringTable>
+    <Label>Hotspot_ConquestDec</Label>
+    <String>Fetih Zaferi, diğer tüm büyük medeniyetlerin yok edilmesiyle elde edilir.[BR][BR]Duraklatma menüsünden erişilebilen Zafer Durumu ekranından zafer ilerlemesini kontrol edin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Hotspot_InfluenceTitle</Label>
+    <String>Etki Zaferi</String>
+  </StringTable>
+  <StringTable>
+    <Label>Hotspot_InfluenceDec</Label>
+    <String>Nüfuz Zaferi, galaksinin çoğunluğunun Kontrol Bölgesinde olması ve diğer tüm büyük uygarlıklarla birkaç ay boyunca parça parça olmasıyla elde edilir.[BR][BR]Zafer ilerlemesini, duraklatma menüsünden erişilebilen Zafer Durumu ekranından kontrol edin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Hotspot_AllianceTitle</Label>
+    <String>İttifak Zaferi</String>
+  </StringTable>
+  <StringTable>
+    <Label>Hotspot_AllianceDec</Label>
+    <String>İttifak Zaferi, diğer tüm büyük uygarlıklarla müttefik olunarak elde edilir.[BR][BR]Duraklatma menüsünden erişilebilen Zafer Durumu ekranından zafer ilerlemesini kontrol edin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Hotspot_PrestigeTitle</Label>
+    <String>Prestij Zaferi</String>
+  </StringTable>
+  <StringTable>
+    <Label>Hotspot_PrestigeDec</Label>
+    <String>Prestij Zaferi, belirli bir [HS=HS_Prestige]Prestige[/HS] Puanına ulaşılarak elde edilir.[BR][BR]Zafer ilerlemesini, duraklatma menüsünden erişilebilen Zafer Durumu ekranından kontrol edin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Hotspot_ZoneOfControlTitle</Label>
+    <String>Kontrol Bölgesi</String>
+  </StringTable>
+  <StringTable>
+    <Label>Hotspot_ZoneOfControlDec</Label>
+    <String>Kontrol Bölgesi, bir medeniyetin Nüfuzunun nereye kadar uzandığını ve baskın olduğunu gösterir. Kontrol Bölgesi galaksinin, baskın Uygarlığın rengiyle gölgelendirilmesiyle temsil edilir. Bir hücre üzerinde birden fazla Uygarlığın Nüfuzu olabilir, ancak hücrede en yüksek Nüfuza sahip Uygarlık hücreye sahip olacaktır.[BR][BR]Bazı eylemler Kontrol Bölgesinden etkilenir. Asteroit madenciliği gibi belirli eylemler yalnızca Kontrol Bölgesi içindeki nesneler üzerinde gerçekleştirilebilir. Kontrol Bölgesi dışında gerçekleştirilebilen Yıldız Üssü inşa etmek gibi diğer eylemler diğer Medeniyetlerin Kontrol Bölgesinde gerçekleştirilemez.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Hotspot_TileTitle</Label>
+    <String>Çini</String>
+  </StringTable>
+  <StringTable>
+    <Label>Hotspot_TileDec</Label>
+    <String>Oyun alanı altıgen Karolara bölünmüştür. Mesafe, konumlar arasındaki Karo sayısı ile ölçülür. Karoların ızgarası Arayüz altındaki Seçenekler Menüsünden açılıp kapatılabilir. Yakınken Izgarayı Göster ve Uzaktayken Izgarayı Göster seçenekleri arasında geçiş yapmak, karoların belirli yakınlaştırma mesafelerinde görünür olup olmayacağını ayarlar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Hotspot_MonthsTitle</Label>
+    <String>Aylar</String>
+  </StringTable>
+  <StringTable>
+    <Label>Hotspot_MonthsDec</Label>
+    <String>Her oyun sırayla gerçekleşir. Bir Ay, dönüşler arasındaki süreyi ölçer. Her Uygarlık sırasını aldıktan sonra bir ay geçer.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Hotspot_MovesTitle</Label>
+    <String>[ICON=Moves_Icon] Hareketler</String>
+  </StringTable>
+  <StringTable>
+    <Label>Hotspot_MovesDec</Label>
+    <String>Her Gemi ve Filonun belirli miktarda [ICON=Moves_Icon] Hareketi vardır. [ICON=Moves_Icon] Hareketler, Geminin veya Filonun bir [HS=HS_Tile]Tile[/HS] içinde geçebileceği [HS=HS_Months]Month[/HS] sayısıdır.[BR][BR]</String>
+  </StringTable>
+  <StringTable>
+    <Label>Hotspot_ShipTitle</Label>
+    <String>Gemi</String>
+  </StringTable>
+  <StringTable>
+    <Label>Hotspot_ShipDec</Label>
+    <String>Gemi, herhangi bir bireysel mobil birimdir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Hotspot_FleetTitle</Label>
+    <String>Filo</String>
+  </StringTable>
+  <StringTable>
+    <Label>Hotspot_FleetDec</Label>
+    <String>Bir Filo, [HS=HS_Ship]Gemilerden[/HS] oluşan bir gruptur. Filolar [HS=HS_ShipMovement]Moving[/HS] [HS=HS_Ship]Ships[/HS] tarafından aynı [HS=HS_Tile]Tile[/HS] üzerinde oluşturulabilir. Bir Filoda kaç [HS=HS_Ship]Gemi[/HS] olabileceği mevcut [HS=HS_Logistics]Lojistik[/HS] tarafından belirlenir. Her [HS=HS_Ship]Ship[/HS] bir [HS=HS_Logistics]Logistics[/HS] değerine sahiptir ve mevcut Filonun [HS=HS_Logistics]Logistics[/HS] puanına eklenir. Eğer bir [HS=HS_Ship]Ship[/HS] Filonun dahil edebileceğinden daha yüksek [HS=HS_Logistics]Logistics[/HS] puanına sahipse, Filoya katılamaz.[BR][BR]Filolardan faydalanmak hayatta kalmak için hayati önem taşır. [HS=HS_Ship]Ships[/HS] grupları savaşta bireysel [HS=HS_Ship]Ships[/HS] gruplarından daha başarılıdır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Hotspot_ShipMovementTitle</Label>
+    <String>Gemi Hareketi</String>
+  </StringTable>
+  <StringTable>
+    <Label>Hotspot_ShipMovementDec</Label>
+    <String>Bireysel [HS=HS_Ship]Gemiler[/HS] ve [HS=HS_Fleet]Filolar[/HS] [HS=HS_Ship]Gemi[/HS] veya [HS=HS_Fleet]Filo[/HS] SOL Fare Tuşu ile seçilerek ve ardından SAĞ Fare Tuşu ile hareket edilecek bir [HS=HS_Tile]Karo[/HS] belirlenerek galakside hareket ettirilebilir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Hotspot_PlanetTypeTitle</Label>
+    <String>Gezegen Tipi</String>
+  </StringTable>
+  <StringTable>
+    <Label>Hotspot_PlanetTypeDec</Label>
+    <String>Gezegen Türü, bir gezegenin biyomunun ve genel ortamının sınıflandırılmasıdır. Farklı Gezegen Türleri genellikle farklı miktarlarda farklı arazilere sahiptir ve gezegenin hangi kaynakları sağlayabileceğini belirler.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Hotspot_PlanetClassTitle</Label>
+    <String>Gezegen Sınıfı</String>
+  </StringTable>
+  <StringTable>
+    <Label>Hotspot_PlanetClassDec</Label>
+    <String>Gezegen Sınıfı bir gezegenin yaşanabilir alanının bir ölçüsüdür. Gezegen Sınıfı 1 veya daha büyük olan herhangi bir gezegen [HS=HS_Colinizing]Kolonize[/HS] edilebilir. Gezegen Sınıfı ne kadar yüksekse, gelişme için o kadar fazla alan vardır. Daha yüksek Gezegen Sınıfına sahip gezegenler genellikle aynı [HS=HS_PlanetType]Gezegen Türüne[/HS] sahip daha düşük Gezegen Sınıfına sahip gezegenlerden daha fazla kaynak sağlar. [BR][BR]Gezegen Sınıfı 0 olan gezegenler [HS=HS_DeadWorld]Ölü Dünya[/HS] olarak kabul edilir ve kolonileştirilemez.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Hotspot_DeadWorldTitle</Label>
+    <String>Ölü Dünya</String>
+  </StringTable>
+  <StringTable>
+    <Label>Hotspot_DeadWorldDec</Label>
+    <String>Ölü Dünya, [HS=HS_PlanetClass]Planet Class[/HS] değeri 0 olan herhangi bir gezegendir. Ölü Dünyalar kolonileştirilemez.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Hotspot_ColinizingTitle</Label>
+    <String>Kolonileşme</String>
+  </StringTable>
+  <StringTable>
+    <Label>Hotspot_ColinizingDec</Label>
+    <String>Yeni dünyaları kolonileştirmek, bir Medeniyetin [HS=HS_ZoneOfControl]Zone of Control[/HS] alanını genişletmek ve daha fazla kaynağa erişim kazanmak için gereklidir. Gezegenler sadece [HS=HS_ColonizeOrder]Kolonileştirilebilir[/HS] eğer gezegen üzerinde hak iddia edilmiyorsa. Bir Gezegen Kolonileştirildiğinde, Kolonileştiren Uygarlık tarafından sahiplenilir. [BR][BR]Bir Gezegenin Kolonileştirilebilmesi için [HS=HS_PlanetClass]Planet Class[/HS] 1 veya daha büyük bir değere sahip olması gerekir. Gezegen Sınıfı 0 olan gezegenler [HS=HS_DeadWorld]Ölü Dünya[/HS] olarak kabul edilir ve kolonileştirilemez.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Hotspot_ColonizeOrderTitle</Label>
+    <String>Kolonileştirme Düzeni</String>
+  </StringTable>
+  <StringTable>
+    <Label>Hotspot_ColonizeOrderDec</Label>
+    <String>Koloni Gemileri yeni dünyaları [HS=HS_Colinizing]Kolonileştirmek[/HS] için kullanılabilir. Bir gezegeni [HS=HS_Colinizing]Kolonileştirmek[/HS] için, önce SOL Fare Tuşuyla [HS=HS_Ship]Gemi[/HS]'yi seçin. Uygun [HS=HS_Ship]Ship[/HS] seçiliyken, SAĞ Fare Düğmesiyle [HS=HS_Ship]Ship[/HS]'e [HS=HS_ShipMovement]Move[/HS]'u [HS=HS_PlanetClass]Planet Class[/HS] değeri 1 veya daha büyük olan bir gezegene götürmesini emredin. Birkaç [HS=HS_Months]Months[/HS] sürebilir, ancak Koloni Gemisi gezegene ulaştığında, onu kolonileştirecektir tktkif abletktk.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Hotspot_SurveyOrderTitle</Label>
+    <String>Anket Siparişi</String>
+  </StringTable>
+  <StringTable>
+    <Label>Hotspot_SurveyOrderDec</Label>
+    <String>Galaksi genellikle [HS=HS_Anomali]Anomaliler[/HS] ile doludur ve bunlar bir [HS=HS_SurveyShip]Survey Gemisi[/HS] tarafından incelenebilir. Bir [HS=HS_SurveyShip]Ship[/HS]'e bir [HS=HS_Anomaly]Anomaly[/HS]'yi incelemesini emretmek için, SOL Fare Tuşu ile [HS=HS_SurveyShip]Survey Ship[/HS]'i seçerek başlayın. Ardından [HS=HS_Ship]Ship[/HS]'e [HS=HS_ShipMovement]Move[/HS] ile [HS=HS_Anomaly]Anomaly[/HS] konumuna gitmesini emredin. [HS=HS_Ship]Ship[/HS] hedefine ulaştığında, [HS=HS_Anomaly]Anomaly[/HS]'yi incelemeye başlayacaktır. Sörvey birkaç [HS=HS_Months]Months[/HS] sürer. [BR][BR]Hareket ettirilen, saldırıya uğrayan veya başka bir şekilde kesintiye uğrayan bir gemi tüm ilerlemeyi kaybedecek ve Sörvey'in baştan başlaması gerekecektir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Hotspot_AttackOrderTitle</Label>
+    <String>Saldırı Emri</String>
+  </StringTable>
+  <StringTable>
+    <Label>Hotspot_AttackOrderDec</Label>
+    <String>Galakside birçok tehdit vardır ve genellikle saldırı eylemleri gerçekleştirilmelidir. [HS=HS_Ship]Ships[/HS] ve [HS=HS_Fleet]Fleets[/HS] silahları olan diğer varlıklara Saldırabilir. Bir Saldırı emri vermek için SOL Fare Tuşuyla [HS=HS_Ship]Ship[/HS] veya [HS=HS_Fleet]Fleet[/HS] seçin. Ardından SAĞ Fare Düğmesiyle [HS=HS_Ship]Ship[/HS] veya [HS=HS_Fleet]Fleet[/HS]'e [HS=HS_ShipMovement]Move[/HS] hedefin konumuna gitmesini emredin. Hedefe ulaşıldığında savaş başlayacaktır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Hotspot_AutoExploreTitle</Label>
+    <String>[ICON=AutoExplore_Icon] Otomatik Keşfet</String>
+  </StringTable>
+  <StringTable>
+    <Label>Hotspot_AutoExploreDec</Label>
+    <String>[ICON=AutoExplore_Icon] Auto-Explore, [HS=HS_Ship]Ships[/HS]'i doğrudan emir almadan hareket etmeye ayarlayacak bir seçenektir. [HS=HS_Ship]Ships[/HS] içinde [ICON=AutoExplore_Icon] Otomatik Keşfet şu anda bilinmeyen ve keşfedilmemiş hedeflere hareket edecektir[BR][BR]Tüm galaksi keşfedilmişse ve keşfedilmemiş [HS=HS_Tile]Tiles[/HS] yoksa, [ICON=AutoExplore_Icon] Otomatik Keşfet seçeneği kullanılamaz hale gelecektir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Hotspot_AutoSurveyTitle</Label>
+    <String>[ICON=AutoSurvey_Icon] Otomatik Anket</String>
+  </StringTable>
+  <StringTable>
+    <Label>Hotspot_AutoSurveyDec</Label>
+    <String>[ICON=AutoSurvey_Icon] Otomatik Sörvey yalnızca Sörvey Modülleri olan [HS=HS_Ship]Gemiler[/HS] tarafından kullanılabilir. Bir [HS=HS_Ship]Ship[/HS] içinde [ICON=AutoSurvey_Icon] Otomatik Sörvey modu doğrudan emir almadan hareket ederek [HS=HS_Anomaly]Anomalileri[/HS] bulmaya çalışacaktır. Bir [HS=HS_Ship]Ship[/HS] [ICON=AutoSurvey_Icon] içindeyken Otomatik Sörvey modu bir [HS=HS_Anomali ]Anomali[/HS] yakınındaysa, doğrudan emir vermeden [HS=HS_SurveyOrder]Survey[/HS] [HS=HS_Anomali ]Anomali[/HS] yapacaktır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Hotspot_AutoColonizeTitle</Label>
+    <String>[ICON=AutoColonize_Icon] Otomatik Kolonize Et</String>
+  </StringTable>
+  <StringTable>
+    <Label>Hotspot_AutoColonizeDec</Label>
+    <String>[ICON=AutoColonize_Icon] Otomatik Kolonileştirme yalnızca [HS=HS_Colinizing]Colonize[/HS] bir gezegeni kolonileştirebilen gemiler tarafından kullanılabilir. Bir [HS=HS_Ship]Gemi[/HS] içinde [ICON=AutoColonize_Icon] Otomatik Kolonize modu doğrudan emir almadan hareket ederek [HS=HS_PlanetClass]Planet Class[/HS] değeri 1 veya daha büyük olan gezegenleri bulmaya çalışır. Bir gezegen bulunduğunda, [HS=HS_Ship]Ship[/HS] [HS=HS_Colinizing]Colonize[/HS] gezegeni doğrudan emir almadan kolonize edecektir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Hotspot_AutoMineTitle</Label>
+    <String>[ICON=AutoMine_Icon] Otomatik Maden</String>
+  </StringTable>
+  <StringTable>
+    <Label>Hotspot_AutoMineDec</Label>
+    <String>[ICON=AutoMine_Icon] Otomatik Madencilik, Asteroit Madenciliği gemileri için bir seçenektir. A [HS=HS_Ship]Ship[/HS] in [ICON=AutoMine_Icon] Otomatik Maden, [HS=HS_ZoneOfControl]Kontrol Bölgesi[/HS] içinde madencilik yapmak üzere Asteroitler bulmaya çalışmak için doğrudan emir almadan hareket edecektir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Hotspot_SectorTitle</Label>
+    <String>Sektör</String>
+  </StringTable>
+  <StringTable>
+    <Label>Hotspot_SectorDec</Label>
+    <String>Sektör, Yıldız Sistemlerinin bir arada gruplandığı ve özel [HS=HS_Tech]Tech[/HS] olmadan geçilebilen bir Galaksi alanıdır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Hotspot_LeaderMenuTitle</Label>
+    <String>[ICON=Menu_Leader_Icon] Liderler Menüsü</String>
+  </StringTable>
+  <StringTable>
+    <Label>Hotspot_LeaderMenuDec</Label>
+    <String>[ICON=Menu_Leader_Icon] Liderler Menüsü, [HS=HS_Leaders]Liderlerin[/HS] işe alınabildiği ve yönetilebildiği yerdir. [ICON=Menu_Leader_Icon] altında Liderler Menüsü, [HS=HS_RecruitmentScreen]İşe Alım[/HS], [HS=HS_MinistersScreen]Bakanlar[/HS], [HS=HS_GovernorsScreen]Valiler[/HS] için ekranlar vardır, [HS=HS_DiplomatsScreen]Diplomatlar[/HS], [HS=HS_CommandersScreen]Komutanlar[/HS] ve [HS=HS_FactionsScreen]Fraksiyonlar[/HS]. [BR][BR]Menu_Leader_Icon]'a erişin [ICON=Menu_Leader_Icon] SOL Fare Tuşu ile Radyal Menü üzerindeki simgeyi seçerek Liderler Menüsü.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Hotspot_RecruitmentScreenTitle</Label>
+    <String>İşe Alım Ekranı</String>
+  </StringTable>
+  <StringTable>
+    <Label>Hotspot_RecruitmentScreenDec</Label>
+    <String>İşe Alım Ekranına [ICON=Menu_Leader_Icon] [HS=HS_LeaderMenu]Leaders Menu[/HS] aracılığıyla erişilebilir. Potansiyel [HS=HS_Leaders]Liderler[/HS], değerlendirilebilecekleri ve işe alınabilecekleri İşe Alım Ekranı altında görünecektir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Hotspot_MinistersScreenTitle</Label>
+    <String>Bakanlar Ekranı</String>
+  </StringTable>
+  <StringTable>
+    <Label>Hotspot_MinistersScreenDec</Label>
+    <String>Bakanlar Ekranına [ICON=Menu_Leader_Icon] [HS=HS_LeaderMenu]Liderler Menüsü[/HS] aracılığıyla erişilebilir. Bakan Ofisleri, kurulu [HS=HS_Leaders]Liderlerin[/HS] istatistiklerine bağlı olarak tüm Uygarlığa belirli faydalar sağlar. [HS=HS_Leaders]Leader[/HS] atanmamış Bakan Ofisleri hiçbir fayda sağlamaz. Fareyi bir ofisin üzerine getirdiğinizde, ofis ve faydaları hakkında özel bilgiler elde edersiniz. [BR][BR][HS=HS_Leaders]Leaders[/HS] sıranız sırasında herhangi bir noktada atanabilir, ataması kaldırılabilir ve yeniden atanabilir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Hotspot_GovernorsScreenTitle</Label>
+    <String>Valiler Ekranı</String>
+  </StringTable>
+  <StringTable>
+    <Label>Hotspot_GovernorsScreenDec</Label>
+    <String>Valiler Ekranına [ICON=Menu_Leader_Icon] [HS=HS_LeaderMenu]Liderler Menüsü[/HS] aracılığıyla erişilebilir. Yöneticiler Ekranı, [HS=HS_PlanetClass]Planet Class[/HS] 10 veya daha büyük olan kolonileştirilmiş her gezegeni kısaca gözden geçirir. Gezegene atanmış bir [HS=HS_Leaders]Lider[/HS] varsa, gezegen bir [HS=HS_CoreWorld]Çekirdek Dünya[/HS]'dır. [BR][BR][HS=HS_Leaders]Liderler[/HS] sıranız sırasında herhangi bir noktada atanabilir, ataması kaldırılabilir ve yeniden atanabilir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Hotspot_DiplomatsScreenTitle</Label>
+    <String>Diplomatlar Ekranı</String>
+  </StringTable>
+  <StringTable>
+    <Label>Hotspot_DiplomatsScreenDec</Label>
+    <String>Diplomatlar Ekranına [ICON=Menu_Leader_Icon] [HS=HS_LeaderMenu]Liderler Menüsü[/HS] aracılığıyla erişilebilir. Diplomat Ekranı bilinen diğer tüm Medeniyetlerle olan ilişkilerimizi kısaca gözden geçirir. [HS=HS_Leaders]Lider[/HS], diğer Medeniyetlerle ilişkinizi etkilemek için [HS=HS_Diplomat]Diplomatlar[/HS] olarak atanabilir. [BR][BR][HS=HS_Leaders]Liderler[/HS] sıranız sırasında herhangi bir noktada atanabilir, ataması kaldırılabilir ve yeniden atanabilir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Hotspot_CommandersScreenTitle</Label>
+    <String>Komutanlar Ekranı</String>
+  </StringTable>
+  <StringTable>
+    <Label>Hotspot_CommandersScreenDec</Label>
+    <String>Komutanlar Ekranına [ICON=Menu_Leader_Icon] [HS=HS_LeaderMenu]Liderler Menüsü[/HS] aracılığıyla erişilebilir. Komutanlar Ekranı, Uygarlık için mevcut olan tüm Komuta Gemilerini görüntüler. Komuta Gemileri, gemiye bir [HS=HS_Leaders]Leader[/HS] atanarak konuşlandırılabilir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Hotspot_FactionsScreenTitle</Label>
+    <String>Fraksiyonlar Ekranı</String>
+  </StringTable>
+  <StringTable>
+    <Label>Hotspot_FactionsScreenDec</Label>
+    <String>Fraksiyonlar Ekranına [ICON=Menu_Leader_Icon] [HS=HS_LeaderMenu]Liderler Menüsü[/HS] aracılığıyla erişilebilir. Gruplar, bir Uygarlık içinde belirli istatistik ve kaynakları etkileyen gruplardır. Bir [HS=HS_Leaders]Liderin[/HS] bir Fraksiyona atanması etkilerin değişmesine neden olur. Bir fraksiyona birden fazla [HS=HS_Leaders]Leader[/HS] atanabilir.[BR][BR][HS=HS_Leaders]Leaders[/HS] sıranız sırasında herhangi bir noktada atanabilir, ataması kaldırılabilir ve yeniden atanabilir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Hotspot_CivilizationMenuTitle</Label>
+    <String>Uygarlık Menüsü</String>
+  </StringTable>
+  <StringTable>
+    <Label>Hotspot_CivilizationMenuDec</Label>
+    <String>[ICON=Menu_CivilizationMenu_Icon] Uygarlık Menüsü tüm Uygarlığınıza genel bir bakış ve Uygarlığınızı daha büyük ölçekte yönetmek için birkaç araç sağlar. [ICON=Menu_CivilizationMenu_Icon] Uygarlık Menüsünde, [HS=HS_Taxes]Tax Rate[/HS] ve [HS=HS_Policy]Policies[/HS] ayarlanabilir. [BR][BR]Radyal Menüdeki simgeyi SOL Fare Tuşuyla seçerek [ICON=Menu_CivilizationMenu_Icon] Uygarlık Menüsüne erişin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Hotspot_SupportingColoniesTitle</Label>
+    <String>Kolonileri Destekleme</String>
+  </StringTable>
+  <StringTable>
+    <Label>Hotspot_SupportingColoniesDec</Label>
+    <String>Bir Destekleyici Koloni, bir [HS=HS_CoreWorld]Core World[/HS] olmayan herhangi bir [HS=HS_Colinizing]Colonized[/HS] gezegendir. Bir Destekleyici Koloni, kaynakları Girdi olarak en yakın [HS=HS_CoreWorld]Çekirdek Dünyaya[/HS] gönderir ve gezegenin Çıktısını iyileştirmek için [HS=HS_CoreWorld]Çekirdek Dünyanın[/HS] Gezegensel Girdisini artırır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Hotspot_MineralsTitle</Label>
+    <String>[ICON=Stat_Minerals_Icon] Mineral</String>
+  </StringTable>
+  <StringTable>
+    <Label>Hotspot_MineralsDec</Label>
+    <String>Mineraller bir [HS=HS_CoreWorld]Core World[/HS] için mevcut olan hammaddelerdir. Mineraller, [ICON=Manufacturing_Stat_Icon] [HS=HS_Manufacturing]Manufacturing[/HS]'i etkileyen bir Girdidir. Bir gezegenin Girdi olarak ne kadar çok Minerali varsa, [HS=HS_Manufacturing]Manufacturing[/HS] derecesi o kadar yüksek olur.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Hotspot_TechnologyTitle</Label>
+    <String>[ICON=Stat_Technology_Icon] Teknoloji</String>
+  </StringTable>
+  <StringTable>
+    <Label>Hotspot_TechnologyDec</Label>
+    <String>[ICON=Stat_Technology_Icon] Teknoloji, bir [HS=HS_CoreWorld]Çekirdek Dünya[/HS] için mevcut olan entelektüel gelişimi ölçer. [ICON=Stat_Technology_Icon] Teknoloji, [ICON=Stat_Research_Icon] [HS=HS_Research]Araştırmayı[/HS] etkileyen bir Girdidir. Bir gezegende Girdi olarak ne kadar çok [ICON=Stat_Technology_Icon] Teknolojisi varsa, [ICON=Stat_Research_Icon] [HS=HS_Research]Research[/HS] derecesi o kadar yüksek olur.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Hotspot_FarmingTitle</Label>
+    <String>[ICON=Stat_Fertility_Icon] Çiftçilik</String>
+  </StringTable>
+  <StringTable>
+    <Label>Hotspot_FarmingDec</Label>
+    <String>[ICON=Stat_Fertility_Icon] Çiftçilik, bir [HS=HS_CoreWorld]Core World[/HS] için tarımın ürettiği kaynakları ölçer. [ICON=Stat_Fertility_Icon] Çiftçilik, [ICON=Stat_Food_Icon] [HS=HS_Food]Gıda[/HS]'yı etkileyen bir Girdidir. Daha fazla [ICON=Stat_Fertility_Icon] Bir gezegende tarım yapmak Girdi olarak ne kadar çok [ICON=Stat_Food_Icon] [HS=HS_Food]Food[/HS] üretirse [HS=HS_CoreWorld]Core World[/HS] o kadar çok üretir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Hotspot_CultureTitle</Label>
+    <String>[ICON=Stat_PlanetInfluence_Icon] Kültür</String>
+  </StringTable>
+  <StringTable>
+    <Label>Hotspot_CultureDec</Label>
+    <String>[ICON=Stat_PlanetInfluence_Icon] Kültür, bir [HS=HS_CoreWorld]Core World[/HS] için mevcut olan sosyal önemi ölçer. [ICON=Stat_PlanetInfluence_Icon] Kültür, [ICON=Stat_Influence_Icon] [HS=HS_Influence]Influence[/HS]'ı etkileyen bir Girdidir. Bir gezegenin Girdi olarak ne kadar çok [ICON=Stat_PlanetInfluence_Icon] Kültürü varsa, [ICON=Stat_Influence_Icon] [HS=HS_Influence]Influence[/HS] derecesi o kadar yüksek olur.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Hotspot_WealthTitle</Label>
+    <String>[ICON=Stat_Wealth_Icon] Servet</String>
+  </StringTable>
+  <StringTable>
+    <Label>Hotspot_WealthDec</Label>
+    <String>[ICON=Stat_Wealth_Icon] Zenginlik, bir [HS=HS_CoreWorld]Çekirdek Dünya[/HS] için mevcut olan nadir ve değerli malzemelerdir. [ICON=Stat_Wealth_Icon] Servet, [ICON=Stat_Income_Icon] [HS=HS_ColonyGrossIncome]Gelir[/HS]'i etkileyen bir Girdidir. Bir gezegen Girdi olarak ne kadar çok [ICON=Stat_Wealth_Icon] Wealth'e sahipse, o kadar çok [ICON=Stat_Income_Icon] [HS=HS_ColonyGrossIncome]Income[/HS] üretir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Hotspot_ResearchCenterTitle</Label>
+    <String>Araştırma Merkezi</String>
+  </StringTable>
+  <StringTable>
+    <Label>Hotspot_ResearchCenterDec</Label>
+    <String>Araştırma Merkezi, araştırılmakta olan [HS=HS_Tech]Techs[/HS]'e genel bir bakış sağlayan ve sıranız geldiğinde hangi [HS=HS_Tech]Tech[/HS]'in araştırılmakta olduğunu değiştirmenize olanak tanıyan bir menüdür. [HS=HS_Tech]Tech[/HS]'in araştırılma hızı [HS=HS_Months]Month[/HS] ile ölçülür ve Uygarlığınızın [ICON=Stat_Research_Icon] [HS=HS_Research]Research[/HS] ile belirlenir. Bir sıranın başında, bir [HS=HS_Tech]Teknoloji[/HS] Araştırılması tamamlanmışsa, Kilit Açma bölümüne erişim kazanırsınız ve araştırmak için yeni bir [HS=HS_Tech]Teknoloji[/HS] belirlemeniz gerekir. [BR][BR]SOL Fare Tuşuyla araştırmak için bir [HS=HS_Tech]Teknoloji[/HS] seçin. Araştırılmakta olan [HS=HS_Tech]Tech[/HS] her zaman alt orta panelde görüntülenir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Hotspot_TechTitle</Label>
+    <String>Teknik</String>
+  </StringTable>
+  <StringTable>
+    <Label>Hotspot_TechDec</Label>
+    <String>Bir Teknoloji, [HS=HS_ResearchCenter]Araştırma Merkezi[/HS]'nde bulunan ve Araştırıldığında yeni [HS=HS_Ship]Gemiler[/HS], [HS=HS_Improvement]İyileştirmeler[/HS], [HS=HS_ExecutiveOrders]İcra Emirleri[/HS] ve daha fazlası olabilen farklı Kilit Açmalar sağlayan bir seçenektir. [BR][BR]Fareyi [HS=HS_ResearchCenter]Araştırma Merkezi[/HS]'nde Teknolojinin üzerine getirerek bir Teknolojinin neleri açtığı hakkında daha fazla bilgi edinin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Hotspot_PiratesTitle</Label>
+    <String>Korsanlar</String>
+  </StringTable>
+  <StringTable>
+    <Label>Hotspot_PiratesDec</Label>
+    <String>Korsanlar haydut [HS=HS_Ship]Gemiler[/HS], [HS=HS_Shipyard]Tersane[/HS] ve gezegenlerdir. Varsayılan olarak, Korsanlar diğer tüm gruplara ve Uygarlıklara düşmandır. Özellikle savaşı kazanacaklarını düşünüyorlarsa, gemilerle savaşa girebilirler ve gireceklerdir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Hotspot_ShipyardTitle</Label>
+    <String>Tersane</String>
+  </StringTable>
+  <StringTable>
+    <Label>Hotspot_ShipyardDec</Label>
+    <String>Bir Tersane yeni [HS=HS_Ship]Gemilerin[/HS] inşa edilebildiği yerdir. Tersanelerin çalışması için bir [HS=HS_CoreWorld]Çekirdek Dünya[/HS] gerekir ve yalnızca [HS=HS_CoreWorld]Çekirdek Dünyalardan[/HS] inşa edilebilir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Hotspot_RushTitle</Label>
+    <String>Rush</String>
+  </StringTable>
+  <StringTable>
+    <Label>Hotspot_RushDec</Label>
+    <String>Acele seçeneği, [ICON=Stat_Credits_Icon][HS=HS_Credit]Credits[/HS] ve [ICON=Stat_Control_Icon] [HS=HS_Control]Control[/HS] harcayarak bir inşaatı tamamlama süresini 1'e [HS=HS_Months]Month[/HS] indirmenize olanak tanır. Aceleye getirilen bir inşaat her zaman Sıranın önüne geçer. Acele seçeneği her bir [HS=HS_CoreWorld]Çekirdek Dünya[/HS] ve [HS=HS_Shipyard]Tersane[/HS] üzerinde her turda yalnızca bir kez kullanılabilir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Hotspot_PlanetManagementTitle</Label>
+    <String>[ICON=Menu_PlanetManagement_Icon] Gezegen Yönetimi Penceresi</String>
+  </StringTable>
+  <StringTable>
+    <Label>Hotspot_PlanetManagementDec</Label>
+    <String>[ICON=Menu_PlanetManagement_Icon]  Gezegen Yönetim Penceresi, [HS=HS_CoreWorld]Çekirdek Dünyalarınızı[/HS] yönetebileceğiniz yerdir. Gezegenin durumu ile birlikte gezegenin Girdi ve Çıktılarının ayrıntılı dökümlerini alabilirsiniz. Ayrıca Projeleri yönetmenin yanı sıra [HS=HS_Improvement]İyileştirmeleri[/HS] inşa edebilir ve yıkabilirsiniz.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Hotspot_AdjacencyTitle</Label>
+    <String>Bitişiklik Bonusu</String>
+  </StringTable>
+  <StringTable>
+    <Label>Hotspot_AdjacencyDec</Label>
+    <String>Bitişiklik Bonusu yan yana inşa edilen [HS=HS_Improvement]İyileştirmeler[/HS] için geçerlidir. Verimliliği en üst düzeye çıkarmak için, bonuslarını artırmak üzere bitişik karolarda benzer [HS=HS_Improvement]Improvements[/HS] inşa etmek en iyisidir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Hotspot_ConstructStarbaseTitle</Label>
+    <String>[ICON=Order_ConstructStarbase] Yıldız Üssü İnşa Et</String>
+  </StringTable>
+  <StringTable>
+    <Label>Hotspot_ConstructStarbaseDec</Label>
+    <String>Starbase Oluştur emri [HS=HS_Constructor]Constructor[/HS]'a verilebilir. Bu, [HS=HS_Constructor]Constructor[/HS]'ı tüketecek ve seçilen türde bir [HS=HS_Starbase]Starbase[/HS] yaratacaktır. [HS=HS_Starbase]Yıldızüssü[/HS] başka bir oyuncunun [HS=HS_ZoneOfControl]Kontrol Bölgesinde[/HS] veya başka bir [HS=HS_Starbase]Yıldızüssünün[/HS] 3 [HS=HS_Tile]Tiles[/HS] yakınında inşa edilemez.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Hotspot_StarbaseTitle</Label>
+    <String>Yıldız Üsleri</String>
+  </StringTable>
+  <StringTable>
+    <Label>Hotspot_StarbaseDec</Label>
+    <String>Bir Yıldızüssü, nerede ve nasıl inşa edildiğine bağlı olarak çeşitli rollere hizmet edebilen özel bir hareketsiz yapıdır. Bir Yıldızüssü inşa etmek için, bir [HS=HS_Shipyard]Shipyard[/HS]'dan bir [HS=HS_Constructor]Constructor[/HS] üretin. Bir Yapıcıya daha sonra [HS=HS_ConstructStarbase]Construct Starbase[/HS] komutu verilerek mevcut konumunda bir Yıldızüssü oluşturması sağlanabilir. [BR][BR]Dört tip Yıldızüssü vardır: [ICON=Icon_MilitaryStarbase] [HS=HS_MilitaryStarbase]Military[/HS], [ICON=Icon_MiningStarbase] [HS=HS_MininingStarbase]Mining[/HS], [ICON=Icon_EconomicsStarbase] [HS=HS_EconomicsStarbase]Economic[/HS], ve [ICON=Icon_MiningStarbase] [HS=HS_CommunicationsStarbase]Communication[/HS]. [HS=HS_ConstructStarbase]Construct Starbase [/HS] kullanıldığında mevcut olan türler [HS=HS_Constructor]Constructor'ın [/HS] etki alanı içindeki kaynaklara bağlıdır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Hotspot_MilitaryStarbaseTitle</Label>
+    <String>[ICON=Icon_MilitaryStarbase] Askeri Yıldız Üssü</String>
+  </StringTable>
+  <StringTable>
+    <Label>Hotspot_MilitaryStarbaseDec</Label>
+    <String>Yıldız Üssünü Uygarlığınızı ve varlıklarını korumaya adar</String>
+  </StringTable>
+  <StringTable>
+    <Label>Hotspot_MiningStarbaseTitle</Label>
+    <String>[ICON=Icon_MiningStarbase] Madencilik Yıldız Üssü</String>
+  </StringTable>
+  <StringTable>
+    <Label>Hotspot_MiningStarbaseDec</Label>
+    <String>Yıldız Üssünü yakınlarda madencilik yapmaya adar [HS=HS_StrategicResource]Stratejik Kaynaklar[/HS].</String>
+  </StringTable>
+  <StringTable>
+    <Label>Hotspot_CommunicationsStarbaseTitle</Label>
+    <String>[ICON=Icon_CommunicationsStarbase] İletişim Yıldız Üssü</String>
+  </StringTable>
+  <StringTable>
+    <Label>Hotspot_CommunicationsStarbaseDec</Label>
+    <String>Yıldız Üssünü kültürel Etkinizi ve varlıklarınızı genişletmeye adar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Hotspot_EconomicsStarbaseTitle</Label>
+    <String>[ICON=Icon_EconomicsStarbase] Ekonomi Yıldız Üssü</String>
+  </StringTable>
+  <StringTable>
+    <Label>Hotspot_EconomicsStarbaseDec</Label>
+    <String>Yıldız Üssünü Çekirdek Dünyalarınızın ekonomisini geliştirmeye adar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Hotspot_ConqueringPlanetsTitle</Label>
+    <String>[ICON=Conquest_Icon] Gezegenleri Fethetmek</String>
+  </StringTable>
+  <StringTable>
+    <Label>Hotspot_ConqueringPlanetsDec</Label>
+    <String>Kolonileştirilen tüm gezegenlerde bir [ICON=Conquest_Icon] bulunur. Gezegensel Fetih derecesi. Bu, bir gezegenin ne kadar savunulduğunu ve savunmasının üstesinden gelmek için ne kadar askeri güç gerektiğini temsil eder. [HS=HS_Fleet]Filolar[/HS], bir gezegeni kuşatmak için ne kadar donanımlı olduklarını temsil eden bir Fetih Derecesine sahiptir. Nakliye gemileri gibi bazı gemiler gezegenleri fethetmek için diğerlerine göre daha donanımlıdır.[BR][BR]Bir kuşatma başlatmak için, hedefi fethedilecek Gezegen olan bir [HS=HS_Fleet]Fleet[/HS]'e [HS=HS_ShipMovement]Move[/HS] komutu verin. [HS=HS_Fleet]Fleet[/HS] Gezegene ulaştığında, [ICON=Conquest_Icon] Fetih Puanı Gezegenin [ICON=Conquest_Icon] Fetih Puanını aşacak kadar yüksekse bir kuşatma başlatacaktır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Hotspot_StandbyTitle</Label>
+    <String>[ICON=Order_Standby] Bekleme</String>
+  </StringTable>
+  <StringTable>
+    <Label>Hotspot_StandbyDec</Label>
+    <String>Bekleme emri bir geminin süresiz olarak boşta kalması için kullanılabilir. Geminin rölantide durduğu senaryolara sahip diğer emirlerin aksine, Bekleme modundaki gemiler emir verilmedikçe Bekleme modundan çıkmazlar.</String>
+  </StringTable>
+  <!--Adding text for future HotSpots after text lock 9.22.23-->
+  <!--Note: String labels have temporary _TK tag-->
+  <StringTable>
+    <Label>Hotspot_Biology</Label>
+    <String>Biyoloji</String>
+  </StringTable>
+  <StringTable>
+    <Label>Hotspot_BiologyDec</Label>
+    <String>Biyolojiler, bir medeniyetin nasıl kolonileştiğini ve büyüdüğünü etkileyen özel özelliklerdir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Hotspot_CulturalAffinity</Label>
+    <String>Kültürel Yakınlık</String>
+  </StringTable>
+  <StringTable>
+    <Label>Hotspot_CulturalAffinityDec</Label>
+    <String>Bir uygarlığın hangi kültür ağacına doğru indirimlerle başladığını belirler.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Hotspot_Behaviors</Label>
+    <String>Davranışlar</String>
+  </StringTable>
+  <StringTable>
+    <Label>Hotspot_BehaviorsDec</Label>
+    <String>Yapay zeka tarafından kontrol edildiğinde bu uygarlığın nasıl oynanacağını belirler.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Hotspot_Citizens</Label>
+    <String>Vatandaşlar</String>
+  </StringTable>
+  <StringTable>
+    <Label>Hotspot_CitizensDec</Label>
+    <String>Vatandaşlar çekirdek dünyalarınızın nüfusunu oluşturur, bir gezegenin çıktılarını değiştirmek için uzmanlaşabilirler veya belirli gemi sınıflarını inşa etmek için gereklidirler.</String>
+  </StringTable>
+</StringTableList>

@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<FlavorTextDefs xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
+  <FlavorTextDef>
+    <InternalName>SHIPYARDADVISOR_DEFAULT</InternalName>
+    <FlavorTextOption>
+      <Text>"Şu anda acil bir gemi inşaatı ihtiyacımız yok."</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>SHIPYARDADVISOR_MILITARY_FOR_WAR</InternalName>
+    <FlavorTextOption>
+      <Text>"Savaş çabalarımıza yardımcı olması için daha fazla askeri gemi inşa etmeliyiz."</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>SHIPYARDADVISOR_WEAK_MILITARY</InternalName>
+    <FlavorTextOption>
+      <Text>"Ordumuz zayıf. Askeri gemi üretimini arttırmalıyız ki kolay hedefler olarak görünmeyelim."</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>SHIPYARDADVISOR_WEAK_COLONY_DEFENSE</InternalName>
+    <FlavorTextOption>
+      <Text>"Kolonilerimiz konuşlanmış gemiler tarafından daha fazla korunabilir."</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>SHIPYARDADVISOR_COLONIZABLE_WORLDS</InternalName>
+    <FlavorTextOption>
+      <Text>"Medeniyetimize yeni dünyalar katmak için koloni gemileri inşa etmeliyiz."</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>SHIPYARDADVISOR_EXPLORATION</InternalName>
+    <FlavorTextOption>
+      <Text>"Galaksinin büyük bir kısmı bizim için gizemini koruyor. Etrafımız hakkında bilgi edinmek için bazı sondalar inşa etmeliyiz."</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>SHIPYARDADVISOR_SURVEY</InternalName>
+    <FlavorTextOption>
+      <Text>"Elimizde daha fazla araştırma gemisi olsaydı, araştırabileceğimiz anomaliler var."</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>SHIPYARDADVISOR_STARBASES</InternalName>
+    <FlavorTextOption>
+      <Text>"Daha fazla yapıcı gemi inşa etmeliyiz, böylece kontrolümüzü genişletmek için yıldız üslerini kullanabiliriz."</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+</FlavorTextDefs>

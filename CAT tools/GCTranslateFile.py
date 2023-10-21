@@ -51,7 +51,7 @@ class TranslationApp(QMainWindow):
         layout = QVBoxLayout()
 
         self.language_box = QComboBox(self)
-        self.languages = ["English", "French", "German", "Russian", "Spanish", "Italian", "Portuguese", "Polish", "Korean", "Japanese", "Chinese"]
+        self.languages = ["English", "French", "German", "Russian", "Spanish", "Italian", "Portuguese", "Polish", "Korean", "Japanese", "Chinese", "Turkish"]
         self.language_box.addItems(self.languages)
         ##self.language_box.currentIndexChanged.connect(self.switch_language)
 

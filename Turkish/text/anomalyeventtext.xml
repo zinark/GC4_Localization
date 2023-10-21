@@ -1,0 +1,175 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<StringTableList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+  <StringTable>
+    <Label>Event_Derelict_Name_0X1F2BD</Label>
+    <String>Terkedilmiş</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Derelict_Dec_0X1F2BD</Label>
+    <String>Amiral geminiz uzayda sürüklenen terk edilmiş bir gemi keşfetti. Galaksinin herhangi bir yerindeki bir filoyu onarabilecek güce sahip bir eser içeriyor gibi görünüyor. Onunla ne yapmak istiyorsunuz?</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Derelict_Authority_Bonus_Name_0X1F2BD</Label>
+    <String>Objeyi al.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Derelict_Authority_Bonus_Dec_0X1F2BD</Label>
+    <String>Galaksinin herhangi bir yerindeki bir filoyu onarma becerisi kazanın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Derelict_Calm_Bonus_Name_0X1F2BD</Label>
+    <String>İçinden ham maddeleri çıkarın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Derelict_Calm_Bonus_Dec_0X1F2BD</Label>
+    <String>Fraksiyonunuza +500 Kredi ve +2 Elerium.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Specter_Grasp_Name_0X1F3CD</Label>
+    <String>Hayaletin Kıskacı</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Specter_Grasp_Dec_0X1F3CD</Label>
+    <String>Sessiz boşlukta gemimizi bekleyen Hayaletin Kavrayışı, bilgi aşılayan bir enerji yayan esrarengiz bir eser.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Specter_Grasp_Traditional_Bonus_Name_0X1F3CD</Label>
+    <String>Eseri gemiye getirin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Specter_Grasp_Traditional_Bonus_Dec_0X1F3CD</Label>
+    <String>Bu eser, kullanıldığında çok sayıda araştırma bilgisini bir kerede elde etmemize olanak tanıyan geniş içgörüler sağlıyor gibi görünüyor.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Specter_Grasp_Nihilism_Bonus_Name_0X1F3CD</Label>
+    <String>Potansiyel risklere bakmaksızın eserden maksimum güç elde edin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Specter_Grasp_Nihilism_Bonus_Dec_0X1F3CD</Label>
+    <String>Bu cihazın arkasındaki teknoloji bizi aşıyor. İnsanlarımızın DNA'sını kalıcı olarak değiştirerek onları biraz daha zeki ama biraz daha pervasız hale getirecek.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Specter_Grasp_Nihilism_Bonus_Effect_0X1F3CD</Label>
+    <String>Hayaletin Kıskacı.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_AncientWormhole_Name_0X1F4CD</Label>
+    <String>Kırık Işınlayıcı Objesi</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_AncientWormhole_Dec_0X1F4CD</Label>
+    <String>Araştırmalarımız bizi Öncü kökenli bir esere götürdü; bir zamanlar uzay-zaman dokusunu bükerek gemilerini seçilen koordinatlara anında yerleştirebilen bir cihaz. Ne yazık ki, zamanın tahribatı nazik olmadı. Artefaktın kesinliği yerini düzensiz bir belirsizliğe bıraktı - araştırmacılarımız aktivasyonun artık rastgele bir uzaysal yer değiştirmeyle sonuçlanacağı konusunda uyarıyor. Yine de, bu öngörülemeyen özellik taktiksel olarak avantajlı olabilir ve bize istenmeyen filoları uzayın bilinmeyen uçsuz bucaksız bölgelerine yerleştirmek için bir araç sağlayabilir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_AncientWormhole_Bonus_Name_0X1F4CD</Label>
+    <String>Objeyi al.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_AncientWormhole_Bonus_Dec_0X1F4CD</Label>
+    <String>Obje kasaya gidecek.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_AncientWormhole_Modification_Bonus_Name_0X1F4CD</Label>
+    <String>Eseri orijinal bileşenlerine ayırmaya çalışın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_AncientWormhole_Bonus_Effect_0X1F4CD</Label>
+    <String>Eseri oluşturan değerli unsurlar bize bazı anlık krediler sağlayacaktır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_SpaceMonsterCage_Name_0X1F5CD</Label>
+    <String>Kafesteki Ele Geçirilmesi Zor Canavar</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_SpaceMonsterCage_Dec_0X1F5CD</Label>
+    <String>Amiral gemimiz, kaynağı bilinmeyen korkunç bir varlığa ev sahipliği yapan sürüklenen bir eserle karşılaştı. Onu bir yıkım aracı olarak kullanmaya cesaret edebilecek miyiz, yoksa bilgimizi ilerletmek için potansiyelinden yararlanabilecek miyiz?</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_SpaceMonsterCage_Bonus_Name_0X1F5CD</Label>
+    <String>Kasamızda saklayın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_SpaceMonsterCage_Bonus_Dec_0X1F5CD</Label>
+    <String>Tuzağı obje kasamıza yerleştiriyoruz.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_SpaceMonsterCage_Modification_Bonus_Name_0X1F5CD</Label>
+    <String>Üzerinde deney yap.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_SpaceMonsterCage_Bonus_Effect_0X1F5CD</Label>
+    <String>Muhtemelen çok fazla acı hissetmeyeceksiniz. Ancak bu, bazı değerli araştırmaları elde etmek için yapmaya hazır olduğumuz bir fedakarlıktır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_FoundFoodReplicator_0x5F3C_Name</Label>
+    <String>Uzayda Bir Sürpriz: Öncü Gıda Çoğaltıcısı</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_FoundFoodReplicator_0x5F3C_Dec</Label>
+    <String>Gemimiz uzayın derinliklerinde sürüklenen kayıp bir kargo konteynerine rastladı. Dış yüzeyindeki antik glifleri deşifre ettikten bir süre sonra içindekileri tespit ettik - bir Öncül Gıda Çoğaltıcı. Bu inanılmaz teknolojiye sahip cihaz neredeyse her şeyden yiyecek sentezleyebiliyor ve onunla donatılmış herhangi bir geminin menzilini büyük ölçüde artırıyor. Sonsuz miktarda uzaylı gofretine ne dersiniz?</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_FoundFoodReplicator_0x5F3C_Choice1_Name</Label>
+    <String>Bunu yıldız gemisi aşçılık departmanımıza entegre edin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_FoundFoodReplicator_0x5F3C_Choice1_Dec</Label>
+    <String>Bu bileşen kasamızda bir yıldız gemisine eklenmeye hazır halde bulunacak ve seyahat menzillerini önemli ölçüde uzatacak. Ayrıca, sonsuz besin gofretleri sayesinde mürettebat daha mutlu olacak!</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_FoundFoodReplicator_0x5F3C_Choice2_Name</Label>
+    <String>İçinden Promethion'u çıkarın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_FoundFoodReplicator_0x5F3C_Choice3_Name</Label>
+    <String>Galaktik pazarda kredi karşılığında sat.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_GuiltMagnifier_0x5F3D_Name</Label>
+    <String>Suçluluk Büyüteci</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_GuiltMagnifier_0x5F3D_Dec</Label>
+    <String>Gemimiz uzayın sessiz boşluğunda süzülürken, kayıp bir kargo konteynerine rastlar. Konteynır açıldığında suçluluk duygularını artırabilen olağanüstü bir cihaz ortaya çıkar. Psikolojik analistlerimiz bu 'Suçluluk Büyüteci'nin bir Çekirdek dünyasına yerleştirilmesinin suç oranlarını büyük ölçüde azaltabileceğini düşünüyor. Vicdanın galaktik eşdeğerini bulmuş olabiliriz!</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_GuiltMagnifier_0x5F3D_Choice1_Name</Label>
+    <String>Bunu daha sonra dağıtmak üzere kasada saklayın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_GuiltMagnifier_0x5F3D_Choice1_Dec</Label>
+    <String>Bu cihaz daha sonra kullanılmak üzere kasaya eklenecektir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_GuiltMagnifier_0x5F3D_Choice2_Name</Label>
+    <String>Cihazı parçalayın ve içindeki değerli Durantium'u çıkarın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_GuiltMagnifier_0x5F3D_Choice3_Name</Label>
+    <String>Suçluluk Büyüteci'ni Galaktik Pazar'da biraz kredi karşılığında sat.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_WeaponJammer_0x6A4C_Name</Label>
+    <String>Kayıp Bir Silah Karıştırıcı</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_WeaponJammer_0x6A4C_Dec</Label>
+    <String>Uzayın karanlık enginliğinde sürüklenen terk edilmiş bir kargo konteynırıyla karşılaştık. İlginç olan konteyner değil, içinde ne olduğu: Bir Silah Hedefleme Karıştırıcısı! Bu cihaz gemilerimizden birine takılarak düşman silahlarından kaçma kabiliyetini arttırabilir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_WeaponJammer_0x6A4C_Choice1_Name</Label>
+    <String>Silah Karıştırıcıyı kasamıza ekleyin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_WeaponJammer_0x6A4C_Choice1_Dec</Label>
+    <String>Bu, bir gemiye eklenmek üzere kasamızda mevcut olacaktır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_WeaponJammer_0x6A4C_Choice2_Name</Label>
+    <String>Thulium'u çıkar. Ona daha çok ihtiyacımız var.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_WeaponJammer_0x6A4C_Choice3_Name</Label>
+    <String>Sat onu.</String>
+  </StringTable>
+</StringTableList>

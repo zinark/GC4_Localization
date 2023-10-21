@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<StringTableList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+  <StringTable>
+    <Label>MusicDef_Generic_Name</Label>
+    <String>Jenerik Tema</String>
+  </StringTable>
+  <StringTable>
+    <Label>MusicDef_Baratak_Name</Label>
+    <String>Baratak Teması</String>
+  </StringTable>
+  <StringTable>
+    <Label>MusicDef_Festron_Name</Label>
+    <String>Festron Teması</String>
+  </StringTable>
+  <StringTable>
+    <Label>MusicDef_Mimot_Name</Label>
+    <String>Mimot Teması</String>
+  </StringTable>
+  <StringTable>
+    <Label>MusicDef_Xeloxi_Name</Label>
+    <String>Xeloxi Teması</String>
+  </StringTable>
+  <StringTable>
+    <Label>MusicDef_Manti_Name</Label>
+    <String>Mantı Teması</String>
+  </StringTable>
+  <StringTable>
+    <Label>MusicDef_Navigators_Name</Label>
+    <String>Navigators Teması</String>
+  </StringTable>
+  <StringTable>
+    <Label>MusicDef_Terran_Name</Label>
+    <String>Terran Teması</String>
+  </StringTable>
+  <StringTable>
+    <Label>MusicDef_Drengin_Name</Label>
+    <String>Drengin Teması</String>
+  </StringTable>
+  <StringTable>
+    <Label>MusicDef_Altarian_Name</Label>
+    <String>Altarian Teması</String>
+  </StringTable>
+  <StringTable>
+    <Label>MusicDef_Iridium_Name</Label>
+    <String>iridyum Teması</String>
+  </StringTable>
+  <StringTable>
+    <Label>MusicDef_Krynn_Name</Label>
+    <String>Krynn Teması</String>
+  </StringTable>
+  <StringTable>
+    <Label>MusicDef_Yor_Name</Label>
+    <String>YOR Teması</String>
+  </StringTable>
+  <StringTable>
+    <Label>MusicDef_Iconian_Name</Label>
+    <String>Iconian Teması</String>
+  </StringTable>
+  <StringTable>
+    <Label>MusicDef_Torian_Name</Label>
+    <String>Torian Teması</String>
+  </StringTable>
+  <StringTable>
+    <Label>MusicDef_Arcean_Name</Label>
+    <String>Arcean Teması</String>
+  </StringTable>
+  <StringTable>
+    <Label>MusicDef_Slyne_Name</Label>
+    <String>Slyne Teması</String>
+  </StringTable>
+  <StringTable>
+    <Label>MusicDef_OnyxHive_Name</Label>
+    <String>Onyx Hive Teması</String>
+  </StringTable>
+  <StringTable>
+    <Label>MusicDef_Drath_Name</Label>
+    <String>Drath Teması</String>
+  </StringTable>
+  <StringTable>
+    <Label>MusicDef_Trandals_Name</Label>
+    <String>Trandals Teması</String>
+  </StringTable>
+  <StringTable>
+    <Label>MusicDef_Tywom_Name</Label>
+    <String>Tywom Teması</String>
+  </StringTable>
+  <StringTable>
+    <Label>MusicDef_Scryve_Name</Label>
+    <String>Scryve Teması</String>
+  </StringTable>
+  <StringTable>
+    <Label>MusicDef_Phamysht_Name</Label>
+    <String>Phamysht Teması</String>
+  </StringTable>
+  <StringTable>
+    <Label>MusicDef_Thalan_Name</Label>
+    <String>Thalan Teması</String>
+  </StringTable>
+  <StringTable>
+    <Label>MusicDef_Snathi_Name</Label>
+    <String>Snathi Teması</String>
+  </StringTable>
+  <StringTable>
+    <Label>MusicDef_Korath_Name</Label>
+    <String>Korath Teması</String>
+  </StringTable>
+  <StringTable>
+    <Label>MusicDef_Seeing_Name</Label>
+    <String>Intueri Teması</String>
+  </StringTable>
+  <StringTable>
+    <Label>MusicDef_Resistance_Name</Label>
+    <String>Direniş Teması</String>
+  </StringTable>
+  <StringTable>
+    <Label>MusicDef_Crystalline_Name</Label>
+    <String>Luxar Teması</String>
+  </StringTable>
+  <StringTable>
+    <Label>MusicDef_Absolute_Name</Label>
+    <String>Mutlak Tema</String>
+  </StringTable>
+  <StringTable>
+    <Label>MusicDef_Phalenoids_Name</Label>
+    <String>Phalenoids Teması</String>
+  </StringTable>
+</StringTableList>

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<StringTableList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+  <StringTable>
+    <Label>LeaderAction_Promote_Name</Label>
+    <String>Sibernetik İmplantlar</String>
+  </StringTable>
+  <StringTable>
+    <Label>LeaderAction_Promote_Dec</Label>
+    <String>Sibernetik İmplantlar bu liderin [HS=HS_Diligence]Çalışkanlık[/HS], [HS=HS_Intelligence]Zeka[/HS] ve [HS=HS_Resolve]Kararlılık[/HS] özelliklerini geliştirecektir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>LeaderAction_Gift_Name</Label>
+    <String>Hediye</String>
+  </StringTable>
+  <StringTable>
+    <Label>LeaderAction_Gift_Dec</Label>
+    <String>Uyum Kristalleri seçkinler arasında popüler statü sembolleridir. Onları hediye ederek prestijlerini ve size olan bakış açılarını geliştirirsiniz.[BR][BR]+10 [HS=HS_Loyalty]Loyalty[/HS]</String>
+  </StringTable>
+  <StringTable>
+    <Label>LeaderAction_Fire_Name</Label>
+    <String>Yangın</String>
+  </StringTable>
+  <StringTable>
+    <Label>LeaderAction_Fire_Dec</Label>
+    <String>Lideri mevcut konumundan kovar ve mevcut liderler havuzuna geri döndürür.</String>
+  </StringTable>
+  <StringTable>
+    <Label>LeaderAction_Execute_Name</Label>
+    <String>Yürütmek</String>
+  </StringTable>
+  <StringTable>
+    <Label>LeaderAction_Execute_Dec</Label>
+    <String>Sorunlu liderleri infaz eder. Diğer tüm liderler sadakat cezası alır.[BR][BR]+1 [HS=HS_Intimidation]Intimidation[/HS]</String>
+  </StringTable>
+</StringTableList>

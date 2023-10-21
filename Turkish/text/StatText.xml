@@ -1,0 +1,2851 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<StringTableList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+  <StringTable>
+    <Label>STATNAME_EscapeAbility</Label>
+    <String>Kaçış Yeteneği</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATDEC_HitPointsCap</Label>
+    <String>Gemilerimizin sahip olabileceği maksimum Hitpoints</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_EscapeChance</Label>
+    <String>Savaştan Kaçma Şansı</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_AdministratorCount</Label>
+    <String>Yönetici Sayısı</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_EngineerCount</Label>
+    <String>Mühendis Sayısı</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_ScientistCount</Label>
+    <String>Bilim İnsanı Sayısı</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_EntrepreneurCount</Label>
+    <String>Tüccar Sayısı</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_FarmerCount</Label>
+    <String>Çiftçi Sayısı</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_EntertainerCount</Label>
+    <String>Şovmen Sayısı</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_SoldierCount</Label>
+    <String>Asker Sayısı</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_ClericCount</Label>
+    <String>Ruhban Kontu</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_PrisonerCount</Label>
+    <String>Mahkum Sayısı</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_WarProfitMult</Label>
+    <String>Savaş Vurgunculuğu</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_ExpBonus</Label>
+    <String>Deneyim Bonusu</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_Deception</Label>
+    <String>Aldatma</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_Intimidation</Label>
+    <String>Gözdağı Verme</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATDESC_Intimidation</Label>
+    <String>Gözdağı, başkalarını korkudan istediğinizi yapmaları için manipüle etmek için kullanılır. Diğer uygarlıklara karşı ticaret anlaşmalarını geliştirmek ve olayları sizin istediğiniz gibi gitmeye zorlamak için kullanılabilir. Güçlü bir araçtır, ancak başarısız olduğunda hedefler yapmaya çalıştığınız şeyi çabuk unutmayacaktır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_Persuasion</Label>
+    <String>İkna</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATDESC_Persuasion</Label>
+    <String>İkna, diğer medeniyetlerle ticaret yaparken kullanabileceğimiz bir yetenektir. Ticaretimizin algılanan değerini artırır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_ColonyApproval</Label>
+    <String>Koloni Onayı</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_RandomTechSlots</Label>
+    <String>[ICON=Stat_Research_Icon] Rastgele Teknoloji Yuvaları</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATDESC_RandomTechSlots</Label>
+    <String>Araştırma için seçilebilecek mevcut teknolojilerin sayısını kontrol eder.</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_CanBuildAsteroidMiningBase</Label>
+    <String>Asteroit Madencilik Üsleri inşa edebilir</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_FactionPower</Label>
+    <String>[ICON=Stat_Faction_Power_Icon] Grup Gücü</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_FactionCulturalFactor</Label>
+    <String>[ICON=Stat_Culture_Icon] Kültür Puanları</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_InfluencePower</Label>
+    <String>[ICON=Stat_Influence_Icon] Etki</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_FactionMilitaryPotentialFactor</Label>
+    <String>[ICON=Stat_Manufacturing_Icon] İmalat</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_EconomicPower</Label>
+    <String>[ICON=Stat_Economic_Power_Icon] Ekonomik Güç</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_MilitaryPower</Label>
+    <String>[ICON=Stat_Military_Power_Icon] Askeri Güç</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_TechPower</Label>
+    <String>[ICON=Stat_Research_Icon] Teknik Güç</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_PlanetClass</Label>
+    <String>[ICON=Stat_Planet_Class_Icon] Gezegen Sınıfı</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_PlanetClassEffect</Label>
+    <String>[ICON=Stat_Planet_Class_Icon] Gezegen Sınıfı Etkisi</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_BasePlanetDefense</Label>
+    <String>[ICON=Stat_Planet_Class_Icon] Temel Savunma</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_SoldieringBonus</Label>
+    <String>[ICON=Stat_Legion_Icon] Askerlik Yeteneği</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_CitizenDefense</Label>
+    <String>[ICON=Stat_Planet_Class_Icon] CitizenDefense</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_IsHomeworld</Label>
+    <String>[ICON=Stat_Temp_Icon] Ana Dünya</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_IsCapital</Label>
+    <String>[ICON=CivilizationCapital_Stat_Icon] Sermaye</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_Credits</Label>
+    <String>[ICON=Stat_Credits_Icon] Hazine</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_Approval</Label>
+    <String>[ICON=ApprovalStatIcon] Onay</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATDEC_Approval</Label>
+    <String>Onay, vatandaşlarınızın hükümetinizi nasıl gördüğünün bir ölçüsüdür. [HS=HS_Taxes]Vergi Oranı[/HS], [HS=HS_Ideology]İdeoloji[/HS], [HS=HS_Crime]Suç[/HS] ve çok daha fazlası tarafından etkilenebilir. Farklı türlerin farklı motivasyonları vardır, bu nedenle nelerin sevilip sevilmediğini görmek için vatandaşlarınızı kontrol edin.[BR][BR]Gezegeninizin Onayı, o gezegendeki tüm vatandaşların ortalama Onayıdır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_GoodsAndServices</Label>
+    <String>[ICON=Stat_Morale_Icon] Moral</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_FundedProduction</Label>
+    <String>[ICON=Stat_Manufacturing_Icon] Üretim Kapasitesi</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATDESCRIPTION_FundedProduction</Label>
+    <String>Tam finansman sağlandığında maksimum üretim elde edilebilir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_FundedResearch</Label>
+    <String>[ICON=Stat_Research_Icon] Araştırma Kapasitesi</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATDESCRIPTION_FundedResearch</Label>
+    <String>Tam finansman sağlandığında maksimum üretim elde edilebilir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_Military</Label>
+    <String>[ICON=MilitaryManufacturingStatIcon] Askeri</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATDEC_Military</Label>
+    <String>Bu, bir dünyanın yerel Tersaneye ne kadar üretim katkısında bulunduğudur.</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_Research</Label>
+    <String>[ICON=Stat_Research_Icon] Araştırma</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATDEC_Research</Label>
+    <String>Araştırmanız ne kadar yüksekse, yeni teknolojileri o kadar hızlı öğrenirsiniz. Araştırma, dünyanızın [HS=HS_NaturalResources]Doğal Kaynakları[/HS] tarafından sağlanır ve araştırma iyileştirmeleri ve bilim insanları tarafından artırılır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_EmporiumFavor</Label>
+    <String>Emporium Favor</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATDEC_EmporiumFavor</Label>
+    <String>Endless Emporium galaksiler arası ticareti kontrol eden bir fraksiyondur.</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_NaturalLeagueFavor</Label>
+    <String>Doğal Lig Favorisi</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATDEC_NaturalLeagueFavor</Label>
+    <String>Doğal Birlik, sibernetiği ve her türden sentetik yaşamı reddeden ve giderek büyüyen bir harekettir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_WarforgedFavor</Label>
+    <String>Warforged Favor</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATDEC_WarforgedFavor</Label>
+    <String>Warforged, sadece güçlülerin hayatta kalacağına inanan ve giderek büyüyen bir harekettir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_CulturePoints</Label>
+    <String>Kültür Puanları</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_CulturePointsPerTurn</Label>
+    <String>[ICON=Stat_Culture_Icon] Ay Başına Kültür Puanı</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_CreditsPerTurn</Label>
+    <String>[ICON=Stat_Credits_Net_Icon] Aylık Gelir</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_GrossCreditsPerTurn</Label>
+    <String>[ICON=Stat_Credits_Net_Icon] Gelir</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_InfluencePerTurn</Label>
+    <String>[ICON=InfluenceGrowth_Icon] Etki Büyümesi</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_CulturePerTurnBenevolent</Label>
+    <String>[ICON=Stat_Temp_Icon] Yardımsever Kültür Üretimi</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_CulturePerTurnNeutral</Label>
+    <String>[ICON=Stat_Temp_Icon] Pragmatik İdeoloji Üretimi</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_CulturePerTurnMerciless</Label>
+    <String>[ICON=Stat_Temp_Icon] Acımasız Kültür Üretimi</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_ProductionPoints</Label>
+    <String>[ICON=Stat_Raw_Productive_Icon] Ham Üretim</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATDEC_ProductionPoints</Label>
+    <String>Gezegeninizin Ham Üretimi İmalat, Araştırma ve Zenginliğe güç sağlamak için kullanılır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATDEC_InfluencePerTurn</Label>
+    <String>Gezegeninizin Kültürel çıktısı galaksi üzerindeki Etkiyi tanımlar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_PreviousTurnProductionPoints</Label>
+    <String>[ICON=Stat_Temp_Icon] Önceki Dönüş Üretim Puanları</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_ColonyGrossIncome</Label>
+    <String>[ICON=Stat_Credits_Icon] Brüt Gelir</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATDEC_ColonyGrossIncome</Label>
+    <String>Dünyalarınızın ürettiği Kredi sayısı. Hazinenize giren oran Vergi Oranınıza bağlıdır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATDEC_Mining</Label>
+    <String>Yıldız üsleriniz tarafından toplanan stratejik kaynaklardan her ay toplanan toplam kaynak sayısı.</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_ColonyTaxRevenue</Label>
+    <String>[ICON=Stat_Credits_Icon] Gelir</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATDEC_ColonyTaxRevenue</Label>
+    <String>Bu dünyadan elde edilen gelir hem dünyanın Servetinden hem de belirlediğiniz Vergi Oranından etkilenir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_Influence</Label>
+    <String>[ICON=Stat_Influence_Icon] Etki</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATDEC_Influence</Label>
+    <String>Nüfuz, uygarlığınızın sınırlarının yayılmasını kontrol eder. Yeterince yüksek bir Nüfuz ile başka bir medeniyetin sınırlarını ezebilir ve hatta dünyalarını kontrolünüze geçirebilirsiniz.</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_InfluenceTally</Label>
+    <String>[ICON=Stat_Influence_Icon] Etki</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_Growth</Label>
+    <String>[ICON=Stat_Growth_Icon] Büyüme</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATDEC_Growth</Label>
+    <String>Dünyanızda yeterli Büyüme sağlandığında, yeni bir vatandaş yaratılır. Kirlilik bir dünyanın Büyümesini azaltırken, Doğurganlık Klinikleri ve diğer nüfus iyileştirmeleri bunu artırabilir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_Tourism</Label>
+    <String>[ICON=Stat_Tourism_Income_Icon] Turizm</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATDEC_Tourism</Label>
+    <String>Turizminizin yarısı [HS=HS_ColonyGrossIncome]Gelirinize[/HS] ve yarısı [HS=HS_Influence]Nüfuzunuza[/HS] uygulanır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATDEC_Tourism_Supernova</Label>
+    <String>Turizm, Kontrol Bölgenizin ne kadar geniş olduğuna bağlı olarak ne kadar [HS=HS_ColonyGrossIncome]Gelir[/HS] kazandığınızı artırır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_TourismIncome</Label>
+    <String>[ICON=Stat_Tourism_Income_Icon] Turizm Geliri</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATDEC_TourismIncome</Label>
+    <String>Turizm Geliri [HS=HS_ColonyGrossIncome]Gelirinize[/HS] uygulanır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_Food</Label>
+    <String>[ICON=Stat_Food_Icon] Yemek</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATDEC_Food</Label>
+    <String>Gezegenler, organik vatandaşlarınız tarafından tüketilen yiyecekler üretir. Daha fazlasını elde etmek için yeni dünyaları kolonileştirin veya vatandaşlarınızı Çiftçi olarak uzmanlaştırın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_ColonyNetIncome</Label>
+    <String>[ICON=Stat_Credits_Net_Icon] Gelir</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_ColonySpending</Label>
+    <String>[ICON=Stat_Credits_Icon] Koloni Harcamaları</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_CreditSpending</Label>
+    <String>[ICON=Stat_Credits_Icon] Giderler</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_Population</Label>
+    <String>[ICON=Stat_Population_Icon] Nüfus</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATDESC_Population</Label>
+    <String>Dünyanızda yaşayan vatandaşların sayısı.</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_PopulationCap</Label>
+    <String>[ICON=Stat_Population_Cap_Icon] Nüfus sınırı</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATDESC_PopulationCap</Label>
+    <String>Bu, bu dünyada yaşayabilecek maksimum vatandaş sayısını temsil eder.</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_PopulationCapYor</Label>
+    <String>[ICON=Stat_Population_Cap_Icon] Sentetik Nüfus Kapağı</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_GrowthYor</Label>
+    <String>[ICON=Stat_Growth_Icon] Sentetik Büyüme</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_SyntheticLife</Label>
+    <String>Sentetik Yaşam</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_CarbonBasedLife</Label>
+    <String>Karbon Bazlı Yaşam</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_SiliconBasedLife</Label>
+    <String>Silikon Bazlı Yaşam</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_AquaticLife</Label>
+    <String>Sucul Yaşam</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_AmmoniaBasedLife</Label>
+    <String>Amonyak Bazlı Yaşam</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_EngineersAbility</Label>
+    <String>Mühendisler</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_UnrelentingAbility</Label>
+    <String>Amansız</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_AncientAbility</Label>
+    <String>[ICON=Ancient_Icon] Kadim Yetenek</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_EntrepreneursAbility</Label>
+    <String>Girişimci Yeteneği</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_PatrioticAbility</Label>
+    <String>Vatanseverlik Yeteneği</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_CanColonizeExtremeWorld</Label>
+    <String>Uç Dünyaları Kolonileştirebilir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_OperationsPoints</Label>
+    <String>[ICON=Stat_Temp_Icon] Operasyon Puanları</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_PlanetaryBombardment</Label>
+    <String>[ICON=Stat_Temp_Icon] Gezegensel Bombardıman</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_PlanetaryDefense</Label>
+    <String>[ICON=Stat_Planetary_Defense_Icon] Gezegensel Savunma</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATDEC_PlanetaryDefense</Label>
+    <String>Gezegensel savunma iyileştirmeleri, istilacı güçleri koloninizin yüzeyine ulaşmadan çok önce durdurmanıza yardımcı olur.</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_ResistanceBonus</Label>
+    <String>[ICON=Planetary_Resistance_Icon] Direnç</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATDEC_ResistanceBonus</Label>
+    <String>Direnç, nüfusunuzun istila edildiğinde kendini savunmasına yardımcı olacak ve onu yabancı etkilere karşı daha az duyarlı hale getirecektir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_PlanetaryDefensesHP</Label>
+    <String>[ICON=Stat_Planetary_Defense_Icon] Gezegensel Savunma</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATDEC_PlanetaryDefensesHP</Label>
+    <String>Bir istila sırasında savunmasız kalmadan önce koloninizin alabileceği hasar miktarı.</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_PlanetaryDefensesMaxHP</Label>
+    <String>[ICON=Stat_Planetary_Defense_Icon]Gezegen Savunmaları</String>
+  </StringTable>
+  <StringTable>
+    <Label>PlanetaryDefensesSource_PlanetaryDefensesUpgrades</Label>
+    <String>[ICON=UNLOCK_ICON_TECH_BONUS] Savunma Yükseltmeleri</String>
+  </StringTable>
+  <StringTable>
+    <Label>PlanetaryDefensesSource_PopulationEffect</Label>
+    <String>[ICON=Stat_Population_Icon] Nüfusun Kararlılığı</String>
+  </StringTable>
+  <StringTable>
+    <Label>PlanetaryDefensesSource_FlatPopulation</Label>
+    <String>[ICON=Stat_Population_Icon] Nüfus Sayısı</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATDEC_PlanetaryDefensesMaxHP</Label>
+    <String>Bir istila sırasında savunmasız kalmadan önce koloninizin alabileceği hasar miktarı.</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_PlanetaryDefensesRepairAbility</Label>
+    <String>[ICON=Stat_Planetary_Defense_Icon] Gezegensel Savunmalar Onarım Oranı</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATDEC_PlanetaryDefensesRepairAbility</Label>
+    <String>Her hafta maksimum gezegen savunması isabet puanınızın yüzdesini geri kazanabilirsiniz.</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_TotalShipAttack</Label>
+    <String>[ICON=Malevolence_Icon] Kuşatma Saldırısı</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATDEC_TotalShipAttack</Label>
+    <String>Kuşatan bir geminin kuşatılmış bir gezegene verebileceği hasar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_CanBeSurveyed</Label>
+    <String>[ICON=Stat_Temp_Icon] Ankete tabi tutulabilir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_AssaultFightersCap</Label>
+    <String>[ICON=Stat_Temp_Icon] Saldırı Savaşçıları Şapkası</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_AssaultFighters</Label>
+    <String>[ICON=Stat_Temp_Icon] Saldırı Savaşçıları</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_InterceptorFighters</Label>
+    <String>[ICON=Stat_Temp_Icon] Önleme Savaşçıları</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_InterceptorFightersCap</Label>
+    <String>[ICON=Stat_Temp_Icon] Önleme Savaşçıları Kapağı</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_EscortFighters</Label>
+    <String>[ICON=Stat_Temp_Icon] Eskort Savaşçıları</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_EscortFightersCap</Label>
+    <String>[ICON=Stat_Temp_Icon] Eskort Savaşçıları Kapağı</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_GaurdianFighters</Label>
+    <String>[ICON=Stat_Temp_Icon] Koruyucu Savaşçılar</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_GaurdianFightersCap</Label>
+    <String>[ICON=Stat_Temp_Icon] Koruyucu Savaşçılar Şapkası</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_TradeLicensesMax</Label>
+    <String>[ICON=Stat_Trade_Icon] Ticaret Lisansları Maks.</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATDEC_TradeLicensesMax</Label>
+    <String>Diğer dünyalarla Ticaret Yolları kurmak için Ticaret Lisansları gereklidir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_TradeLicensesUsed</Label>
+    <String>[ICON=Stat_Trade_Icon] Kullanılan Ticaret Lisansları</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_CanTourism</Label>
+    <String>[ICON=Stat_Temp_Icon] Turizmi etkinleştirir</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_TradeRouteIncome</Label>
+    <String>[ICON=Stat_Trade_Icon] Ticaret Rotası Geliri</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_RaidIncome</Label>
+    <String>[ICON=Stat_Raid_Icon] Ticari Baskın Geliri</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_UseLocalSliders</Label>
+    <String>[ICON=Stat_Temp_Icon] Uygarlık Üretim Seviyelerinin Kullanılması</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_Diplomacy</Label>
+    <String>[ICON=Stat_Temp_Icon] Diplomasi Bonusu</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATDESC_Diplomacy</Label>
+    <String>Diplomasi Bonusu diğer uygarlıklarla ilişkilerinizde bir değiştiricidir. Daha yüksek bir Diplomasi, onların sizinle ticaret yapma ve size anlaşma teklif etme olasılığını artırırken, size savaş ilan etme olasılığını azaltır. Her uygarlık liderinin kendi kişiliği vardır ve sizinle olan ilişkilerini farklı değerlendirecektir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_DiplomaticCapital</Label>
+    <String>[ICON=Stat_DiplomaticCapital_Icon] Diplomatik Sermaye</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATDESC_DiplomaticCapital</Label>
+    <String>Diplomatik Sermaye, Ticaret sırasında diğer gruplarla kullanılabilen bir para birimidir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_DiplomaticCapitalCost</Label>
+    <String>[ICON=Stat_DiplomaticCapital_Icon] Diplomatik Sermaye Maliyeti</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATDESC_DiplomaticCapitalCost</Label>
+    <String>Diplomatik Sermaye, Ticaret sırasında diğer gruplarla kullanılabilen bir para birimidir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_DiplomaticCapitalIncome</Label>
+    <String>[ICON=Stat_DiplomaticCapital_Icon] Diplomatik Sermaye Geliri</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATDESC_DiplomaticCapitalIncome</Label>
+    <String>Diplomatik Sermaye, Ticaret sırasında diğer gruplarla kullanılabilen bir para birimidir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_DiplomacyBenevolent</Label>
+    <String>[ICON=Stat_Temp_Icon] Yardımsever Diplomasi</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_DiplomacyNeutral</Label>
+    <String>[ICON=Stat_Temp_Icon] Pragmatik Diplomasi</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_DiplomacyMerciless</Label>
+    <String>[ICON=Stat_Temp_Icon] Kötü Niyetli Diplomasi</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_DiplomacyTradeRouteWeight</Label>
+    <String>[ICON=Stat_Temp_Icon] Ticaret Yolu Diplomasi</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_DiplomacySharedBordersWeight</Label>
+    <String>[ICON=Stat_Temp_Icon] Paylaşılan Sınırlar Cezası</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_ImmuneToWar</Label>
+    <String>[ICON=Stat_Temp_Icon] Savaşa Karşı Bağışıklık</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_ImmuneToCultureFlip</Label>
+    <String>[ICON=Stat_Temp_Icon] Kültür Çevirmesine Bağışıklık</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_AngersOthersWhenWarVictimWeight</Label>
+    <String>[ICON=Stat_Temp_Icon] Savaştayken Başkalarını Kızdırır</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_AlliesNeutralRaces</Label>
+    <String>[ICON=Stat_Temp_Icon] İstila Edilen Ana Gezegenin Öfkesi</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_DiplomaticTradeOfferValueMult</Label>
+    <String>[ICON=Stat_Temp_Icon] Diplomatik Ticaret Değeri</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_DiplomaticTradeOfferValueMultMinors</Label>
+    <String>[ICON=Stat_Temp_Icon] Küçükler Diplomatik Ticaret Değeri</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_Favored</Label>
+    <String>[ICON=Stat_Temp_Icon] Tercih edilen</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_UnlimitedRange</Label>
+    <String>[ICON=Stat_Temp_Icon] Sınırsız Aralık</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_Elerium</Label>
+    <String>[ICON=Stat_Elerium_Icon] Elerium</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_Asteroid</Label>
+    <String>[ICON=Asteroid_Icon] Asteroitler</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_Durantium</Label>
+    <String>[ICON=Stat_Durantium_Icon] Durantium</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_Antimatter</Label>
+    <String>[ICON=Stat_Antimadde_Icon] Antimadde</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_Promethion</Label>
+    <String>[ICON=Stat_Promethion_Icon] Promethion</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_Thulium</Label>
+    <String>[ICON=Stat_Thulium_Icon] Thulium</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_EleriumCost</Label>
+    <String>[ICON=Stat_Elerium_Icon] Eleryum Maliyeti</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_DurantiumCost</Label>
+    <String>[ICON=Stat_Durantium_Icon] Durantiyum Maliyeti</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_AntimatterCost</Label>
+    <String>[ICON=Stat_Antimadde_Icon] Antimadde Maliyeti</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_PromethionCost</Label>
+    <String>[ICON=Stat_Promethion_Icon] Promethion Maliyeti</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_ThuliumCost</Label>
+    <String>[ICON=Stat_Thulium_Icon] Thulium Maliyeti</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_EleriumNet</Label>
+    <String>[ICON=Stat_Elerium_Icon] Elerium Ağı</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_DurantiumNet</Label>
+    <String>[ICON=Stat_Durantium_Icon] Durantium Net</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_AntimatterNet</Label>
+    <String>[ICON=Stat_Antimadde_Icon] Antimadde Ağı</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_PromethionNet</Label>
+    <String>[ICON=Stat_Promethion_Icon] Promethion Net</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_ThuliumNet</Label>
+    <String>[ICON=Stat_Thulium_Icon] Thulium Net</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_AscensionPoints</Label>
+    <String>[ICON=AscensionPointsStatIcon] Yükseliş Noktaları</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_AscensionPointsPerTurn</Label>
+    <String>[ICON=AscensionPointsStatIcon] Aylık Yükseliş</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_TechVictoryPoints</Label>
+    <String>[ICON=Stat_Temp_Icon] Teknik Zafer Puanları</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_HitPoints</Label>
+    <String>[ICON=Hitpoints_Icon] Hit Puanları</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATDEC_HitPoints</Label>
+    <String>Bir geminin yok edilmeden önce alabileceği hasar miktarı.</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_HitPointsCap</Label>
+    <String>[ICON=Hitpoints_Icon] Hit Puanları</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_StrategicRepair</Label>
+    <String>[ICON=Stat_Ship_Maintenance_Icon] Stratejik Onarım</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_ExpPoints</Label>
+    <String>[ICON=Stat_Temp_Icon] Deneyim Puanları</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_ExpPointsCap</Label>
+    <String>[ICON=Stat_Temp_Icon] Deneyim Puanı Üst Sınırı</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_TacticalRepair</Label>
+    <String>[ICON=Stat_Ship_Maintenance_Icon] Taktik Onarım</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_ArmorMass</Label>
+    <String>[ICON=Stat_Temp_Icon] Kütle</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_ShieldMass</Label>
+    <String>[ICON=Stat_Temp_Icon] Kütle</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_PointMass</Label>
+    <String>[ICON=Stat_Temp_Icon] Kütle</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_BeamMass</Label>
+    <String>[ICON=Stat_Temp_Icon] Silah Kütlesi</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_MissileMass</Label>
+    <String>[ICON=Stat_Temp_Icon] Silah Kütlesi</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_KineticMass</Label>
+    <String>[ICON=Stat_Temp_Icon] Silah Kütlesi</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_ShipRangeMass</Label>
+    <String>[ICON=Stat_Temp_Icon] Kütle</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_SupportMass</Label>
+    <String>[ICON=Stat_Temp_Icon] Kütle</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_MovesCapMass</Label>
+    <String>[ICON=Moves_Icon] Kütle</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_MassCap</Label>
+    <String>[ICON=Moves_Icon] Kapasite</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_SensorRangeMass</Label>
+    <String>[ICON=Stat_Temp_Icon] Kütle</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_SensorRange</Label>
+    <String>[ICON=SensorRange_Icon] Sensör Aralığı</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATDESC_SensorRange</Label>
+    <String>Bu nesnenin anomaliler ve düşman gemileri gibi diğer nesneleri ne kadar uzaktan görebileceğini belirler.</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_SensorPower</Label>
+    <String>[ICON=SensorRange_Icon] Sensör Gücü</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_Mass</Label>
+    <String>[ICON=Stat_Temp_Icon] Kütle</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_Logistics</Label>
+    <String>[ICON=ShipLogistics_Icon] Lojistik</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATDESC_Logistics</Label>
+    <String>Lojistik, bir filoda kaç geminin birlikte çalışabileceğini belirler. Her geminin bir Lojistik maliyeti ve her oyuncunun bir Lojistik değeri vardır. Genel olarak, daha büyük gemiler daha küçük gemilere göre daha fazla Lojistik maliyetine sahiptir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_LogisticsCap</Label>
+    <String>[ICON=ShipLogistics_Icon] Lojistik</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_Administration</Label>
+    <String>[ICON=Stat_Admin_Icon] Yönetim</String>
+  </StringTable>
+  <StringTable>
+    <Label>ICONLESS_STATNAME_Administration</Label>
+    <String>Yönetim</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_PoliticalCapital</Label>
+    <String>[ICON=Stat_Admin_Icon] Siyasi Sermaye</String>
+  </StringTable>
+  <StringTable>
+    <Label>ICONLESS_STATNAME_PoliticalCapital</Label>
+    <String>Siyasi Sermaye</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_Moves</Label>
+    <String>[ICON=Moves_Icon] Hareketler</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_MovesCap</Label>
+    <String>[ICON=Moves_Icon] Hareketler</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATDESC_MovesCap</Label>
+    <String>Gemilerinizin tek bir turda hareket edebileceği maksimum mesafe. Gemiler sıralarına dost bölgede başlarlarsa %50 hareket bonusu alırlar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_SiegeAbility</Label>
+    <String>[ICON=Moves_Icon] Fetih Değerlendirmesi</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_SiegeEffectiveness</Label>
+    <String>[ICON=Moves_Icon] Kuşatma Bonusu</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATDESC_SiegeAbility</Label>
+    <String>Bir geminin bir düşman gezegenini zapt etme yeteneğinin ölçüsü.</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_TacticalSpeed</Label>
+    <String>[ICON=TacticalSpeed_Icon] Taktiksel Hız</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_Acceleration</Label>
+    <String>[ICON=Stat_Temp_Icon] Hızlanma</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_DefenseRange</Label>
+    <String>[ICON=Stat_Temp_Icon] Savunma Menzili</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_Level</Label>
+    <String>İyileştirme Seviyesi</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATDEC_Level</Label>
+    <String>Bir iyileştirmenin faydaları seviye boyunca ilerler. Bir iyileştirme türünü ideal arazisine yerleştirmek veya onu destekleyen diğer iyileştirmelerin yanına yerleştirmek seviyesini artıracaktır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_AdjacencyOnlyLevel</Label>
+    <String>Bitişiklik Seviyesi</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_Crew</Label>
+    <String>[ICON=Stat_Temp_Icon] Mürettebat</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_CreditValue</Label>
+    <String>[ICON=Stat_Credits_Icon] Değer</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_ShieldManufacturingCost</Label>
+    <String>[ICON=Stat_Manufacturing_Icon] Üretim Maliyeti</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_PointManufacturingCost</Label>
+    <String>[ICON=Stat_Manufacturing_Icon] Üretim Maliyeti</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_BeamManufacturingCost</Label>
+    <String>[ICON=Stat_Manufacturing_Icon] Üretim Maliyeti</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_MissileManufacturingCost</Label>
+    <String>[ICON=Stat_Manufacturing_Icon] Üretim Maliyeti</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_KineticManufacturingCost</Label>
+    <String>[ICON=Stat_Manufacturing_Icon] Üretim Maliyeti</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_ShipRangeManufacturingCost</Label>
+    <String>[ICON=Stat_Manufacturing_Icon] Üretim Maliyeti</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_MovesCapManufacturingCost</Label>
+    <String>[ICON=Stat_Manufacturing_Icon] Üretim Maliyeti</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_SensorRangeManufacturingCost</Label>
+    <String>[ICON=Stat_Manufacturing_Icon] Üretim Maliyeti</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_Maintenance</Label>
+    <String>[ICON=Stat_Ship_Maintenance_Icon] Bakım</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATDEC_Maintenance</Label>
+    <String>Çekirdek dünyaların ve kolonilerin yapılarının ve diğer unsurlarının bakım maliyeti.</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_ShipMaintenance</Label>
+    <String>[ICON=Stat_Ship_Maintenance_Icon] Gemi Bakımı</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_StarbaseMaintenance</Label>
+    <String>[ICON=Stat_Starbase_Maintenance_Icon] Yıldız Üssü Bakımı</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_PolicyMaintenance</Label>
+    <String>[ICON=Stat_Starbase_Maintenance_Icon] Politika Bakımı</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATDESC_PolicyMaintenance</Label>
+    <String>Politika programlarının maliyeti</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_SalvageRatio</Label>
+    <String>[ICON=Stat_Ship_Maintenance_Icon] Kurtarma Oranı</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_ManufacturingCost</Label>
+    <String>[ICON=Stat_Manufacturing_Icon] İnşaat Maliyeti</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATDESC_ManufacturingCost</Label>
+    <String>Bu, inşa etmek için gereken imalat miktarıdır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_MaxManufacturing</Label>
+    <String>[ICON=Stat_Manufacturing_Icon] İmalat</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_Manufacturing</Label>
+    <String>[ICON=Stat_Manufacturing_Icon] İmalat</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATDESCRIPTION_Manufacturing</Label>
+    <String>Üretiminiz ne kadar yüksek olursa, gezegenlerde o kadar hızlı iyileştirme yapabilir ve tersanelerinizde o kadar hızlı gemi inşa edebilirsiniz.</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_ManufacturingOverflow</Label>
+    <String>[ICON=Stat_Manufacturing_Icon] Depolanan Mallar</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATDEC_ManufacturingOverflow</Label>
+    <String>Bir sonraki projede kullanılmak üzere üretim fazlası mevcuttur.</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_ArmorManufacturingCost</Label>
+    <String>[ICON=Stat_Manufacturing_Icon] Zırh Maliyeti</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_ModuleConstructionPoints</Label>
+    <String>[ICON=Stat_Manufacturing_Icon] İnşaat Puanları</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_ModuleConstructionPointsCap</Label>
+    <String>[ICON=Stat_Manufacturing_Icon] İnşaat Puan Tavanı</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_CanDetectCloak</Label>
+    <String>[ICON=Stat_Temp_Icon] Pelerini Algıla</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_CanCloak</Label>
+    <String>[ICON=Stat_Temp_Icon] Gizleme</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_CanSurvey</Label>
+    <String>[ICON=CanSurveyIcon] Anket Anomalileri</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_IsBattleship</Label>
+    <String>[ICON=CanSurveyIcon] Savaş Gemisi</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_IsProbe</Label>
+    <String>[ICON=CanSurveyIcon] Sonda</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_IsMiner</Label>
+    <String>[ICON=CanSurveyIcon] Madenci</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_IsFighter</Label>
+    <String>[ICON=CanSurveyIcon] Savaşçı</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_IsBomber</Label>
+    <String>[ICON=CanSurveyIcon] Bombacı</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_IsFrigate</Label>
+    <String>[ICON=CanSurveyIcon] Fırkateyn</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_IsCruiser</Label>
+    <String>[ICON=CanSurveyIcon] Kruvazör</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_IsDreadnought</Label>
+    <String>[ICON=CanSurveyIcon] Dreadnought</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_IsSiege</Label>
+    <String>[ICON=SiegeShip_Icon] Kuşatma</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_CanUpgrade</Label>
+    <String>Yükseltilebilir</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_CanColonize</Label>
+    <String>[ICON=Stat_Temp_Icon] Gezegenleri Kolonileştir</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_CanConstruct</Label>
+    <String>[ICON=Stat_Temp_Icon] Yıldız Üsleri ve Tersaneler İnşa Et</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_CanCreateTradeRoute</Label>
+    <String>[ICON=Stat_Trade_Icon] Ticaret Rotası Oluştur</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_CanInvade</Label>
+    <String>[ICON=Stat_Temp_Icon] Gezegenleri İstila Et</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_CanSalvage</Label>
+    <String>[ICON=Stat_Temp_Icon] Kurtarma Gemisi</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_CanGenocidePlanet</Label>
+    <String>[ICON=Stat_Temp_Icon] Gezegenleri Soykırıma Uğratabilir</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_IsImmuneToNebula</Label>
+    <String>[ICON=Stat_Temp_Icon] Nebulaya Karşı Bağışıktır</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_IsImmuneToRange</Label>
+    <String>[ICON=Stat_Temp_Icon] Aralığa Bağışıktır</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_ShipRange</Label>
+    <String>[ICON=Shiprange_Icon] Gemi Menzili</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATDESC_ShipRange</Label>
+    <String>Sonda olmayan gemilerin gezegenlerimizden ve yıldız üslerimizden uzaklaşabileceği mesafe.</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_Accuracy</Label>
+    <String>[ICON=Stat_Temp_Icon] Doğruluk</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_Jamming</Label>
+    <String>[ICON=Intuitive_Icon] Kaçınma</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_BeamWeapon</Label>
+    <String>[ICON=BeamAttackIcon] Işın Silahı</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_KineticWeapon</Label>
+    <String>[ICON=KineticAttackIcon] Kinetik Silah</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_MissileWeapon</Label>
+    <String>[ICON=MissileAttackIcon] Füze Silahı</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_ShieldDamageWeapon</Label>
+    <String>[ICON=ShieldDamageIcon] Kalkan Hasarı</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_ArmorDamageWeapon</Label>
+    <String>[ICON=ArmorDamageIcon] Zırh Hasarı</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_PointDamageWeapon</Label>
+    <String>[ICON=PointDamageIcon] Nokta Hasarı</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_BeamRange</Label>
+    <String>[ICON=BeamRangeIcon] Işın Aralığı</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_BeamCooldown</Label>
+    <String>[ICON=BeamCooldownIcon] Işın Bekleme Süresi</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_KineticRange</Label>
+    <String>[ICON=KineticRangeIcon] Kinetik Menzil</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_MissileRange</Label>
+    <String>[ICON=MissileRangeIcon] Füze Menzili</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_MissileCooldown</Label>
+    <String>[ICON=MissileCooldownIcon] Füze Bekleme Süresi</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_BeamAccuracy</Label>
+    <String>[ICON=BeamAccuracyIcon] Işın Doğruluğu</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_KineticAccuracy</Label>
+    <String>[ICON=KineticAccuracyIcon] Kinetik Doğruluk</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_MissileAccuracy</Label>
+    <String>[ICON=MissileAccuracyIcon] Füze İsabeti</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_BeamAttack</Label>
+    <String>[ICON=BeamAttackIcon] Işın Saldırısı</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_KineticAttack</Label>
+    <String>[ICON=KineticAttackIcon] Kinetik Saldırı</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_MissileAttack</Label>
+    <String>[ICON=MissileAttackIcon] Füze Saldırısı</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_IgnoreShield</Label>
+    <String>[ICON=ShieldDamageIcon] Kalkanı Yoksay</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_IgnoreArmor</Label>
+    <String>[ICON=ArmorDamageIcon] Zırhı Yoksay</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_IgnorePoint</Label>
+    <String>[ICON=PointDamageIcon] Noktayı Yoksay</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_ShieldStrength</Label>
+    <String>[ICON=ShieldStrengthIcon] Kalkan Gücü</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_ArmorRating</Label>
+    <String>[ICON=ArmorRateingIcon] Zırh Derecesi</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_PointDefense</Label>
+    <String>[ICON=PointDefenseIcon] Kaçınma</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_Threat</Label>
+    <String>[ICON=ThreatStatIcon] Tehdit</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_Fortitude</Label>
+    <String>[ICON=FortitudeStatIcon] Metanet</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_Value</Label>
+    <String>[ICON=ValueStatIcon] Değer</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_StarbaseRange</Label>
+    <String>[ICON=Stat_Temp_Icon] Yıldız Üssü Aralığı</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_MoveCost</Label>
+    <String>[ICON=Stat_Temp_Icon] Taşıma Maliyeti</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_Mining</Label>
+    <String>[ICON=Stat_Temp_Icon] Madencilik</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_Soldiering</Label>
+    <String>[ICON=Stat_Temp_Icon] Askerlik</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATDEC_Soldiering</Label>
+    <String>Dünyaları istila etmek için gereken süreyi azaltır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_TradeRouteValueRaw</Label>
+    <String>[ICON=Stat_Temp_Icon] Ticari Rota Değeri</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_TradeRouteValue</Label>
+    <String>[ICON=Stat_Temp_Icon] Ticari Rota Değeri</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_RaidBonus</Label>
+    <String>[ICON=Stat_Temp_Icon] Baskın Bonusu</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_RaidValue</Label>
+    <String>[ICON=Stat_Temp_Icon] Baskın Değeri</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_IsInitiator</Label>
+    <String>[ICON=Stat_Temp_Icon] Başlatıcıdır</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_ModifierValue</Label>
+    <String>[ICON=Stat_Temp_Icon] Değiştirici Değeri</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_KineticCooldown</Label>
+    <String>[ICON=KineticCooldownIcon] Kinetik Bekleme Süresi</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_Productive</Label>
+    <String>[ICON=Stat_Productive_Icon] Üretken</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_Brutal</Label>
+    <String>[ICON=Stat_Brutal_Icon] Acımasız</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_Influential</Label>
+    <String>[ICON=Stat_Influential_Icon] Etkili</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_Organized</Label>
+    <String>[ICON=Stat_Organized_Icon] Organize</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_Resilient</Label>
+    <String>[ICON=Stat_Resilient_Icon] Esnek</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_Tough</Label>
+    <String>[ICON=Stat_Tough_Icon] Zor</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_Trader</Label>
+    <String>[ICON=Stat_Trader_Icon] Tüccar</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_Adventure</Label>
+    <String>[ICON=Stat_Adventure_Icon] Macera</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_Fast</Label>
+    <String>[ICON=Stat_Fast_Icon] Hızlı</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_Wealth</Label>
+    <String>[ICON=Stat_Wealth_Icon] Servet</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATDESC_Wealth</Label>
+    <String>Zenginlik, bir gezegenin nadir ve değerli kaynaklarının bir ölçüsüdür.</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_Courageous</Label>
+    <String>[ICON=Stat_Courageous_Icon] Cesur</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_Clever</Label>
+    <String>[ICON=Stat_Clever_Icon] Zeki</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_Lease</Label>
+    <String>[ICON=Stat_Lease_Icon] Kira Sözleşmesi</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_United_Planets_Tax</Label>
+    <String>[ICON=Stat_United_Planets_Tax_Icon] Birleşik Gezegenler Vergisi</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_SponsorDecay</Label>
+    <String>[ICON=Stat_Temp_Icon] Tersane Çürümesi</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_LeaderMaxRecruits</Label>
+    <String>[ICON=Stat_Temp_Icon] Max Recruits</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATDESC_ModifierValue</Label>
+    <String>Öncü yadigarlarından aldığımız fayda oranını artırır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATDESC_LeaderMaxRecruits</Label>
+    <String>İşe alabileceğimiz lider sayısını değiştirir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_LeaderCostModify</Label>
+    <String>[ICON=Stat_Temp_Icon] Lider Maliyeti</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATDESC_LeaderCostModify</Label>
+    <String>Yeni liderleri işe alma maliyetini değiştirir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_LeaderTraitChance</Label>
+    <String>[ICON=Stat_Temp_Icon] Lider Özellik Şansı</String>
+  </StringTable>
+  <StringTable>
+    <Label>MODIFIERTARGETNAME_Faction</Label>
+    <String>Fraksiyon</String>
+  </StringTable>
+  <StringTable>
+    <Label>MODIFIERTARGETNAME_Planet</Label>
+    <String>Gezegen</String>
+  </StringTable>
+  <StringTable>
+    <Label>MODIFIERTARGETNAME_Colony</Label>
+    <String>Koloni</String>
+  </StringTable>
+  <StringTable>
+    <Label>MODIFIERTARGETNAME_Starbase</Label>
+    <String>Yıldız Üssü</String>
+  </StringTable>
+  <StringTable>
+    <Label>MODIFIERTARGETNAME_Shipyard</Label>
+    <String>Tersane</String>
+  </StringTable>
+  <StringTable>
+    <Label>MODIFIERTARGETNAME_Ship</Label>
+    <String>Gemi</String>
+  </StringTable>
+  <StringTable>
+    <Label>MODIFIERTARGETNAME_Fleet</Label>
+    <String>Filo</String>
+  </StringTable>
+  <StringTable>
+    <Label>MODIFIERTARGETNAME_AllShipsInFleet</Label>
+    <String>Filodaki Tüm Gemiler</String>
+  </StringTable>
+  <StringTable>
+    <Label>MODIFIERTARGETNAME_Improvement</Label>
+    <String>İyileştirme</String>
+  </StringTable>
+  <StringTable>
+    <Label>MODIFIERTARGETNAME_Tile</Label>
+    <String>Çini</String>
+  </StringTable>
+  <StringTable>
+    <Label>MODIFIERTARGETNAME_StrategicResource</Label>
+    <String>Stratejik Kaynak</String>
+  </StringTable>
+  <StringTable>
+    <Label>MODIFIERTARGETNAME_StarbaseModule</Label>
+    <String>Yıldız Üssü Modülü</String>
+  </StringTable>
+  <StringTable>
+    <Label>MODIFIERTARGETNAME_TradeRoute</Label>
+    <String>Ticaret Rotası</String>
+  </StringTable>
+  <StringTable>
+    <Label>MODIFIERTARGETNAME_TradeRoutePath</Label>
+    <String>Ticaret Yolu Güzergahı</String>
+  </StringTable>
+  <StringTable>
+    <Label>MODIFIERTARGETNAME_Asteroid</Label>
+    <String>Asteroit</String>
+  </StringTable>
+  <StringTable>
+    <Label>MODIFIERTARGETNAME_Unit</Label>
+    <String>Birim</String>
+  </StringTable>
+  <StringTable>
+    <Label>MODIFIERTARGETNAME_Hyperlane</Label>
+    <String>Alt Uzay Akışı</String>
+  </StringTable>
+  <StringTable>
+    <Label>MODIFIERTARGETNAME_Hypergate</Label>
+    <String>Altuzay Geçidi</String>
+  </StringTable>
+  <StringTable>
+    <Label>MODIFIERTARGETNAME_DeadPlanet</Label>
+    <String>Ölü Gezegen</String>
+  </StringTable>
+  <StringTable>
+    <Label>MODIFIERTARGETNAME_SecondaryPlayer</Label>
+    <String>Oyuncu</String>
+  </StringTable>
+  <StringTable>
+    <Label>MODIFIERTARGETNAME_Policy</Label>
+    <String>Politika</String>
+  </StringTable>
+  <StringTable>
+    <Label>MODIFIERTARGETNAME_EnemyFleet</Label>
+    <String>Düşman Filosu</String>
+  </StringTable>
+  <StringTable>
+    <Label>MODIFIERTARGETNAME_Thinktank</Label>
+    <String>Fraksiyon</String>
+  </StringTable>
+  <StringTable>
+    <Label>MODIFIERTARGETNAME_EmptyGalacticTile</Label>
+    <String>Boş Karo</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_DroneCount</Label>
+    <String>Drone Sayısı</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_RebellionPointsMax</Label>
+    <String>İsyan Puanları</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_BeamDamageReduction</Label>
+    <String>[ICON=Stat_Temp_Icon] Kiriş Direnci</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_MissileDamageReduction</Label>
+    <String>[ICON=Stat_Temp_Icon] Füze Direnci</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_KineticDamageReduction</Label>
+    <String>[ICON=Stat_Temp_Icon] Kinetik Direnç</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_IsImmuneToPirates</Label>
+    <String>[ICON=Stat_Temp_Icon] Korsanlara Karşı Bağışıklık</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_CanRespawnOnTradeRouteDeath</Label>
+    <String>[ICON=Stat_Temp_Icon] Rota Bozulduğunda Yeniden Doğar</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_CanColonizeDeadWorld</Label>
+    <String>[ICON=Stat_Temp_Icon] Ölü Dünyayı Kolonileştirebilir</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_MovesCapOverride</Label>
+    <String>[ICON=Stat_Temp_Icon] Filo ile Hareketlerini Paylaşıyor</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_ShipRangeOverride</Label>
+    <String>[ICON=Stat_Temp_Icon] Filo ile Aralığı Paylaşıyor</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_CanColonizeAquaticWorld</Label>
+    <String>[ICON=Stat_Temp_Icon] Sucul Dünyalarda Kolonileşebilir</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_ExpValue</Label>
+    <String>[ICON=Stat_Temp_Icon] XP Değeri</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_IsImmuneToInvasion1</Label>
+    <String>[ICON=Military_Priority_Icon] Bilgi Savaşına Karşı Bağışıklık</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_IsImmuneToInvasion2</Label>
+    <String>[ICON=Military_Priority_Icon] Biyolojik Savaşa Karşı Bağışıklık</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_IsImmuneToInvasion3</Label>
+    <String>[ICON=Military_Priority_Icon] Bombardımana Karşı Bağışıklık</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_IsImmuneToInvasion4</Label>
+    <String>[ICON=Military_Priority_Icon] Gelgit Kesintisine Karşı Bağışıklık</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_IsImmuneToInvasion5</Label>
+    <String>[ICON=Military_Priority_Icon] Çekirdek Patlamasına Bağışıklık</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_RedundantAssemblyAbility</Label>
+    <String>[ICON=Ancient_Icon] Yedekli Montaj Yeteneği</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_ScavengersAbility</Label>
+    <String>[ICON=Ancient_Icon] Çöpçüler Yeteneği</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_ScavengersChance</Label>
+    <String>[ICON=Ancient_Icon] Çöpçünün Şansı</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_ArchivistAbility</Label>
+    <String>[ICON=Ancient_Icon] Arşivci Yeteneği</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_Coercion</Label>
+    <String>Zorlama</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_ResistanceToPlanetCapture</Label>
+    <String>Yakalama Direnci</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_CitizenRate</Label>
+    <String>Vatandaş Üretme Oranı</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_TrainingRate</Label>
+    <String>Vatandaş Eğitim Oranı</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_PointsPerAgent</Label>
+    <String>[ICON=Stat_Legion_Icon] Casusluk Puanları</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_SecurityLevel</Label>
+    <String>[ICON=Stat_Legion_Icon] Güvenlik</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATDEC_SecurityLevel</Label>
+    <String>Karşı İstihbarat Casusları bizi teknolojilerimizi çalmak isteyen hem yerli hem de yabancı tehditlerden korumaya adanmıştır. Uyanıklığımızı artırmak için Yönetici ekranında geçici olarak liderler görevlendirilebilir.[BR][BR]Yabancı casusların teknolojimizi çalmasını yavaşlatmak veya önlemek için Karşı İstihbarat'a daha fazla vatandaş atayın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_LegionsAvailable</Label>
+    <String>[ICON=Stat_Legion_Icon] Lejyonlar</String>
+  </StringTable>
+  <StringTable>
+    <Label>ICONLESS_STATNAME_LegionsAvailable</Label>
+    <String>Lejyonlar</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_StartingSoldierAmount</Label>
+    <String>[ICON=Stat_Legion_Icon] Başlangıç Askerleri</String>
+  </StringTable>
+  <StringTable>
+    <Label>Resource_Commanders</Label>
+    <String>[ICON=Stat_Commander_Icon] Komutanlar</String>
+  </StringTable>
+  <StringTable>
+    <Label>Resource_Agents</Label>
+    <String>[ICON=Stat_Agent_Icon] Casuslar</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATDESCRIPTION_Population</Label>
+    <String>Nüfusunuzun ayda ne kadar arttığı.</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATDESCRIPTION_ColonyNetIncome</Label>
+    <String>Kolonilerinizin her turda ne kadar galaktik kredi ürettiği. Bunun bir yüzdesi Vergi Oranınıza bağlı olarak hazinenize gider.</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATDESCRIPTION_ShipRangeUnderride</Label>
+    <String>İçinde bulunduğu filonun menziliyle eşleşir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATDESCRIPTION_MovesCapUnderride</Label>
+    <String>İçinde bulunduğu filonun hızıyla eşleşir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATDESCRIPTION_TriggerAndNoShipBattle</Label>
+    <String>Saldırırken savaşmak yerine bir etkiyi tetikler.</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATDESCRIPTION_Administration</Label>
+    <String>İdareciler inşaatçılar, koloni gemileri ve araştırma gemileri yapmak için gereklidir. Daha fazla Yönetim kazanmak için vatandaşlarınızı Yönetici olarak uzmanlaştırın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATDESCRIPTION_PoliticalCapital</Label>
+    <String>Siyasi Sermaye ticarette veya diğer oyuncuları Birleşik Gezegenlerde size oy vermeye ikna etmek için kullanılabilir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_AirSuperiority</Label>
+    <String>[ICON=Stat_Legion_Icon] Hava Üstünlüğü</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_Garrisons</Label>
+    <String>[ICON=Stat_Defending_Legion_Icon] Garnizonlar</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATDEC_Garrisions</Label>
+    <String>İstilacılara karşı savunur.</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATDEC_LegionsAvailable</Label>
+    <String>Gezegenleri istila etmek veya bir General ile kendi gezegeninizi savunmak için lejyonlar mevcut</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_Food_Cost</Label>
+    <String>[ICON=Stat_Food_Icon] Gıda Tüketimi</String>
+  </StringTable>
+  <StringTable>
+    <Label>ICONLESS_STATNAME_Food</Label>
+    <String>Yemek</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_EleriumIncome</Label>
+    <String>[ICON=Stat_Elerium_Icon] Elerium</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_DurantiumIncome</Label>
+    <String>[ICON=Stat_Durantium_Icon] Durantium</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_AntimatterIncome</Label>
+    <String>[ICON=Stat_Antimadde_Icon] Antimadde</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_PromethionIncome</Label>
+    <String>[ICON=Stat_Promethion_Icon] Promethion</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_ThuliumIncome</Label>
+    <String>[ICON=Stat_Thulium_Icon] Thulium</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_UltraSpice</Label>
+    <String>[ICON=Icon_Res_UltraSpice] Arnor Spice</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_UltraSpiceCost</Label>
+    <String>[ICON=Icon_Res_UltraSpice] Arnor Spice</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_UltraSpiceIncome</Label>
+    <String>[ICON=Icon_Res_UltraSpice] Arnor Spice</String>
+  </StringTable>
+  <StringTable>
+    <Label>ICONLESS_STATNAME_UltraSpice</Label>
+    <String>Arnor Baharat</String>
+  </StringTable>
+  <StringTable>
+    <Label>ICONLESS_STATNAME_UltraSpiceCost</Label>
+    <String>Arnor Baharat</String>
+  </StringTable>
+  <StringTable>
+    <Label>ICONLESS_STATNAME_UltraSpiceIncome</Label>
+    <String>Arnor Baharat</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_EpimetheusPollen</Label>
+    <String>[ICON=Icon_Res_EpimetheusPollen] Epimetheus Poleni</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_EpimetheusPollenCost</Label>
+    <String>[ICON=Icon_Res_EpimetheusPollen] Epimetheus Poleni</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_EpimetheusPollenIncome</Label>
+    <String>[ICON=Icon_Res_EpimetheusPollen] Epimetheus Poleni</String>
+  </StringTable>
+  <StringTable>
+    <Label>ICONLESS_STATNAME_EpimetheusPollen</Label>
+    <String>Epimetheus Poleni</String>
+  </StringTable>
+  <StringTable>
+    <Label>ICONLESS_STATNAME_EpimetheusPollenCost</Label>
+    <String>Epimetheus Poleni</String>
+  </StringTable>
+  <StringTable>
+    <Label>ICONLESS_STATNAME_EpimetheusPollenIncome</Label>
+    <String>Epimetheus Poleni</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_HeliosOre</Label>
+    <String>[ICON=Icon_Res_HeliosOre] Helios Cevheri</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_HeliosOreCost</Label>
+    <String>[ICON=Icon_Res_HeliosOre] Helios Cevheri</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_HeliosOreIncome</Label>
+    <String>[ICON=Icon_Res_HeliosOre] Helios Cevheri</String>
+  </StringTable>
+  <StringTable>
+    <Label>ICONLESS_STATNAME_HeliosOre</Label>
+    <String>Helios Cevheri</String>
+  </StringTable>
+  <StringTable>
+    <Label>ICONLESS_STATNAME_HeliosOreCost</Label>
+    <String>Helios Cevheri</String>
+  </StringTable>
+  <StringTable>
+    <Label>ICONLESS_STATNAME_HeliosOreIncome</Label>
+    <String>Helios Cevheri</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_ThuliumCatalyst</Label>
+    <String>[ICON=Icon_Res_ThuliumCatalyst] Thulium Katalizörü</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_ThuliumCatalystCost</Label>
+    <String>[ICON=Icon_Res_ThuliumCatalyst] Thulium Katalizörü</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_ThuliumCatalystIncome</Label>
+    <String>[ICON=Icon_Res_ThuliumCatalyst] Thulium Katalizörü</String>
+  </StringTable>
+  <StringTable>
+    <Label>ICONLESS_STATNAME_ThuliumCatalyst</Label>
+    <String>Thulium Katalizörü</String>
+  </StringTable>
+  <StringTable>
+    <Label>ICONLESS_STATNAME_ThuliumCatalystCost</Label>
+    <String>Thulium Katalizörü</String>
+  </StringTable>
+  <StringTable>
+    <Label>ICONLESS_STATNAME_ThuliumCatalystIncome</Label>
+    <String>Thulium Katalizörü</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_TechapodHive</Label>
+    <String>[ICON=Icon_Res_TechapodHive] Techapod Kovanı</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_TechapodHiveCost</Label>
+    <String>[ICON=Icon_Res_TechapodHive] Techapod Kovanı</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_TechapodHiveIncome</Label>
+    <String>[ICON=Icon_Res_TechapodHive] Techapod Kovanı</String>
+  </StringTable>
+  <StringTable>
+    <Label>ICONLESS_STATNAME_TechapodHive</Label>
+    <String>Techapod Hive</String>
+  </StringTable>
+  <StringTable>
+    <Label>ICONLESS_STATNAME_TechapodHiveCost</Label>
+    <String>Techapod Hive</String>
+  </StringTable>
+  <StringTable>
+    <Label>ICONLESS_STATNAME_TechapodHiveIncome</Label>
+    <String>Techapod Hive</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_ArtocarpusViriles</Label>
+    <String>[ICON=Icon_Res_ArtocarpusViriles] Artocarpus Viriles</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_ArtocarpusVirilesCost</Label>
+    <String>[ICON=Icon_Res_ArtocarpusViriles] Artocarpus Viriles</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_ArtocarpusVirilesIncome</Label>
+    <String>[ICON=Icon_Res_ArtocarpusViriles] Artocarpus Viriles</String>
+  </StringTable>
+  <StringTable>
+    <Label>ICONLESS_STATNAME_ArtocarpusViriles</Label>
+    <String>Artocarpus Viriles</String>
+  </StringTable>
+  <StringTable>
+    <Label>ICONLESS_STATNAME_ArtocarpusVirilesCost</Label>
+    <String>Artocarpus Viriles</String>
+  </StringTable>
+  <StringTable>
+    <Label>ICONLESS_STATNAME_ArtocarpusVirilesIncome</Label>
+    <String>Artocarpus Viriles</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_MonsatiumDeposit</Label>
+    <String>[ICON=Icon_Res_MonsatiumDeposit] Monsatium Yatağı</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_MonsatiumDepositCost</Label>
+    <String>[ICON=Icon_Res_MonsatiumDeposit] Monsatium Yatağı</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_MonsatiumDepositIncome</Label>
+    <String>[ICON=Icon_Res_MonsatiumDeposit] Monsatium Yatağı</String>
+  </StringTable>
+  <StringTable>
+    <Label>ICONLESS_STATNAME_MonsatiumDeposit</Label>
+    <String>Monsatium Yatağı</String>
+  </StringTable>
+  <StringTable>
+    <Label>ICONLESS_STATNAME_MonsatiumDepositCost</Label>
+    <String>Monsatium Yatağı</String>
+  </StringTable>
+  <StringTable>
+    <Label>ICONLESS_STATNAME_MonsatiumDepositIncome</Label>
+    <String>Monsatium Yatağı</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_CrystallizedElerium</Label>
+    <String>[ICON=Icon_Res_CrystallizedElerium] Kristalize Eleryum</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_CrystallizedEleriumCost</Label>
+    <String>[ICON=Icon_Res_CrystallizedElerium] Kristalize Eleryum</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_CrystallizedEleriumIncome</Label>
+    <String>[ICON=Icon_Res_CrystallizedElerium] Kristalize Eleryum</String>
+  </StringTable>
+  <StringTable>
+    <Label>ICONLESS_STATNAME_CrystallizedElerium</Label>
+    <String>Kristalize Eleryum</String>
+  </StringTable>
+  <StringTable>
+    <Label>ICONLESS_STATNAME_CrystallizedEleriumCost</Label>
+    <String>Kristalize Eleryum</String>
+  </StringTable>
+  <StringTable>
+    <Label>ICONLESS_STATNAME_CrystallizedEleriumIncome</Label>
+    <String>Kristalize Eleryum</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_XanthiumDeposit</Label>
+    <String>[ICON=Icon_Res_XanthiumDeposit] Xanthium Yatağı</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_XanthiumDepositCost</Label>
+    <String>[ICON=Icon_Res_XanthiumDeposit] Xanthium Yatağı</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_XanthiumDepositIncome</Label>
+    <String>[ICON=Icon_Res_XanthiumDeposit] Xanthium Yatağı</String>
+  </StringTable>
+  <StringTable>
+    <Label>ICONLESS_STATNAME_XanthiumDeposit</Label>
+    <String>Xanthium Yatağı</String>
+  </StringTable>
+  <StringTable>
+    <Label>ICONLESS_STATNAME_XanthiumDepositCost</Label>
+    <String>Xanthium Yatağı</String>
+  </StringTable>
+  <StringTable>
+    <Label>ICONLESS_STATNAME_XanthiumDepositIncome</Label>
+    <String>Xanthium Yatağı</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_AurorusArboretum</Label>
+    <String>[ICON=Icon_Res_AurorusArboretum] Aurorus Arboretumu</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_AurorusArboretumCost</Label>
+    <String>[ICON=Icon_Res_AurorusArboretum] Aurorus Arboretumu</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_AurorusArboretumIncome</Label>
+    <String>[ICON=Icon_Res_AurorusArboretum] Aurorus Arboretumu</String>
+  </StringTable>
+  <StringTable>
+    <Label>ICONLESS_STATNAME_AurorusArboretum</Label>
+    <String>Aurorus Arboretumu</String>
+  </StringTable>
+  <StringTable>
+    <Label>ICONLESS_STATNAME_AurorusArboretumCost</Label>
+    <String>Aurorus Arboretumu</String>
+  </StringTable>
+  <StringTable>
+    <Label>ICONLESS_STATNAME_AurorusArboretumIncome</Label>
+    <String>Aurorus Arboretumu</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_PrometheusStone</Label>
+    <String>[ICON=Icon_Res_PrometheusStone] Prometheus Taşı</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_PrometheusStoneCost</Label>
+    <String>[ICON=Icon_Res_PrometheusStone] Prometheus Taşı</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_PrometheusStoneIncome</Label>
+    <String>[ICON=Icon_Res_PrometheusStone] Prometheus Taşı</String>
+  </StringTable>
+  <StringTable>
+    <Label>ICONLESS_STATNAME_PrometheusStone</Label>
+    <String>Prometheus Taşı</String>
+  </StringTable>
+  <StringTable>
+    <Label>ICONLESS_STATNAME_PrometheusStoneCost</Label>
+    <String>Prometheus Taşı</String>
+  </StringTable>
+  <StringTable>
+    <Label>ICONLESS_STATNAME_PrometheusStoneIncome</Label>
+    <String>Prometheus Taşı</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_HyperSilicates</Label>
+    <String>[ICON=Icon_Res_HyperSilicates] Hiper Silikatlar</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_HyperSilicatesCost</Label>
+    <String>[ICON=Icon_Res_HyperSilicates] Hiper Silikatlar</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_HyperSilicatesIncome</Label>
+    <String>[ICON=Icon_Res_HyperSilicates] Hiper Silikatlar</String>
+  </StringTable>
+  <StringTable>
+    <Label>ICONLESS_STATNAME_HyperSilicates</Label>
+    <String>Hiper Silikatlar</String>
+  </StringTable>
+  <StringTable>
+    <Label>ICONLESS_STATNAME_HyperSilicatesCost</Label>
+    <String>Hiper Silikatlar</String>
+  </StringTable>
+  <StringTable>
+    <Label>ICONLESS_STATNAME_HyperSilicatesIncome</Label>
+    <String>Hiper Silikatlar</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_PrecursorNanites</Label>
+    <String>[ICON=Icon_Res_PrecursorNanites] Öncü Nanitler</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_PrecursorNanitesCost</Label>
+    <String>[ICON=Icon_Res_PrecursorNanites] Öncü Nanitler</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_PrecursorNanitesIncome</Label>
+    <String>[ICON=Icon_Res_PrecursorNanites] Öncü Nanitler</String>
+  </StringTable>
+  <StringTable>
+    <Label>ICONLESS_STATNAME_PrecursorNanites</Label>
+    <String>Prekürsör Nanitler</String>
+  </StringTable>
+  <StringTable>
+    <Label>ICONLESS_STATNAME_PrecursorNanitesCost</Label>
+    <String>Prekürsör Nanitler</String>
+  </StringTable>
+  <StringTable>
+    <Label>ICONLESS_STATNAME_PrecursorNanitesIncome</Label>
+    <String>Prekürsör Nanitler</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_HarmonyCrystals</Label>
+    <String>[ICON=Icon_Res_HarmonyCrystals] Uyum Kristalleri</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_HarmonyCrystalsCost</Label>
+    <String>[ICON=Icon_Res_HarmonyCrystals] Uyum Kristalleri</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_HarmonyCrystalsIncome</Label>
+    <String>[ICON=Icon_Res_HarmonyCrystals] Uyum Kristalleri</String>
+  </StringTable>
+  <StringTable>
+    <Label>ICONLESS_STATNAME_HarmonyCrystals</Label>
+    <String>Harmony Kristalleri</String>
+  </StringTable>
+  <StringTable>
+    <Label>ICONLESS_STATNAME_HarmonyCrystalsCost</Label>
+    <String>Harmony Kristalleri</String>
+  </StringTable>
+  <StringTable>
+    <Label>ICONLESS_STATNAME_HarmonyCrystalsIncome</Label>
+    <String>Harmony Kristalleri</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_LabEquipment</Label>
+    <String>[ICON=Icon_Res_LabEquipment] Laboratuvar Ekipmanı</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_LabEquipmentCost</Label>
+    <String>[ICON=Icon_Res_LabEquipment] Laboratuvar Ekipmanı</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_LabEquipmentIncome</Label>
+    <String>[ICON=Icon_Res_LabEquipment] Laboratuvar Ekipmanı</String>
+  </StringTable>
+  <StringTable>
+    <Label>ICONLESS_STATNAME_LabEquipment</Label>
+    <String>Laboratuvar Ekipmanları</String>
+  </StringTable>
+  <StringTable>
+    <Label>ICONLESS_STATNAME_LabEquipmentCost</Label>
+    <String>Laboratuvar Ekipmanları</String>
+  </StringTable>
+  <StringTable>
+    <Label>ICONLESS_STATNAME_LabEquipmentIncome</Label>
+    <String>Laboratuvar Ekipmanları</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_IndustrialScaffolding</Label>
+    <String>[ICON=Icon_Res_IndustrialScaffolding] Endüstriyel İskele</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_IndustrialScaffoldingCost</Label>
+    <String>[ICON=Icon_Res_IndustrialScaffolding] Endüstriyel İskele</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_IndustrialScaffoldingIncome</Label>
+    <String>[ICON=Icon_Res_IndustrialScaffolding] Endüstriyel İskele</String>
+  </StringTable>
+  <StringTable>
+    <Label>ICONLESS_STATNAME_IndustrialScaffolding</Label>
+    <String>Endüstriyel İskele</String>
+  </StringTable>
+  <StringTable>
+    <Label>ICONLESS_STATNAME_IndustrialScaffoldingCost</Label>
+    <String>Endüstriyel İskele</String>
+  </StringTable>
+  <StringTable>
+    <Label>ICONLESS_STATNAME_IndustrialScaffoldingIncome</Label>
+    <String>Endüstriyel İskele</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_ArmoryModule</Label>
+    <String>[ICON=Icon_Res_ArmoryModule] Cephanelik Modülü</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_ArmoryModuleCost</Label>
+    <String>[ICON=Icon_Res_ArmoryModule] Cephanelik Modülü</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_ArmoryModuleIncome</Label>
+    <String>[ICON=Icon_Res_ArmoryModule] Cephanelik Modülü</String>
+  </StringTable>
+  <StringTable>
+    <Label>ICONLESS_STATNAME_ArmoryModule</Label>
+    <String>Cephanelik Modülü</String>
+  </StringTable>
+  <StringTable>
+    <Label>ICONLESS_STATNAME_ArmoryModuleCost</Label>
+    <String>Cephanelik Modülü</String>
+  </StringTable>
+  <StringTable>
+    <Label>ICONLESS_STATNAME_ArmoryModuleIncome</Label>
+    <String>Cephanelik Modülü</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_CommercialGoods</Label>
+    <String>[ICON=Icon_Res_CommercialGoods] Ticari Mallar</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_CommercialGoodsCost</Label>
+    <String>[ICON=Icon_Res_CommercialGoods] Ticari Mallar</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_CommercialGoodsIncome</Label>
+    <String>[ICON=Icon_Res_CommercialGoods] Ticari Mallar</String>
+  </StringTable>
+  <StringTable>
+    <Label>ICONLESS_STATNAME_CommercialGoods</Label>
+    <String>Ticari Mallar</String>
+  </StringTable>
+  <StringTable>
+    <Label>ICONLESS_STATNAME_CommercialGoodsCost</Label>
+    <String>Ticari Mallar</String>
+  </StringTable>
+  <StringTable>
+    <Label>ICONLESS_STATNAME_CommercialGoodsIncome</Label>
+    <String>Ticari Mallar</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_BroadcastEquipment</Label>
+    <String>[ICON=Icon_Res_BroadcastEquipment] Yayın Ekipmanı</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_BroadcastEquipmentCost</Label>
+    <String>[ICON=Icon_Res_BroadcastEquipment] Yayın Ekipmanı</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_BroadcastEquipmentIncome</Label>
+    <String>[ICON=Icon_Res_BroadcastEquipment] Yayın Ekipmanı</String>
+  </StringTable>
+  <StringTable>
+    <Label>ICONLESS_STATNAME_BroadcastEquipment</Label>
+    <String>Yayın Ekipmanları</String>
+  </StringTable>
+  <StringTable>
+    <Label>ICONLESS_STATNAME_BroadcastEquipmentCost</Label>
+    <String>Yayın Ekipmanları</String>
+  </StringTable>
+  <StringTable>
+    <Label>ICONLESS_STATNAME_BroadcastEquipmentIncome</Label>
+    <String>Yayın Ekipmanları</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_Drones</Label>
+    <String>[ICON=Icon_Res_Drones] Dronlar</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_DronesCost</Label>
+    <String>[ICON=Icon_Res_Drones] Dronlar</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_DronesIncome</Label>
+    <String>[ICON=Icon_Res_Drones] Dronlar</String>
+  </StringTable>
+  <StringTable>
+    <Label>ICONLESS_STATNAME_Drones</Label>
+    <String>Dronlar</String>
+  </StringTable>
+  <StringTable>
+    <Label>ICONLESS_STATNAME_DronesCost</Label>
+    <String>Dronlar</String>
+  </StringTable>
+  <StringTable>
+    <Label>ICONLESS_STATNAME_DronesIncome</Label>
+    <String>Dronlar</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_Modules</Label>
+    <String>[ICON=Icon_Res_Modules] Modüller</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_ModulesCost</Label>
+    <String>[ICON=Icon_Res_Modules] Modüller</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_ModulesIncome</Label>
+    <String>[ICON=Icon_Res_Modules] Modüller</String>
+  </StringTable>
+  <StringTable>
+    <Label>ICONLESS_STATNAME_Modules</Label>
+    <String>Modüller</String>
+  </StringTable>
+  <StringTable>
+    <Label>ICONLESS_STATNAME_ModulesCost</Label>
+    <String>Modüller</String>
+  </StringTable>
+  <StringTable>
+    <Label>ICONLESS_STATNAME_ModulesIncome</Label>
+    <String>Modüller</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_Nanobots</Label>
+    <String>[ICON=Icon_Res_Nanobots] Nanobotlar</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_NanobotsCost</Label>
+    <String>[ICON=Icon_Res_Nanobots] Nanobotlar</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_NanobotsIncome</Label>
+    <String>[ICON=Icon_Res_Nanobots] Nanobotlar</String>
+  </StringTable>
+  <StringTable>
+    <Label>ICONLESS_STATNAME_Nanobots</Label>
+    <String>Nanobotlar</String>
+  </StringTable>
+  <StringTable>
+    <Label>ICONLESS_STATNAME_NanobotsCost</Label>
+    <String>Nanobotlar</String>
+  </StringTable>
+  <StringTable>
+    <Label>ICONLESS_STATNAME_NanobotsIncome</Label>
+    <String>Nanobotlar</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_SnugglerColony</Label>
+    <String>[ICON=Icon_Res_SnugglerColony] Snuggler Kolonisi</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_SnugglerColonyCost</Label>
+    <String>[ICON=Icon_Res_SnugglerColony] Snuggler Kolonisi</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_SnugglerColonyIncome</Label>
+    <String>[ICON=Icon_Res_SnugglerColony] Snuggler Kolonisi</String>
+  </StringTable>
+  <StringTable>
+    <Label>ICONLESS_STATNAME_SnugglerColony</Label>
+    <String>Snuggler Kolonisi</String>
+  </StringTable>
+  <StringTable>
+    <Label>ICONLESS_STATNAME_SnugglerColonyCost</Label>
+    <String>Snuggler Kolonisi</String>
+  </StringTable>
+  <StringTable>
+    <Label>ICONLESS_STATNAME_SnugglerColonyIncome</Label>
+    <String>Snuggler Kolonisi</String>
+  </StringTable>
+  <StringTable>
+    <Label>ICONLESS_STATNAME_Elerium</Label>
+    <String>Elerium</String>
+  </StringTable>
+  <StringTable>
+    <Label>ICONLESS_STATNAME_Durantium</Label>
+    <String>Durantium</String>
+  </StringTable>
+  <StringTable>
+    <Label>ICONLESS_STATNAME_Antimatter</Label>
+    <String>Antimadde</String>
+  </StringTable>
+  <StringTable>
+    <Label>ICONLESS_STATNAME_Promethion</Label>
+    <String>Promethion</String>
+  </StringTable>
+  <StringTable>
+    <Label>ICONLESS_STATNAME_Thulium</Label>
+    <String>Thulium</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_TaxationRate</Label>
+    <String>[ICON=Stat_Credits_Icon] Vergiler</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_CanSupplySocial</Label>
+    <String>[ICON=CanSupplySocial_Icon] Taşma Sosyal Üretim</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_CanSupplyMilitary</Label>
+    <String>[ICON=CanSupplyMilitary_Icon] Taşma Askeri Üretim</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_CanBuildHypergate</Label>
+    <String>[ICON=Stat_Temp_Icon] Hipergatlar Oluşturun</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_MoveCost_Hyperlane</Label>
+    <String>[ICON=Stat_Temp_Icon] Hyperlane Hızı</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_MineralConversion</Label>
+    <String>[ICON=Stat_Temp_Icon] Mineral Dönüşüm</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_TechnologyConversion</Label>
+    <String>[ICON=Stat_Temp_Icon] Teknoloji Dönüşümü</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_WealthConversion</Label>
+    <String>[ICON=Stat_Temp_Icon] Servet Dönüşümü</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_FertilityConversion</Label>
+    <String>[ICON=Stat_Temp_Icon] Çiftçilik Dönüşümü</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_Minerals</Label>
+    <String>[ICON=Stat_Minerals_Icon] Mineraller</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATDESC_Minerals</Label>
+    <String>Mineraller, bir gezegenin iyileştirme ve gemi yapımına doğrudan uygulanabilecek ham maden kaynaklarının bir ölçüsüdür.</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_Technology</Label>
+    <String>[ICON=Stat_Technology_Icon] Teknoloji</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATDESC_Technology</Label>
+    <String>Teknoloji, bir gezegenin alışılmadık ve en ilginç yönlerini yansıtan nadir bir doğal kaynaktır. Bilim insanları araştırmalarımızı ilerletmek için bunları inceleyebilir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_Fertility</Label>
+    <String>[ICON=Stat_Fertility_Icon] Çiftçilik</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATDESC_Fertility</Label>
+    <String>Doğurganlık, gezegenin desteklediği biyolojik yaşam miktarını temsil eder. Bu, vatandaşlarımızı beslemek için yeterli gıda üretmek açısından kritik öneme sahiptir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_PlanetInfluence</Label>
+    <String>[ICON=Stat_Culture_Icon] Kültürel Önem</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATDESC_PlanetInfluence</Label>
+    <String>Kültürel Önem bir gezegenin etki yaratma ve sınırlarınızı genişletme potansiyelini temsil eder.</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_MineralNet</Label>
+    <String>[ICON=Stat_Minerals_Icon] Mineral Girdisi</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_TechnologyNet</Label>
+    <String>[ICON=Stat_Technology_Icon] Teknoloji Girdisi</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_WealthNet</Label>
+    <String>[ICON=Stat_Wealth_Icon] Servet Girdisi</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_FertilityNet</Label>
+    <String>[ICON=Stat_Fertility_Icon] Tarım Girdisi</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_PlanetInfluenceNet</Label>
+    <String>[ICON=Stat_Culture_Icon] Kültürel Girdi</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_ColonySponsorDecayMod</Label>
+    <String>Çürüme</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATDESC_ColonySponsorDecayMod</Label>
+    <String>Sponsorlu çekirdek dünyaya giden yoldaki verimsizlikler nedeniyle kaybedilen kaynak çıktısının yüzdesi.</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_ProtestingThreshold</Label>
+    <String>[ICON=Stat_Temp_Icon] Protesto Eşiği</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_PlanetTilesAvailable</Label>
+    <String>[ICON=Stat_Temp_Icon] Döşemeler</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_CanAssassinateDiplomats</Label>
+    <String>[ICON=Stat_Temp_Icon] Diplomatlara Suikast</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATDESC_CanAssassinateDiplomats</Label>
+    <String>Size atanan diplomatlara suikast yapmanızı sağlar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_Crime</Label>
+    <String>[ICON=CrimeIcon32] Suç</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATDESC_Crime</Label>
+    <String>Suç, koloninizin Gelirini azaltmanın yanı sıra, suçlu olarak yeni vatandaşlar üretme olasılığını artırır ve bu da Suçu yükseltir. Suç çok yüksekse vatandaşlar da Onay cezasına maruz kalacaktır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_Pollution</Label>
+    <String>[ICON=ControlPollution32] Kirlilik</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATDESC_Pollution</Label>
+    <String>Gezegendeki çevrenin kalitesi. Yüksek Kirlilik, vatandaşların [HS=HS_Growth]Growth[/HS] ve [HS=HS_Food]Food[/HS] üretimini azaltır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_PollutionTally</Label>
+    <String>[ICON=ControlPollution32] Kirlilik birikimi</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_PollutionPerTurn</Label>
+    <String>[ICON=ControlPollution32] Aylık kirlilik</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_Control</Label>
+    <String>[ICON=ControlIcon32] Kontrol</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATDESC_Control</Label>
+    <String>Protestoların bastırılması, inşaatların aceleye getirilmesi ve icra emirleri gibi anlık etkileri zorlama yeteneğiniz. Olaylar, ideoloji özellikleri ve özel iyileştirmeler yoluyla Kontrol oluşturun.</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_ControlTally</Label>
+    <String>[ICON=ControlIcon32] Birikmiş Kontrol</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_ControlPerTurn</Label>
+    <String>[ICON=ControlIcon32] Ay Başına Kontrol</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_UnitSpecializationCost</Label>
+    <String>Vatandaş Uzmanlık Maliyeti</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATDESC_UnitSpecializationCost</Label>
+    <String>Vatandaşları uzmanlaştırmak için maliyeti ayarlar</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_MaxEnactedPolicies</Label>
+    <String>[ICON=Stat_Admin_Icon] Maksimum Yürürlüğe Giren Politikalar</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATDESC_MaxEnactedPolicies</Label>
+    <String>Aynı anda yürürlüğe koyabileceğiniz politika sayısında katı bir sınır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_Intelligence</Label>
+    <String>[ICON=LeaderStat_Intelligence_Icon] İstihbarat</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATDESC_Intelligence</Label>
+    <String>İstihbarat, [HS=HS_Research]Research[/HS] ve ilgili görevleri değiştirir. Liderler için Zeka, Teknoloji Bakanı ve teknoloji odaklı dünyaların [HS=HS_Governor]Governors[/HS] için önemlidir. [BR][BR]Vatandaşlar için Zeka, bilim insanları için önemlidir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_Social</Label>
+    <String>[ICON=LeaderStat_Social_Icon] Sosyal</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATDESC_Social</Label>
+    <String>Sosyal, bir liderin [HS=HS_Approval]Approval[/HS] ve [HS=HS_Influence]Influence[/HS] görevlerindeki becerisini değiştirir. Yüksek bir Sosyal beceri diplomatlar, Kolonizasyon Bakanları ve [HS=HS_Governor]Valiler[/HS] için önemlidir.[BR][BR]Vatandaşlar için Sosyal, eğlenceciler ve tüccarlar için önemlidir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_Diligence</Label>
+    <String>[ICON=LeaderStat_Diligence_Icon] Çalışkanlık</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATDESC_Diligence</Label>
+    <String>Çalışkanlık, bir liderin üretimle ilgili görevlerdeki becerisini değiştirir. Yüksek Çalışkanlık [HS=HS_Commander]Komutanlar[/HS] ve [HS=HS_Governor]Valiler[/HS] için [HS=HS_Manufacturing]Üretim[/HS] tabanlı dünyalar için önemlidir. [BR][BR]Vatandaşlar için, Çalışkanlık işçiler ve çiftçiler için önemlidir</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_Resolve</Label>
+    <String>[ICON=LeaderStat_Resolve_Icon] Çözmek</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATDESC_Resolve</Label>
+    <String>Azim, bir liderin askeri görevlerdeki becerisini değiştirir. Yüksek bir Azim güçlü bir [HS=HS_Commander]Commander[/HS] yapar.[BR][BR]Vatandaşlar için Azim, Askerler için önemlidir. Bir dünyanın vatandaşlarından gelen tüm Azim, o gezegenin [HS=HS_Resistance]Resistance[/HS]</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_Expectations</Label>
+    <String>[ICON=LeaderStat_Expectations_Icon] Beklentiler</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATDESC_Expectations</Label>
+    <String>Beklentiler bir vatandaşın [HS=HS_Approval]Approval[/HS] değerini değiştirir. Beklentileri yüksek olan vatandaşlar eğlence ve lüks kaynaklara ihtiyaç duyarken, Beklentileri düşük olanları mutlu etmek çok daha kolaydır.[BR][BR]Bir birimi uzmanlaştırmak Beklentilerini artıracaktır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_Loyalty</Label>
+    <String>[ICON=LeaderStat_Loyalty_Icon] Sadakat</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATDESC_Loyalty</Label>
+    <String>Sadakat bir liderin sizin hakkınızdaki görüşüdür.[BR][BR]Sadakati 30'un altında olan bir liderin istifa etme veya sizi zayıflatmaya çalışma riski vardır. Sadakati son derece yüksek olan bir lider ek destek ve yardım sunabilir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_ApprovalFromSoldierUnits</Label>
+    <String>Asker Birimlerinden Onay</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATDESC_ApprovalFromSoldierUnits</Label>
+    <String>Asker olarak görevlendirilen vatandaşlar tarafından sağlanan onay.</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_IdeologyIndividualism</Label>
+    <String>Bireycilik</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATDEC_IdeologyIndividualism</Label>
+    <String>TODO AÇIKLAMASI: İdeolojiBireycilik</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAMEFORGENTOOLTIP_IdeologyIndividualism</Label>
+    <String>[HS=HS_Ideology_Individualism]Bireycilik[/HS] [HS=HS_IdeologyIndividualism]İdeoloji Bireycilik[/HS]</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_IdeologyTotalitarianism</Label>
+    <String>Totalitarizm</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATDEC_IdeologyTotalitarianism</Label>
+    <String>TODO AÇIKLAMASI: İdeolojiTotalitarizm</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAMEFORGENTOOLTIP_IdeologyTotalitarianism</Label>
+    <String>[HS=HS_Ideology_Totalitarianism]Totalitarianism[/HS] [HS=HS_IdeologyTotalitarianism]Ideology Totalitarianism[/HS]</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_IdeologyEgalitarianism</Label>
+    <String>Eşitlikçilik</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATDEC_IdeologyEgalitarianism</Label>
+    <String>TODO AÇIKLAMASI: İdeolojiEşitlikçilik</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAMEFORGENTOOLTIP_IdeologyEgalitarianism</Label>
+    <String>[HS=HS_Ideology_Egalitarianism]Egalitarianism[/HS] [HS=HS_IdeologyEgalitarianism]Ideology Egalitarianism[/HS]</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_IdeologyTraditionalism</Label>
+    <String>Gelenekçilik</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATDEC_IdeologyTraditionalism</Label>
+    <String>TODO AÇIKLAMASI: İdeolojiGeleneksellik</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAMEFORGENTOOLTIP_IdeologyTraditionalism</Label>
+    <String>[HS=HS_Ideology_Tradition]Tradition[/HS] [HS=HS_IdeologyTraditionalism]Ideology Tradition[/HS]</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_IdeologyProgressivism</Label>
+    <String>İlerlemecilik</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATDEC_IdeologyProgressivism</Label>
+    <String>TODO AÇIKLAMA: İdeolojiİlerlemecilik</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAMEFORGENTOOLTIP_IdeologyProgressivism</Label>
+    <String>[HS=HS_Ideology_Progressivism]Progressivism[/HS] [HS=HS_IdeologyProgressivism]Ideology Progressivism[/HS]</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_IdeologyPacifism</Label>
+    <String>Pasifizm</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATDEC_IdeologyPacifism</Label>
+    <String>TODO AÇIKLAMA: İdeolojiPasifizm</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAMEFORGENTOOLTIP_IdeologyPacifism</Label>
+    <String>[HS=HS_Ideology_Pacifism]Pacifism[/HS] [HS=HS_IdeologyPacifism]Ideology Pacifism[/HS]</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_IdeologyNihilism</Label>
+    <String>Nihilizm</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATDEC_IdeologyNihilism</Label>
+    <String>TODO AÇIKLAMA: İdeolojiNihilizm</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAMEFORGENTOOLTIP_IdeologyNihilism</Label>
+    <String>[HS=HS_Ideology_Nihilism]Nihilism[/HS] [HS=HS_IdeologyNihilism]Ideology Nihilism[/HS]</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_IdeologyCollectivism</Label>
+    <String>Kolektivizm</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATDEC_IdeologyCollectivism</Label>
+    <String>TODO AÇIKLAMASI: İdeolojiKolektivizm</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAMEFORGENTOOLTIP_IdeologyCollectivism</Label>
+    <String>[HS=HS_Ideology_Collectivism]Kolektivizm[/HS] [HS=HS_IdeologyCollectivisms]İdeoloji Kolektivizm[/HS]</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_IdeologyTraitCostTotalitarianism</Label>
+    <String>Totalitarizm İdeoloji Özellik Maliyet</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATDEC_IdeologyTraitCostTotalitarianism</Label>
+    <String>Bir sonraki Totalitarizm Kültürel Özelliği için Kültür Puanı maliyeti</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_IdeologyTraitCostIndividualism</Label>
+    <String>Bireycilik İdeoloji Özellik Maliyet</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATDEC_IdeologyTraitCostIndividualism</Label>
+    <String>Bir sonraki Bireycilik Kültürel Özelliği için Kültür Puanı maliyeti</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_IdeologyTraitCostTraditionalism</Label>
+    <String>Geleneksellik İdeoloji Özellik Maliyet</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATDEC_IdeologyTraitCostTraditionalism</Label>
+    <String>Gelenekçilik Bir sonraki Gelenek Kültürel Özelliği için puan maliyeti</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_IdeologyTraitCostProgressivism</Label>
+    <String>İlerlemecilik İdeoloji Özellik Maliyeti</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATDEC_IdeologyTraitCostProgressivism</Label>
+    <String>Bir sonraki İlerlemecilik Kültürel Özelliği için Kültür Puanı maliyeti</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_IdeologyTraitCostPacifism</Label>
+    <String>Pasifizm İdeolojisi Özellik Maliyeti</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATDEC_IdeologyTraitCostPacifism</Label>
+    <String>Bir sonraki Pasifizm Kültürel Özelliği için Kültür Puanı maliyeti</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_IdeologyTraitCostCollectivism</Label>
+    <String>Kolektivizm İdeoloji Özellik Maliyeti</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATDEC_IdeologyTraitCostCollectivism</Label>
+    <String>Bir sonraki Kolektivizm Kültürel Özelliği için Kültür Puanı maliyeti</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_IdeologyTraitCostNihilism</Label>
+    <String>Nihilizm İdeolojisi Özellik Maliyeti</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATDEC_IdeologyTraitCostNihilism</Label>
+    <String>Bir sonraki Nihilizm Kültürel Özelliği için Kültür Puanı maliyeti</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_IdeologyTraitChoiceTotalitarianism</Label>
+    <String>Totalitarizm Özellik İndirimi</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATDEC_IdeologyTraitChoiceTotalitarianism</Label>
+    <String>Olaylarda Totalitarizm seçiminin sayısı</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_IdeologyTraitChoiceIndividualism</Label>
+    <String>Bireycilik Özelliği İndirimi</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_IdeologyTraitChoiceTraditionalism</Label>
+    <String>Geleneksellik Özelliği İndirimi</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATDEC_IdeologyTraitChoiceTraditionalism</Label>
+    <String>Etkinliklerde Gelenekselcilik seçiminin sayısı</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_IdeologyTraitChoiceProgressivism</Label>
+    <String>İlerlemecilik Özellik İndirimi</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATDEC_IdeologyTraitChoiceProgressivism</Label>
+    <String>Etkinliklerde İlerlemecilik seçiminin sayısı</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_IdeologyTraitChoicePacifism</Label>
+    <String>Pasifizm Özelliği İndirimi</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATDEC_IdeologyTraitChoicePacifism</Label>
+    <String>Olaylarda Pasifizm seçiminin sayısı</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATDEC_IdeologyTraitChoiceEgalitarianism</Label>
+    <String>Etkinliklerde Eşitlikçilik seçiminin sayısı</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_IdeologyTraitChoiceCollectivism</Label>
+    <String>Kolektivizm Özelliği İndirimi</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATDEC_IdeologyTraitChoiceCollectivism</Label>
+    <String>Kolektivizm seçiminin olaylar üzerindeki etkisi</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_IdeologyTraitChoiceEgalitarianism</Label>
+    <String>Eşitlikçilik Özelliği İndirimi</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATDEC_IdeologyTraitChoiceIndividualism</Label>
+    <String>Bireycilik seçiminin olaylar üzerindeki etkisi</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_IdeologyTraitChoiceNihilism</Label>
+    <String>Nihilizm Özelliği İndirimi</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATDEC_IdeologyTraitChoiceNihilism</Label>
+    <String>Olaylar üzerine Nihilizm seçimi sayısı</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_UpgradeSlots</Label>
+    <String>Yükseltme Yuvaları</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATDEC_UpgradeSlots</Label>
+    <String>Yükseltme Yuvaları</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_IgnoreRushLimit</Label>
+    <String>Acele Sınırını Yoksay</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATDEC_IgnoreRushLimit</Label>
+    <String>Oyuncunun karşılayabildiği kadar çok projeyi aceleye getirmesine izin verin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_RushCosts</Label>
+    <String>Acele Maliyetler</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATDEC_RushCosts</Label>
+    <String>Bir projeyi aceleye getirme maliyetine bonus değiştirici.</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_ApprovalFromClericUnits</Label>
+    <String>Ruhani Birimlerden Onay</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATDEC_ApprovalFromClericUnits</Label>
+    <String>Gezegenlerinizdeki Din Adamları tarafından sağlanan onay.</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_ApprovalFromScientistUnits</Label>
+    <String>Bilim İnsanı Birimlerden Onay</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATDEC_ApprovalFromScientistUnits</Label>
+    <String>Bir kolonide Bilim İnsanı bulundurmaktan kaynaklanan onay bonusu.</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_AOERange</Label>
+    <String>Alan Etki Aralığı</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATDEC_AOERange</Label>
+    <String>Etki alanı değiştiricileri harita üzerinde uygulandığında alanın yarıçapı.</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_Prestige</Label>
+    <String>[ICON=Stat_Prestige_Icon] Prestij</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATDEC_Prestige</Label>
+    <String>Galaktik hakimiyete doğru ilerlemenin ölçüsü.</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_ThinktankFavor</Label>
+    <String>[ICON=Stat_ThinktankFavor_Icon] İyilik</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATDESC_ThinktankFavor</Label>
+    <String>Geliştirilmiş thinktank iyiliği, atanmış liderlerden sizin için daha iyi bonuslar sağlar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_BazaarDiscount</Label>
+    <String>[ICON=Stat_BazaarDiscount_Icon] Çarşı İndirimi</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATDESC_BazaarDiscount</Label>
+    <String>Galaktik Çarşı'dan alışveriş yaparken indirim.</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_MemberCount</Label>
+    <String>Üye Sayısı</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_TerrorStarBuildProgress</Label>
+    <String>İlerleme Kaydet</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_CanIgnoreAtWarWithHomeworld</Label>
+    <String>[ICON=Stat_Temp_Icon] Sakin Yabancı Vatandaşlar</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATDESC_CanIgnoreAtWarWithHomeworld</Label>
+    <String>Fethettiğiniz gezegenlerin vatandaşları, türleriyle savaş halindeyseniz artık onay isabeti vermiyor.</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_IntimidationBonus</Label>
+    <String>Gözdağı Bonusu</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATDESC_IntimidationBonus</Label>
+    <String>Göz korkutma taktiklerinizin etkinliğini artırır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_CanIgnoreDiploPenaltyAtWarWithFriend</Label>
+    <String>Arkadaşlarla Savaşları Görmezden Gel</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATDESC_CanIgnoreDiploPenaltyAtWarWithFriend</Label>
+    <String>Diğer medeniyetler, dostlarıyla savaş halinde olduğunuzda bunu görmezden gelirler.</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_CanIgnoreDiploPenaltyTradingWithEnemy</Label>
+    <String>Düşmanlarla Ticareti Görmezden Gelin</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATDESC_CanIgnoreDiploPenaltyTradingWithEnemy</Label>
+    <String>Diğer medeniyetler, düşmanlarıyla ticaret yaptığınızı görmezden gelir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_TechRandomOfferDiscountBonus</Label>
+    <String>Araştırma İndirimi Bonusu</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATDESC_TechRandomOfferDiscountBonus</Label>
+    <String>Rastgele teknolojilerde sunulan araştırma indirimine ek bir destek.</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_TotalAttack</Label>
+    <String>[ICON=AllWeaponsIcon] Toplam Saldırı</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATDEC_TotalAttack</Label>
+    <String>Tüm silah türlerinde toplam saldırı gücü</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_TotalDefense</Label>
+    <String>[ICON=Stat_Planetary_Defense_Icon] Toplam Savunma</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATDEC_TotalDefense</Label>
+    <String>Tüm savunma türlerinde toplam savunma gücü</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_Conquest</Label>
+    <String>[ICON=Conquest_Icon] Fetih Değerlendirmesi</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATDEC_Conquest</Label>
+    <String>Bir filonun düşman gezegenini kuşatmadaki etkinliğinin ölçüsü</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_BazaarPremium</Label>
+    <String>Bazaar Premium</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATDESC_BazaarPremium</Label>
+    <String>Galaktik Pazar'da satış yaparken prim.</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_ThinktankPremium</Label>
+    <String>Thinktank Premium</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATDESC_ThinktankPremium</Label>
+    <String>Thinktanks'in faydalarına bonus.</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_CanIgnoreThinktankPenalties</Label>
+    <String>Thinktanks Cezalarını Görmezden Gelin</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATDESC_CanIgnoreThinktankPenalties</Label>
+    <String>Thinktank'lerin olumsuz etkilerini görmezden gelin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_CanStopCrime</Label>
+    <String>Suçu Durdurabilir</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATDESC_CanStopCrime</Label>
+    <String>Suçun birikmesini önleyin</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_IsAtWar</Label>
+    <String>Savaşta</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATDESC_IsAtWar</Label>
+    <String>Oyuncu herhangi biriyle savaşta mı?</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_IsAtPeace</Label>
+    <String>Huzur İçinde</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATDESC_IsAtPeace</Label>
+    <String>Oyuncu herkesle barış içinde mi?</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_GovernorColonyStatsPremium</Label>
+    <String>Vali Kolonisi İstatistikleri Premium</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATDESC_GovernorColonyStatsPremium</Label>
+    <String>Bir Validen etkilenen Koloni İstatistiklerinde artış.</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_BattleRating</Label>
+    <String>[ICON=Combat_Raiting_Icon] Savaş Derecesi</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATDESC_BattleRating</Label>
+    <String>Genel savaş etkinliğini gösteren silah gücü, ateş oranları, menziller, savunma yetenekleri ve isabet noktası kapasitesinin birleşimi.</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATNAME_OwnedClustersCount</Label>
+    <String>Sahip Olunan Sektörler</String>
+  </StringTable>
+  <StringTable>
+    <Label>STATDESC_OwnedClustersCount</Label>
+    <String>Fraksiyonun çoğunluk kontrolüne sahip olduğu Sektör sayısı.</String>
+  </StringTable>
+</StringTableList>

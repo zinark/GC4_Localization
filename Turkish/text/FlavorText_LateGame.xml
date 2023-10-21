@@ -1,0 +1,251 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<FlavorTextDefs xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
+  <FlavorTextDef>
+    <InternalName>PLAYER_INITIATED_TRADE_OFFER_HEADER</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <RelationsRange>
+          <RangeMin>7</RangeMin>
+          <RangeMax>100</RangeMax>
+        </RelationsRange>
+        <SpeakerRaceTrait>SlaversAbility</SpeakerRaceTrait>
+      </Requirements>
+      <Text>It is rare to meet someone that we believe is an equal to us. It is perplexing. Let us haggle.</Text>
+      <PreferenceWeight>1000</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>PLAYER_INITIATED_TRADE_OFFER_HEADER</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <RelationsRange>
+          <RangeMin>7</RangeMin>
+          <RangeMax>100</RangeMax>
+        </RelationsRange>
+        <SpeakerRaceTrait>SyntheticLife</SpeakerRaceTrait>
+        <ListenerRaceTrait>CarbonBasedLife</ListenerRaceTrait>
+      </Requirements>
+      <Text>Despite you being some sort of animated meat, we have come to appreciate you if not your kind. Let us begin negotiations.</Text>
+      <PreferenceWeight>1000</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>PLAYER_INITIATED_TRADE_OFFER_HEADER</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <RelationsRange>
+          <RangeMin>8</RangeMin>
+          <RangeMax>100</RangeMax>
+        </RelationsRange>
+        <SpeakerRaceTrait>SyntheticLife</SpeakerRaceTrait>
+      </Requirements>
+      <Text>You seem more intelligent than most of the entities we have encountered in this area of space. To that end, we propose the a trade.</Text>
+      <PreferenceWeight>1000</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>PLAYER_INITIATED_TRADE_OFFER_HEADER</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <RelationsRange>
+          <RangeMin>8</RangeMin>
+          <RangeMax>100</RangeMax>
+        </RelationsRange>
+      </Requirements>
+      <Text>It is good to see you, {LEADERNAME:1}. As your friends we wish to ensure that you are supplied with our latest goods.</Text>
+      <PreferenceWeight>100</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>PLAYER_INITIATED_TRADE_OFFER_HEADER</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <RelationsRange>
+          <RangeMin>8</RangeMin>
+          <RangeMax>100</RangeMax>
+        </RelationsRange>
+        <SpeakerRaceTrait>RavenousAbility</SpeakerRaceTrait>
+      </Requirements>
+      <Text>We have decided not to try to eat you. We have become accustomed to your face.</Text>
+      <PreferenceWeight>1000</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>PLAYER_INITIATED_TRADE_OFFER_HEADER</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <RelationsRange>
+          <RangeMin>8</RangeMin>
+          <RangeMax>100</RangeMax>
+        </RelationsRange>
+        <SpeakerRaceTrait>CrimelordAbility</SpeakerRaceTrait>
+      </Requirements>
+      <Text>You may be scum but you are our kind of scum. Let us trade goods and not speak where they came from.</Text>
+      <PreferenceWeight>1000</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>PLAYER_INITIATED_TRADE_OFFER_HEADER</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <RelationsRange>
+          <RangeMin>8</RangeMin>
+          <RangeMax>100</RangeMax>
+        </RelationsRange>
+        <SpeakerRaceTrait>AncientAbility</SpeakerRaceTrait>
+      </Requirements>
+      <Text>We see the wisdom of the Precursors in you. Let us trade.</Text>
+      <PreferenceWeight>1000</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>PLAYER_INITIATED_TRADE_OFFER_HEADER</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <RelationsRange>
+          <RangeMin>8</RangeMin>
+          <RangeMax>100</RangeMax>
+        </RelationsRange>
+        <SpeakerRaceTrait>DevoutAbility</SpeakerRaceTrait>
+      </Requirements>
+      <Text>While you are not holy we do see you as a friend. Let us begin trading.</Text>
+      <PreferenceWeight>1000</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>PLAYER_INITIATED_TRADE_OFFER_HEADER</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <RelationsRange>
+          <RangeMin>8</RangeMin>
+          <RangeMax>100</RangeMax>
+        </RelationsRange>
+        <SpeakerRaceTrait>EntrepreneursAbility</SpeakerRaceTrait>
+      </Requirements>
+      <Text>For you, my friend, I have the best prices and best deal in the galaxy.</Text>
+      <PreferenceWeight>1000</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>PLAYER_INITIATED_TRADE_OFFER_HEADER</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <RelationsRange>
+          <RangeMin>8</RangeMin>
+          <RangeMax>100</RangeMax>
+        </RelationsRange>
+        <SpeakerRaceTrait>GenocidalAbility</SpeakerRaceTrait>
+      </Requirements>
+      <Text>In the end we must exterminate all others. But we want you to know that because of our friendship, we will exterminate you last.</Text>
+      <PreferenceWeight>1000</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>GENERIC_GREETING</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <RelativeStrength>SpeakerWeaker</RelativeStrength>
+        <RequiredDiplomacyFlag>AtWar</RequiredDiplomacyFlag>
+        <SpeakerRaceTrait>SlaversAbility</SpeakerRaceTrait>
+      </Requirements>
+      <Text>Kazandığınızı mı sanıyorsunuz? Kaybediyor olabiliriz ama yine de sizi köle yapacağız!</Text>
+      <PreferenceWeight>1000</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <RelativeStrength>SpeakerWeaker</RelativeStrength>
+        <RequiredDiplomacyFlag>AtWar</RequiredDiplomacyFlag>
+        <SpeakerRaceTrait>DevoutAbility</SpeakerRaceTrait>
+      </Requirements>
+      <Text>Tanrı yaptıklarınızı size ödetecek. Biz yine de sizin üstünüze çıkacağız.</Text>
+      <PreferenceWeight>1000</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <RelativeStrength>SpeakerWeaker</RelativeStrength>
+        <RequiredDiplomacyFlag>AtWar</RequiredDiplomacyFlag>
+        <SpeakerRaceTrait>CrimelordAbility</SpeakerRaceTrait>
+      </Requirements>
+      <Text>Medeniyetimiz bundan çok daha zor durumlara düştü. Yine de sizi yenmenin bir yolunu bulacağız.</Text>
+      <PreferenceWeight>1000</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <RelativeStrength>SpeakerWeaker</RelativeStrength>
+        <RequiredDiplomacyFlag>AtWar</RequiredDiplomacyFlag>
+        <SpeakerRaceTrait>GenocidalAbility</SpeakerRaceTrait>
+      </Requirements>
+      <Text>Eğer sizin tarafınızdan yok edilmek bizim kaderimizse, öyle olsun.</Text>
+      <PreferenceWeight>1000</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <RelativeStrength>SpeakerWeaker</RelativeStrength>
+        <RequiredDiplomacyFlag>AtWar</RequiredDiplomacyFlag>
+        <SpeakerRaceTrait>RavenousAbility</SpeakerRaceTrait>
+      </Requirements>
+      <Text>Siz bizi yiyorsunuz. Biz sizi yiyeceğiz. Şimdi önemli. Şu anda kazanıyor olabilirsiniz ama savaş henüz bitmedi.</Text>
+      <PreferenceWeight>1000</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <RelativeStrength>SpeakerWeaker</RelativeStrength>
+        <RequiredDiplomacyFlag>AtWar</RequiredDiplomacyFlag>
+        <SpeakerRaceTrait>EntrepreneursAbility</SpeakerRaceTrait>
+      </Requirements>
+      <Text>Bu savaş kârlı değil. Belki bir çıkış yolu bulabiliriz.</Text>
+      <PreferenceWeight>1000</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <RelativeStrength>SpeakerWeaker</RelativeStrength>
+        <RequiredDiplomacyFlag>AtWar</RequiredDiplomacyFlag>
+        <SpeakerRaceTrait>AncientAbility</SpeakerRaceTrait>
+      </Requirements>
+      <Text>Kadim Arnor'un bile aksilikleri oldu. Yine de üstesinden geleceğiz.</Text>
+      <PreferenceWeight>1000</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>ASK_FOR_PEACE_RESPONSE_REFUSE</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerRaceTrait>AncientAbility</ListenerRaceTrait>
+      </Requirements>
+      <Text>Seni evrenin en karanlık köşesine gömeceğiz.</Text>
+      <PreferenceWeight>1000</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerRaceTrait>GenocidalAbility</ListenerRaceTrait>
+      </Requirements>
+      <Text>Her birinizi yok edeceğiz.</Text>
+      <PreferenceWeight>1000</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerRaceTrait>CrimelordAbility</ListenerRaceTrait>
+      </Requirements>
+      <Text>Dünyalarınızdaki tüm zenginliği yağmalayana kadar olmaz.</Text>
+      <PreferenceWeight>1000</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerRaceTrait>DevoutAbility</ListenerRaceTrait>
+      </Requirements>
+      <Text>Tanrı her birinizi öldürmemizi istiyor.</Text>
+      <PreferenceWeight>1000</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerRaceTrait>SlaversAbility</ListenerRaceTrait>
+      </Requirements>
+      <Text>Hayır. Halkınız bizim kölemiz olmayı minnetle karşılayana kadar olmaz.</Text>
+      <PreferenceWeight>1000</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Text>Çok beklediniz. Halkımız intikam istiyor.</Text>
+      <PreferenceWeight>100</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+</FlavorTextDefs>

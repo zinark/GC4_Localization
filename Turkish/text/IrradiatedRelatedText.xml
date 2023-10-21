@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<StringTableList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+  <!-- Created with the GC4 editor -->
+  <!-- ArtifactPowerText.xml -->
+  <StringTable>
+    <Label>PollutionBomb_Name</Label>
+    <String>Abhorent Enfeksiyon</String>
+  </StringTable>
+  <StringTable>
+    <Label>PollutionBomb_Dec</Label>
+    <String>Toksin ve radyasyondan oluşan iğrenç ve zararlı bir bileşik. [BR][BR][COLOR=UIDefaultHighlight]Hedef gezegendeki [HS=HS_Pollution]Kirlilik[/HS] seviyesini artırır.[/COLOR]</String>
+  </StringTable>
+  <!--Irradiated Think Tank-->
+  <StringTable>
+    <Label>Thinktank_OrderOfInfection_Name</Label>
+    <String>Enfeksiyon Sırası</String>
+  </StringTable>
+  <StringTable>
+    <Label>Thinktank_OrderOfInfection_Dec</Label>
+    <String>Dünyaların kirlenmesini sağlamaya adanmış bir grup. Dünya [HS=HS_Pollution]Pollution[/HS] [HS=HS_Diligence]Diligence[/HS], [BR]Maintenance üyelerinin [HS=HS_Intelligence]Intelligence[/HS] oranına göre artar.</String>
+  </StringTable>
+  <!--UNIQUE POLICY FOR AMMONIA BEINGS-->
+  <StringTable>
+    <Label>Policy_ToxinSpreading_Name</Label>
+    <String>Toksin Yayılımı</String>
+  </StringTable>
+  <StringTable>
+    <Label>Policy_ToxinSpreading_Dec</Label>
+    <String>Ticaret yoluyla [HS=HS_Pollution]Kirliliği[/HS] yayarak etkimizi yayabilir ve dünyaları istediğimiz hale getirebiliriz. [BR][BR][COLOR=UIDefaultHighlight]Ticaret yolları aracılığıyla %10 [HS=HS_Pollution]Kirlilik[/HS] yayar[/COLOR]</String>
+  </StringTable>
+</StringTableList>

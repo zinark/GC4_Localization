@@ -1,0 +1,291 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<StringTableList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+  <StringTable>
+    <Label>ResearchMission_Name</Label>
+    <String>Araştırma Misyonu</String>
+  </StringTable>
+  <StringTable>
+    <Label>ResearchMission_ShortDec</Label>
+    <String>Dış kenarda bir araştırma misyonunu sübvanse eder.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ResearchMission_Mission_ShipDisplayName</Label>
+    <String>Merak</String>
+  </StringTable>
+  <StringTable>
+    <Label>BasicTradeShipMission_Mission</Label>
+    <String>Ticaret Misyonu</String>
+  </StringTable>
+  <StringTable>
+    <Label>BasicTradeShipMission_Mission_ShipDisplayName</Label>
+    <String>Bağımsız Ticaret Gemisi</String>
+  </StringTable>
+  <StringTable>
+    <Label>ResearchMission_RewardAnomaly_Name</Label>
+    <String>Araştırma Görevi Tamamlandı</String>
+  </StringTable>
+  <StringTable>
+    <Label>ResearchMission_RewardAnomaly_Dec</Label>
+    <String>Araştırma görevimiz tamamlandı ve devam eden araştırma çabalarımıza uygulayabileceğimiz bazı değerli yeni bilgiler elde ettik. Bir sonraki araştırma projemize 50 teknoloji puanı ekledik!</String>
+  </StringTable>
+  <StringTable>
+    <Label>ProductionMission_Name</Label>
+    <String>Madencilik Misyonu</String>
+  </StringTable>
+  <StringTable>
+    <Label>ProductionMission_ShortDec</Label>
+    <String>Dış kenarda bir madencilik misyonunu sübvanse eder.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ProductionMission_Mission_ShipDisplayName</Label>
+    <String>Çöpçü</String>
+  </StringTable>
+  <StringTable>
+    <Label>ProductionMission_RewardAnomaly_Name</Label>
+    <String>Üretim Görevi Tamamlandı</String>
+  </StringTable>
+  <StringTable>
+    <Label>ProductionMission_RewardAnomaly_Dec</Label>
+    <String>Üretim görevimiz sona erdi. Gezegen projemize 100 üretim ekledik!</String>
+  </StringTable>
+  <StringTable>
+    <Label>CreditsMission_Name</Label>
+    <String>Hazine Avı</String>
+  </StringTable>
+  <StringTable>
+    <Label>CreditsMission_ShortDec</Label>
+    <String>Değerli eserleri bulmak ve toplamak için bilinmeyen yerlere yapılan özel bir girişimi sübvanse eder.</String>
+  </StringTable>
+  <StringTable>
+    <Label>CreditsMission_Mission_ShipDisplayName</Label>
+    <String>Hazine Avcısı</String>
+  </StringTable>
+  <StringTable>
+    <Label>SlaveMission_Mission_ShipDisplayName</Label>
+    <String>Thrall Görev Arayışında</String>
+  </StringTable>
+  <StringTable>
+    <Label>CreditsMission_RewardAnomaly_Name</Label>
+    <String>Hazine Avı Tamamlandı</String>
+  </StringTable>
+  <StringTable>
+    <Label>CreditsMission_RewardAnomaly_Dec</Label>
+    <String>Hazine avcıları çabalarının başarılı olduğunu bildirdiler. Bazı bilinmeyen uzaylı eserleri keşfedildi ve piyasada satıldı.</String>
+  </StringTable>
+  <StringTable>
+    <Label>SlaveMission_RewardAnomaly_Name</Label>
+    <String>Thrall Arıyor Görev Tamamlandı</String>
+  </StringTable>
+  <StringTable>
+    <Label>SlaveMission_RewardAnomaly_Dec</Label>
+    <String>Köle arayanlar çabalarının başarılı olduğunu bildirdiler. Bazı yeni köleler, tesadüfen taşıdıkları paramızla birlikte geri gönderildi.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ExoticResourcesMission_Name</Label>
+    <String>Sözleşmeli Tüccarlar</String>
+  </StringTable>
+  <StringTable>
+    <Label>ExoticResourcesMission_ShortDec</Label>
+    <String>En bilgili tüccarlarımızla anlaşarak egzotik kaynakları geri getireceklerini iddia ediyorlar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ExoticResourcesMission_Mission_ShipDisplayName</Label>
+    <String>The Emporium</String>
+  </StringTable>
+  <StringTable>
+    <Label>ExoticResourcesMission_RewardAnomaly_Name</Label>
+    <String>Sözleşmeli Tüccarlar Tamamlandı</String>
+  </StringTable>
+  <StringTable>
+    <Label>ExoticResourcesMission_RewardAnomaly_Dec</Label>
+    <String>Sözleşmeli tüccarlar görevlerini tamamladılar ve buldukları nadir kaynakları sağladılar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ResourcesMission_Name</Label>
+    <String>Çöpçüler</String>
+  </StringTable>
+  <StringTable>
+    <Label>ResourcesMission_ShortDec</Label>
+    <String>Çöpçüler bazı nadir kaynakları bulabileceklerini iddia ediyor.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ResourcesMission_Mission_ShipDisplayName</Label>
+    <String>Çöpçü</String>
+  </StringTable>
+  <StringTable>
+    <Label>ResourcesMission_RewardAnomaly_Name</Label>
+    <String>Çöpçü Tamamlandı</String>
+  </StringTable>
+  <StringTable>
+    <Label>ResourcesMission_RewardAnomaly_Dec</Label>
+    <String>Çöpçüler görevlerini tamamladılar ve buldukları nadir kaynakları sağladılar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>GemTrader_Name</Label>
+    <String>Mücevher Tüccarı</String>
+  </StringTable>
+  <StringTable>
+    <Label>GemTrader_ShortDec</Label>
+    <String>Doğru fiyata bize egzotik Harmony kristalleri bulabileceğini söyleyen özel bir komisyoncuyu sübvanse ediyor.</String>
+  </StringTable>
+  <StringTable>
+    <Label>GemTrader_Mission_ShipDisplayName</Label>
+    <String>Bayi</String>
+  </StringTable>
+  <StringTable>
+    <Label>GemTrader_RewardAnomaly_Name</Label>
+    <String>Gem Trader Geri Dönüyor</String>
+  </StringTable>
+  <StringTable>
+    <Label>GemTrader_RewardAnomaly_Dec</Label>
+    <String>Mücevher tüccarı Durantium ve Promethion'u bazı Armoni kristalleri ile takas etmeyi başardı.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Xylology_Name</Label>
+    <String>Xylology Keşif Gezisi</String>
+  </StringTable>
+  <StringTable>
+    <Label>Xylology_ShortDec</Label>
+    <String>Nadir ağaçların evrimsel özelliklerini araştıran bir grup Xylolog'a fon sağlayın. Aurorus fideleriyle döneceklerine söz veriyorlar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Xylology_Mission_ShipDisplayName</Label>
+    <String>Hacılar</String>
+  </StringTable>
+  <StringTable>
+    <Label>Xylology_RewardAnomaly_Name</Label>
+    <String>Hac Yolculuğu</String>
+  </StringTable>
+  <StringTable>
+    <Label>Xylology_RewardAnomaly_Dec</Label>
+    <String>Xylologlar bir Aurorus Arboretumu yetiştirmek için kullanabileceğimiz tohumlarla geri döndüler.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Pilgrims_Name</Label>
+    <String>Hacılar</String>
+  </StringTable>
+  <StringTable>
+    <Label>Pilgrims_ShortDec</Label>
+    <String>Etkimizi artırmak için harika medeniyetimizin sözünü yaymak isteyen bir grup hacıyı finanse edin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Pilgrims_Mission_ShipDisplayName</Label>
+    <String>Hacılar</String>
+  </StringTable>
+  <StringTable>
+    <Label>Pilgrims_RewardAnomaly_Name</Label>
+    <String>Hac Yolculuğu</String>
+  </StringTable>
+  <StringTable>
+    <Label>Pilgrims_RewardAnomaly_Dec</Label>
+    <String>Hacılar uzun yolculuklarından döndüler ve etkimizi çok uzaklara yaydılar. Gezegenlerimizin her biri etkisini büyük ölçüde artırdı.</String>
+  </StringTable>
+  <StringTable>
+    <Label>HyperSilicateMission_Name</Label>
+    <String>Hiper Silikat Tüccarı</String>
+  </StringTable>
+  <StringTable>
+    <Label>HyperSilicateMission_ShortDec</Label>
+    <String>Satın alabileceği doğru kişileri tanıyan bir Hiper Silikat tüccarını destekleyin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>HyperSilicateMission_Mission_ShipDisplayName</Label>
+    <String>Bayi</String>
+  </StringTable>
+  <StringTable>
+    <Label>HyperSilicateMission_RewardAnomaly_Name</Label>
+    <String>Ticaret Misyonu Tamamlandı</String>
+  </StringTable>
+  <StringTable>
+    <Label>HyperSilicateMission_RewardAnomaly_Dec</Label>
+    <String>Çöpçü Görevi başarılı oldu ve uygarlığımız için çok ihtiyaç duyulan Hiper Silikatları sağladı.</String>
+  </StringTable>
+  <StringTable>
+    <Label>HeliosOreScavengeMission_Name</Label>
+    <String>Helios Cevher Arama</String>
+  </StringTable>
+  <StringTable>
+    <Label>HeliosOreScavengeMission_ShortDec</Label>
+    <String>Yakındaki ölü dünyalarda Helios Cevheri bulabileceklerini düşünen bir madencilik grubunu destekleyin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>HeliosOreScavengeMission_Mission_ShipDisplayName</Label>
+    <String>Çöpçü</String>
+  </StringTable>
+  <StringTable>
+    <Label>HeliosOreScavengeMission_RewardAnomaly_Name</Label>
+    <String>Çöpçü Görevi Tamamlandı</String>
+  </StringTable>
+  <StringTable>
+    <Label>HeliosOreScavengeMission_RewardAnomaly_Dec</Label>
+    <String>Çöpçü Görevi başarılı oldu ve uygarlığımız için çok ihtiyaç duyulan Helios Cevherini sağladı.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArnorSpiceScavangersMission_Name</Label>
+    <String>Arnor Baharat Çöpçüleri</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArnorSpiceScavangersMission_ShortDec</Label>
+    <String>Yakındaki ölü dünyalarda Arnor Baharatı bulabileceklerini düşünen bir madencilik grubunu destekleyin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArnorSpiceScavangersMission_Mission_ShipDisplayName</Label>
+    <String>Çöpçü</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArnorSpiceScavangersMission_RewardAnomaly_Name</Label>
+    <String>Çöpçü Görevi Tamamlandı</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArnorSpiceScavangersMission_RewardAnomaly_Dec</Label>
+    <String>Çöpçü Görevi başarılı oldu ve uygarlığımız için çok ihtiyaç duyulan Arnor Baharatını sağladı.</String>
+  </StringTable>
+  <StringTable>
+    <Label>HeadhunterMission_Name</Label>
+    <String>İşveren</String>
+  </StringTable>
+  <StringTable>
+    <Label>HeadhunterMission_ShortDec</Label>
+    <String>Girişimci bir İşe Alım Görevlisi, masraflarını ödememiz halinde galaksiye gidip bize davamıza katılmaya istekli yeni bir Vatandaş bulacağı konusunda ısrar ediyor.</String>
+  </StringTable>
+  <StringTable>
+    <Label>HeadhunterMission_Mission_ShipDisplayName</Label>
+    <String>İşveren</String>
+  </StringTable>
+  <StringTable>
+    <Label>HeadhunterMission_RewardAnomaly_Name</Label>
+    <String>İşveren</String>
+  </StringTable>
+  <StringTable>
+    <Label>HeadhunterMission_RewardAnomaly_Dec</Label>
+    <String>İşverenimiz medeniyetimize katılacak yeni bir vatandaşla geri döndü!</String>
+  </StringTable>
+  <StringTable>
+    <Label>SalvageCrewMission_Name</Label>
+    <String>Kurtarma Görevi</String>
+  </StringTable>
+  <StringTable>
+    <Label>SalvageCrewMission_ShortDec</Label>
+    <String>Dışarı çıkıp tamir edilebilecek terk edilmiş gemileri bulmaya istekli cesur kaşiflerden oluşan bir mürettebatı sübvanse edin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>SalvageCrewMission_Mission_ShipDisplayName</Label>
+    <String>Kurtarıcı</String>
+  </StringTable>
+  <StringTable>
+    <Label>SalvageCrewMission_RewardAnomaly_Name</Label>
+    <String>Kurtarma ekibimiz bir gemi buldu</String>
+  </StringTable>
+  <StringTable>
+    <Label>SalvageCrewMission_RewardAnomaly_Dec</Label>
+    <String>Gönderdiğimiz kurtarma ekibi bir gemi buldu ve kullanılabilir bir duruma getirmeyi başardı.</String>
+  </StringTable>
+  <StringTable>
+    <Label>BasicTradeShipMission_RewardAnomaly_Name</Label>
+    <String>Yük gemimiz eve döndü!</String>
+  </StringTable>
+  <StringTable>
+    <Label>BasicTradeShipMission_RewardAnomaly_Dec</Label>
+    <String>Yük gemimiz, düzenli bir kârla güvenli bir şekilde evine döndü!</String>
+  </StringTable>
+</StringTableList>

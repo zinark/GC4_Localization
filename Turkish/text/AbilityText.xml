@@ -1,0 +1,761 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+  <!-- Created with the GC4 editor -->
+  <!-- AbilityText.xml -->
+  <StringTable>
+    <Label>CarbonBasedLife_Name</Label>
+    <String>[ICON=RaceType_CarbonBased_Icon] Karbon Bazlı</String>
+  </StringTable>
+  <StringTable>
+    <Label>CarbonBasedLife_ShortName</Label>
+    <String>Karbon Bazlı</String>
+  </StringTable>
+  <StringTable>
+    <Label>CarbonBasedLife_Dec</Label>
+    <String>Karbon bazlı türler kimyalarının temeli olarak su ve hidrokarbonları kullanırlar. Nüfusları büyümek için gıdaya ihtiyaç duyar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AmphibiousAbility_Name</Label>
+    <String>[ICON=RaceType_Aquatic_Icon] Sucul</String>
+  </StringTable>
+  <StringTable>
+    <Label>AmphibiousAbility_ShortName</Label>
+    <String>Sucul</String>
+  </StringTable>
+  <StringTable>
+    <Label>AmphibiousAbility_Dec</Label>
+    <String>Suda yaşayan türler yaşamlarının çoğunu okyanusların derinliklerinde geçirir ve bu da onlara birçok benzersiz Su Teknolojisine erişim sağlar. Okyanus dünyalarını hiçbir ceza olmadan kolonileştirebilirler.</String>
+  </StringTable>
+  <StringTable>
+    <Label>SiliconBasedAbility_Name</Label>
+    <String>[ICON=RaceType_SiliconBased_Icon] Silikon Tabanlı</String>
+  </StringTable>
+  <StringTable>
+    <Label>SiliconBasedAbility_ShortName</Label>
+    <String>Silikon</String>
+  </StringTable>
+  <StringTable>
+    <Label>SiliconBasedAbility_Dec</Label>
+    <String>Silikon yaşam formları kayalardan ve nadir minerallerden inşa edilir. Yiyeceğe ihtiyaçları yoktur, ancak bol miktarda Promethion'a erişemedikleri sürece Büyümeleri yavaştır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>SyntheticLife_Name</Label>
+    <String>[ICON=RaceType_Synthetic_Icon] Sentetik</String>
+  </StringTable>
+  <StringTable>
+    <Label>SyntheticLife_ShortName</Label>
+    <String>Sentetik</String>
+  </StringTable>
+  <StringTable>
+    <Label>SyntheticLife_Dec</Label>
+    <String>Sentetikler hayatta kalmak için yiyeceğe ihtiyaç duymayan ve çeşitli ortamlarda çalışabilen robotik yaşam formlarıdır. Yumuşacık organik türlerin aksine Sentetikler nüfuslarını kendileri üretir ve neredeyse sınırsız bir şekilde büyüyebilirler.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AdaptableAbility_Name</Label>
+    <String>[ICON=RaceTraitSpores] Uyarlanabilir</String>
+  </StringTable>
+  <StringTable>
+    <Label>AdaptableAbility_ShortName</Label>
+    <String>Uyarlanabilir</String>
+  </StringTable>
+  <StringTable>
+    <Label>AdaptableAbility_Dec</Label>
+    <String>Uç dünyaları kolonileştirebilir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AncientAbility_Name</Label>
+    <String>[ICON=RaceTraitInfluential] Kadim</String>
+  </StringTable>
+  <StringTable>
+    <Label>AncientAbility_ShortName</Label>
+    <String>Antik Çağ</String>
+  </StringTable>
+  <StringTable>
+    <Label>AncientAbility_Dec</Label>
+    <String>Öncü Eserlerden ve anomalilerden Araştırma alır. Ek bir Politika yuvası ile başlar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>CartographerAbility_Name</Label>
+    <String>[ICON=Cartographer_Icon] Cartographer</String>
+  </StringTable>
+  <StringTable>
+    <Label>CartographerAbility_ShortName</Label>
+    <String>Haritacı</String>
+  </StringTable>
+  <StringTable>
+    <Label>CartographerAbility_Dec</Label>
+    <String>Diğer ana gezegenlerin yerini bilmeye başlar. Ayrıca uzayın bir bölümünü ortaya çıkaran Boyut Aynası gücünden 3 şarj alırlar ve her Kültür Özelliği kazanıldığında ek bir şarj kazanırlar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>CertainAbility_Name</Label>
+    <String>[ICON=Certain_Icon] Kesin</String>
+  </StringTable>
+  <StringTable>
+    <Label>CertainAbility_ShortName</Label>
+    <String>Kesin</String>
+  </StringTable>
+  <StringTable>
+    <Label>CertainAbility_Dec</Label>
+    <String>Felsefelerinin evrensel olması gerektiğine inanır, artan (+2) etki, özel gezegen iyileştirmeleri. 30 [HS=HS_Research]Bir Kültür Özelliğinin kilidi her açıldığında Araştırma[/HS].</String>
+  </StringTable>
+  <StringTable>
+    <Label>RavenousAbility_Name</Label>
+    <String>[ICON=Ravenous_Icon] Ravenous</String>
+  </StringTable>
+  <StringTable>
+    <Label>RavenousAbility_ShortName</Label>
+    <String>Ravenous</String>
+  </StringTable>
+  <StringTable>
+    <Label>RavenousAbility_Dec</Label>
+    <String>Bir gezegeni fethettikten sonra 25 ay boyunca 1.000 Kredi ve +%10 Onay alır. Ayrıca uzaylıları tüketme ve yeni Festron vatandaşları üretme yeteneği verir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>CyberneticAbility_Name</Label>
+    <String>[ICON=RaceTraitCybernetic] Sibernetik</String>
+  </StringTable>
+  <StringTable>
+    <Label>CyberneticAbility_ShortName</Label>
+    <String>Sibernetik</String>
+  </StringTable>
+  <StringTable>
+    <Label>CyberneticAbility_Dec</Label>
+    <String>Üstün teknolojilerle etkileşime girmekten korkmayan ırklar için daha güçlü teknolojilere ve Geliştirmelere Erişim sağlar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>DevoutAbility_Name</Label>
+    <String>[ICON=Devout_Icon] Dindar</String>
+  </StringTable>
+  <StringTable>
+    <Label>DevoutAbility_ShortName</Label>
+    <String>Dindar</String>
+  </StringTable>
+  <StringTable>
+    <Label>DevoutAbility_Dec</Label>
+    <String>Bir Ruhban vatandaş ve ana gezegenlerinde bir Krynniac Tapınağı ile başlar. Kültür, ideolojilerine her eklediklerinde büyür.</String>
+  </StringTable>
+  <StringTable>
+    <Label>EmpathyAbility_Name</Label>
+    <String>[ICON=Empathy_Icon] Empati</String>
+  </StringTable>
+  <StringTable>
+    <Label>EmpathyAbility_ShortName</Label>
+    <String>Empati</String>
+  </StringTable>
+  <StringTable>
+    <Label>EmpathyAbility_Dec</Label>
+    <String>[HS=HS_Diplomacy]Diplomacy[/HS] +1, [HS=HS_Persuassion]Persuasion[/HS] +15% artırır, [HS=HS_Crime]Crime[/HS] 10%. azaltır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArchaeologistAbility_Name</Label>
+    <String>[ICON=Archaeologist_Icon] Arkeolog</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArchaeologistAbility_ShortName</Label>
+    <String>Arkeolog</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArchaeologistAbility_Dec</Label>
+    <String>Artefakt yükleri her kazanıldığında ek bir yük kazanılır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>EngineersAbility_Name</Label>
+    <String>[ICON=Engineers_Icon] Mühendisler</String>
+  </StringTable>
+  <StringTable>
+    <Label>EngineersAbility_ShortName</Label>
+    <String>Mühendisler</String>
+  </StringTable>
+  <StringTable>
+    <Label>EngineersAbility_Dec</Label>
+    <String>Koloni ve asteroit üretimi normal hızın yarısında azalır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>EntrepreneursAbility_Name</Label>
+    <String>[ICON=Traders_Icon] Tüccarlar</String>
+  </StringTable>
+  <StringTable>
+    <Label>EntrepreneursAbility_ShortName</Label>
+    <String>Tüccarlar</String>
+  </StringTable>
+  <StringTable>
+    <Label>EntrepreneursAbility_Dec</Label>
+    <String>Yük gemisiyle başlar, İkna kabiliyetinde önemli bir artışa sahiptir ve 3 serbest ticaret lisansı alır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ExperiencedAbility_Name</Label>
+    <String>[ICON=Experienced_Icon] Deneyimli</String>
+  </StringTable>
+  <StringTable>
+    <Label>ExperiencedAbility_ShortName</Label>
+    <String>Tecrübeli</String>
+  </StringTable>
+  <StringTable>
+    <Label>ExperiencedAbility_Dec</Label>
+    <String>Tüm Gemiler savaşlardan %25 daha fazla Deneyim Puanı alır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ExplorersAbility_Name</Label>
+    <String>[ICON=RaceTraitExplorers] Yolcular</String>
+  </StringTable>
+  <StringTable>
+    <Label>ExplorersAbility_ShortName</Label>
+    <String>Yolcular</String>
+  </StringTable>
+  <StringTable>
+    <Label>ExplorersAbility_Dec</Label>
+    <String>+2 Gemi Sensör Menzili.[BR]+1 Gemi Hareketleri.</String>
+  </StringTable>
+  <StringTable>
+    <Label>StarfaringAbility_Name</Label>
+    <String>[ICON=RaceTraitExplorers] Yıldız Savaşçısı</String>
+  </StringTable>
+  <StringTable>
+    <Label>StarfaringAbility_ShortName</Label>
+    <String>Yıldız Savaşçılığı</String>
+  </StringTable>
+  <StringTable>
+    <Label>StarfaringAbility_Dec</Label>
+    <String>+25% Gemi Menzili. Altuzay Akışlarını tespit etme ve üzerinde seyahat etme yeteneği ile başlar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>HiveMindAbility_Name</Label>
+    <String>[ICON=HiveMind_Icon] Kovan Aklı</String>
+  </StringTable>
+  <StringTable>
+    <Label>HiveMindAbility_ShortName</Label>
+    <String>Kovan Aklı</String>
+  </StringTable>
+  <StringTable>
+    <Label>HiveMindAbility_Dec</Label>
+    <String>Bölgenizdeki gemiler, kontrol edilen koloni başına ek Hit Puanı kazanır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>HopefulAbility_Name</Label>
+    <String>[ICON=Hopeful_Icon] Umutlu</String>
+  </StringTable>
+  <StringTable>
+    <Label>HopefulAbility_ShortName</Label>
+    <String>Umutlu</String>
+  </StringTable>
+  <StringTable>
+    <Label>HopefulAbility_Dec</Label>
+    <String>Uzay yolculuğu yapabilen her uygarlığın potansiyel bir dost olması gerektiğine inanır. Daha yüksek [HS=HS_Approval]Gezegenlerde onay[/HS].</String>
+  </StringTable>
+  <StringTable>
+    <Label>InspiredAbility_Name</Label>
+    <String>[ICON=Inspired_Icon] İlham verici</String>
+  </StringTable>
+  <StringTable>
+    <Label>InspiredAbility_ShortName</Label>
+    <String>İlham verici</String>
+  </StringTable>
+  <StringTable>
+    <Label>InspiredAbility_Dec</Label>
+    <String>İşe alım için ek bir Lider mevcuttur ve Liderlerin işe alımı %25 daha az maliyetlidir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>LoyalAbility_Name</Label>
+    <String>[ICON=Loyal_Icon] Sadık</String>
+  </StringTable>
+  <StringTable>
+    <Label>LoyalAbility_ShortName</Label>
+    <String>Sadık</String>
+  </StringTable>
+  <StringTable>
+    <Label>LoyalAbility_Dec</Label>
+    <String>Liderlerin hepsi +10 Sadakate sahiptir ve işe alınmaları %25 daha az maliyetlidir. Bir Lider bir Komuta Gemisine atandığında +1 Kültür Puanı.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IntuitiveAbility_Name</Label>
+    <String>[ICON=Intuitive_Icon] Sezgisel</String>
+  </StringTable>
+  <StringTable>
+    <Label>IntuitiveAbility_ShortName</Label>
+    <String>Sezgisel</String>
+  </StringTable>
+  <StringTable>
+    <Label>IntuitiveAbility_Dec</Label>
+    <String>Xeno Antropoloji teknolojilerine erişim ve ücretsiz bir Kültür özelliği ile başlar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ParanoidAbility_Name</Label>
+    <String>[ICON=Paranoid_Icon] Paranoyak</String>
+  </StringTable>
+  <StringTable>
+    <Label>ParanoidAbility_ShortName</Label>
+    <String>Paranoyak</String>
+  </StringTable>
+  <StringTable>
+    <Label>ParanoidAbility_Dec</Label>
+    <String>Gemiler kendi sınırları içindeyken +%25 Vuruş Puanı ve Saldırı alırlar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>PatrioticAbility_Name</Label>
+    <String>[ICON=Bureaucrats_Icon] Bürokratlar</String>
+  </StringTable>
+  <StringTable>
+    <Label>PatrioticAbility_ShortName</Label>
+    <String>Bürokratlar</String>
+  </StringTable>
+  <StringTable>
+    <Label>PatrioticAbility_Dec</Label>
+    <String>50 [HS=HS_Control]Control[/HS] ile başlar ve koordinasyon teknolojilerine erişim sağlar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FertileAbility_Name</Label>
+    <String>[ICON=RaceTraitFertile] Fertile</String>
+  </StringTable>
+  <StringTable>
+    <Label>FertileAbility_ShortName</Label>
+    <String>Bereketli</String>
+  </StringTable>
+  <StringTable>
+    <Label>FertileAbility_Dec</Label>
+    <String>2 ilave işçi ile başlayın ve nüfus %25 daha hızlı artsın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ProliferationAbility_Name</Label>
+    <String>[ICON=Proliferation_Icon] Yayılma</String>
+  </StringTable>
+  <StringTable>
+    <Label>ProliferationAbility_ShortName</Label>
+    <String>Yayılma</String>
+  </StringTable>
+  <StringTable>
+    <Label>ProliferationAbility_Dec</Label>
+    <String>Bir gemi inşa edildiğinde, yerine iki gemi inşa edilir. Ancak tüm gemilerin -25% Vuruş Puanı vardır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ResourcefulAbility_Name</Label>
+    <String>[ICON=RaceTraitEconomical] Becerikli</String>
+  </StringTable>
+  <StringTable>
+    <Label>ResourcefulAbility_ShortName</Label>
+    <String>Becerikli</String>
+  </StringTable>
+  <StringTable>
+    <Label>ResourcefulAbility_Dec</Label>
+    <String>Bazı faydalı Kaynaklarla başlar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>PromethionBornAbility_Name</Label>
+    <String>[ICON=IrkTraitEkonomik] Promethion Doğumlu</String>
+  </StringTable>
+  <StringTable>
+    <Label>PromethionBornAbility_ShortName</Label>
+    <String>Promethion Doğumlu</String>
+  </StringTable>
+  <StringTable>
+    <Label>PromethionBornAbility_Dec</Label>
+    <String>Gemiler normal [HS=HS_HitPoints]Hit Puanlarının[/HS] iki katına sahiptir ancak normal şekilde iyileşmezler.</String>
+  </StringTable>
+  <StringTable>
+    <Label>CrimelordAbility_Name</Label>
+    <String>[ICON=RaceTraitDeceptive] Suç Lordu</String>
+  </StringTable>
+  <StringTable>
+    <Label>CrimelordAbility_ShortName</Label>
+    <String>Suç Lordu</String>
+  </StringTable>
+  <StringTable>
+    <Label>CrimelordAbility_Dec</Label>
+    <String>Korsanlarla müttefik olarak başlar. Ayrıca 'Diğer Yöne Bak' Politikasına, artan [HS=HS_Crime]Crime[/HS] ve Korsan filolarını ve dünyalarını talep etmek için İcra Emirleri ile açılan iyileştirmelere erişim sağlar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>SlaversAbility_Name</Label>
+    <String>[ICON=Slavers_Icon] Köleciler</String>
+  </StringTable>
+  <StringTable>
+    <Label>SlaversAbility_ShortName</Label>
+    <String>Köleciler</String>
+  </StringTable>
+  <StringTable>
+    <Label>SlaversAbility_Dec</Label>
+    <String>Vatandaşlarınızı köleleştirme becerisi kazanın, onaylarını, üretimlerini ve gıda tüketimlerini azaltın. Ama asla protesto etmezler. Köleleştirme Teknolojilerine erişim kazanın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>SporesAbility_Name</Label>
+    <String>[ICON=RaceTraitSpores] Sporlar</String>
+  </StringTable>
+  <StringTable>
+    <Label>SporesAbility_ShortName</Label>
+    <String>Sporlar</String>
+  </StringTable>
+  <StringTable>
+    <Label>SporesAbility_Dec</Label>
+    <String>Hayatı geri getirmek için ölü bir dünyaya sporlar yerleştirme yeteneği ile başlar. Her yeni Kültür Özelliği kazanıldığında bir şarj daha kazanılır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ResilientAbility_Name</Label>
+    <String>[ICON=Resilient_Icon] Esnek</String>
+  </StringTable>
+  <StringTable>
+    <Label>ResilientAbility_ShortName</Label>
+    <String>Esnek</String>
+  </StringTable>
+  <StringTable>
+    <Label>ResilientAbility_Dec</Label>
+    <String>Gemiler nebulaya karşı bağışıktır ve özel Hyperion geliştirmelerine erişimleri vardır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>UnrelentingAbility_Name</Label>
+    <String>[ICON=Unrelenting_Icon] Acımasız</String>
+  </StringTable>
+  <StringTable>
+    <Label>UnrelentingAbility_ShortName</Label>
+    <String>Amansız</String>
+  </StringTable>
+  <StringTable>
+    <Label>UnrelentingAbility_Dec</Label>
+    <String>+10 Kontrol. Gezegenler her ay +1 daha fazla Nüfuz üretir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>UnwaveringAbility_Name</Label>
+    <String>[ICON=Unwavering_Icon] Tereddütsüz</String>
+  </StringTable>
+  <StringTable>
+    <Label>UnwaveringAbility_ShortName</Label>
+    <String>Tereddütsüz</String>
+  </StringTable>
+  <StringTable>
+    <Label>UnwaveringAbility_Dec</Label>
+    <String>Kolonilerin Kültür çevirmesi ve Bozulmamış Ruh teknolojilerine erişimi çok daha zordur.</String>
+  </StringTable>
+  <StringTable>
+    <Label>VigilantAbility_Name</Label>
+    <String>[ICON=RaceTraitVigilant] Uyanık</String>
+  </StringTable>
+  <StringTable>
+    <Label>VigilantAbility_ShortName</Label>
+    <String>Uyanık</String>
+  </StringTable>
+  <StringTable>
+    <Label>VigilantAbility_Dec</Label>
+    <String>Yıldız üslerinin daha geniş Etki Alanları vardır. Herhangi bir yıldız üssünün alanındayken düşman gemileri yavaşlar ve oyuncu gemileri bir saldırı bonusu kazanır. Hareket hızını artıran teknolojileri kullanılabilir hale getirir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>WarProfiteersAbility_Name</Label>
+    <String>[ICON=RaceTraitWarProfiteers] Savaş Vurguncuları</String>
+  </StringTable>
+  <StringTable>
+    <Label>WarProfiteersAbility_ShortName</Label>
+    <String>Savaş Vurguncuları</String>
+  </StringTable>
+  <StringTable>
+    <Label>WarProfiteersAbility_Dec</Label>
+    <String>Savaşan ırklarla kurulan ticaret yollarından %200 bonus alır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>WarriorsAbility_Name</Label>
+    <String>[ICON=Warriors_Icon] Savaşçılar</String>
+  </StringTable>
+  <StringTable>
+    <Label>WarriorsAbility_ShortName</Label>
+    <String>Savaşçılar</String>
+  </StringTable>
+  <StringTable>
+    <Label>WarriorsAbility_Dec</Label>
+    <String>Gemilerine verilen tüm hasarın %10'unu yok sayar. Tüm silahlar %10 daha fazla hasar verir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>WealthyAbility_Name</Label>
+    <String>[ICON=Wealthy_Icon] Wealthy</String>
+  </StringTable>
+  <StringTable>
+    <Label>WealthyAbility_ShortName</Label>
+    <String>Zengin</String>
+  </StringTable>
+  <StringTable>
+    <Label>WealthyAbility_Dec</Label>
+    <String>2000 daha fazla kredi ve Evrensel Çevirmen teknolojisi ile başlar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>XenophobicAbility_Name</Label>
+    <String>[ICON=Xenophobic_Icon] Xenophobic</String>
+  </StringTable>
+  <StringTable>
+    <Label>XenophobicAbility_ShortName</Label>
+    <String>Yabancı Düşmanı</String>
+  </StringTable>
+  <StringTable>
+    <Label>XenophobicAbility_Dec</Label>
+    <String>+%50 Araştırma, -%75 Etki ve -3 Diplomasi.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ColonyStartingFleet_Name</Label>
+    <String>[ICON=ColonyShip_Icon] Koloni Filosu</String>
+  </StringTable>
+  <StringTable>
+    <Label>ColonyStartingFleet_ShortName</Label>
+    <String>Koloni Filosu</String>
+  </StringTable>
+  <StringTable>
+    <Label>ColonyStartingFleet_Dec</Label>
+    <String>Yeni dünyaları hızla bulmak ve kolonileştirmek için iki Koloni Gemisi ile başlar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ScoutingFleet_Name</Label>
+    <String>[ICON=ColonyShip_Icon] Gözcü Filosu</String>
+  </StringTable>
+  <StringTable>
+    <Label>ScoutingFleet_ShortName</Label>
+    <String>Gözcü Filosu</String>
+  </StringTable>
+  <StringTable>
+    <Label>ScoutingFleet_Dec</Label>
+    <String>Bir koloni gemisi ve üç sonda ile başlar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ColonyStartingShip_Name</Label>
+    <String>[ICON=ColonyShip_Icon] Koloni Gemisi</String>
+  </StringTable>
+  <StringTable>
+    <Label>ColonyStartingShip_ShortName</Label>
+    <String>Koloni Gemisi</String>
+  </StringTable>
+  <StringTable>
+    <Label>ColonyStartingShip_Dec</Label>
+    <String>Yeni dünyaları hızla bulup kolonileştirmek için bir Koloni Gemisi ve sonda ile başlar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ConstructorsStartingShip_Name</Label>
+    <String>[ICON=Constructor_Icon] Kurucular</String>
+  </StringTable>
+  <StringTable>
+    <Label>ConstructorsStartingShip_ShortName</Label>
+    <String>İnşaatçılar</String>
+  </StringTable>
+  <StringTable>
+    <Label>ConstructorsStartingShip_Dec</Label>
+    <String>Galaktik kaynaklara hızla ulaşmaya başlayan iki İnşaatçı ile başlayın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ScoutsStartingShip_Name</Label>
+    <String>[ICON=Scout_Icon] İzciler</String>
+  </StringTable>
+  <StringTable>
+    <Label>ScoutsStartingShip_ShortName</Label>
+    <String>İzciler</String>
+  </StringTable>
+  <StringTable>
+    <Label>ScoutsStartingShip_Dec</Label>
+    <String>Galaksiyi hızla keşfeden üç küçük Sondayla başlayın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>SurveyStartingShip_Name</Label>
+    <String>[ICON=SurveyShip_Icon] Bayrak Gemisi</String>
+  </StringTable>
+  <StringTable>
+    <Label>SurveyStartingShip_ShortName</Label>
+    <String>Bayrak Gemisi</String>
+  </StringTable>
+  <StringTable>
+    <Label>SurveyStartingShip_Dec</Label>
+    <String>Galaksiyi keşfeden ve değerli Anomalileri araştıran bir Bayrak Gemisi ile başlayın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>DisableRepairAbility_Name</Label>
+    <String>Onarımı Devre Dışı Bırak</String>
+  </StringTable>
+  <StringTable>
+    <Label>DisableRepairAbility_ShortName</Label>
+    <String>Onarımı Devre Dışı Bırak</String>
+  </StringTable>
+  <StringTable>
+    <Label>DisableRepairAbility_Dec</Label>
+    <String>Bu uygarlık normal şekilde onarılamaz.</String>
+  </StringTable>
+  <StringTable>
+    <Label>StartingIdeology_Totalitarianism_Name</Label>
+    <String>[ICON=Authority_Icon] Totalitarizm</String>
+  </StringTable>
+  <StringTable>
+    <Label>StartingIdeology_Totalitarianism_ShortName</Label>
+    <String>Totalitarizm</String>
+  </StringTable>
+  <StringTable>
+    <Label>StartingIdeology_Totalitarianism_Dec</Label>
+    <String>Kamusal ve özel yaşamın tüm yönlerinin tek bir otoritenin yönetimi altında olduğu, devlet tarafından mutlak güç ve kontrole inanır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>StartingIdeology_Pacifism_Name</Label>
+    <String>[ICON=Calm_Icon] Pasifizm</String>
+  </StringTable>
+  <StringTable>
+    <Label>StartingIdeology_Pacifism_ShortName</Label>
+    <String>Pasifizm</String>
+  </StringTable>
+  <StringTable>
+    <Label>StartingIdeology_Pacifism_Dec</Label>
+    <String>Savaşa ve şiddete karşı çıkar, çatışmaların barışçıl müzakereler ve karşılıklı saygı yoluyla çözülmesini savunur.</String>
+  </StringTable>
+  <StringTable>
+    <Label>StartingIdeology_Collectivism_Name</Label>
+    <String>[ICON=Harmony_Icon] Kolektivizm</String>
+  </StringTable>
+  <StringTable>
+    <Label>StartingIdeology_Collectivism_ShortName</Label>
+    <String>Kolektivizm</String>
+  </StringTable>
+  <StringTable>
+    <Label>StartingIdeology_Collectivism_Dec</Label>
+    <String>Genellikle ortak sorumluluk ve kolektif eyleme odaklanarak, bireysel çıkarlar yerine grup, topluluk veya topluma öncelik verilmesine inanır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>StartingIdeology_Progressivism_Name</Label>
+    <String>[ICON=Innovation_Icon] İlerlemecilik</String>
+  </StringTable>
+  <StringTable>
+    <Label>StartingIdeology_Progressivism_ShortName</Label>
+    <String>İlerlemecilik</String>
+  </StringTable>
+  <StringTable>
+    <Label>StartingIdeology_Progressivism_Dec</Label>
+    <String>Sosyal reform ve yeni fikirlerin savunucuları. İlericiler genellikle değişime açıktır ve yenilik ve reform yoluyla sosyal eşitsizlikleri ve adaletsizlikleri ele almaya çalışırlar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>StartingIdeology_Individualism_Name</Label>
+    <String>[ICON=Liberty_Icon] Bireycilik</String>
+  </StringTable>
+  <StringTable>
+    <Label>StartingIdeology_Individualism_ShortName</Label>
+    <String>Bireycilik</String>
+  </StringTable>
+  <StringTable>
+    <Label>StartingIdeology_Individualism_Dec</Label>
+    <String>Bireysel hakların, kişisel özgürlüğün ve kendine güvenin, genellikle topluluk veya toplumun ihtiyaç ve çıkarlarından daha öncelikli olduğuna inanır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>StartingIdeology_Nihilism_Name</Label>
+    <String>[ICON=Secrecy_Icon] Nihilizm</String>
+  </StringTable>
+  <StringTable>
+    <Label>StartingIdeology_Nihilism_ShortName</Label>
+    <String>Nihilizm</String>
+  </StringTable>
+  <StringTable>
+    <Label>StartingIdeology_Nihilism_Dec</Label>
+    <String>Yaşamın özünde var olan anlam veya değerin reddine veya inkârına inanır. Başkalarına acı çektirmek geçerli bir amaçtır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>StartingIdeology_Traditionalism_Name</Label>
+    <String>[ICON=Tradition_Icon] Gelenekselcilik</String>
+  </StringTable>
+  <StringTable>
+    <Label>StartingIdeology_Traditionalism_ShortName</Label>
+    <String>Gelenekçilik</String>
+  </StringTable>
+  <StringTable>
+    <Label>StartingIdeology_Traditionalism_Dec</Label>
+    <String>Bu felsefe tarihsel sürekliliğe değer verir ve zaman içinde süregelen geleneklerin, uygulamaların ve kurumların önemini vurgular. Gelenekçiler genellikle hızlı sosyal değişime direnir ve kültürel mirasa derin bir saygı duyarlar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>StartingIdeology_Egalitarianism_Name</Label>
+    <String>[ICON=Egalitarianism_Icon] Eşitlikçilik</String>
+  </StringTable>
+  <StringTable>
+    <Label>StartingIdeology_Egalitarianism_ShortName</Label>
+    <String>Eşitlikçilik</String>
+  </StringTable>
+  <StringTable>
+    <Label>StartingIdeology_Egalitarianism_Dec</Label>
+    <String>Tüm hissedebilen varlıkların temel eşitliğine inanır, tür, köken gezegen veya diğer özelliklerden bağımsız olarak eşit hak ve fırsatları savunur.</String>
+  </StringTable>
+  <StringTable>
+    <Label>CraftsmanAbility_Name</Label>
+    <String>[ICON=Craftsman_Icon] Craftsman</String>
+  </StringTable>
+  <StringTable>
+    <Label>CraftsmanAbility_ShortName</Label>
+    <String>Zanaatkar</String>
+  </StringTable>
+  <StringTable>
+    <Label>CraftsmanAbility_Dec</Label>
+    <String>Ticaret Yollarından +%50 Gelir</String>
+  </StringTable>
+  <StringTable>
+    <Label>TelepathyAbility_Name</Label>
+    <String>[ICON=Intuitive_Icon] Telepati</String>
+  </StringTable>
+  <StringTable>
+    <Label>TelepathyAbility_ShortName</Label>
+    <String>Telepati</String>
+  </StringTable>
+  <StringTable>
+    <Label>TelepathyAbility_Dec</Label>
+    <String>Bir gezegendeki tüm vatandaşların zihnine iyi ya da kötü düşünceler yerleştirmek için telepatik icra emirleri kullanabilir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AmmoniaBasedAbility_Name</Label>
+    <String>[ICON=RaceType_AmmoniaBased_Icon] Amonyak Bazlı</String>
+  </StringTable>
+  <StringTable>
+    <Label>AmmoniaBasedAbility_ShortName</Label>
+    <String>Amonyak</String>
+  </StringTable>
+  <StringTable>
+    <Label>AmmoniaBasedAbility_Dec</Label>
+    <String>Amonyak yaşam formları uçucu gazlar ve karmaşık azot bileşikleriyle gelişir. Besin tüketmelerine rağmen, kirleticiler açısından zengin ortamlarda büyüme hızları önemli ölçüde artar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>WatcherAbility_Name</Label>
+    <String>[ICON=Watcher_Icon] Watcher</String>
+  </StringTable>
+  <StringTable>
+    <Label>WatcherAbility_ShortName</Label>
+    <String>Dikkatli</String>
+  </StringTable>
+  <StringTable>
+    <Label>WatcherAbility_Dec</Label>
+    <String>Kozmik Göz Yönetici Emri verir. Kozmik Göz galaksinin bir bölümünü açığa çıkarabilir ve başka bir oyuncunun gezegeninde kullanıldığında ek araştırma veya yeni bir teknoloji verir. [BR][BR]+5 [HS=HS_SensorRange]Sensor Range[/HS] for Planets.[BR]+1 [HS=HS_SensorRange]Sensor Range[/HS] for Ships and Starbases.</String>
+  </StringTable>
+  <StringTable>
+    <Label>RadiatedAbility_Name</Label>
+    <String>[ICON=Radiated_Icon] Yayılan</String>
+  </StringTable>
+  <StringTable>
+    <Label>RadiatedAbility_ShortName</Label>
+    <String>Yayılan</String>
+  </StringTable>
+  <StringTable>
+    <Label>RadiatedAbility_Dec</Label>
+    <String>Radyoaktif Dünyaları kolonileştirebilir. Birkaç ay sonra [HS=HS_ArtifactPollutionBomb]Abhorent Infection[/HS] Yönetici Emri kazanır. [BR][BR][HS=HS_ArtifactPollutionBomb]Abhorent Infection[/HS] hedef gezegendeki [HS=HS_Pollution]Pollution[/HS] seviyesini yükseltir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>NocturnalAbility_Name</Label>
+    <String>[ICON=Nocturnal_Icon] Nocturnal</String>
+  </StringTable>
+  <StringTable>
+    <Label>NocturnalAbility_ShortName</Label>
+    <String>Gece</String>
+  </StringTable>
+  <StringTable>
+    <Label>NocturnalAbility_Dec</Label>
+    <String>Her biri 15 ay süren döngüler halinde çalışmak üzere geliştirilmiştir.[BR][BR]Uyanma Sezonu: [HS=HS_Üretim]Üretim[/HS] ve [HS=HS_Büyüme]Büyüme[/HS] artırılır.[BR]Rüya Görme Sezonu: [HS=HS_Araştırma]Araştırma[/HS] ve [HS=HS_Etki]Etki[/HS] artırılır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>NocturnalAbility_SeasonOfWakingTitle</Label>
+    <String>Uyanma Mevsimi</String>
+  </StringTable>
+  <StringTable>
+    <Label>NocturnalAbility_SeasonOfDreamingTitle</Label>
+    <String>Hayal Kurma Mevsimi</String>
+  </StringTable>
+  <StringTable>
+    <Label>NocturnalAbility_SeasonOfWakingTitle_Format</Label>
+    <String>Uyanma Mevsimi ({AMOUNT} Kalan Aylar)</String>
+  </StringTable>
+  <StringTable>
+    <Label>NocturnalAbility_SeasonOfDreamingTitle_Format</Label>
+    <String>Hayal Kurma Mevsimi {AMOUNT} Kalan Aylar)</String>
+  </StringTable>
+  <StringTable>
+    <Label>NocturnalAbility_SeasonOfWakingDescription</Label>
+    <String>Her biri 15 ay süren döngüler halinde çalışmak üzere geliştirilmiştir. [BR][BR]Uyanma Mevsimi: [HS=HS_Manufacturing]Manufacturing[/HS] ve [HS=HS_Growth]Growth[/HS] artırılır. [BR][BR]{AMOUNT} kalan aylar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>NocturnalAbility_SeasonOfDreamingDescription</Label>
+    <String>Her biri 15 ay süren döngüler halinde çalışmak üzere geliştirilmiştir.[BR][BR]Rüya Görme Mevsimi: [HS=HS_Research]Araştırma[/HS] ve [HS=HS_Influence]Etki[/HS] artırılır. [BR][BR]{AMOUNT} kalan aylar.</String>
+  </StringTable>
+</StringTableList>

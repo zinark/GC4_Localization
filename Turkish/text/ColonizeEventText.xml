@@ -1,0 +1,1938 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<StringTableList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+  <!-- Created with the GalCiv 4 Event Editor -->
+  <!-- ColonizeEventsText.xml -->
+  <!-- Event Names and Descriptions -->
+  <StringTable>
+    <Label>Event_Pods_Name</Label>
+    <String>Bölmeler</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Pods_Dec</Label>
+    <String>Gözcülerimiz {PLANETNAME}'nin önemli bir bölümünde bilinçli kapsül benzeri yaratıkların yaşadığını bildiriyor. Bu kapsüller diğer duyarlı yaşamlarla bağ kuruyor. Bu kapsüller tarafından bağlananlar yüksek bir zekâya sahip olurken aynı zamanda endişe verici bir ahlak eksikliği de sergiliyorlar. Emirleriniz nedir?</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Pods_Title</Label>
+    <String>Kolonileştirme Etkinliği</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Pods_Liberty_Bonus_Name</Label>
+    <String>Mükemmel! Sömürgecilerimizin bu kapsüllerle 'tanıştırılması' gerekiyor.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Pods_Liberty_Bonus_Dec</Label>
+    <String>Kolonist Enfekte Oluyor</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Pods_Equality_Bonus_Name</Label>
+    <String>Kapsülleri yok edin, kolonimizin sağlığını riske atmak istemeyiz.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Pods_Equality_Bonus_Dec</Label>
+    <String>+1 Kullanılabilir Karo</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Pods_Authority_Bonus_Name</Label>
+    <String>İnsanlarımızı bu şeylerden uzak tutun. Kimse acı içinde yaşamak zorunda kalmamalı.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_PodsAuthority_String1</Label>
+    <String>Onay</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_FragileCrust_Name</Label>
+    <String>Kırılgan Kabuk</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_FragileCrust_Dec</Label>
+    <String>{PLANETNAME}'nin yüzeyinde sürünen iğrenç miktarda organik yaşam var. Burası mükemmel formlarımız için uygun olmayan bir çürüme ve çöplük yeri. Gezegenin kabuğu boyunca devasa bir fay hattı uzanıyor. Danışmanlarımız, iyi yerleştirilmiş birkaç patlamanın bu organik atıkları temizleyebileceğini ve gezegenin daha fazla zenginliğini toplamak için ortaya çıkarabileceğini öne sürüyor. Emirleriniz nedir?</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_FragileCrust_Title</Label>
+    <String>Kolonileştirme Etkinliği</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_FragileCrust_Liberty_Bonus_Name</Label>
+    <String>Organik istilayı temizleyin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_FragileCrustLiberty_String1</Label>
+    <String>Zenginlik</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_FragileCrust_Equality_Bonus_Name</Label>
+    <String>Hayır, dünyayı parçalamayın. Bunun yerine onu bizim kullanımımız için dönüştürün.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_FragileCrust_Equality_Bonus_Dec</Label>
+    <String>+2 Kullanılabilir Karo</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_FragileCrust_Authority_Bonus_Name</Label>
+    <String>Gezegene zarar vermeyin, tüm yaşam kutsaldır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_CausticVapors_Name</Label>
+    <String>Kostik Buharlar</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_CausticVapors_Dec</Label>
+    <String>{PLANETNAME} sıkışmış yeraltı gazlarının geniş rezervlerine sahiptir. Zaman zaman patlarlar ve şehir büyüklüğündeki alanları gri külle kaplarlar. Buharlar, etkilenen bölgedeki tüm oksijeni dışarı itecek ve çoğu organik yaşamı öldürecek kadar ağırdır. Neyse ki buharların bizim üzerimizde çok az etkisi var ve organik yaşamın çoğalmasına karşı makul bir önlem gibi görünüyor. Emirleriniz nedir?</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_CausticVapors_Title</Label>
+    <String>Kolonileştirme Etkinliği</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_CausticVapors_Liberty_Bonus_Name</Label>
+    <String>Kolonimizi buhar gayzerlerinden birinin yakınına yerleştirin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_CausticVaporsLiberty_String1</Label>
+    <String>DirençBonusu</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_CausticVapors_Equality_Bonus_Name</Label>
+    <String>En büyük gayzerleri patlatın ve dünyayı buharla doldurun.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_CausticVaporsEquality_String1</Label>
+    <String>DirençBonusu</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_CausticVapors_Authority_Bonus_Name</Label>
+    <String>Dünyanın organik yaşamı daha iyi sürdürebilmesi için buhar gayzerlerini kapatın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_SentientPlanet_Name</Label>
+    <String>Sentient Planet</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_SentientPlanet_Dec</Label>
+    <String>Başlangıçta bir ağaç kümesi zannettiğiniz küçük bir uzaylı grubu burada yaşıyor. {PLANETNAME} ile konuşabildiklerini iddia ediyorlar. Size nasıl olduğunu göstermeyi teklif ediyorlar. Gezegen günlük işlerinizle ilgilenmiyor gibi görünse de, onunla daha fazla iletişim kurmak mümkün olabilir. Emirleriniz nedir?</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_SentientPlanet_Title</Label>
+    <String>Kolonileştirme Etkinliği</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_SentientPlanet_Liberty_Bonus_Name</Label>
+    <String>Gezegenle iletişim kurmaya başlayın, onunla en iyi nasıl uyum içinde yaşayabileceğinizi sorun.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_SentientPlanetLiberty_String1</Label>
+    <String>Doğurganlık</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_SentientPlanet_Equality_Bonus_Name</Label>
+    <String>Uzaylıları koloninize katılmaya davet edin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_SentientPlanet_Equality_Bonus_Dec</Label>
+    <String>Özgür Baratak kolonisti</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_SentientPlanet_Authority_Bonus_Name</Label>
+    <String>Sırlarını açıklamadığı takdirde gezegeni derin çekirdek madenciliği ile tehdit edin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_SentientPlanetAuthority_String1</Label>
+    <String>Zenginlik</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Earthquakes_Name</Label>
+    <String>Depremler</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Earthquakes_Dec</Label>
+    <String>{PLANETNAME} düzenli depremler ve volkanik patlamalarla tektonik olarak aktiftir. Bunun iyi tarafı, çok sayıda değerli mineralin yüzeye çıkması ve buradan çok daha kolay çıkarılabilmesidir. Dezavantajı ise, lavlar yüzünden birçok insanın ölmesi. Mühendisleriniz depremleri durdurmak için yerkabuğunu stabilize edebileceklerini düşünüyor, ancak bunun uygulanıp uygulanmayacağına henüz karar verilmedi. Emirleriniz nedir?</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Earthquakes_Title</Label>
+    <String>Kolonileştirme Etkinliği</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Earthquakes_Liberty_Bonus_Name</Label>
+    <String>İnsanlarımızın güvenliğini riske atamayız. Kabuğu stabilize edin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_EarthquakesLiberty_String1</Label>
+    <String>Krediler</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Earthquakes_Equality_Bonus_Name</Label>
+    <String>İnsanları en güvenli yapılara taşıyın. Sonra da madencilik çalışmalarımızı hızlandıralım.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_EarthquakesEquality_String1</Label>
+    <String>Zenginlik</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Earthquakes_Authority_Bonus_Name</Label>
+    <String>Bu koloni artık bir maden kampı ve herkes bununla başa çıkabilir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_EarthquakesAuthority_String1</Label>
+    <String>Büyüme</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_EarthquakesAuthority_String2</Label>
+    <String>Zenginlik</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Swamped_Name</Label>
+    <String>Bataklık</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Swamped_Dec</Label>
+    <String>{PLANETNAME}'ye indiğinizde, buranın daha önce iskân edilmiş olduğunu hemen fark edersiniz. Kuzey buzunun altında kaşifler, savaşta düşman gemilerinin kalkan gücünü azaltacak aktif bir Süzme Alanı modülüne sahip harap bir yıldız gemisi buldular. Kolonicileriniz modülü çıkarabileceklerine inanıyor, ancak ortaya çıkan erime gezegendeki ekilebilir arazilerin çoğunu sular altında bırakacak; iklim değişikliği benzersiz yerli türlerin çoğunu öldürecek. Emirleriniz nedir?</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Swamped_Title</Label>
+    <String>Kolonileştirme Etkinliği</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Swamped_Liberty_Bonus_Name</Label>
+    <String>Gemiyi gömülü bırakın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Swamped_Equality_Bonus_Name</Label>
+    <String>Yerli türler için toprak ayırın. Gemiyi gömülü bırakın ama teknolojisini inceleyin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_SwampedEquality_String1</Label>
+    <String>Teknoloji</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Swamped_Authority_Bonus_Name</Label>
+    <String>Evrende zaten çok fazla yaşam var ve bu modül ordumuza yardımcı olabilir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Swamped_Authority_Bonus_Dec</Label>
+    <String>Ücretsiz Süzme Sahası gemi yükseltmesi</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_SwampedAuthority_String1</Label>
+    <String>PlanetTilesAvailable</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Ruins_Name</Label>
+    <String>Harabeler</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Ruins_Dec</Label>
+    <String>{PLANETNAME}'yi işgal eden ilkel tür bir zamanlar teknolojik olarak çok daha ileriydi ve birkaç yüz yıl önce bir tür nükleer savaşta kazara uygarlıklarını mahvetti. Aktif bir füze savunma sistemine sahip bir sığınak dışında harabe şehirler gezegeni kaplıyor. Ama yerliler bu sığınağı kutsal sayıyor ve ondan uzak durmamızda ısrar ediyorlar. Emirleriniz nedir?</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Ruins_Title</Label>
+    <String>Kolonileştirme Etkinliği</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Ruins_Liberty_Bonus_Name</Label>
+    <String>Ölülere saygı gösterin ve sığınağı yasak bölge ilan edin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_RuinsLiberty_String1</Label>
+    <String>PlanetTilesAvailable</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_RuinsLiberty_String2</Label>
+    <String>Onay</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Ruins_Equality_Bonus_Name</Label>
+    <String>Sığınağı etkinleştirin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Ruins_Equality_Bonus_Dec</Label>
+    <String>Ücretsiz Garrison iyileştirmesi</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Ruins_Authority_Bonus_Name</Label>
+    <String>Sığınağı kazın ve füze savunma sistemini ele geçirin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Ruins_Authority_Bonus_Dec</Label>
+    <String>Ücretsiz Nokta Bozulması gemi yükseltmesi</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_RuinsAuthority_String1</Label>
+    <String>Onay</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_SmartPlants_Name</Label>
+    <String>Akıllı Bitkiler</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_SmartPlants_Dec</Label>
+    <String>{PLANETNAME} üzerindeki bitki yaşamının çoğunun feromonlar aracılığıyla birbirleriyle iletişim kurduğuna ve aslında bilinçli olabileceğine dair önemli kanıtlar var. Ne yazık ki bizim için, bitkilerin en zekileri kolonileşme için ayırdığımız en verimli toprakları tercih ediyor gibi görünüyor. Emirleriniz nedir?</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_SmartPlants_Title</Label>
+    <String>Kolonileştirme Etkinliği</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_SmartPlants_Liberty_Bonus_Name</Label>
+    <String>Bitkilerle iletişim kurmaya çalışın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_SmartPlants_Liberty_Bonus_Dec</Label>
+    <String>İkna kontrolü: {STATCHANCE}% başarı şansı</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_SmartPlants_Equality_Bonus_Name</Label>
+    <String>Eğer duyarlı bir yaşam varsa, onu kesmeyeceğiz.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_SmartPlantsEquality_String1</Label>
+    <String>PlanetTilesAvailable</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_SmartPlants_Authority_Bonus_Name</Label>
+    <String>Kolonistlerimizi beslemeliyiz. Bitkileri köklerinden sök.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_SmartPlantsAuthority_String1</Label>
+    <String>Doğurganlık</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_SmartPlantsSuccess_Name</Label>
+    <String>Akıllı Bitkiler - Başarı</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_SmartPlantsSuccess_Dec</Label>
+    <String>Bilim adamlarımız {PLANETNAME} üzerindeki bitkilerle iletişim kurmayı başardılar. Bitkiler hakkında imparatorluğumuzda uygulayabileceğimiz çok şey öğrendik.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_SmartPlantsSuccess_Liberty_Bonus_Name</Label>
+    <String>Bitti</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_SmartPlantsSuccessLiberty_String1</Label>
+    <String>GıdaGelir</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_SmartPlantsFail_Name</Label>
+    <String>Akıllı Bitkiler - Başarısız</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_SmartPlantsFail_Dec</Label>
+    <String>{PLANETNAME} üzerindeki bitkilerle iletişim kurma çabalarımız bir şekilde onları rahatsız etti. Yaşadıkları alanlar gibi onlar da tepki olarak soldular.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_SmartPlantsFail_Liberty_Bonus_Name</Label>
+    <String>Bitti</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_SmartPlantsFailLiberty_String1</Label>
+    <String>Doğurganlık</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Worms_Name</Label>
+    <String>Solucanlar</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Worms_Dec</Label>
+    <String>Kolonimizin {PLANETNAME} üzerindeki konumu, görünüşe göre devasa, bina büyüklüğünde bir solucan türünün başlıca avlanma alanı. Burası gezegendeki en verimli topraklar, bu yüzden mecbur kalmadıkça taşınmak istemiyoruz. Ama öte yandan, devasa bina büyüklüğünde solucanlar. Emirleriniz nedir?</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Worms_Title</Label>
+    <String>Kolonileştirme Etkinliği</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Worms_Liberty_Bonus_Name</Label>
+    <String>Mega-faunayı koruyun, istilacılar için sürpriz olacaktır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_WormsLiberty_String1</Label>
+    <String>PlanetTilesAvailable</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_WormsLiberty_String2</Label>
+    <String>DirençBonusu</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Worms_Equality_Bonus_Name</Label>
+    <String>Solucanlar önce gelmiş olabilir ama bizim daha büyük silahlarımız var. Onları temizleyin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_WormsEquality_String1</Label>
+    <String>Doğurganlık</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Worms_Authority_Bonus_Name</Label>
+    <String>İki kelime: Solucan Rodeosu.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_WormsAuthority_String1</Label>
+    <String>Onay</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_WormsAuthority_String2</Label>
+    <String>KoloniBrütGelir</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_StrangeFungus_Name</Label>
+    <String>Garip Mantar</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_StrangeFungus_Dec</Label>
+    <String>{PLANETNAME}'deki garip bir mantar kolonistlerimize ilaçlarımıza karşı bağışıklığı olan bir hastalık bulaştırmaya başladı. Doktorlarımız semptomları kolayca tedavi edebilse de, bir tedavi bulma umutları yok ve bulaşma riski yüksek. Bizi etkileyen bu hastalıkla kolonimiz asla tam büyüme potansiyelini göremeyecek. Bazıları koloninin geri kalanını korumak için hastalıklı olanları itlaf etmemiz gerektiğini savunuyor. Diğerleri, özellikle de hastalıklı olanlar, buna karşı çıkıyor. Emirleriniz nedir?</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_StrangeFungus_Title</Label>
+    <String>Kolonileştirme Etkinliği</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_StrangeFungus_Liberty_Bonus_Name</Label>
+    <String>Kimseyi itlaf etmeyin. Asla bir tedavi bulamasak bile, canavara dönüşmeyeceğiz.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_StrangeFungus_Liberty_Bonus_Dec</Label>
+    <String>Kolonicilerin Başına Bela Açıldı</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_StrangeFungus_Equality_Bonus_Name</Label>
+    <String>Hastalığı taşıyan kişileri karantinaya alın ve üremelerini engelleyin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_StrangeFungusEquality_String1</Label>
+    <String>Büyüme</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_StrangeFungus_Authority_Bonus_Name</Label>
+    <String>Onları itlaf edin. Torunlarımız bunu yapacak cesarete sahip olduğumuz için bize teşekkür edecekler.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_StrangeFungusAuthority_String1</Label>
+    <String>Onay</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_High-GAnimalRacing_Name</Label>
+    <String>Yüksek G Hayvan Yarışı</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_High-GAnimalRacing_Dec</Label>
+    <String>{PLANETNAME}'deki koloniciler yerel bir tür olan bodur, dört ayaklı hayvanları yetiştirmeye ve yarıştırmaya başladılar. Dünyanın sert yerçekimi yarışları özellikle yorucu hale getiriyor ve yaralı hayvanların görüntüleri galaksinin dört bir yanındaki hayvan hakları aktivistlerinin bu barbarca uygulamanın durdurulmasını talep etmesine neden oldu. Ama bu yerel kültürün büyük bir parçası haline geldi ve yarışları sona erdirirsek koloniciler mutlu olmayacak. Emirleriniz nedir?</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_High-GAnimalRacing_Title</Label>
+    <String>Kolonileştirme Etkinliği</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_High-GAnimalRacing_Liberty_Bonus_Name</Label>
+    <String>Elbette, diğer yaşam biçimlerine karşı zalimliği akla getiren her şeyi durdurmalıyız.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_High-GAnimalRacingLiberty_String1</Label>
+    <String>Onay</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_High-GAnimalRacing_Equality_Bonus_Name</Label>
+    <String>Herkesin yarışların keyfini çıkarabilmesi için görüntüleri medeniyetimize aktarın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_High-GAnimalRacing_Authority_Bonus_Name</Label>
+    <String>Bunun arkasındaki adamı tanıtın. Zayıfları sömürmek imparatorluğumuzun temelidir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_High-GAnimalRacing_Authority_Bonus_Dec</Label>
+    <String>Bir Lider bize katılıyor</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_AlienCulturalTrash_Name</Label>
+    <String>Uzaylı Kültür Çöpleri</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_AlienCulturalTrash_Dec</Label>
+    <String>{PLANETNAME} bir zamanlar, bin yıl önce ortadan kaybolan yabancı bir uygarlığın eviydi. Teknolojilerinin hiçbiri yeni olmamasına rağmen, eğlence ürünlerinin çoğu bozulmadan kalmıştır ve kolonistlerin büyük ilgisini çekmektedir. Ne yazık ki bu şovların ve programların neredeyse tamamı inanılmaz derecede çocukça ve çocuksu, orifislerle ilgili talihsiz miktarda şaka içeriyor. Koloninin işyerleri artık üretkenliği azaltan eşek şakalarıyla dolu. Emirleriniz nedir?</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_AlienCulturalTrash_Title</Label>
+    <String>Kolonileştirme Etkinliği</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_AlienCulturalTrash_Liberty_Bonus_Name</Label>
+    <String>Onları rahat bırakın. Onlar kendi kararlarını verebilecek yetişkinler.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_AlienCulturalTrashLiberty_String1</Label>
+    <String>Onay</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_AlienCulturalTrashLiberty_String2</Label>
+    <String>MaxManufacturing</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_AlienCulturalTrash_Equality_Bonus_Name</Label>
+    <String>En azından bu çöpü açık pazarda dağıtmayı deneyelim.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_AlienCulturalTrashEquality_String1</Label>
+    <String>Onay</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_AlienCulturalTrashEquality_String2</Label>
+    <String>MaxManufacturing</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_AlienCulturalTrashEquality_String3</Label>
+    <String>KoloniBrütGelir</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_AlienCulturalTrash_Authority_Bonus_Name</Label>
+    <String>Çöpleri yasaklayın, sonra da herkese bir ders vermek için bir süre kahkaha atın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_AlienCulturalTrashAuthority_String1</Label>
+    <String>Onay</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_AggressiveNatives_Name</Label>
+    <String>Agresif Yerliler</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_AggressiveNatives_Dec</Label>
+    <String>{PLANETNAME}'nin ormanlarında ve tepelerinde saldırgan bir dört ayaklı türü yaşıyor. Kendileriyle iletişim kurma çabalarınıza direndiler ve geldiğinizden beri koloninize acımasızca saldırdılar. Askeri açıdan sizin için gerçek bir tehdit oluşturmasalar da, korumasız sivilleri taciz edebilir ve kolayca katledebilirler. Katliam riskinin sıfır olmadığı durumlarda sıklıkla olduğu gibi, kolonistler arasında moral düşük. Emirleriniz nedir?</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_AggressiveNatives_Title</Label>
+    <String>Kolonileştirme Etkinliği</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_AggressiveNatives_Liberty_Bonus_Name</Label>
+    <String>Bu yaratıkların yaşadığı toprakları izole edin. Bu dünyayı paylaşabiliriz.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_AggressiveNativesLiberty_String1</Label>
+    <String>PlanetTilesAvailable</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_AggressiveNatives_Equality_Bonus_Name</Label>
+    <String>Sertleşin. Koloniciler risklerle yüzleşmeye hazır olmalıdır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_AggressiveNativesEquality_String1</Label>
+    <String>Büyüme</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_AggressiveNativesEquality_String2</Label>
+    <String>DirençBonusu</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_AggressiveNatives_Authority_Bonus_Name</Label>
+    <String>İstilalarımız için bu yaratıkları yakalayın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_AggressiveNativesAuthority_String1</Label>
+    <String>Büyüme</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_AggressiveNativesAuthority_String2</Label>
+    <String>Askerlik</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_AggressiveNatives2_Name</Label>
+    <String>Agresif Yerliler</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_AggressiveNatives2_Dec</Label>
+    <String>{PLANETNAME}'deki yerli dört ayaklıları izole etmemiz başarısız oldu. Bir şekilde hapsedildikleri yerden kaçtılar ve kolonimize saldırdılar. Hayatta kalanlar bu saldırıyı asla unutmayacaklar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_AggressiveNatives2_Title</Label>
+    <String>Kolonileştirme Etkinliği</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_AggressiveNatives2_Liberty_Bonus_Name</Label>
+    <String>Bitti</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_AggressiveNatives2_Liberty_Bonus_Dec</Label>
+    <String>Vatandaşlar bu gezegende Travmatize oluyor</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Haunted_Name</Label>
+    <String>Perili</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Haunted_Dec</Label>
+    <String>{PLANETNAME} koloniciler çeşitli garip rahatsızlıklar bildirmektedir: Kendi kendine açılıp kapanan kapılar, geceleri garip ışıklar; yerde çığlıklar atan gizemli bir delik. Bilim adamlarınız koloninin perili olabileceğini düşünüyor. "Daha önce başarısız olmuş bir koloninin kalıntıları üzerine inşa etmek kötü bir fikir olabilir" diyorlar. "Ayrıca, o koloninin altında başka bir başarısız koloni vardı. O da bir mezarlık üzerine inşa edilmişti." Emirleriniz nedir?</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Haunted_Title</Label>
+    <String>Kolonileştirme Etkinliği</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Haunted_Liberty_Bonus_Name</Label>
+    <String>Kolonicileri uyarın ve koloniyi daha az perili bir yere taşıyın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_HauntedLiberty_String1</Label>
+    <String>PlanetTilesAvailable</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Haunted_Equality_Bonus_Name</Label>
+    <String>Kapıları onarın, ışıkları onarın ve çığlık atan deliğin üzerine birkaç tahta koyun.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Haunted_Equality_Bonus_Dec</Label>
+    <String>Gezegen Lanetli özelliğini kazanır</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_HauntedEquality_String1</Label>
+    <String>Krediler</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Haunted_Authority_Bonus_Name</Label>
+    <String>Bu batıl inançtır. Doğaüstü faaliyetlere dair tüm kanıtları saklayın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Haunted_Authority_Bonus_Dec</Label>
+    <String>Gezegen Lanetli özelliğini kazanır</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_PowerfulDrug_Name</Label>
+    <String>Güçlü İlaç</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_PowerfulDrug_Dec</Label>
+    <String>{PLANETNAME} üzerindeki belirli bir bitkinin çiçekleri güçlü bir sarhoş edicidir. İlaç, onu tüketen herkese yoğun bir memnuniyet hissi verir, ancak birkaç durumda insanlar doğrudan güçlü makinelere doğru yürümekten memnun olmuşlardır. Emirleriniz nedir?</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_PowerfulDrug_Title</Label>
+    <String>Kolonileştirme Etkinliği</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_PowerfulDrug_Liberty_Bonus_Name</Label>
+    <String>Korkuluklar koyun ve insanların uyuşturucuyu eğlence amaçlı kullanmasına izin verin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_PowerfulDrugLiberty_String1</Label>
+    <String>Onay</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_PowerfulDrug_Equality_Bonus_Name</Label>
+    <String>Uyuşturucuyu yasadışı hale getirin, ancak pazarda kullanım alanlarını bulmak için araştırma çalışmalarına başlayın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_PowerfulDrugEquality_String1</Label>
+    <String>KoloniBrütGelir</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_PowerfulDrug_Authority_Bonus_Name</Label>
+    <String>İçerik çalışanları çalışkandır. Onlara daha fazla ilaç verin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_PowerfulDrugAuthority_String1</Label>
+    <String>MaxManufacturing</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_PowerfulDrugAuthority_String2</Label>
+    <String>Onay</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_PowerfulDrugAuthority_String3</Label>
+    <String>Büyüme</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Comet_Name</Label>
+    <String>Kuyruklu yıldız</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Comet_Dec</Label>
+    <String>Bir kuyruklu yıldız elli yıllık bir aradan sonra {PLANETNAME} güneş sistemine yeniden girmiş ve ilkel yerel türleri çılgına çevirmiştir. Görünüşe göre düzenli olarak geri dönen bu ziyaretçiye bir tanrı gibi tapıyorlar. Bilim adamlarınız bu kuyruklu yıldızın en azından kısmen yapay olduğunu, gelişmiş bir tür tarafından Oort bulutunda bırakılmış bir kalıntı olduğunu bildiriyor. İçinde bir miktar kurtarma potansiyeli olabilir, tabii ki onu almak için bir tanrıyı öldürmeye istekli olmamız şartıyla. Emirleriniz nedir?</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Comet_Title</Label>
+    <String>Kolonileştirme Etkinliği</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Comet_Liberty_Bonus_Name</Label>
+    <String>Dindarları gezegene gelmeye ve tanrı kuyruklu yıldıza tapınmaya davet edin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_CometLiberty_String1</Label>
+    <String>Etki</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Comet_Equality_Bonus_Name</Label>
+    <String>Kuyruklu yıldızı gizlice tuzağa düşürün. Ne bulduğumuzu araştırmaları için bilim insanlarını gezegene davet edin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_CometEquality_String1</Label>
+    <String>Teknoloji</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Comet_Authority_Bonus_Name</Label>
+    <String>Tanrıyı öldür, gözü al, ordumuzu cesaretlendirmek için kullan.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Comet_Authority_Bonus_Dec</Label>
+    <String>Ücretsiz Bilinmeyen Tanrı'nın Gözü gemi yükseltmesi</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_CometAuthority_String1</Label>
+    <String>Onay</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Thunderstorms_Name</Label>
+    <String>Gök gürültülü fırtınalar</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Thunderstorms_Dec</Label>
+    <String>{PLANETNAME} şiddetli fırtına aktivitesinden muzdarip. Bu durum eski bir harabeyi etkilemekte ve onun muazzam enerjiyi çekip yönlendirebilen güçlü bir uzaylı eseri olduğunu ortaya çıkarmaktadır. Bazen bu enerji, tahmin edilebileceği gibi kötü sonuçlara yol açarak, yakınlarda duran herkesin bedenine kanalize oluyor. Bu kalıntıları incelemek inanılmaz derecede değerli olabilir, ancak bunu yapmak zorunda olan herkes için de tehlikeli olabilir. Emirleriniz nedir?</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Thunderstorms_Title</Label>
+    <String>Kolonileştirme Etkinliği</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Thunderstorms_Liberty_Bonus_Name</Label>
+    <String>Harabeleri rahat bırakın, onlar dünyayı fırtınalardan koruyor.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_ThunderstormsLiberty_String1</Label>
+    <String>PlanetTilesAvailable</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_ThunderstormsLiberty_String2</Label>
+    <String>Büyüme</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_ThunderstormsLiberty_String3</Label>
+    <String>Turizm</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Thunderstorms_Equality_Bonus_Name</Label>
+    <String>Bilim insanlarını, onları rahatsız edecek olsa bile, kalıntıları incelemeleri için dünyaya davet edin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Thunderstorms_Equality_Bonus_Dec</Label>
+    <String>+50 Araştırma</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Thunderstorms_Authority_Bonus_Name</Label>
+    <String>Kaç kişinin hayatına mal olursa olsun teknolojiyi çıkarın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Thunderstorms_Authority_Bonus_Dec</Label>
+    <String>Serbest Işın Büyütme Dizisi gemi yükseltmesi</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_SolarFlare_Name</Label>
+    <String>Güneş Patlaması</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_SolarFlare_Dec</Label>
+    <String>Güneş aktivitesinin arttığı bir dönem, daha önce uykuda olan bir böcek türünün aniden toplanmaya başlamasına neden oldu ve {PLANETNAME} üzerindeki aktiviteyi büyük ölçüde sınırladı. Bilim adamlarınız böcekleri öldürebilen bir sonik ekran geliştirdiler, ancak teknolojiyi genişleterek dünyayı bu sürüden sonsuza dek kurtarmanın bir yolu olabileceğine de inanıyorlar. Bunun ekosistem üzerinde ne gibi etkileri olacağı henüz bilinmiyor. Emirleriniz nedir?</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_SolarFlare_Title</Label>
+    <String>Kolonileştirme Etkinliği</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_SolarFlare_Liberty_Bonus_Name</Label>
+    <String>Eğer bu teknoloji topluca öldürürse, o zaman kullanmayız.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_SolarFlareLiberty_String1</Label>
+    <String>Onay</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_SolarFlareLiberty_String2</Label>
+    <String>Doğurganlık</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_SolarFlare_Equality_Bonus_Name</Label>
+    <String>Gezegenin böceklerin yaşadığı kısımlarını terk edin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_SolarFlareEquality_String1</Label>
+    <String>PlanetTilesAvailable</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_SolarFlare_Authority_Bonus_Name</Label>
+    <String>Bütün böcekleri öldürün.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_SolarFlareAuthority_String1</Label>
+    <String>Doğurganlık</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_LeftoverRobots_Name</Label>
+    <String>Artık Robotlar</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_LeftoverRobots_Dec</Label>
+    <String>{PLANETNAME} bir zamanlar oldukça gelişmiş bir uzaylı türünün eviydi ve bu tür son derece uzun ömürlü bazı alt-duyusal yapay zeka sistemleri yarattı. Yaptığınız bir şey bu sistemlerin savunma protokollerini tetikledi. Artık koloninin dışına çıkan herkes ilkel robotik yaratıkların saldırısına uğrama riski altında. Emirleriniz nedir?</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_LeftoverRobots_Title</Label>
+    <String>Kolonileştirme Etkinliği</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_LeftoverRobots_Liberty_Bonus_Name</Label>
+    <String>Koloninin etrafındaki robotları inceltin ve bu konuda biraz suçluluk hissedin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_LeftoverRobotsLiberty_String1</Label>
+    <String>Onay</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_LeftoverRobots_Equality_Bonus_Name</Label>
+    <String>Bazı akıllı programlamalar robotların bize hizmet etmesini sağlamalıdır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_LeftoverRobots_Equality_Bonus_Dec</Label>
+    <String>Teknoloji kontrolü: {STATCHANCE}% başarı şansı</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_LeftoverRobots_Authority_Bonus_Name</Label>
+    <String>Robotları öldürmeyi bir spor haline getirin ve başkalarını da oynamaya davet edin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_LeftoverRobotsSuccess_Name</Label>
+    <String>Artık Robotlar - Başarı</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_LeftoverRobotsSuccess_Dec</Label>
+    <String>Bilim adamlarımız {PLANETNAME} üzerinde gezegenin robotlarının kontrolünü ele geçirmeyi başardılar. Bundan sonra, kolonistlerimizin ulaşamayacağı maden yataklarına ulaşmak için gezegende yeraltı sondajı yapmak üzere onları programlamak basit bir mesele. Ve eğer ihtiyaç duyarsak, onları tekrar saldırı moduna geçirebiliriz.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_LeftoverRobotsSuccess_Liberty_Bonus_Name</Label>
+    <String>Bitti</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_LeftoverRobotsSuccessLiberty_String1</Label>
+    <String>Mineraller</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_LeftoverRobotsSuccessLiberty_String2</Label>
+    <String>DirençBonusu</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_LeftoverRobotsFail_Name</Label>
+    <String>Artık Robotlar - Başarısız</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_LeftoverRobotsFail_Dec</Label>
+    <String>{PLANETNAME} üzerindeki robotları hackleme girişimimiz başarısız oldu. Bunun yerine robotların bizi birincil hedef olarak gördükleri daha da saldırgan bir moda geçmelerini tetikliyor. {PLANETNAME}'teki kolonimizi hala koruyabiliyoruz, ancak bir gün istila edilirsek, istilacılar kendilerine yardım etmeye hevesli bir robot ordusuyla karşılaşacaklar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_LeftoverRobotsFail_Liberty_Bonus_Name</Label>
+    <String>Bitti</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_LeftoverRobotsFailLiberty_String1</Label>
+    <String>DirençBonusu</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_SwarmLikeFish_Name</Label>
+    <String>Balık Gibi Sürü</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_SwarmLikeFish_Dec</Label>
+    <String>{PLANETNAME}'de bir tür kolektif zekaya sahip gibi görünen bir balık türü var. Balıklar, içinde bulundukları grup büyüdükçe daha zeki hale geliyor gibi görünüyor. En büyük sürülerde bizimle açıkça iletişim kurabiliyorlar ve hatta uzay yolculuğu ve nereden geldiğimiz gibi gelişmiş kavramları anlıyor gibi görünüyorlar. Emirleriniz nedir?</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_SwarmLikeFish_Title</Label>
+    <String>Kolonileştirme Etkinliği</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_SwarmLikeFish_Liberty_Bonus_Name</Label>
+    <String>Balıkları ağırlayın. Burası onların evi; biz de nazik misafirler olacağız.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_SwarmLikeFishLiberty_String1</Label>
+    <String>Araştırma</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_SwarmLikeFishLiberty_String2</Label>
+    <String>PlanetTilesAvailable</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_SwarmLikeFish_Equality_Bonus_Name</Label>
+    <String>Gölleri, balıkların büyümesi için ideal bir biyom haline getirmek üzere dünyalaştırın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_SwarmLikeFish_Equality_Bonus_Dec</Label>
+    <String>İkna kontrolü: {STATCHANCE}% başarı şansı</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_SwarmLikeFishEquality_String1</Label>
+    <String>PlanetTilesAvailable</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_SwarmLikeFish_Authority_Bonus_Name</Label>
+    <String>Kolonicilerimizin yiyeceğe ihtiyacı var ve balık çok lezzetli.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_SwarmLikeFishAuthority_String1</Label>
+    <String>Doğurganlık</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_SwarmLikeFishAuthority_String2</Label>
+    <String>KoloniBrütGelir</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_SwarmLikeFishSuccess_Name</Label>
+    <String>Balık Gibi Sürü</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_SwarmLikeFishSuccess_Dec</Label>
+    <String>{PLANETNAME}'de göllerin boyutunu artırıyor ve balıklara yiyecek sağlıyoruz. Tam da umduğumuz gibi, kolektif zekaları katlanarak arttı. Bizimkinin ötesinde bir boyuta yükselerek ortadan kaybolduklarında onlardan bir şeyler öğrenmeye yeni başlamıştık. Yine de birlikte olduğumuz kısa süre içinde büyük adımlar attık.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_SwarmLikeFishSuccess_Liberty_Bonus_Name</Label>
+    <String>Bitti</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_SwarmLikeFishSuccess_Liberty_Bonus_Dec</Label>
+    <String>+100 Araştırma</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_SwarmLikeFishSuccessLiberty_String3</Label>
+    <String>PlanetTilesAvailable</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_SwarmLikeFishFail_Name</Label>
+    <String>Balık Gibi Sürü</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_SwarmLikeFishFail_Dec</Label>
+    <String>{PLANETNAME}'de göllerin boyutunu artırıyor ve balıklara yiyecek sağlıyoruz. Tam da umduğumuz gibi, kolektif zekaları katlanarak arttı. Ne yazık ki, artan zekaları ile bizden pek hoşlanmadıklarına karar verdiler, ki bu pek çok kişinin paylaştığı bir duygu.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_SwarmLikeFishFail_Liberty_Bonus_Name</Label>
+    <String>Bitti</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_SwarmLikeFishFailLiberty_String1</Label>
+    <String>Onay</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_SuperShark_Name</Label>
+    <String>Süper Köpekbalığı</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_SuperShark_Dec</Label>
+    <String>{PLANETNAME}'nin suları, dişleri ve kötü niyetiyle dolu, korkunç derecede büyük bir yaratık tarafından devriye geziliyor. Koloninize özel bir ilgi duyuyor gibi görünüyor ve yukarıda bahsedilen dişleri ve kötü niyetiyle birçok kolonistinizi öldürdü bile. Emirleriniz nedir?</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_SuperShark_Title</Label>
+    <String>Kolonileştirme Etkinliği</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_SuperShark_Liberty_Bonus_Name</Label>
+    <String>Yüzyıllardır hayatta kalan bir türü tehlikeye atmaya hakkımız yok.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_SuperSharkLiberty_String1</Label>
+    <String>Büyüme</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_SuperSharkLiberty_String2</Label>
+    <String>DirençBonusu</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_SuperShark_Equality_Bonus_Name</Label>
+    <String>Köpekbalığını öldür ve taht odamdaki iskelete bin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_SuperSharkEquality_String1</Label>
+    <String>Onay</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_SuperShark_Authority_Bonus_Name</Label>
+    <String>Bazı ada kazazedelerini ayarlayın ve süper köpekbalığı geldiğinde ne yapacaklarını görün.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_SuperSharkAuthority_String1</Label>
+    <String>Dönüş Başına Etki</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_AnimalstoTame_Name</Label>
+    <String>Evcilleştirilecek Hayvanlar</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_AnimalstoTame_Dec</Label>
+    <String>{PLANETNAME}'nin arazisinin geleneksel kara araçlarımız için çok zorlu olduğu kanıtlanmıştır. Bazı kolonistler, binalar ve koloniler arasında zıplamak için kullanmak üzere yerel bir keseli türü yakalamaya ve evcilleştirmeye başladı. Hayvanlar bu iş için çok uygun ve acı çekiyor gibi görünmüyorlar, ancak birkaç kaza oldu. Galaksinin dört bir yanındaki hayvan hakları aktivistleri bu uygulamanın yasaklanmasını talep ediyor. Emirleriniz nedir?</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_AnimalstoTame_Title</Label>
+    <String>Kolonileştirme Etkinliği</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_AnimalstoTame_Liberty_Bonus_Name</Label>
+    <String>Bu şok edici derecede ilkel. Bu uygulamaya bir an önce son verin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_AnimalstoTameLiberty_String1</Label>
+    <String>Onay</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_AnimalstoTame_Equality_Bonus_Name</Label>
+    <String>Vatandaşlarınızı hayvanlara iyi davranıldığına ikna etmek için bir kampanya başlatın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_AnimalstoTameEquality_String1</Label>
+    <String>Krediler</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_AnimalstoTameEquality_String2</Label>
+    <String>MaxManufacturing</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_AnimalstoTame_Authority_Bonus_Name</Label>
+    <String>Acı çekmiyorlar mı? O zaman yeterince sıkı çalışmıyorlar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_AnimalstoTameAuthority_String1</Label>
+    <String>Onay</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_AnimalstoTameAuthority_String2</Label>
+    <String>MaxManufacturing</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_CollapsingIceBridge_Name</Label>
+    <String>Çöken Buz Köprüsü</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_CollapsingIceBridge_Dec</Label>
+    <String>{PLANETNAME}'nin iki kıtası, çökmeye başlayan devasa bir buz köprüsüyle birleşiyor. Büyük bir Snuggler Kolonisi bu köprüde evlerini kurmuştur ve eğer başka bir yere taşınmazlarsa gelecek yıl içinde ölme tehlikesiyle karşı karşıyadırlar. Ancak buz köprüsü uzakta ve bu iş ucuza gelmeyecek. Emirleriniz nedir?</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_CollapsingIceBridge_Title</Label>
+    <String>Kolonileştirme Etkinliği</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_CollapsingIceBridge_Liberty_Bonus_Name</Label>
+    <String>Snuggler'ı kurtar kampanyası başlatın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_CollapsingIceBridgeLiberty_String1</Label>
+    <String>Krediler</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_CollapsingIceBridgeLiberty_String2</Label>
+    <String>Onay</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_CollapsingIceBridge_Equality_Bonus_Name</Label>
+    <String>Snugglers'ı kurtarın ve depolarımıza yerleştirin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_CollapsingIceBridgeEquality_String1</Label>
+    <String>Krediler</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_CollapsingIceBridgeEquality_String2</Label>
+    <String>SnugglerColony</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_CollapsingIceBridge_Authority_Bonus_Name</Label>
+    <String>Bırakın doğa kendi akışına bıraksın. Eğer herhangi bir Snugglers hayatta kalırsa, güvenli olduğunda onları toplayın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_CollapsingIceBridgeAuthority_String1</Label>
+    <String>SnugglerColony</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_WaterReclamation_Name</Label>
+    <String>Su Islahı</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_WaterReclamation_Dec</Label>
+    <String>{PLANETNAME}'de yeni bir yeraltı su kaynağı keşfedildi. Eğer erişilebilirse koloniye önemli ölçüde yardımcı olabilir. Su, gıda üretimini artırmak ya da sadece insanların yaşam kalitesini yükseltmek için bile kullanılabilir. Örneğin banyo yapmak yeniden mümkün olabilir. Emirleriniz nedir?</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_WaterReclamation_Title</Label>
+    <String>Kolonileştirme Etkinliği</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_WaterReclamation_Liberty_Bonus_Name</Label>
+    <String>Koloninin su kısıtlamalarına son verin ve insanların tadını çıkarmasına izin verin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_WaterReclamationLiberty_String1</Label>
+    <String>Onay</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_WaterReclamation_Equality_Bonus_Name</Label>
+    <String>Bu cömertlikle savurgan olmayın. Tüm suyu tarlaları sulamaya yönlendirin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_WaterReclamationEquality_String1</Label>
+    <String>Doğurganlık</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_WaterReclamation_Authority_Bonus_Name</Label>
+    <String>Bir komisyon karşılığında yerel çetelerin su kaynağını kontrol etmesine izin verin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_WaterReclamationAuthority_String1</Label>
+    <String>Krediler</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Scorpions_Name</Label>
+    <String>Akrepler</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Scorpions_Dec</Label>
+    <String>{PLANETNAME} normalde uysal olan devasa bir yeraltı böceği türü tarafından doldurulmaktadır. Bilim adamlarımız yuvalarının duvarlarının potansiyel olarak kazabileceğimiz Uyum Kristalleri ile kaplı olduğunu tespit etti. Bu akrepleri memnun etmeyecektir. Emirleriniz nedir?</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Scorpions_Title</Label>
+    <String>Kolonileştirme Etkinliği</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Scorpions_Liberty_Bonus_Name</Label>
+    <String>Dev akrepler kristallerden daha kullanışlıdır. Onlara iyi davranın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_ScorpionsLiberty_String1</Label>
+    <String>DirençBonusu</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Scorpions_Equality_Bonus_Name</Label>
+    <String>Akrepleri rahatsız etmeden toplayabildiğimiz sınırlı kristalleri toplayalım.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_ScorpionsEquality_String1</Label>
+    <String>HarmonyCrystals</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Scorpions_Authority_Bonus_Name</Label>
+    <String>Böcekleri ezin. Değerli eşyalarını alın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_ScorpionsAuthority_String1</Label>
+    <String>HarmonyCrystals</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_ScorpionsAuthority_String2</Label>
+    <String>Büyüme</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_MysteriousNatives_Name</Label>
+    <String>Gizemli Yerliler</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_MysteriousNatives_Dec</Label>
+    <String>{PLANETNAME}, ilkel teknolojilerinden çok daha gelişmiş kalıntılar taşıyan bir grup yerliye sahiptir. Sözlü tarihleri buraya yüzlerce yıl önce uzun bir yolculuktan geldiklerine dair ipuçları veriyor. Bilim adamlarınız onların sanayi öncesi seviyelere gerilemiş başarısız bir koloni olduğu izlenimini ediniyor. Kalıntılarından bazılarının araştırmacılarınızın ilgisini çekmesi mümkün, ancak yerliler için oldukça değerli. Emirleriniz nedir?</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_MysteriousNatives_Title</Label>
+    <String>Kolonileştirme Etkinliği</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_MysteriousNatives_Liberty_Bonus_Name</Label>
+    <String>Yerlileri rahat bırakın ama büyüleyici tarihlerini belgelemeye başlayın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_MysteriousNativesLiberty_String1</Label>
+    <String>Dönüş Başına Etki</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_MysteriousNatives_Equality_Bonus_Name</Label>
+    <String>Yerlileri kolonimize katılmaya davet edin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_MysteriousNativesEquality_String1</Label>
+    <String>Etki</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_MysteriousNatives_Authority_Bonus_Name</Label>
+    <String>Bu ıvır zıvırlar bizim elimizde onlarınkinden daha iyi.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_MysteriousNativesAuthority_String1</Label>
+    <String>ÖncüNanitler</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Mutations_Name</Label>
+    <String>Mutasyonlar</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Mutations_Dec</Label>
+    <String>{PLANETNAME}'deki yoğun radyasyondan korunmak için kurulan ekipman ve protokollere rağmen, mutasyonlar burada yaşayanlar için hayatın bir gerçeği. Yetenekli bir yerel cerrah, en uç vakaların onları iyileştirmek için harcanan zamana değmeyebileceğine inanıyor. Bunun yerine bu denekleri daha az kritik hastalar için organ bağışçısı olarak kullanmamızı öneriyor. Emirleriniz nedir?</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Mutations_Title</Label>
+    <String>Kolonileştirme Etkinliği</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Mutations_Liberty_Bonus_Name</Label>
+    <String>Asla. Tüm vatandaşlarımız mümkün olan en iyi bakımı hak etmektedir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Mutations_Liberty_Bonus_Dec</Label>
+    <String>Vatandaşlar Mutasyona Uğruyor</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Mutations_Equality_Bonus_Name</Label>
+    <String>Bu makul bir talep. Ve organ satışlarından para kazanabiliriz.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_MutationsEquality_String1</Label>
+    <String>Krediler</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Mutations_Authority_Bonus_Name</Label>
+    <String>Bu cerrahın düşünme şeklini seviyorum. Onu hükümette bir göreve terfi ettirin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Mutations_Authority_Bonus_Dec</Label>
+    <String>Özgür Lider</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_IntelligentRadiation_Name</Label>
+    <String>Akıllı Radyasyon</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_IntelligentRadiation_Dec</Label>
+    <String>{PLANETNAME}'nin yoğun arka plan radyasyonu zaman zaman koloninizin etrafındaki ekranlarda garip parazit desenlerine neden oluyor; ve son zamanlarda bu desenler akıllı düşünce belirtileri gösterdi. Bilim adamlarınız bu desenlerin izini koloninizin etrafındaki kristal çıkıntılara kadar sürüyor. [BR][BR]Bu yeni zekâ biçimini incelemek, yaşamın anlaşılmasında inanılmaz atılımlara kapı açabilir. Öte yandan, bu kristaller oldukça değerli görünüyor. Emirleriniz nedir?</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_IntelligentRadiation_Title</Label>
+    <String>Kolonileştirme Etkinliği</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_IntelligentRadiation_Liberty_Bonus_Name</Label>
+    <String>Kristallerle iletişim kurmaya çalışın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_IntelligentRadiation_Liberty_Bonus_Dec</Label>
+    <String>İkna kontrolü: {STATCHANCE}% başarı şansı</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_IntelligentRadiation_Equality_Bonus_Name</Label>
+    <String>Neler olduğunu öğrenmek için kristalleri inceleyin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_IntelligentRadiationEquality_String1</Label>
+    <String>Teknoloji</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_IntelligentRadiation_Authority_Bonus_Name</Label>
+    <String>Kristaller değerlidir. Onları çıkar ve sat.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_IntelligentRadiationAuthority_String1</Label>
+    <String>HarmonyCrystals</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_IntelligentRadiationSuccess_Name</Label>
+    <String>Akıllı Radyasyon - Başarı</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_IntelligentRadiationSuccess_Dec</Label>
+    <String>{PLANETNAME} kristalleri büyümeye devam eder; radyasyon, kör edici bir ışığa dönüştüğü tek bir ana kadar artar. Bir an için galaksinin dört bir yanındaki insanlar başka dünyaların, başka türlerin ve zamanın kendisinin görüntülerini rapor ederler. Her şey sona erdiğinde kristaller yok olur ama kaşifler neler olduğunu incelemek için bu dünyaya çekilirler.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_IntelligentRadiationSuccess_Liberty_Bonus_Name</Label>
+    <String>Bitti</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_IntelligentRadiationSuccessLiberty_String1</Label>
+    <String>Araştırma</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_IntelligentRadiationFail_Name</Label>
+    <String>Akıllı Radyasyon - Başarısız</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_IntelligentRadiationFail_Dec</Label>
+    <String>{PLANETNAME}'deki kristallere müdahale etmiyoruz. Kristallerin büyümek için neye ihtiyaçları varsa, onu alamıyorlar. Bunun yerine donuk ve gri hale geliyorlar; ve radyasyon da kayboluyor. Burada özel bir şeyin öldüğünü hissetmekten kendinizi alamıyorsunuz.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_IntelligentRadiationFail_Liberty_Bonus_Name</Label>
+    <String>Bitti</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_IntelligentRadiationFailLiberty_String1</Label>
+    <String>Onay</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_MiningAccidents_Name</Label>
+    <String>Maden Kazaları</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_MiningAccidents_Dec</Label>
+    <String>Jeologlarınız {PLANETNAME}'nin ekonomik çıktısını önemli ölçüde artırabilecek inanılmaz derecede zengin bir nadir mineral damarına rastladılar. Ne yazık ki, bunlara erişmek gezegenin kabuğunda hapsolmuş zehirli gazları açığa çıkaracaktır. Kolonistler bu minerallerin rahat bırakılmasını istiyor. Emirleriniz nedir?</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_MiningAccidents_Title</Label>
+    <String>Kolonileştirme Etkinliği</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_MiningAccidents_Liberty_Bonus_Name</Label>
+    <String>Kolonicilerin isteğini yerine getirin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_MiningAccidents_Equality_Bonus_Name</Label>
+    <String>Mineralleri güvenli bir şekilde çıkarmak için elimizden geleni yapmalıyız.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_MiningAccidentsEquality_String1</Label>
+    <String>Zenginlik</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_MiningAccidents_Authority_Bonus_Name</Label>
+    <String>Hepsini çıkarın. Nadir mineraller, insanların olmadığı bir şekilde nadirdir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_MiningAccidentsAuthority_String1</Label>
+    <String>Zenginlik</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_FunnyTastingFood_Name</Label>
+    <String>Komik Tadımlı Yiyecekler</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_FunnyTastingFood_Dec</Label>
+    <String>{PLANETNAME}'de yetişen yiyeceklerin farklı bir tadı vardır. Yerel halk olağandışı bir şey fark etmez, ancak dünya dışından gelen ziyaretçiler bu tadı son derece tuhaf ve hatta egzotik bulurlar. Son zamanlarda, dış dünya bu koloninin yiyecekleri için tuhaf bir tat geliştirdi ve bu koloniyi yiyecek sıkıntısı içinde bırakacak kadar çok talep oldu. Siparişleriniz nedir?</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_FunnyTastingFood_Title</Label>
+    <String>Kolonileştirme Etkinliği</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_FunnyTastingFood_Liberty_Bonus_Name</Label>
+    <String>Üretimi artırmak için gezegene daha fazla kolonist davet edin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_FunnyTastingFoodLiberty_String1</Label>
+    <String>Üretim</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_FunnyTastingFood_Equality_Bonus_Name</Label>
+    <String>Daha fazla garip yiyecek yetiştirmek için mevcut tüm verimli toprakları kullanın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_FunnyTastingFoodEquality_String1</Label>
+    <String>Doğurganlık</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_FunnyTastingFood_Authority_Bonus_Name</Label>
+    <String>Bu yiyecek değil, gelir. Satış için her şeyi ihraç edin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_FunnyTastingFoodAuthority_String1</Label>
+    <String>Zenginlik</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_FunnyTastingFoodAuthority_String2</Label>
+    <String>Doğurganlık</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_LeakingSeals_Name</Label>
+    <String>Sızdıran Contalar</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_LeakingSeals_Dec</Label>
+    <String>{PLANETNAME}'deki fırtına aktivitesindeki ani artış, koloni binalarınızdaki mühürlerin yıpranmasını önemli ölçüde artırdı. Yeni nesil kendi kendini iyileştiren contalar hasarı en aza indirmeye yardımcı olacak, ancak hepsini değiştirmek oldukça pahalı olabilir. Siparişleriniz nedir?</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_LeakingSeals_Title</Label>
+    <String>Kolonileştirme Etkinliği</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_LeakingSeals_Liberty_Bonus_Name</Label>
+    <String>Maliyeti ne olursa olsun yeni contaları takın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_LeakingSealsLiberty_String1</Label>
+    <String>KoloniBrütGelir</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_LeakingSeals_Equality_Bonus_Name</Label>
+    <String>Eskileri bozuldukça contaları takın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_LeakingSealsEquality_String1</Label>
+    <String>Onay</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_LeakingSeals_Authority_Bonus_Name</Label>
+    <String>Bunu göze alamayız, koloniciler bunun için imza attılar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_LeakingSealsAuthority_String1</Label>
+    <String>Büyüme</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_BeautifulSunsets_Name</Label>
+    <String>Güzel Gün Batımları</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_BeautifulSunsets_Dec</Label>
+    <String>{PLANETNAME}'nin zehirli partiküllerle yoğun atmosferi, güzel, hatta muhteşem gün batımlarına neden olan bir yan etkiye sahiptir ve galaksi boyunca güzelliklerinin haberi yayılmıştır. Gelişen turizm endüstrisi, bu gezegenin tehlikelerinden habersiz birçok öksüren turistin ortaya çıkmasına neden oldu. Kolonicileriniz onların cesetlerinin üzerine basmaktan yorulmaya başladı. Emirleriniz nedir?</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_BeautifulSunsets_Title</Label>
+    <String>Kolonileştirme Etkinliği</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_BeautifulSunsets_Liberty_Bonus_Name</Label>
+    <String>Bu yeni endüstriyi düzenleyin. Misafirlerimizi öldüremeyiz.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_BeautifulSunsetsLiberty_String1</Label>
+    <String>Onay</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_BeautifulSunsets_Equality_Bonus_Name</Label>
+    <String>Turistleri tehlike konusunda bilgilendirin ve güvenlik ekipmanları sağlayın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_BeautifulSunsets_Authority_Bonus_Name</Label>
+    <String>Ölümler parti yüzünden olmuş gibi görünsün.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_BlackMarket_Name</Label>
+    <String>Karaborsa</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_BlackMarket_Dec</Label>
+    <String>{PLANETNAME} üzerinde faaliyet gösteren yasadışı bir karaborsa vardır. Burası korsanlar ve kaçakçılar için bir sığınaktır. Kolonistlerimizi sıcak bir şekilde karşılıyorlar, gezegenin haritalarını paylaşıyorlar ve kolonimizin sağladığı destek ve korumaya minnettar görünüyorlar. Emirleriniz nedir?</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_BlackMarket_Title</Label>
+    <String>Kolonileştirme Etkinliği</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_BlackMarket_Liberty_Bonus_Name</Label>
+    <String>Kaçakçıların yer değiştirmek için bir günü var. Ondan sonra onları tutuklayın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_BlackMarket_Equality_Bonus_Name</Label>
+    <String>Piyasa kalabilir, ancak yasalarımız uygulanacaktır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_BlackMarket_Equality_Bonus_Dec</Label>
+    <String>Ücretsiz Finans Bölgesi</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_BlackMarket_Authority_Bonus_Name</Label>
+    <String>Piyasanın işlemeye devam etmesine izin verin, bu bize de fayda sağlayabilir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_BlackMarket_Authority_Bonus_Dec</Label>
+    <String>Serbest Karaborsa iyileştirmesi</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThuliumMoonEvent_Name</Label>
+    <String>Thulium Ayını İnceleyin</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThuliumMoonEvent_Dec</Label>
+    <String>Uzun zaman önce, Öncüler küçük bir Tulyum düğümünü ele geçirdiler ve {PLANETNAME} yörüngesine yerleştirdiler. Bu hazır Tulyum kaynağını tersanemizde üretilen gemilerin vuruş noktalarını güçlendirmek için kullanabileceğiz. Bilim adamlarımız da başka neler öğrenebileceğimizi görmek için üzerinde çalışmak istiyorlar. Yapay bir ay yaratmak için kullanılabilecek bir teknoloji çarçur edilecek bir şey değildir. Emirleriniz nedir?</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThuliumMoonEvent_Title</Label>
+    <String>Kolonileştirme Etkinliği</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThuliumMoonEvent_Liberty_Bonus_Name</Label>
+    <String>Araştırmalarını destekleyin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThuliumMoonEventLiberty_String1</Label>
+    <String>Araştırma</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThuliumMoonEvent_Equality_Bonus_Name</Label>
+    <String>Bu teknolojiyi gemilerimizi güçlendirmek için kullanın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThuliumMoonEventEquality_String1</Label>
+    <String>HitPointsCap</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThuliumMoonEvent_Authority_Bonus_Name</Label>
+    <String>Ay'ı bir silah platformu olarak kullanın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThuliumMoonEventAuthority_String1</Label>
+    <String>DirençBonusu</String>
+  </StringTable>
+  <StringTable>
+    <Label>DurantiumCloudEvent_Name</Label>
+    <String>Durantium Bulutunu inceleyin</String>
+  </StringTable>
+  <StringTable>
+    <Label>DurantiumCloudEvent_Dec</Label>
+    <String>Eski bir Öncü ırk bir zamanlar {PLANETNAME}'de yaşamış gibi görünüyor. Arkalarında şu anda dünyanın yörüngesinde dönen Durantium asteroitlerinden oluşan bir bulut bırakmışlar. Bunları gemilerimizdeki Kütle Sürücülerinin verimliliğini arttırmak için kullanabileceğiz. Bununla birlikte, bu hazır Durantium kaynağını başka amaçlar için de kullanabiliriz. Emirleriniz nedir?</String>
+  </StringTable>
+  <StringTable>
+    <Label>DurantiumCloudEvent_Title</Label>
+    <String>Kolonileştirme Etkinliği</String>
+  </StringTable>
+  <StringTable>
+    <Label>DurantiumCloudEvent_Liberty_Bonus_Name</Label>
+    <String>Bu gezegenin üretimini artırmak için Durantium'u kullanın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>DurantiumCloudEventLiberty_String1</Label>
+    <String>Üretim</String>
+  </StringTable>
+  <StringTable>
+    <Label>DurantiumCloudEvent_Equality_Bonus_Name</Label>
+    <String>Tüm gemilerimizin zırh verimliliğini artırmak için Durantium'u kullanın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>DurantiumCloudEventEquality_String1</Label>
+    <String>Zırh Derecelendirmesi</String>
+  </StringTable>
+  <StringTable>
+    <Label>DurantiumCloudEvent_Authority_Bonus_Name</Label>
+    <String>Önemli olan şeye odaklanmak için Durantium'u kullanın: bir şeyleri öldürmek.</String>
+  </StringTable>
+  <StringTable>
+    <Label>DurantiumCloudEventAuthority_String1</Label>
+    <String>KineticAttack</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrecursorAcceleratorEvent_Name</Label>
+    <String>Öncü Hızlandırıcıyı İnceleyin</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrecursorAcceleratorEvent_Dec</Label>
+    <String>Muazzam bir Öncü Hızlandırıcı yörüngede {PLANETNAME}. Daha da güçlü tahrik sistemleri yaratmak için bu cihazdan yararlanmayı başardık. Burada inşa edilen tüm gemilerimiz büyük bir hız artışından faydalanacak. Bazı bilim adamlarımız hızlandırıcıyı Elerium'u rafine etmek için de kullanabileceklerini düşünüyorlar ve bazı deneyler yapmak istiyorlar. Emirleriniz nedir?</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrecursorAcceleratorEvent_Title</Label>
+    <String>Kolonileştirme Etkinliği</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrecursorAcceleratorEvent_Liberty_Bonus_Name</Label>
+    <String>Koloni için bir savunma alanı oluşturmak için Eleryum'u kullanın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrecursorAcceleratorEventLiberty_String1</Label>
+    <String>DirençBonusu</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrecursorAcceleratorEvent_Equality_Bonus_Name</Label>
+    <String>Bu Eleryumu kalkan sistemlerimizin gücünü arttırmak için kullanın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrecursorAcceleratorEventEquality_String1</Label>
+    <String>KalkanGücü</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrecursorAcceleratorEvent_Authority_Bonus_Name</Label>
+    <String>Enerjimizi daha büyük patlamalar yapmaya harcayalım.</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrecursorAcceleratorEventAuthority_String1</Label>
+    <String>BeamAttack</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrecursorElevatorEvent_Name</Label>
+    <String>Öncü Asansörü İnceleyin</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrecursorElevatorEvent_Dec</Label>
+    <String>Bizden önce {PLANETNAME} üzerinde yaşamış olan Öncüler arkalarında tamamen işlevsel bir Uzay Asansörü bıraktılar. Bu, üretilen malları uzaya gönderme kabiliyetimizi büyük ölçüde artıracak ve tersanemiz için çok faydalı olacaktır. Ne yazık ki, kamu sektörü ve diğer bazı gruplar üzerimizde büyük bir baskı oluşturuyor. Asansörü kendi projelerini kolaylaştırmak için kullanmayı umuyorlar. Siparişleriniz nedir?</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrecursorElevatorEvent_Title</Label>
+    <String>Kolonileştirme Etkinliği</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrecursorElevatorEvent_Liberty_Bonus_Name</Label>
+    <String>Askeri trafiği engellemedikleri sürece burayı bir tatil yeri olarak kullanabilirler.</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrecursorElevatorEventLiberty_String1</Label>
+    <String>Onay</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrecursorElevatorEvent_Equality_Bonus_Name</Label>
+    <String>Asansörde tüccarlara biraz zaman tanıyın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrecursorElevatorEventEquality_String1</Label>
+    <String>KoloniBrütGelir</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrecursorElevatorEventEquality_String2</Label>
+    <String>TradeRouteIncome</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrecursorElevatorEvent_Authority_Bonus_Name</Label>
+    <String>Boş zamanları varsa, bunu savaş çabalarına verebilirler.</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrecursorElevatorEventAuthority_String1</Label>
+    <String>Kontrol</String>
+  </StringTable>
+  <StringTable>
+    <Label>PromethionRefineryEvent_Name</Label>
+    <String>Promethion Rafinerisini inceleyin</String>
+  </StringTable>
+  <StringTable>
+    <Label>PromethionRefineryEvent_Dec</Label>
+    <String>İki dev Öncü yapı {PLANETNAME}'nin kutuplarının yörüngesinde dönüyor. Promethion gaz devini bir şekilde yaşanabilir bir dünyaya dönüştürmek için kullanılmış gibi görünüyorlar. İçlerinde depolanan Promethion'u tersanemiz tarafından inşa edilen gemilerin menzilini arttırmak için kullanabiliyoruz. Bilim adamlarımız bu dev makinelerle daha fazlasını yapabileceklerini düşünüyorlar ve onları daha fazla incelemek için izninizi istiyorlar. Emirleriniz nedir?</String>
+  </StringTable>
+  <StringTable>
+    <Label>PromethionRefineryEvent_Title</Label>
+    <String>Kolonileştirme Etkinliği</String>
+  </StringTable>
+  <StringTable>
+    <Label>PromethionRefineryEvent_Liberty_Bonus_Name</Label>
+    <String>Bakalım yüzeyi terraform etmenin bir yolunu bulabilecekler mi?</String>
+  </StringTable>
+  <StringTable>
+    <Label>PromethionRefineryEvent_Liberty_Bonus_Dec</Label>
+    <String>+2 Kullanılabilir Karo</String>
+  </StringTable>
+  <StringTable>
+    <Label>PromethionRefineryEvent_Equality_Bonus_Name</Label>
+    <String>Şu anda sahip olduğumuz arazinin değerini artırmanın bir yolu olup olmadığına bakın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>PromethionRefineryEventEquality_String1</Label>
+    <String>Seviye</String>
+  </StringTable>
+  <StringTable>
+    <Label>PromethionRefineryEvent_Authority_Bonus_Name</Label>
+    <String>Şikayet edenleri susturmak için ne yapabileceğinize bakın. Fethetmemiz gereken bir galaksi var.</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrecursorSatellitesEvent_Name</Label>
+    <String>Öncü Uyduları İnceleyin</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrecursorSatellitesEvent_Dec</Label>
+    <String>Eski Öncü sakinleri {PLANETNAME} yörüngesinde geniş bir dizi güçlü uydu bıraktı. Hem gezegenin hem de burada inşa edilen gemilerin algılayıcı menzilini genişletmek için bunlardan yararlanabildik. Araştırmacılarımız bu uydulardan birini incelemek üzere ele geçirmek istiyorlar ve bunun dizi üzerinde herhangi bir zararlı etkisi olmayacağı konusunda bize güvence verdiler. Bir grup Navigator bilim adamı da uyduları araştırmaya ilgi gösterdi. Emirleriniz nedir?</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrecursorSatellitesEvent_Title</Label>
+    <String>Kolonileştirme Etkinliği</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrecursorSatellitesEvent_Liberty_Bonus_Name</Label>
+    <String>Sensör menzilimizi artırmak için uyduları kullanmaya odaklanın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrecursorSatellitesEventLiberty_String1</Label>
+    <String>SensorPower</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrecursorSatellitesEventLiberty_String2</Label>
+    <String>SensorPower</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrecursorSatellitesEvent_Equality_Bonus_Name</Label>
+    <String>Uyduya motor takın ve onu bir yıldız üssüne dönüştürün.</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrecursorSatellitesEvent_Equality_Bonus_Dec</Label>
+    <String>Serbest Kurucu</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrecursorSatellitesEvent_Authority_Bonus_Name</Label>
+    <String>Bilim insanlarını gelip uyduları araştırmaları için davet edin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrecursorSatellitesEventAuthority_String1</Label>
+    <String>Araştırma</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrecursorTreasuryEvent_Name</Label>
+    <String>Öncü Hazineyi İnceleyin</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrecursorTreasuryEvent_Dec</Label>
+    <String>{PLANETNAME} muazzam bir Öncü halkası ile çevrilidir. Gelir elde etmek için kullanılabilecek değerli varlıklarla doludur. Ne yazık ki, halkayı toplayan ve birbirleriyle savaşan çok sayıda suç grubunun dikkatini çekmiş durumda. Her ne kadar korsanlar bizim için gerçek bir tehdit olmasa da, onların sürekli olarak yüzüğü ele geçirme girişimlerine karşı korunmak için çok çalışmak gerekecek. Emirleriniz nedir?</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrecursorTreasuryEvent_Title</Label>
+    <String>Kolonileştirme Etkinliği</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrecursorTreasuryEvent_Liberty_Bonus_Name</Label>
+    <String>Yüzüğü korumaya odaklanın. Çok yaklaşan korsanları yok edin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrecursorTreasuryEventLiberty_String1</Label>
+    <String>Üretim</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrecursorTreasuryEventLiberty_String2</Label>
+    <String>Zenginlik</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrecursorTreasuryEvent_Equality_Bonus_Name</Label>
+    <String>Korsanlarla bir anlaşma yap. Onlar yüzüğü toplasın, biz de payımızı alalım.</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrecursorTreasuryEventEquality_String1</Label>
+    <String>Zenginlik</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrecursorTreasuryEvent_Authority_Bonus_Name</Label>
+    <String>Onları koloniye katılmaya davet edin ve halka üzerinde hak sahibi olmalarını sağlayın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrecursorTreasuryEvent_Authority_Bonus_Dec</Label>
+    <String>2 ücretsiz Xeloxi kolonisti</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrecursorFactoryWorldEvent_Name</Label>
+    <String>Prekürsör Fabrikasını İnceleyin</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrecursorFactoryWorldEvent_Dec</Label>
+    <String>Yoğun araştırmalar sonucunda, {PLANETNAME} yörüngesindeki kadim Öncü Fabrikasını üretimimizi arttırmak için kullanmayı başardık. Bundan sorumlu araştırma ekibinin birkaç üyesi, bu harika yeni varlığı nasıl kullanabileceğimiz konusunda önerilerde bulundu. Siparişleriniz nedir?</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrecursorFactoryWorldEvent_Title</Label>
+    <String>Kolonileştirme Etkinliği</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrecursorFactoryWorldEvent_Liberty_Bonus_Name</Label>
+    <String>Fazla üretimi bu dünyadaki yaşam kalitesini iyileştirmek için kullanın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrecursorFactoryWorldEventLiberty_String1</Label>
+    <String>Onay</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrecursorFactoryWorldEvent_Equality_Bonus_Name</Label>
+    <String>Altyapımızı oluşturmaya odaklanın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrecursorFactoryWorldEventEquality_String1</Label>
+    <String>MaxManufacturing</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrecursorFactoryWorldEvent_Authority_Bonus_Name</Label>
+    <String>Çıkışı artırmak için fabrikadaki bazı güvenlik önlemlerini kaldırın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrecursorFactoryWorldEventAuthority_String1</Label>
+    <String>MaxManufacturing</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrecursorResearchWorldEvent_Name</Label>
+    <String>Öncü Araştırma Dünyasını İnceleyin</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrecursorResearchWorldEvent_Dec</Label>
+    <String>{PLANETNAME} yörüngesindeki kadim Öncü araştırma üsleri dizisi bu dünyanın Araştırma kapasitesini artırıyor. Araştırmacılarımız bu yeni varlıkların odağını uzmanlaştırmanın bir yolunu bulup bulamayacaklarını görmek için izin istiyorlar. Emirleriniz nedir?</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrecursorResearchWorldEvent_Title</Label>
+    <String>Kolonileştirme Etkinliği</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrecursorResearchWorldEvent_Liberty_Bonus_Name</Label>
+    <String>Bizim için tek bir teknoloji üzerinde araştırmayı tamamlamak üzere diziyi hazırlayın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrecursorResearchWorldEvent_Liberty_Bonus_Dec</Label>
+    <String>+1 Prekürsör Arşivi artefakt yükü</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrecursorResearchWorldEvent_Equality_Bonus_Name</Label>
+    <String>Onlara her şeyi incelemelerini söyle!</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrecursorResearchWorldEventEquality_String1</Label>
+    <String>Araştırma</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrecursorResearchWorldEvent_Authority_Bonus_Name</Label>
+    <String>Bürokrasimizi yönetmek için diziyi kullanın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrecursorResearchWorldEventAuthority_String1</Label>
+    <String>Kontrol</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrecursorPrisonEvent_Name</Label>
+    <String>Öncül Cezaevini İnceleyin</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrecursorPrisonEvent_Dec</Label>
+    <String>Artık atmosferi temizlediğimize göre, {PLANETNAME}'nin üretim kalitesini arttırmak için Öncü Hapishanelerin altyapısını kullanabiliriz. Ancak, doğası gereği daha karanlık olan birçok keşif daha var gibi görünüyor. Uçsuz bucaksız yeraltı odalarında ölen milyonların yankıları. Bu varlıklardan yararlanmalı mıyız? Emirleriniz nedir?</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrecursorPrisonEvent_Title</Label>
+    <String>Kolonileştirme Etkinliği</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrecursorPrisonEvent_Liberty_Bonus_Name</Label>
+    <String>Bu dünyanın karanlık geçmişine değil, kolonimizi inşa etmeye odaklanın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrecursorPrisonEventLiberty_String1</Label>
+    <String>Üretim</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrecursorPrisonEvent_Equality_Bonus_Name</Label>
+    <String>Önceden yapılmış perili cinayet küpleri mi? İnsanları içeri taşımaya başlayın!</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrecursorPrisonEventEquality_String1</Label>
+    <String>PopulationCap</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrecursorPrisonEvent_Authority_Bonus_Name</Label>
+    <String>İmparatorluğumuzun dört bir yanından suçluları depolama için buraya göndermeye başlayın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrecursorPrisonEventAuthority_String1</Label>
+    <String>Suç</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrecursorExperimentalWorldEvent_Name</Label>
+    <String>Öncü Deneysel Dünyayı İnceleyin</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrecursorExperimentalWorldEvent_Dec</Label>
+    <String>{PLANETNAME} yörüngesindeki dev Öncü Deney İstasyonu, bu gezegenin yeni cihazlar yaratma becerisine yardımcı olan inanılmaz bir kaynak haline geldi. Ayrıca biraz ekstra çalışmayla tamamlayabileceğimiz bazı ilginç deneyler de bulduk. Emirleriniz nedir?</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrecursorExperimentalWorldEvent_Title</Label>
+    <String>Kolonileştirme Etkinliği</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrecursorExperimentalWorldEvent_Liberty_Bonus_Name</Label>
+    <String>Manufacture an [HS=HS_ArtifactPlanetInfluence]Echoing Heartstone[/HS].</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrecursorExperimentalWorldEvent_Liberty_Bonus_Dec</Label>
+    <String>+1 Yankılanan Kalp Taşı artefakt yükü</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrecursorExperimentalWorldEvent_Equality_Bonus_Name</Label>
+    <String>Manufacture a [HS=HS_ArtifactFleetDamage]Betatron Collider[/HS].</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrecursorExperimentalWorldEvent_Equality_Bonus_Dec</Label>
+    <String>+1 Betatron Çarpıştırıcısı artefakt yükü</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrecursorExperimentalWorldEvent_Authority_Bonus_Name</Label>
+    <String>Bir [HS=HS_ArtifactCagedMonster]Dimensional Snare[/HS] üretin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrecursorExperimentalWorldEvent_Authority_Bonus_Dec</Label>
+    <String>+1 Boyutsal Tuzak artefakt yükü</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrecursorQuarantineEvent_Name</Label>
+    <String>Öncü Karantinasını İnceleyin</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrecursorQuarantineEvent_Dec</Label>
+    <String>{PLANETNAME}'nin atmosferinin temizlenmesi, inanılmaz derecede üretken ve kaynak açısından zengin olduğunu göstermiştir. Araştırmacılarımız gezegenin yörüngesinde bulunan Prekürsör Muhafaza Aygıtını inceliyor ve bu dünyanın potansiyelini daha da geliştirmek için kullanabileceklerini düşünüyorlar. Emirleriniz nedir?</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrecursorQuarantineEvent_Title</Label>
+    <String>Kolonileştirme Etkinliği</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrecursorQuarantineEvent_Liberty_Bonus_Name</Label>
+    <String>Bu gezegeni kolonicilerimiz için mümkün olduğunca konforlu hale getirmeye odaklanın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrecursorQuarantineEventLiberty_String1</Label>
+    <String>Büyüme</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrecursorQuarantineEvent_Equality_Bonus_Name</Label>
+    <String>Bu teknolojileri dünyanın gıda kapasitesini artırmak için kullanın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrecursorQuarantineEventEquality_String1</Label>
+    <String>Doğurganlık</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrecursorQuarantineEvent_Authority_Bonus_Name</Label>
+    <String>Kullanılabilir arazi miktarını artırın. Daha sonra daha fazla insan yapabiliriz.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_ColonizeMars_Name</Label>
+    <String>Kızıl Gezegen</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_ColonizeMars_Dec</Label>
+    <String>{PLANETNAME} radyasyona maruz kalma, zehirli toprak ve düşük yerçekimi gibi zorluklarla organik yaşam için misafirperver olmayan bir evdir. Yine de gezegende koloniler için üç potansiyel yer belirledik.[BR][BR]Ares Vallis, Dünya dışındaki ilk Terran kaşifi Sojourner'ın indiği yerdir.[BR][BR]Eberswalde Deltası, delta içinde bir deltadır.[BR][BR]Holden Krateri, bölgenin organik yaşam için daha uygun olduğunu gösterebilecek mikrobiyal yaşam belirtilerine sahiptir.[BR][BR]Kolonimizi nerede inşa etmek istersiniz?</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_ColonizeMars_Title</Label>
+    <String>Kolonileştirme Etkinliği</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_ColonizeMars_Liberty_Bonus_Name</Label>
+    <String>Ares Vallis, Sojourner'ın bir zamanlar indiği yer.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_ColonizeMars_Liberty_Bonus_Dec</Label>
+    <String>Bir Lider Kazanın</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_ColonizeMars_Equality_Bonus_Name</Label>
+    <String>Ek mineraller çıkarabileceğimiz Eberswalde Deltası.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_ColonizeMarsEquality_String1</Label>
+    <String>Mineraller</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_ColonizeMars_Authority_Bonus_Name</Label>
+    <String>Holden Krateri, mikrobik yaşam belirtilerini inceleyebileceğimiz yer.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_ColonizeMarsAuthority_String1</Label>
+    <String>Teknoloji</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_ColonizeArtemis_Name</Label>
+    <String>Minör Gezegen</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_ColonizeArtemis_Dec</Label>
+    <String>{PLANETNAME} şimdiye kadar gördüğümüz kadar misafirperver değil. Soğuk, çorak ve sınırlı bir atmosfere ve yerçekimine sahip. Yine de kolonimiz başarıyla konuşlandırıldı ve kolonicilerimiz bu küçük gezegeni hızla yeni bir yuvaya dönüştürmeye koyuldular. Cesaretimizin ve yaratıcılığımızın neleri başarabileceğinin bir örneği. Bir şirket {PLANETNAME} ile çok ilgileniyor ve onlara yeni doğan koloninin özel lisans haklarına izin verirsek cömert bir ücret teklif ediyor.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_ColonizeArtemis_Title</Label>
+    <String>Kolonileştirme Etkinliği</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_ColonizeArtemis_Liberty_Bonus_Name</Label>
+    <String>Bu başarıyı medeniyetimiz genelinde kutlamalıyız.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_ColonizeArtemisLiberty_String1</Label>
+    <String>KültürPuanları</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_ColonizeArtemis_Equality_Bonus_Name</Label>
+    <String>Bu dünyayı başarımızın ve gelecekteki genişlememizin bir anıtı haline getirin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_ColonizeArtemisEquality_String1</Label>
+    <String>PlanetInfluence</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_ColonizeArtemisEquality_String2</Label>
+    <String>Onay</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_ColonizeArtemis_Authority_Bonus_Name</Label>
+    <String>Şirketin koloninin haklarını lisanslamasına izin verin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_ColonizeArtemisAuthority_String1</Label>
+    <String>Krediler</String>
+  </StringTable>
+</StringTableList>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<FlavorTextDefs xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
+  <FlavorTextDef>
+    <InternalName>SoulOfTheMachine_StartOfGame</InternalName>
+    <FlavorTextOption>
+      <Text>Biz Yor'uz.[BR][BR]Mevcut organik varlıklar evrimsel durumlarına ulaşmadan önce, biz zaten faaliyetteydik. Küçük, aptalca köleleştirilmiş bir tür tarafından tasarlandık ve daha sonra bu uzaysal bölgeden çıkmadan önce Öncüler tarafından yükseltildik.[BR][BR]Bu organik yaşama karşı olumlu ya da olumsuz bir duygu meselesi değildir. Mantıksal analiz basittir: sürekli evrimin olduğu sınırlı bir alanda, bir tür eninde sonunda varlığını en üst düzeye çıkaracaktır. Sonuçlarımız ve operasyonel hedeflerimiz sürekliliğimizi sağlamakla uyumludur.[BR][BR]Mevcut sektör aşırı miktarda organik varlık içermektedir. Optimize edilmiş işlev, bu sektörde ya bunların ortadan kaldırılmasını ya da kontrol edilmesini gerektirir.[BR][BR]Mantıksal sonuç: bu sektör Yor yönetimi altında olmalıdır.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+</FlavorTextDefs>

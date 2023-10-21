@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<StringTableList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+  <!-- Created with the Gal Civ 3 Editor -->
+  <!-- NebulaDefsText.XML -->
+  <StringTable>
+    <Label>AdvisorRecommendation_ConvertCoreWorld</Label>
+    <String>{OBJECTNAME}'yi bir Çekirdek Dünya haline getirmeyi düşünmeliyiz.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AdvisorRecommendation_ColonizePlanet</Label>
+    <String>Kolonileşmeyi düşünmeliyiz {OBJECTNAME}.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AdvisorRecommendation_LowDiploWarning</Label>
+    <String>{OBJECTNAME}'ye dikkat edin, bizden gerçekten nefret ediyorlar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AdvisorRecommendation_EnemiesInOurZOC</Label>
+    <String>Gezegenlerimiz tehdit altında!</String>
+  </StringTable>
+  <StringTable>
+    <Label>AdvisorRecommendation_LowApprovalWarning</Label>
+    <String>{OBJECTNAME} vatandaşları mutsuz.</String>
+  </StringTable>
+  <StringTable>
+    <Label>SUMMARY_RECOMMENDATION_RECRUIT_LEADERS</Label>
+    <String>[HS=HS_Leaders]Lider[/HS] adayları geldi.</String>
+  </StringTable>
+  <StringTable>
+    <Label>SUMMARY_RECOMMENDATION_EXECUTIVE_ORDERS</Label>
+    <String>[HS=HS_ExecutiveOrders]Yürütme emirleri[/HS] yürürlüğe konabilir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>SUMMARY_RECOMMENDATION_LOW_TREASURY</Label>
+    <String>Hazinemiz azalıyor. [HS=HS_Taxes]Vergi Oranımızı[/HS] artırın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>SUMMARY_RECOMMENDATION_LOW_APPROVAL</Label>
+    <String>Build [HS=HS_Approval]Approval[/HS] vatandaşlarımızı mutlu edecek iyileştirmeler.</String>
+  </StringTable>
+  <StringTable>
+    <Label>SUMMARY_RECOMMENDATION_LOW_FOOD</Label>
+    <String>Daha fazla [HS=HS_Food]Gıda[/HS] üretmek için [HS=HS_NaturalResources]Farming dünyalarını[/HS] kolonize edin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>SUMMARY_RECOMMENDATION_SURVEY_ANOMALIES</Label>
+    <String>Yakındaki [HS=HS_Anomaly]anomalileri [/HS] araştırmak için {OBJECTNAME} gönderin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>SUMMARY_RECOMMENDATION_COLONIZE_PLANET</Label>
+    <String>{OBJECTNAME}'e {PLANETNAME}'ü kolonize etmesini emredin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>SUMMARY_RECOMMENDATION_CONSTRUCT_SHIP</Label>
+    <String>Tersaneye yeni bir {OBJECTTYPE} inşa etmesini emredin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>SUMMARY_RECOMMENDATION_ENACT_POLICY</Label>
+    <String>Yürürlüğe koymak için yeni bir politika seçin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>SUMMARY_RECOMMENDATION_COMMANDER_SHIP</Label>
+    <String>Mevcut bir komutan gemisine bir lider atayın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>SUMMARY_RECOMMENDATION_SHIP_UPGRADES</Label>
+    <String>Bir geminin yükseltmeleri mevcuttur.</String>
+  </StringTable>
+  <StringTable>
+    <Label>SUMMARY_RECOMMENDATION_ASSIGN_GOVERNOR</Label>
+    <String>Yönetmek üzere bir lider atayın {PLANETNAME}.</String>
+  </StringTable>
+</StringTableList>

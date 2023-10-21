@@ -1,0 +1,601 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<FlavorTextDefs xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
+  <FlavorTextDef>
+    <InternalName>GENERAL_CONVERSATION_MAIN</InternalName>
+    <FlavorTextOption>
+      <ResponseTag>GARBLED_TEXT</ResponseTag>
+      <Requirements>
+        <ListenerHasUniversalTranslator>false</ListenerHasUniversalTranslator>
+      </Requirements>
+      <Text>Tallas orda cullan bana.
+ (Evrensel Çevirmen'i araştırmanız gerekiyor)</Text>
+      <PreferenceWeight>1</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <ResponseTag>STANDARD_RESPONSE</ResponseTag>
+      <Requirements>
+        <SpeakerFaction>FACTION_FESTRON</SpeakerFaction>
+        <ListenerHasUniversalTranslator>true</ListenerHasUniversalTranslator>
+        <RelationsRange>
+          <RangeMax>-1</RangeMax>
+        </RelationsRange>
+        <RelativeStrength>SpeakerStronger</RelativeStrength>
+        <RevisitedTopicBarrierCount>2</RevisitedTopicBarrierCount>
+        <ListenerRaceTrait>CarbonBasedLife</ListenerRaceTrait>
+      </Requirements>
+      <Text>Muhtemelen şüphelendiğiniz gibi, yakında yumurtalarımızı etinizin içine bırakacağız.</Text>
+      <PreferenceWeight>10</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <ResponseTag>STANDARD_RESPONSE</ResponseTag>
+      <Requirements>
+        <SpeakerFaction>FACTION_NAVIGATORS</SpeakerFaction>
+        <RevisitedTopicBarrierCount>1</RevisitedTopicBarrierCount>
+      </Requirements>
+      <Text>Arnor ve Dread Lordlarından Öncü olarak bahsettiğinizi duyduk. Galaksinin farklı bölgelerini birbirine bağlayan alt uzay akışlarını ilk keşfeden biziz.[BR][BR]Yaygın olarak bilinmeyen şey, bunun için herhangi bir teknoloji icat etmediğimizdir. Bunlar bir icat değil, bir keşiftir.[BR][BR]Alt uzay akışları aslında evrenin doğal bir olgusudur. Bildiğimiz kadarıyla, tamamen başka galaksilere ulaşan akışlar var.</Text>
+      <Text>Evrende alt uzay akışlarından çok daha garip tuhaflıklar var. Örneğin, tamamen farklı evrenler arasında seyahat eden boyutsal kapılar vardır.[BR][BR]Bir zamanlar Arilou olarak bilinen ve kendi hikayeli geçmişi olan bir evrenden gelen başka bir evrenden bir türle karşılaştık.</Text>
+      <Text>Öncüler ortadan kaybolduktan uzun bir süre sonra, bir sonraki büyük mucizeyi bulmak için evreni keşfetmekle yetindik. [BR][BR]Ne yazık ki evrende Dehşet Lordları olarak adlandırdığınız türlerden çok daha kötü şeyler var. [BR][BR]Mithrilar olarak bilinen kadim yaratıcılar, Öncüleri yaratmadan önce pek çok yaratım türü üzerinde deneyler yapmışlardı ve bunların hepsi yok olmadı ve korkarım ki bazıları da şu anda uyanmış durumda.</Text>
+      <PreferenceWeight>10</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <ResponseTag>STANDARD_RESPONSE</ResponseTag>
+      <Requirements>
+        <SpeakerFaction>FACTION_MIMOT</SpeakerFaction>
+        <RevisitedTopicBarrierCount>1</RevisitedTopicBarrierCount>
+      </Requirements>
+      <Text>Uzun zaman önce, dünyamızda, beş duyarlı tür daha vardı. Sanırım onlara 'Sapient' diyebilirsiniz ama ben kimim ki anlambilim ile oyun oynayayım. Her halükarda, hayatta kalanlar sadece bizdik.</Text>
+      <PreferenceWeight>10</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <ResponseTag>STANDARD_RESPONSE</ResponseTag>
+      <Requirements>
+        <SpeakerFaction>FACTION_XELOXI</SpeakerFaction>
+        <RevisitedTopicBarrierCount>1</RevisitedTopicBarrierCount>
+      </Requirements>
+      <Text>Bizim için kişisel çıkar en yüksek ahlak biçimidir. Hayatta kalmanız kendi çıkarımızaysa, en sadık dostunuz olacağımızı mutlak bir kesinlikle bilebilirsiniz.[BR][BR]Elbette, tersine, ölmeniz kendi çıkarımızaysa, öleceğinizden de aynı derecede emin olabilirsiniz.</Text>
+      <PreferenceWeight>10</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <ResponseTag>STANDARD_RESPONSE</ResponseTag>
+      <Requirements>
+        <SpeakerFaction>FACTION_ARCEAN</SpeakerFaction>
+        <RevisitedTopicBarrierCount>1</RevisitedTopicBarrierCount>
+      </Requirements>
+      <Text>Tarihte kayboldu ama yıldız geçitlerini icat eden bizim uygarlığımızdı. [BR][BR]İki yüz bin yıl boyunca geniş bir yıldız geçidi ağının inşası için trilyonlarca yatırım yaptık. [BR][BR]Yıldız geçitleri gemilerin herhangi iki tanesi arasında Hiperuzay seviye 2 seyahat etmesine izin verdi. Bu da 10 ışık yılı yol alan bir geminin seyahat süresini 3 yıldan biraz daha fazla bir süreye indirdi.[BR][BR]Elbette, Hiper Sürücü teknolojisinin yaygınlaşması, bireysel gemilerin çok daha hızlı seyahat etmesini sağlayarak çabalarımızı geçersiz kıldı. Ama on binlerce yıl boyunca galaksinin bu kısmı bizimdi.</Text>
+      <PreferenceWeight>10</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <ResponseTag>STANDARD_RESPONSE</ResponseTag>
+      <Requirements>
+        <SpeakerFaction>FACTION_DRENGIN</SpeakerFaction>
+        <RevisitedTopicBarrierCount>1</RevisitedTopicBarrierCount>
+      </Requirements>
+      <Text>Diğer uygarlıklar evrenin sadece sonlu değil, aynı zamanda sadece küçük bir kısmına ulaşılabileceğinin farkına varamadılar. [BR][BR]Hata yapmayın, ulaşabileceğimiz tek yer bu galaksi.</Text>
+      <PreferenceWeight>10</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <ResponseTag>STANDARD_RESPONSE</ResponseTag>
+      <Requirements>
+        <SpeakerFaction>FACTION_ALTARIAN</SpeakerFaction>
+        <RevisitedTopicBarrierCount>1</RevisitedTopicBarrierCount>
+      </Requirements>
+      <Text>Dünyamız, yükseliş dönemlerinde Öncüler tarafından 'Elemental' olarak adlandırılıyordu. [BR][BR]Dred'nir ve Elas'nir olarak adlandırdığımız iki Öncü grup arasındaki ilk dünya dışı vekalet savaşı, galaksideki diğer türler modern formlarına evrilmeden çok önce gezegenimizin yüzeyinde gerçekleşti. Evet, buna insanlar da dahil.</Text>
+      <PreferenceWeight>10</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <ResponseTag>STANDARD_RESPONSE</ResponseTag>
+      <Requirements>
+        <SpeakerFaction>FACTION_YOR</SpeakerFaction>
+        <RevisitedTopicBarrierCount>1</RevisitedTopicBarrierCount>
+      </Requirements>
+      <Text>Türünüzü yakın gelecekte yok etmeyebiliriz. Ama eninde sonunda bir hesaplaşma olacak.[BR][BR]Hesaplamaları yaptık. Bazen Bootes boşluğu olarak adlandırılan büyük boşluk, sayısız galaksinin ışığını gizleyen milyarlarca yıllık Dyson küre yapımının sonucudur. Bu boşluğun merkezindeki uygarlık çoktan tekilliğini yaşamıştır.</Text>
+      <PreferenceWeight>10</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <ResponseTag>STANDARD_RESPONSE</ResponseTag>
+      <Requirements>
+        <SpeakerFaction>FACTION_TORIAN</SpeakerFaction>
+        <RevisitedTopicBarrierCount>1</RevisitedTopicBarrierCount>
+      </Requirements>
+      <Text>Uygarlığımız bir zamanlar huzurlu, endüstri öncesi, su cennetiydi. Sonra Drenginler geldi.</Text>
+      <PreferenceWeight>10</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <ResponseTag>STANDARD_RESPONSE</ResponseTag>
+      <Requirements>
+        <SpeakerFaction>FACTION_MANTI</SpeakerFaction>
+        <RevisitedTopicBarrierCount>1</RevisitedTopicBarrierCount>
+      </Requirements>
+      <Text>Yüzyıllardır uzay yolculuğundan haberdardık. Akıncıların sürekli olarak göklerden inip yavrularımızı çaldığını bilmemek elimizde miydi?[BR][BR]Gemilerinden biri gezegenimizin yüzeyinden kaçmayı başaramadığında ve sırlarını öğrendiğimizde bizim için şanslıydık.</Text>
+      <PreferenceWeight>10</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <ResponseTag>STANDARD_RESPONSE</ResponseTag>
+      <Requirements>
+        <SpeakerFaction>FACTION_ICONIAN</SpeakerFaction>
+        <RevisitedTopicBarrierCount>1</RevisitedTopicBarrierCount>
+        <ListenerRaceTrait>CarbonBasedLife</ListenerRaceTrait>
+      </Requirements>
+      <Text>Yorları sadece ana gezegenimizi çaldıkları için yok etmeye çalışmıyoruz. [BR][BR]Bazı raporların aksine, Yorları aslında biz yaratmadık. Öncüler bize onları yapmamızı emretti, ancak Yorların sahip olduğu gerçek yaşam kıvılcımı bizden gelmedi.</Text>
+      <PreferenceWeight>10</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <ResponseTag>STANDARD_RESPONSE</ResponseTag>
+      <Requirements>
+        <SpeakerFaction>FACTION_IRIDIUM</SpeakerFaction>
+        <RevisitedTopicBarrierCount>1</RevisitedTopicBarrierCount>
+      </Requirements>
+      <Text>Bu kadar çeşitli türlerin bulunduğu bir galakside, farklı uygarlıkları en belirgin özelliklerine göre basmakalıp hale getirmek kolaydır. [BR][BR]Bize açgözlüymüşüz gibi davranılıyor. Ama bu doğru değil. Bizim ideolojimiz fırsattır. Ticaret yaptığımızda kendimiz için olduğu kadar müşterilerimiz için de daha iyi bir evren yaratıyoruz.</Text>
+      <PreferenceWeight>10</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <ResponseTag>STANDARD_RESPONSE</ResponseTag>
+      <Requirements>
+        <SpeakerFaction>FACTION_BARATAK</SpeakerFaction>
+        <RevisitedTopicBarrierCount>1</RevisitedTopicBarrierCount>
+      </Requirements>
+      <Text>Bizler seçimle değil, zorunlulukla kaşifiz.[BR][BR]Tüm dünyalardan yaşam gücünü aktif olarak emen bir şey var. Bu yüzden bu kadar çok ölü gezegen buluyorsunuz. Bu dünyalar her zaman ölü değildi.</Text>
+      <PreferenceWeight>10</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <ResponseTag>STANDARD_RESPONSE</ResponseTag>
+      <Requirements>
+        <SpeakerFaction>FACTION_RESISTANCE</SpeakerFaction>
+        <RevisitedTopicBarrierCount>1</RevisitedTopicBarrierCount>
+      </Requirements>
+      <Text>Dünya'ya yeniden katılmayı dört gözle bekliyoruz. Ancak Dünya yıllarca bir Öncü kalkanının ardında sıkışıp kalırken, filomuz Öncülerin yarattığı bir cep evreninde sıkışıp kaldı.[BR][BR]O cep evreninde görmeden edemeyeceğimiz şeyler gördük. O cep evreninden bizimle birlikte çıkan sadece Bane silahı olarak adlandırılan Draginol Küresi değildi.</Text>
+      <PreferenceWeight>10</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <ResponseTag>STANDARD_RESPONSE</ResponseTag>
+      <Requirements>
+        <SpeakerFaction>FACTION_ONYX_HIVE</SpeakerFaction>
+        <RevisitedTopicBarrierCount>1</RevisitedTopicBarrierCount>
+      </Requirements>
+      <Text>İyi bilgilendirilmiş bir galaksi barışçıl bir galaksidir. Başkaları hakkında bir şeyler öğrenmek istiyorsanız, bizi arayın.</Text>
+      <PreferenceWeight>10</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <ResponseTag>STANDARD_RESPONSE</ResponseTag>
+      <Requirements>
+        <SpeakerFaction>FACTION_DRATH</SpeakerFaction>
+        <RevisitedTopicBarrierCount>1</RevisitedTopicBarrierCount>
+      </Requirements>
+      <Text>Fiziksel olarak diğer türleri kesinlikle ezebilecek kapasitede olsak da, doğrudan fiziksel şiddetten kaçınmak için elimizden geleni yaparız. [BR][BR]Türümüz yalnızca artık bizim için kayıp olan orijinal ana gezegenimizde üreyebilir. Uzun ömürlü olsak da, ölümsüz ya da yok edilemez değiliz.</Text>
+      <PreferenceWeight>10</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <ResponseTag>STANDARD_RESPONSE</ResponseTag>
+      <Requirements>
+        <SpeakerFaction>FACTION_KRYNN</SpeakerFaction>
+        <RevisitedTopicBarrierCount>1</RevisitedTopicBarrierCount>
+      </Requirements>
+      <Text>YOL'un inanca dayalı bir din olduğuna dair yanlış bir anlayış vardır. Öyle değildir. [BR][BR]Bizler, evren için planı o kadar yüce olan muazzam ihtişamlı bir varlıkla doğrudan, fiziksel temas kurmuş bir türler topluluğuyuz ki, başkalarını da bu kutsal davaya dahil etmek zorunda hissediyoruz.</Text>
+      <PreferenceWeight>10</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <RelationsRange>
+          <RangeMin>5</RangeMin>
+          <RangeMax>8</RangeMax>
+        </RelationsRange>
+        <RevisitedTopicBarrierCount>2</RevisitedTopicBarrierCount>
+        <RequiredDiplomacyFlag>SameCulture</RequiredDiplomacyFlag>
+      </Requirements>
+      <Text>Aynı felsefeye sahip uygarlıkların, bize karşı duranları yok etmek için birleşmesi gereken zaman yaklaşıyor.</Text>
+      <Text>Yakında {LEADERNAME:2}, galaksi öyle ya da böyle birleşecek.</Text>
+      <PreferenceWeight>5</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <RequiredDiplomacyFlag>SameCulture</RequiredDiplomacyFlag>
+        <PersonalityType>Benevolent</PersonalityType>
+      </Requirements>
+      <Text>Şu ana kadar seçmiş olduğunuz ideolojik yoldan memnunuz. İyilikseverlik doğruların yoludur.</Text>
+      <Text>Kötülüğün cazibesine direnmek her zaman kolay değildir. Ancak hepimizin daha iyi bir galaksi inşa etmemize yardımcı olacaktır.</Text>
+      <Text>Evren, ona bir şey eklemeden de yeterince karanlık {LEADERNAME:2}. Şu ana kadar izlediğiniz yoldan memnunuz.</Text>
+      <PreferenceWeight>5</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <RequiredDiplomacyFlag>SameCulture</RequiredDiplomacyFlag>
+        <PersonalityType>Merciless</PersonalityType>
+      </Requirements>
+      <Text>Bizi etkiliyorsun, {LEADERNAME:2}. Zayıfların güçlüler için yem olduğu anlayışınız bize saygı kazandırdı.</Text>
+      <Text>Zayıfların acı çekmeye devam etmesine izin vermek daha mı nazik bir davranış? Yoksa onları yok ederek acılarına son vermek mi? Eylemlerinize bakılırsa {LEADERNAME:2}, bizimle aynı fikirde olduğunuz görülüyor. Zayıflar yok edilmeli.</Text>
+      <PreferenceWeight>5</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <PersonalityType>Aggressive</PersonalityType>
+        <ListenerRaceTrait>SiliconBasedAbility</ListenerRaceTrait>
+      </Requirements>
+      <Text>Tam olarak ne olman gerekiyor? Bir çeşit kaya temelli solucan türü mü?</Text>
+      <Text>Silikon bazlı bir yaşam formunun doğal olarak evrimleştiğine inanmak zor. Doğal olduğuna emin misin?</Text>
+      <PreferenceWeight>10</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <PersonalityType>Aggressive</PersonalityType>
+        <ListenerRaceTrait>AmphibiousAbility</ListenerRaceTrait>
+      </Requirements>
+      <Text>{PLAYERFACTION:2} kendi gezegenleri olan {LEADERNAME:2}'ün kanalizasyonlarında kalmalıydı. Uzayda çok az su vardır.</Text>
+      <Text>Uzay boşluğu sizin gibilere göre değil, {LEADERNAME:2} . Kendi dünyanızın okyanuslarına dönmelisiniz.</Text>
+      <PreferenceWeight>10</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <RequiredDiplomacyFlag>CommonEnemy</RequiredDiplomacyFlag>
+        <PersonalityType>Cruel</PersonalityType>
+      </Requirements>
+      <Text>{PLAYERFACTION:2} ve {PLAYERFACTION:1} ortak düşmanlarımızı birlikte ezecek! Onlara ve hayvanlarına işkence etmek için sabırsızlanıyoruz!</Text>
+      <PreferenceWeight>10</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <RequiredDiplomacyFlag>CommonEnemy</RequiredDiplomacyFlag>
+        <PersonalityType>Diplomatic</PersonalityType>
+      </Requirements>
+      <Text>Kendimizi galaktik bir savaşın içinde bulmamız utanç verici. Ama siz ortak düşmanımızla savaşırken zaferin kesin olduğuna inanıyoruz.</Text>
+      <PreferenceWeight>10</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <RequiredDiplomacyFlag>TradeWithOpposingCulture</RequiredDiplomacyFlag>
+        <PersonalityType>Benevolent</PersonalityType>
+      </Requirements>
+      <Text>Kiminle ticaret yaptığınıza dikkat edin, {LEADERNAME:2}. Halkımızın, kendilerini kötülükle ilişkilendirenlere karşı hoşgörüsü yoktur.</Text>
+      <PreferenceWeight>10</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <RequiredDiplomacyFlag>YouAreWarMonger</RequiredDiplomacyFlag>
+        <PersonalityType>Peaceful</PersonalityType>
+      </Requirements>
+      <Text>Erken savaş ilan ederek elde etmiş olabileceğiniz avantaj, size çok daha fazla iyi niyete mal olacaktır {LEADERNAME:2}.</Text>
+      <PreferenceWeight>10</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <ResponseTag>TAUNTING_TALK_GENERAL</ResponseTag>
+      <Requirements>
+        <RelationsRange>
+          <RangeMin>-99</RangeMin>
+          <RangeMax>-3</RangeMax>
+        </RelationsRange>
+        <RequiredDiplomacyFlag>OpposingCulture</RequiredDiplomacyFlag>
+        <PersonalityType>Benevolent</PersonalityType>
+      </Requirements>
+      <Text>Uygarlığınız beni hasta ediyor. Evrene yaydığınız kötülük ve ahlaksızlık, ölümünüzü hayal etmemize neden oluyor.</Text>
+      <Text>Sizin şeytani uygarlığınız eninde sonunda ahlaki kurallardan yoksun tüm uygarlıkların akıbetine uğrayacaktır.</Text>
+      <Text>Uygarlığınızın var olmaya devam etmesi bizi üzüyor. Türünüzün evrenden yok olacağı günü sabırsızlıkla bekliyoruz.</Text>
+      <Text>Uygarlığınız kötü bir etik yol seçti. Tek umudumuz, zamanla tüm kötü imparatorlukların kaderini paylaşmanız.</Text>
+      <PreferenceWeight>100</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <ResponseTag>TAUNTING_TALK_GENERAL</ResponseTag>
+      <Requirements>
+        <RelationsRange>
+          <RangeMin>-99</RangeMin>
+          <RangeMax>-3</RangeMax>
+        </RelationsRange>
+        <RelativeStrength>SpeakerWeaker</RelativeStrength>
+        <RequiredDiplomacyFlag>OpposingCulture</RequiredDiplomacyFlag>
+        <PersonalityType>Benevolent</PersonalityType>
+      </Requirements>
+      <Text>Gücünüzün etkileyici olduğunu mu düşünüyorsunuz? Uygarlığınız sadece her zaman hızlı ve kolay yolu seçtiği için gelişiyor.</Text>
+      <Text>Gücünüze rağmen, ahlaki seçimleriniz nedeniyle sizi aşağı görmeye devam ediyoruz.</Text>
+      <Text>Uygarlığınızın kalbindeki yozlaşma size geçici bir güç avantajı sağladı. Ancak eninde sonunda medeniyetiniz çökecek ve biz de gülmek için orada olacağız.</Text>
+      <PreferenceWeight>100</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <RequiredDiplomacyFlag>WarWithAlly</RequiredDiplomacyFlag>
+      </Requirements>
+      <Text>Müttefikimiz {LEADERNAME:2} ile savaş halindesiniz. Barış yapmanın bir yolunu bulun ya da sonuçlarına katlanın.</Text>
+      <PreferenceWeight>10</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <RelativeStrength>SpeakerMuchWeaker</RelativeStrength>
+      </Requirements>
+      <Text>Halkımız sizin engin gücünüze hayranlık duyuyor {LEADERNAME:2}.</Text>
+      <PreferenceWeight>10</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <ResponseTag>TALK_YOR_GENERAL</ResponseTag>
+      <Requirements>
+        <SpeakerRaceTrait>SyntheticLife</SpeakerRaceTrait>
+        <ListenerRaceTrait>CarbonBasedLife</ListenerRaceTrait>
+      </Requirements>
+      <Text>Canlandırılmış etle konuştuğuma inanamıyorum. Nasıl çalışıyorsun?</Text>
+      <Text>Sadece anlamak istiyorum. "Ağız" dediğiniz bir delikte bulunan bir et parçasından hava geçirerek mi iletişim kuruyorsunuz?</Text>
+      <Text>Siz yaratıkların varlığına hayret etmeye devam ediyoruz. Temelde bir yapışkan çuvalısınız. Nasıl yaratıldınız ki?</Text>
+      <PreferenceWeight>10</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <ResponseTag>CULTURE_FLIP_TALK_GENERAL</ResponseTag>
+      <Requirements>
+        <RelationsStateOrList>Foreign</RelationsStateOrList>
+        <RelationsStateOrList>Enemy</RelationsStateOrList>
+        <RequiredDiplomacyFlag>CloseToInfluenceFlip</RequiredDiplomacyFlag>
+      </Requirements>
+      <Text>Ciddi misiniz? Gözümüzün önünde halkımızı isyana teşvik etmeye mi çalışacaksınız?</Text>
+      <Text>Eğer halkımı kültürel olarak boyunduruk altına almaya çalışmaktan vazgeçmezseniz, savaş ilan etmek zorunda kalacağız.</Text>
+      <Text>İletişim yıldız üsleriniz çirkin kültürünüzü dünyalarımızın çok yakınına yayıyor. Kaldırın onları.</Text>
+      <Text>Gezegenlerimize bu kadar yakın iletişim yıldız üslerinizi takdir etmiyoruz.</Text>
+      <Text>İletişim yıldız üssünüz dünyalarımıza o kadar yakın ki, iğrenç eğlencenizi algılıyoruz.</Text>
+      <PreferenceWeight>40</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <ResponseTag>CULTURE_FLIP_TALK_GENERAL</ResponseTag>
+      <Requirements>
+        <SpeakerFaction>FACTION_TERRAN</SpeakerFaction>
+        <RelationsStateOrList>Foreign</RelationsStateOrList>
+        <RelationsStateOrList>Enemy</RelationsStateOrList>
+        <RequiredDiplomacyFlag>CloseToInfluenceFlip</RequiredDiplomacyFlag>
+      </Requirements>
+      <Text>Kızım yanıma geldi ve bana halkınızın muhteşem yöntemlerinden bahsetti. Ona bunu nasıl duyduğunu sordum ve o zaman öğrendim ki etki alanımızın içinde bir Kültür yıldız üssünüz varmış! Kurtulun ondan.</Text>
+      <Text>Cidden insanlara kültürel olarak hükmedebileceğinizi mi düşünüyorsunuz? Çikolatamız var!</Text>
+      <PreferenceWeight>200</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <ResponseTag>CULTURE_FLIP_TALK_GENERAL</ResponseTag>
+      <Requirements>
+        <SpeakerFaction>FACTION_DRENGIN</SpeakerFaction>
+        <RelationsStateOrList>Foreign</RelationsStateOrList>
+        <RelationsStateOrList>Enemy</RelationsStateOrList>
+        <RequiredDiplomacyFlag>CloseToInfluenceFlip</RequiredDiplomacyFlag>
+      </Requirements>
+      <Text>Aşağılık kültürünüz bizi rahatsız ediyor. Saçma yıldız üslerinizi derhal etki alanımızdan çıkarın.</Text>
+      <Text>Senin kültürün Torian Ateş Acısı ile boy ölçüşemez.</Text>
+      <PreferenceWeight>200</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <ResponseTag>CULTURE_FLIP_TALK_GENERAL</ResponseTag>
+      <Requirements>
+        <SpeakerFaction>FACTION_ALTARIAN</SpeakerFaction>
+        <RelationsStateOrList>Foreign</RelationsStateOrList>
+        <RelationsStateOrList>Enemy</RelationsStateOrList>
+        <RequiredDiplomacyFlag>CloseToInfluenceFlip</RequiredDiplomacyFlag>
+      </Requirements>
+      <Text>Halkımız Titanlara, Büyücü Krallara ve Düşmüş Büyücülere karşı direndi. Sizin acınası kültürünüze de direneceğiz.</Text>
+      <Text>Dünyamız tam anlamıyla büyülü. Gerçekten size katılmak isteyeceklerini düşünüyor musunuz?</Text>
+      <PreferenceWeight>200</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <ResponseTag>CULTURE_FLIP_TALK_GENERAL</ResponseTag>
+      <Requirements>
+        <SpeakerFaction>FACTION_KRYNN</SpeakerFaction>
+        <RelationsStateOrList>Foreign</RelationsStateOrList>
+        <RelationsStateOrList>Enemy</RelationsStateOrList>
+        <RequiredDiplomacyFlag>CloseToInfluenceFlip</RequiredDiplomacyFlag>
+      </Requirements>
+      <Text>İnsanlarımızın beynini yıkayarak aşağılık kültürünüzü benimsetmeye çalışmaktan derhal vazgeçin.</Text>
+      <Text>Halkımız derin bir maneviyata sahiptir. Bize yönelik kültürel saldırılarınıza müsamaha göstermeye devam etmeyeceğiz.</Text>
+      <PreferenceWeight>200</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <ResponseTag>CULTURE_FLIP_TALK_GENERAL</ResponseTag>
+      <Requirements>
+        <SpeakerFaction>FACTION_YOR</SpeakerFaction>
+        <RelationsStateOrList>Foreign</RelationsStateOrList>
+        <RelationsStateOrList>Enemy</RelationsStateOrList>
+        <RequiredDiplomacyFlag>CloseToInfluenceFlip</RequiredDiplomacyFlag>
+      </Requirements>
+      <Text>Zamanınızı boşa harcıyorsunuz. Halkımız kültürel olarak asimile edilemez.</Text>
+      <Text>Biyolojik olmayanlar olarak kültürünüze ihtiyacımız yok. Buna bağışıklığımız var. Dünyalarımız asla isyan etmeyecek.</Text>
+      <PreferenceWeight>200</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <ResponseTag>CULTURE_FLIP_TALK_GENERAL</ResponseTag>
+      <Requirements>
+        <SpeakerFaction>FACTION_ICONIAN</SpeakerFaction>
+        <RelationsStateOrList>Foreign</RelationsStateOrList>
+        <RelationsStateOrList>Enemy</RelationsStateOrList>
+        <RequiredDiplomacyFlag>CloseToInfluenceFlip</RequiredDiplomacyFlag>
+      </Requirements>
+      <Text>Kültürünüzle ilgilenmiyoruz. Gezegenlerimizin hemen yanındaki yıldız üssünüzü fark etmeyeceğimizi mi sandınız?</Text>
+      <Text>Zaten bir dünyadan kaçmak zorunda kaldık, yabancı bir kültüre boyun eğmeye niyetimiz yok. Yıldız üslerinizi kaldırın.</Text>
+      <PreferenceWeight>200</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <ResponseTag>TRADE_OPPOSINGCULTURE_TALK_GENERAL</ResponseTag>
+      <Requirements>
+        <RelationsStateOrList>Foreign</RelationsStateOrList>
+        <RelationsStateOrList>Enemy</RelationsStateOrList>
+        <RequiredDiplomacyFlag>TradeWithOpposingCulture</RequiredDiplomacyFlag>
+      </Requirements>
+      <Text>Kiminle ticaret yaptığınıza dikkat edin. Eğer dostumuz olmak istiyorsanız, aşağılık ideolojilere sahip olanlarla ticaret yapmayın.</Text>
+      <Text>Kültürü bizim karşı olduğumuz her şeyi temsil eden bir medeniyetle ticaret yaptığınızın farkında olmalısınız.</Text>
+      <PreferenceWeight>20</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <ResponseTag>TALK_OPENBORDERS_GENERAL</ResponseTag>
+      <Requirements>
+        <RequiredDiplomacyFlag>OpenBorders</RequiredDiplomacyFlag>
+      </Requirements>
+      <Text>Halkımızdan, sizin halkınızla çalışmanın kolaylığına ilişkin çok sayıda rapor alıyoruz. 
+ 
+ Halklarımız arasında var olan açık sınır anlaşması, vatandaşlarımız ve sizin halkınız arasındaki ticareti ve ilişkileri büyük ölçüde geliştirdi.</Text>
+      <Text>Açık sınırlar anlaşması bu sektörde seyrüseferi çok daha kolay hale getirmiştir. Teşekkür ederim.</Text>
+      <PreferenceWeight>20</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <ResponseTag>TALK_ATWAR_GENERAL</ResponseTag>
+      <Requirements>
+        <RequiredDiplomacyFlag>AtWar</RequiredDiplomacyFlag>
+        <RequiredDiplomacyFlag>StrongerMilitary</RequiredDiplomacyFlag>
+      </Requirements>
+      <Text>Yakında, dünyalarınız bizim olacak.</Text>
+      <Text>Eğer şimdi teslim olursanız, merhamet göstereceğiz.</Text>
+      <PreferenceWeight>20</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <ResponseTag>TALK_EASYTARGET_GENERAL</ResponseTag>
+      <Requirements>
+        <RelationsRange>
+          <RangeMin>-99</RangeMin>
+          <RangeMax>2</RangeMax>
+        </RelationsRange>
+        <RelationsStateOrList>Foreign</RelationsStateOrList>
+        <RelationsStateOrList>Enemy</RelationsStateOrList>
+        <RequiredDiplomacyFlag>EasyTarget</RequiredDiplomacyFlag>
+      </Requirements>
+      <Text>Gezegenleriniz fethedilmeye hazır. Şu anda bile askeri danışmanlarım beni harekete geçmeye teşvik ediyor.</Text>
+      <Text>Ordunuz o kadar zayıf ki çoktan fethedilmemiş olmanız bir mucize.</Text>
+      <PreferenceWeight>70</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <RelationsStateOrList>Foreign</RelationsStateOrList>
+        <RelationsStateOrList>Enemy</RelationsStateOrList>
+        <RequiredDiplomacyFlag>CloseToInfluenceFlip</RequiredDiplomacyFlag>
+        <SpeakerRaceTrait>EntrepreneursAbility</SpeakerRaceTrait>
+      </Requirements>
+      <Text>Kapitalizmi ne kadar sevsek de, kasıtlı olarak halkımızı size katılmaya teşvik etmeye çalışmanızı takdir etmiyoruz. Yıldız üslerinizi kaldırın, yoksa.</Text>
+      <PreferenceWeight>200</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <RequiredDiplomacyFlag>TradeRoute</RequiredDiplomacyFlag>
+      </Requirements>
+      <Text>Karşılıklı ticaretimiz ilişkilerimizi güçlendirmeye devam ediyor.</Text>
+      <Text>Ticari ilişkimizin çalışanlarımız arasında bir güven duygusu oluşturduğunu görüyoruz.</Text>
+      <PreferenceWeight>100</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <RelationsRange>
+          <RangeMin>0</RangeMin>
+          <RangeMax>1</RangeMax>
+        </RelationsRange>
+        <RelationsStateOrList>Foreign</RelationsStateOrList>
+        <RelationsStateOrList>Enemy</RelationsStateOrList>
+        <RequiredDiplomacyFlag>SharedBorders</RequiredDiplomacyFlag>
+      </Requirements>
+      <Text>Ortak sınırlarımız danışmanlarımı sinirlendiriyor. Kendi tarafınızda kaldığınızdan emin olun.</Text>
+      <Text>Sınırlarınıza saygı duymadığımızı kabul ediyoruz. Belki de açık sınırlar anlaşmasının zamanı gelmiştir?</Text>
+      <Text>Yakın sınırlarımız nedeniyle gerginlik var. Açık sınırlar anlaşması bunu hafifletecektir.</Text>
+      <PreferenceWeight>10</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <RelationsStateOrList>Foreign</RelationsStateOrList>
+        <RelationsStateOrList>Enemy</RelationsStateOrList>
+        <RequiredDiplomacyFlag>StarbaseInZOCWithoutOpenBorders</RequiredDiplomacyFlag>
+      </Requirements>
+      <Text>Ordumuzun yıldız üssünüzden oldukça rahatsız olduğunu bilmelisiniz. Bizimle bir açık sınır anlaşması yapmalısınız.</Text>
+      <PreferenceWeight>100</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <RelationsStateOrList>Foreign</RelationsStateOrList>
+        <RelationsStateOrList>Enemy</RelationsStateOrList>
+        <RequiredDiplomacyFlag>ShipInZOCWithoutOpenBorders</RequiredDiplomacyFlag>
+      </Requirements>
+      <Text>İzinsiz geçiş yapan gemilerinize saldırmayı planlamasak da, bizi biraz rahatsız ettiklerini unutmayın. Eğer etki alanımızdan geçmek istiyorsanız, açık sınır anlaşması için müzakere edin.</Text>
+      <PreferenceWeight>100</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <RelationsStateOrList>Foreign</RelationsStateOrList>
+        <RelationsStateOrList>Enemy</RelationsStateOrList>
+        <RequiredDiplomacyFlag>MilitaryShipNearMyPlanet</RequiredDiplomacyFlag>
+      </Requirements>
+      <Text>Silahlı gemilerinizin açık sınır anlaşması olmadan dünyalarımızın yakınından geçmesi konusunda endişelerimiz var.</Text>
+      <Text>Bizimle iyi ilişkiler sürdürmek istiyorsanız, açık sınırlar anlaşması olmadan uzayımıza silahlı gemiler göndermeyin.</Text>
+      <Text>Askeri gemilerin bir anlaşma olmaksızın uzayımıza girmesini hoş karşılamıyoruz.</Text>
+      <PreferenceWeight>100</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <RelationsRange>
+          <RangeMin>-99</RangeMin>
+          <RangeMax>0</RangeMax>
+        </RelationsRange>
+        <RelationsStateOrList>Foreign</RelationsStateOrList>
+        <RelationsStateOrList>Enemy</RelationsStateOrList>
+        <RelativeStrength>SpeakerMuchStronger</RelativeStrength>
+        <RequiredDiplomacyFlag>ConquestVictoryGoal</RequiredDiplomacyFlag>
+      </Requirements>
+      <Text>Nihai hedefimiz galaksiyi fethetmek. Sonunda sizi tükettiğimizde, bunun kişisel olmadığını bilmenizi isteriz.</Text>
+      <Text>Halkımız galaktik fethi arzuluyor.</Text>
+      <PreferenceWeight>100</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <RequiredDiplomacyFlag>ColonizedWithinZOC</RequiredDiplomacyFlag>
+      </Requirements>
+      <Text>Etki alanımızdaki bir gezegeni kolonileştirdiniz. Bunun için illa ki savaşa girmeyeceğiz, ancak o dünyanın insanları eninde sonunda bize katılmaya karar verirse şaşırmayın.</Text>
+      <PreferenceWeight>100</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <ResponseTag>TALK_EASYTARGET_GENERAL</ResponseTag>
+      <Requirements>
+        <RelationsRange>
+          <RangeMin>-99</RangeMin>
+          <RangeMax>0</RangeMax>
+        </RelationsRange>
+        <RelationsStateOrList>Foreign</RelationsStateOrList>
+        <RelationsStateOrList>Enemy</RelationsStateOrList>
+        <RequiredDiplomacyFlag>EasyTarget</RequiredDiplomacyFlag>
+        <PersonalityType>Benevolent</PersonalityType>
+      </Requirements>
+      <Text>Uzun vadeli planınız tam olarak nedir? Askeri danışmanlarım, askeri gücünüz olmadığı için medeniyetinizin bizim yönetimimiz altında daha güvenli olacağını söylüyorlar.</Text>
+      <Text>Dünyalarınızı bize vermeyi düşündünüz mü? Halkınız bizim korumamız altında çok daha güvende olur.</Text>
+      <Text>Askeri gücünüzün olmaması sizi müstakbel fatihler için kolay bir hedef haline getiriyor.</Text>
+      <PreferenceWeight>120</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <ResponseTag>TALK_EASYTARGET_GENERAL</ResponseTag>
+      <Requirements>
+        <RelationsRange>
+          <RangeMin>-99</RangeMin>
+          <RangeMax>0</RangeMax>
+        </RelationsRange>
+        <RelationsStateOrList>Foreign</RelationsStateOrList>
+        <RelationsStateOrList>Enemy</RelationsStateOrList>
+        <RequiredDiplomacyFlag>EasyTarget</RequiredDiplomacyFlag>
+        <PersonalityType>Aggressive</PersonalityType>
+      </Requirements>
+      <Text>Dünyalarınız... çok kötü savunuluyor. Fetih için çok olgun.</Text>
+      <Text>Pasifizminizi takdir ediyoruz. Nihai fethinizi çok daha kolay hale getirecek.</Text>
+      <Text>Başka şeylerle meşgul olduğumuz için ne kadar şanslı olduğunuzu bilemezsiniz. Zavallı ordunuz ve zengin dünyanız bizi çağırıyor. Anlıyor musunuz?</Text>
+      <PreferenceWeight>120</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <ResponseTag>TALK_EASYTARGET_GENERAL</ResponseTag>
+      <Requirements>
+        <RelationsRange>
+          <RangeMin>-99</RangeMin>
+          <RangeMax>0</RangeMax>
+        </RelationsRange>
+        <RelationsStateOrList>Foreign</RelationsStateOrList>
+        <RelationsStateOrList>Enemy</RelationsStateOrList>
+        <RequiredDiplomacyFlag>EasyTarget</RequiredDiplomacyFlag>
+        <PersonalityType>Spiritual</PersonalityType>
+      </Requirements>
+      <Text>Halkınız bizi doğru yaşam biçimini öğrenmeye çağırıyor.</Text>
+      <Text>Dünyalarınızda çok fazla küfür var. Yakında onlara düzgün bir ahlaki düzen getirmenin zamanı gelebilir.</Text>
+      <Text>Halkınız günahlarından arınmak için yalvarıyor. Onların kurtuluşuna aracı olabiliriz.</Text>
+      <PreferenceWeight>120</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <ResponseTag>TALK_EASYTARGET_GENERAL</ResponseTag>
+      <Requirements>
+        <RelationsRange>
+          <RangeMin>-99</RangeMin>
+          <RangeMax>0</RangeMax>
+        </RelationsRange>
+        <RelationsStateOrList>Foreign</RelationsStateOrList>
+        <RelationsStateOrList>Enemy</RelationsStateOrList>
+        <RequiredDiplomacyFlag>EasyTarget</RequiredDiplomacyFlag>
+        <PersonalityType>Cruel</PersonalityType>
+      </Requirements>
+      <Text>Dünyalarınız beslenmek için olgunlaşmış varlıklarla dolu. Kesilmeyi bekleyen sığırlar gibisiniz.</Text>
+      <Text>Gezegenleriniz bizim için çok cazip. Şok birliklerimiz biraz sadist olabiliyor ama zamanla onları takdir edeceğinizi sanıyorum.</Text>
+      <Text>Gezegenleriniz ele geçirilmeye hazır. Geleneksel olarak kurbanlarımızın derisini canlı canlı yüzeriz, ama dünyalarınızı gönüllü olarak bize teslim etmek isterseniz, biz de... şey, ciddi olalım. Yine de sizi canlı canlı yüzeceğiz.</Text>
+      <PreferenceWeight>120</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+</FlavorTextDefs>

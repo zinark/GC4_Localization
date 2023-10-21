@@ -1,0 +1,423 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<StringTableList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+  <StringTable>
+    <Label>Quest_CrushedOurEggs_Name</Label>
+    <String>Bir kuluçkahaneyi öldürdün.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_CrushedOurEggs_Dec</Label>
+    <String>{PLANETNAME} gezegenindeki bazı 'böcekleri' yok etmeyi tercih ettiğinize dair bir rapor aldık. O bizim kuluçkahanelerimizden biriydi! Bunu size ödeteceğiz!</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_CrushedOurEggs_Choice_Name</Label>
+    <String>O zamanlar iyi bir fikir gibi görünüyordu.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_CrushedOurEggs_Choice_Text_Dec</Label>
+    <String>{PLAYERFACTION:1} ile ilişkiler bir süre sorunlu olacaktır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_SentienceStripped_Name</Label>
+    <String>Kendi halkınızı köleleştirmek için kapsülleri kullanmak</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_SentienceStripped_Dec</Label>
+    <String>Gözetim sistemlerimiz duyarlı varlıkları {PLANETNAME} gezegenindeki kapsüllere zorla yerleştirdiğinizi gösteriyor. Bu kapsüller onları akılsız bir kölelik haline getirdi. Bu tür eylemler duyarlılığın ve sapiensin özüne meydan okumaktadır. Eylemleriniz fark edilmeyecektir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_SentienceStripped_Choice_Name</Label>
+    <String>Bizim görüşümüze göre, bu gerekliydi.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_SentienceStripped_Choice_Text_Dec</Label>
+    <String>{PLAYERFACTION:1} ile ilişkiler önemli ölçüde kötüleşecektir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_DiplomaticDrugFallout_Name</Label>
+    <String>Diplomatik Uyuşturucu Felaketi</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_DiplomaticDrugFallout_Dec</Label>
+    <String>{PLANETNAME} gezegeninde bu güçlü uyuşturucunun tüketimini teşvik etmeniz trajik bir olaya yol açtı. Uygarlığımızın önde gelen bir üyesinin aile üyesi bu bağımlılık yapıcı maddeye maruz kaldı ve hayatı kısa sürdü. [BR][BR]Bu durumun ciddiyeti diplomatik çevrelerimizde derinden hissedilmiştir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_DiplomaticDrugFallout_Choice_Name</Label>
+    <String>Öngörülemeyen sonuçlardan dolayı üzüntü duyuyoruz.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_DiplomaticDrugFallout_Choice_Text_Dec</Label>
+    <String>{PLAYERFACTION:1} ile ilişkiler istikrarsız bir durumdadır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_CosmicEyeTheft_Name</Label>
+    <String>Kozmik Gözün Çalınması</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_CosmicEyeTheft_Dec</Label>
+    <String>{PLANETNAME} gezegeninden Kozmik Göz'ü çalmaya cüret ettiniz. Bu kadim Öncü yadigârı bizim korumamız altındaydı ve yön bulma çabalarımız için hayati önem taşıyordu. [BR][BR] Böyle küstahça eylemlerin sonuçları olacaktır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_CosmicEyeTheft_Choice_Name</Label>
+    <String>Bizim için kullanılmamış bir potansiyel barındırıyordu.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_CosmicEyeTheft_Choice_Text_Dec</Label>
+    <String>{PLAYERFACTION:1} ile ilişkiler bir süre daha gergin kalacaktır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_SonicLarvaMassacre_Name</Label>
+    <String>Larva Akrabalarının Katliamı</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_SonicLarvaMassacre_Dec</Label>
+    <String>{PLANETNAME} gezegeninde, larva kuzenlerimizi öldüren sonik silahları serbest bıraktınız. Onlar böceksi uygarlığımızın yavrularıydı. Eylemleriniz bizi derinden rahatsız etti ve intikamımız havada.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_SonicLarvaMassacre_Choice_Name</Label>
+    <String>Onları bir tehdit olarak algıladık.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_SonicLarvaMassacre_Choice_Text_Dec</Label>
+    <String>{PLAYERFACTION:1} ile ilişkiler artık gerilimle doludur.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_MarsupialSlavery_Name</Label>
+    <String>Marsupial Köleleştirme</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_MarsupialSlavery_Dec</Label>
+    <String>{PLANETNAME} gezegeninin yarı zeki keseli yaratıklarını aldınız ve onları köleliğe zorladınız. Bu varlıklar bizim çevremizde el üstünde tutulur ve yaptıklarınız gazabımızı celbetti.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_MarsupialSlavery_Choice_Name</Label>
+    <String>Güçleri için potansiyel gördük.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_MarsupialSlavery_Choice_Text_Dec</Label>
+    <String>{PLAYERFACTION:1} ile ilişkiler zarar görmüştür.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_CrystalGenocide_Name</Label>
+    <String>Kutsala Saygısızlık Kristal Akraba</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_CrystalGenocide_Dec</Label>
+    <String>{PLANETNAME} gezegeninde türümüzü, yani bilinçli kristalleri katlettiniz. Kırılan her parça kaybedilen bir hayat, susturulan bir bilinçtir. Bu vahşetin yankıları evrende yankılanacak ve ıstırabımız sınırsız.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_CrystalGenocide_Choice_Name</Label>
+    <String>Duyarlılıklarının farkında değildik.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_CrystalGenocide_Choice_Text_Dec</Label>
+    <String>{PLAYERFACTION:1} ile ilişkiler, tıpkı yok ettiğiniz kristaller gibi paramparça oldu.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_ToxicDelicacy_Name</Label>
+    <String>Ölümcül İştah</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_ToxicDelicacy_Dec</Label>
+    <String>{PLANETNAME} gezegeninden ihraç etmeye başladığınız bağımlılık yapıcı gıdalar nüfusumuza ulaştı. [BR][BR] Bağımlılık yapıcı özellikleri insanlarımız arasında hastalık ve çaresizliğe yol açtı. Bu affedilemez bir ihmaldir!</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_ToxicDelicacy_Choice_Name</Label>
+    <String>Bu etkileri öngöremedik.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_ToxicDelicacy_Choice_Text_Dec</Label>
+    <String>Bu ihmal nedeniyle {PLAYERFACTION:1} ile ilişkiler şu anda ciddi şekilde gerilmiş durumda.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_DigitalDelight_Name</Label>
+    <String>Fleshling'leri zayıflattı</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_DigitalDelight_Dec</Label>
+    <String>Organik medeniyetler {PLANETNAME}'nin bağımlılık yaratan gıdaları nedeniyle acı çekerken, organik yaşamları mahvetme planınızdan çok memnunuz.  Size teşekkür ederiz.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_DigitalDelight_Choice_Name</Label>
+    <String>Oh. Evet. Başından beri şeytani planımız buydu.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_DigitalDelight_Choice_Text_Dec</Label>
+    <String>{PLAYERFACTION:1} ile ilişkiler artmıştır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_SealNegligence_Name</Label>
+    <String>Vatandaşımız yaralandı</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_SealNegligence_Dec</Label>
+    <String>{PLANETNAME} gezegenindeki sızdıran mühürleri ele almadaki başarısızlığınız doğrudan türümüzden birine ciddi zarar verdi. [BR][BR]Siz etliler bunu bir sorun olarak görmeseniz de, biz bunu unutmayacağız. Bu ihmal kabul edilemez ve ilişkilerimizi geriyor.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_SealNegligence_Choice_Name</Label>
+    <String>Gözden kaçırdığımız için özür dileriz.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_SealNegligence_Choice_Text_Dec</Label>
+    <String>{PLAYERFACTION:1} ile ilişkiler bu ihmal nedeniyle tehlikeye girmiştir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_ShadowyThanks_Name</Label>
+    <String>Yeraltı Dünyası Minnettarlığı</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_ShadowyThanks_Dec</Label>
+    <String>{PLANETNAME}'deki karaborsaya verdiğiniz destek gözden kaçmadı. Temsilcilerimiz gelişiyor ve kârımız artıyor. Bu tür ortaklıklara değer veriyoruz.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_ShadowyThanks_Choice_Name</Label>
+    <String>Karşılıklı faydaların farkındayız. Niyetimiz tamamen buydu.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_ShadowyThanks_Choice_Text_Dec</Label>
+    <String>{PLAYERFACTION:1} ile ilişkiler, bu kârlı birliktelik sayesinde önemli ölçüde artmıştır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_SafetyOversight_Name</Label>
+    <String>Vatandaşımız gezegeninizde zarar gördü.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_SafetyOversight_Dec</Label>
+    <String>{PLANETNAME} tarihinde fabrikanıza yaptığımız ziyaret sırasında, kaldırdığınız güvenlik önlemleri nedeniyle bir üyemiz yanlışlıkla devre dışı bırakılmıştır. Bu konudaki kararınızı sorguluyoruz!</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_SafetyOversight_Choice_Name</Label>
+    <String>Gözden kaçırdığımız için derin üzüntü duyuyoruz.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_SafetyOversight_Choice_Text_Dec</Label>
+    <String>Bu talihsiz olay nedeniyle {PLAYERFACTION:1} ile ilişkiler gerilmiştir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_NobleInjury_Name</Label>
+    <String>Seçkin Ziyaretçi Yaralandı</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_NobleInjury_Dec</Label>
+    <String>En saygın ailelerimizden birine mensup bir kuzenimiz {PLANETNAME} tarihinde fabrikanızı gezerken, kaldırdığınız güvenlik önlemleri nedeniyle yaralanmıştır. Bu olay bizim için son derece endişe vericidir!</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_NobleInjury_Choice_Name</Label>
+    <String>Akrabalarınıza asla zarar vermek istemedik.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_NobleInjury_Choice_Text_Dec</Label>
+    <String>Bu vahim olay nedeniyle {PLAYERFACTION:1} ile ilişkiler kötüleşmiştir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_CorporateArtemis_Name</Label>
+    <String>Artemis: Bir İş Patlaması</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_CorporateArtemis_Dec</Label>
+    <String>Artemis'teki ticaret ortaklarımız liderliğinize övgüler yağdırıyor. Gezegendeki gelişen işletmeler, girişimci girişimlerimize büyük fayda sağlıyor.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_CorporateArtemis_Choice_Name</Label>
+    <String>Amacımız ortaklık yoluyla refah sağlamaktır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_CorporateArtemis_Choice_Text_Dec</Label>
+    <String>{PLAYERFACTION:1} ile ilişkiler Artemis'te gelişen ticaret sayesinde güçlenmiştir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_OpportunisticArtemis_Name</Label>
+    <String>Artemis üzerindeki çalışmalarınız</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_OpportunisticArtemis_Dec</Label>
+    <String>Şirketlerinizin Artemis'te at koşturmasına izin verdiğiniz için, çabalarımızda önemli bir avantaj elde etmeyi başardık. Her fırsat hakimiyete giden bir yoldur ve siz bize harika bir fırsat sundunuz.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_OpportunisticArtemis_Choice_Name</Label>
+    <String>Yakalanan her fırsat bizi refaha daha da yaklaştırıyor.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_OpportunisticArtemis_Choice_Text_Dec</Label>
+    <String>{PLAYERFACTION:1} fırsatları değerlendirme konusunda ortak bir zemin bulmaktadır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_EmbracedPacifism_Name</Label>
+    <String>Pasifizmin Yolu</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_EmbracedPacifism_Dec</Label>
+    <String>Biyografiniz pasifist ilkelerinize ışık tutuyor. Bu bizim için derin bir yankı uyandırıyor. Sizi bu çalkantılı zamanlarda bir umut ışığı olarak görüyoruz.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_EmbracedPacifism_Choice_Name</Label>
+    <String>Barış ileriye giden gerçek yoldur.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_EmbracedPacifism_Choice_Text_Dec</Label>
+    <String>{PLAYERFACTION:2} pasifist medeniyetler arasında güven kazanır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_ExplorerPassion_Name</Label>
+    <String>Keşif Mirası</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_ExplorerPassion_Dec</Label>
+    <String>Biyografiniz doymak bilmeyen merakınızdan ve keşif tutkunuzdan bahsediyor. Keşif heyecanına değer veren bizler, sizde akraba bir ruh buluyoruz.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_ExplorerPassion_Choice_Name</Label>
+    <String>Evren uçsuz bucaksız ve harikalarla dolu.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_ExplorerPassion_Choice_Text_Dec</Label>
+    <String>{PLAYERFACTION:2} keşifçi medeniyetler arasında olumlu karşılanmaktadır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_ConquestPraise_Name</Label>
+    <String>Fatih'e Hayranlık</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_ConquestPraise_Dec</Label>
+    <String>Biyografiniz, övgüye ve saygıya değer bulduğumuz bir nitelik olan fethe olan açlığınızı anlatıyor.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_ConquestPraise_Choice_Name</Label>
+    <String>Yıldızlar, onları talep etme gücüne sahip olanlar içindir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_ConquestPraise_Choice_Text_Dec</Label>
+    <String>{PLAYERFACTION:2}'nin hırsları savaşçı medeniyetler tarafından tanınmakta ve takdir edilmektedir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_ConquestDismay_Name</Label>
+    <String>Kana susamış arzularınızdan dehşete kapılın</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_ConquestDismay_Dec</Label>
+    <String>Biyografiniz fetih ve hakimiyet açlığından bahsediyor. Bu kana susamışlık bizi derinden rahatsız etti.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_ConquestDismay_Choice_Name</Label>
+    <String>Barış, refaha giden gerçek yoldur.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_ConquestDismay_Choice_Text_Dec</Label>
+    <String>{PLAYERFACTION:2}'nin saldırgan hırsları barışçıl medeniyetleri rahatsız etmektedir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_RiseOfACrimeLord_Name</Label>
+    <String>Sen yükselen bir suç lordusun.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_RiseOfACrimeLord_Dec</Label>
+    <String>{PLANETNAME} üzerindeki çalışmalarınız sayesinde bir suç gücü olarak yükseliyorsunuz. Potansiyel girişimleri tartışmalıyız.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_RiseOfACrimeLord_Choice_Name</Label>
+    <String>İş konuşalım.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_RiseOfACrimeLord_Choice_Text_Dec</Label>
+    <String>Suç örgütleri arasındaki itibarımız arttı.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_EnslavedNativesRepercussions_Name</Label>
+    <String>Yerlileri köleleştiriyorsun.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_EnslavedNativesRepercussions_Dec</Label>
+    <String>{PLANETNAME} üzerindeki eylemleriniz not edildi. Yerli halk sizin direktifleriniz doğrultusunda köleleştirildi. Uygarlığınızın bütünlüğünü sorgulayan bu davranışınızdan derin rahatsızlık duyuyoruz.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_EnslavedNativesRepercussions_Choice_Name</Label>
+    <String>Eylemlerimiz halkımızın daha fazla iyiliği içindir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_EnslavedNativesRepercussions_Choice_Text_Dec</Label>
+    <String>Bu olay nedeniyle {PLAYERFACTION:1} ile ilişkiler önemli ölçüde gerilecektir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_EnslavedNativesAppreciation_Name</Label>
+    <String>Sen bizim türümüzden bir şeytansın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_EnslavedNativesAppreciation_Dec</Label>
+    <String>{PLANETNAME}'nin aptal yerlilerini köleleştirme kurnazlığınız gözden kaçmadı. Böyle bir stratejik zekayı takdir ediyoruz. Aramızda müttefikler bulabilirsin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_EnslavedNativesAppreciation_Choice_Name</Label>
+    <String>Tabii ki. Şimdi her zamanki gibi manyakça güleceğim.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_EnslavedNativesAppreciation_Choice_Text_Dec</Label>
+    <String>Eylemleriniz {PLAYERFACTION:1}'nin beğenisini kazandı.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_HelpedNativesBlessing_Name</Label>
+    <String>Yerlilere desteğiniz</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_HelpedNativesBlessing_Dec</Label>
+    <String>{PLANETNAME} üzerindeki şefkatli eylemleriniz yüksek kozmik düzenle rezonansa giriyor. Daha az gelişmiş olanın içindeki ilahi ışığı görme ve onu besleme seçiminizi takdir ediyoruz. Galaksi hatırlayacaktır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_HelpedNativesBlessing_Choice_Name</Label>
+    <String>Tüm varlıklar saygı ve nezaketi hak eder.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_HelpedNativesBlessing_Choice_Text_Dec</Label>
+    <String>{PLAYERFACTION:1} eylemlerinizi dikkate alarak aramızdaki bağı güçlendirdi.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_ExperimentalDrugConsequence_0xC3B1_Name</Label>
+    <String>Tedavi yan etkileri</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_ExperimentalDrugConsequence_0xC3B1_Dec</Label>
+    <String>{PLANETNAME}'de kullandığımız deneysel tedaviyi hatırlıyor musunuz? Oradaki insanlar hatırlıyor.[BR][BR]Görünüşe göre deneysel ilaç, kullanıcılarının bilişsel yeteneklerini büyük ölçüde artırmış. Gelişmiş zeka, yenilikçi fikirler ve hızlandırılmış teknolojik ilerleme sergiliyorlar. Bununla birlikte, gözle görülür davranış değişiklikleri vardır: artan saldırganlık, sabırsızlık ve aceleci kararlara eğilim. [BR][BR]Bu yeni keşfedilen zekayı beslemeli miyiz yoksa değişiklikleri başka bir tedavi ile geri döndürmeye mi çalışmalıyız?</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_ExperimentalDrugConsequence_Choice_1_0xC3B1_Name</Label>
+    <String>Zekayı teşvik edin. Psikopatları görmezden gelin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_ExperimentalDrugConsequence_Choice_1_0xC3B1_Dec</Label>
+    <String>Bu yüksek zekayı kucaklamaya ve yönlendirmeye karar vererek, sivil huzursuzluğun potansiyel maliyeti pahasına yenilik ve büyümenin faydalarından yararlanıyoruz. [BR][BR]Her zaman daha fazla hapishane inşa edebiliriz. Vatandaşlarımız zekâlarına +10 kazanacaklardır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_ExperimentalDrugConsequence_Choice_2_0xC3B1_Name</Label>
+    <String>Değişiklikleri geri alın. Güvenlik ve uyum her şeyden önce gelir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_ExperimentalDrugConsequence_Choice_2_0xC3B1_Dec</Label>
+    <String>İlacın yan etkilerini etkisiz hale getirmeyi amaçlayan yeni bir deneysel tedaviyi uygulamaya koyarak, halkımızın zihinsel refahını ve uyumunu hızlı ilerlemelere tercih ediyoruz. [BR][BR]Hemen sonuç yok.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Consequence_WormRodeo_Name</Label>
+    <String>Solucan Rodeosu</String>
+  </StringTable>
+  <StringTable>
+    <Label>Consequence_WormRodeo_Dec</Label>
+    <String>Yakın zamanda {PLAYERFACTIONLONG:1}'ten önemli bir liderin {PLANETNAME}'ü ziyaret ettiği haberini aldık.  Bir süre önce orada bir solucan rodeosu kurduğunuzu hatırlarsınız. [BR][BR] Uzaylı ziyaretçi o kadar etkilendi ki, bu onların türleriyle ilişkilerin gelişmesine yol açtı.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Consequence_WormRodeoChoice_Name</Label>
+    <String>Bunun iyi bir fikir olduğunu biliyordum.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Consequence_WormRodeo_Choice_Text_Dec</Label>
+    <String>Solucan Rodeosu devam ediyor.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Consequence_SpaceWhaleMurder_Name</Label>
+    <String>Uzay Balinası Katliamcısı</String>
+  </StringTable>
+  <StringTable>
+    <Label>Consequence_SpaceWhaleMurder_Dec</Label>
+    <String>Uzayın bu bölümünde göç eden değerli Lilula'ları, nazik uzay yaratıklarını yok etmeniz bizi dehşete düşürdü ve iğrendirdi. {PLAYERFACTIONLONG:1} alçakça eylemlerinizi kınıyor.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Consequence_SpaceWhaleMurder_Choice1_Name</Label>
+    <String>Öğreneceğini hiç düşünmemiştim.</String>
+  </StringTable>
+</StringTableList>

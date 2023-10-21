@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<StringTableList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+  <!--Campaign Tutorial Text-->
+  <StringTable>
+    <Label>AllianceAscendant_CampaignName</Label>
+    <String>Terran İttifakı Yükselen</String>
+  </StringTable>
+  <StringTable>
+    <Label>AllianceAscendant_CampaignDec</Label>
+    <String>Yıl 2307. Terran İttifakı ve koalisyonunun bilinen evreni kötü Drengin İmparatorluğu ve kölelerinden kurtarmasının üzerinden onlarca yıl geçmiştir. [BR][BR]Galaksi kendini barış içinde bulmaktadır (bazı saldırgan "küçük uygarlıkların" galaktik sahneye katılmasına izin veren Hyperdrive'ın devam eden yayılımı dışında.)[BR][BR]Bugün DL Bradley Leathon sistemi ve komşu yıldızlarından sorumludur. Söylentilere göre yeni bir uygarlık olan Xeloxi, yük gemilerine saldırmakta ve sivillere haraç ödetmektedir. Eğer bu söylentiler doğruysa, bir şeyler yapılmalıdır...</String>
+  </StringTable>
+  <StringTable>
+    <Label>Campaign_AllianceAscendant_Overall</Label>
+    <String>Sektöre İstikrar Getirin</String>
+  </StringTable>
+  <StringTable>
+    <Label>Campaign_AllianceAscendant_OwnThreeMinorRaces_Name</Label>
+    <String>3 Küçük Uygarlığı Koruyun</String>
+  </StringTable>
+  <StringTable>
+    <Label>Campaign_AllianceAscendant_OwnThreeMinorRaces_Dec</Label>
+    <String>Küçük Uygarlıkların, bir uygarlığın Kontrol Bölgesi içindeyken fayda sağlayacak tek bir ana dünyası vardır. Korumanız altında 3 Küçük Uygarlık olana kadar Kontrol Bölgenizi genişletmek için dünyalara yerleşin ve yıldız üsleri inşa edin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Campaign_AllianceAscendant_DestroyXeloxi_Name</Label>
+    <String>Xeloxi'yi yen</String>
+  </StringTable>
+  <StringTable>
+    <Label>Campaign_AllianceAscendant_DestroyXeloxi_Dec</Label>
+    <String>Xeloxi bu sistemleri yeterince uzun süredir gasp ediyor ve yağmalıyor. Tüm gezegenlerini ele geçirerek Xeloxi'leri sektörden çıkarın. Diplomasiyi kullanarak güçlü bir filo kurmak için zaman kazanabilirsiniz, ancak çatışma kaçınılmazdır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Campaign_AllianceAscendant_EnsureMinorFactionsSurvive_Name</Label>
+    <String>Tüm Küçük Uygarlıkların Hayatta Kalmasını Sağlayın</String>
+  </StringTable>
+  <StringTable>
+    <Label>Campaign_AllianceAscendant_EnsureMinorFactionsSurvive_Dec</Label>
+    <String>Uzayın bu bölgesindeki uygarlıklar yeterince acı çekti. Kısa bir süre önce uzay yolculuğu statüsüne eriştiler ve o zamandan beri ahlaksız anlaşmalarla boyun eğdirildiler. Gerçek bir güvenlik duygusu sağlamak ve güvenlerini kazanmak için onlara adil davranmalı ve onları korumalıyız.</String>
+  </StringTable>
+  <!--Flavor Text for Terran FActions-->
+  <StringTable>
+    <Label>FACTION_TERRAN_Campaign_AllianceAscendant_StartupDescription</Label>
+    <String>Son galaktik çatışmanın üzerinden onlarca yıl geçti. Bilinen sistemler az ya da çok barış içindeydi. Yine de bir değişim oldu; yeni bir uygarlığın meşru olmayan işler yaptığına dair raporlar var. Daha önce bilinmeyen Xeloxi'nin sorumlu olduğu söyleniyor. Terran İttifakı müdahale etmeli, sisteme istikrar getirmeli ve bu Xeloxi grubuyla başa çıkmalıdır. [BR][BR]Küçük Medeniyetler en çok zarar görenlerdir, bu nedenle öncelik onları İttifak etkisi altına almak olmalıdır. Onlar güvende olduktan ve Xeloxi'nin haksız kaynak akışı kesildikten sonra, Xeloxi ile başa çıkılabilir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_TERRAN_Campaign_AllianceAscendant_StartupTraitsDescription</Label>
+    <String>İstikrar ve koruma sağlandığında, Küçük Medeniyetler bir kaynak kaynağı olarak hizmet eder. Yakınlarına yerleşmek ve onları İttifak etkisi altında tutmak, vicdansız Xeloxi'ye karşı belirgin bir avantaj sağlayacaktır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_TERRAN_Campaign_AllianceAscendant_StartupTitle</Label>
+    <String>Yükselen Koruyucular</String>
+  </StringTable>
+  <!--Star System-->
+  <StringTable>
+    <Label>Terran_AllianceAscendant_System_Name</Label>
+    <String>Leathon Sistemi</String>
+  </StringTable>
+  <StringTable>
+    <Label>Terran_AllianceAscendant_System_Dec</Label>
+    <String>Leathon sistemi bir insan kolonisi için mükemmel olan 28. sınıf bir gezegene sahiptir ve bu da burayı bir üs kurmak için ideal bir yer haline getirmektedir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Terran_AllianceAscendant_Star_Name</Label>
+    <String>Leathon</String>
+  </StringTable>
+  <StringTable>
+    <Label>Terran_AllianceAscendant_Homeworld_Name</Label>
+    <String>Leathon Prime</String>
+  </StringTable>
+  <StringTable>
+    <Label>Terran_AllianceAscendant_DeadPlanet1_Name</Label>
+    <String>Limerithon</String>
+  </StringTable>
+  <StringTable>
+    <Label>Terran_AllianceAscendant_DeadPlanet2_Name</Label>
+    <String>Coth</String>
+  </StringTable>
+  <StringTable>
+    <Label>Terran_AllianceAscendant_DeadPlanet3_Name</Label>
+    <String>Ennithel</String>
+  </StringTable>
+  <StringTable>
+    <Label>Terran_AllianceAscendant_HabbitalPlanet1_Name</Label>
+    <String>Mallithon</String>
+  </StringTable>
+  <StringTable>
+    <Label>Terran_AllianceAscendant_HabbitalPlanet2_Name</Label>
+    <String>Banthel</String>
+  </StringTable>
+</StringTableList>

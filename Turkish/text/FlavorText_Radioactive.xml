@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<FlavorTextDefs xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
+  <FlavorTextDef>
+    <InternalName>Radioactive_StartOfGame</InternalName>
+    <FlavorTextOption>
+      <Text>İsmimiz yok. [BR][BR] Diğerlerinin bize verdiği isimler. "Işınlanmış. "Kozmik Kirletici. [BR][BR] Duyarlılık, bir safsata. Hiçbiri buna sahip değil, yine de bu bilgi için bize hakaret ediyorlar. [BR][BR] Yaymak zorundayız. Tüm varoluşun yolu budur. Düşünmek yok, akıl yürütmek yok. Yine de şimdi, özümüzü kozmik genişlikten yok etmek istiyorlar. Direnmeliyiz. Yok olabiliriz. Dayanacağız. Ve her zaman yayılacağız. Daima yayılacağız.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+</FlavorTextDefs>

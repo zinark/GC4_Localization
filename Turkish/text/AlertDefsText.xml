@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<StringTableList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+  <StringTable>
+    <Label>ALERT_ShipCompleted</Label>
+    <String>%s %s. adresinde tamamlandı</String>
+  </StringTable>
+  <StringTable>
+    <Label>ALERT_ImprovementCompleted</Label>
+    <String>%s %s. tarihinde tamamlandı</String>
+  </StringTable>
+  <StringTable>
+    <Label>ALERT_PlayerHireMercenary</Label>
+    <String>%s paralı asker %s. kiraladı.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ALERT_PlayerKillMercenary</Label>
+    <String>%s paralı askeri %s. öldürdü</String>
+  </StringTable>
+  <StringTable>
+    <Label>ALERT_AsteroidMiningBaseAttacked</Label>
+    <String>%s, %s. tarafından mağlup edilmiştir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ALERT_AsteroidMiningInfluenceFlipped</Label>
+    <String>%s %s.'e iltica etti</String>
+  </StringTable>
+  <StringTable>
+    <Label>ALERT_OthersDeclaredWar</Label>
+    <String>%s, %s.'e savaş ilan etti</String>
+  </StringTable>
+  <StringTable>
+    <Label>ALERT_OthersEndedWar</Label>
+    <String>%s, %s. ile olan savaşını sona erdirdi</String>
+  </StringTable>
+  <StringTable>
+    <Label>ALERT_OtherBuiltGalacticAchievement</Label>
+    <String>%s'ün %s'ü inşa ettiğine dair söylentiler duyduk. Galaktik Başarı.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ALERT_OtherPutStarbaseInTerritory</Label>
+    <String>%s bölgemizde bir yıldız üssü inşa etti.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ALERT_OtherBuiltTerrorStar</Label>
+    <String>%s bir Terör Yıldızı inşa etti!</String>
+  </StringTable>
+  <StringTable>
+    <Label>ALERT_OtherWithdrewFromUP</Label>
+    <String>%s Birleşik Gezegenler'den çekildi.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ALERT_UPResolutionExpired</Label>
+    <String>%s Birleşik Gezegenler Kararı'nın süresi dolmuştur.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ALERT_OtherResearchedVictoryTech</Label>
+    <String>%s bir teknoloji zaferine hazırlanmak için %s'ü araştırdı.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ALERT_OtherGainedAscensionCrystal</Label>
+    <String>%s bir yükseliş kristali ele geçirdi.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ALERT_OtherGotMajorityAscensionCrystals</Label>
+    <String>%s yükseliş kristallerinin çoğunu ele geçirmiştir ve yükseliş zaferi arayabilir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ALERT_OtherReachedAscensionPoints</Label>
+    <String>%s bir yükseliş zaferi kazanmak için yeterli aura puanı topladı.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ALERT_AgreementExpired</Label>
+    <String>%s ile yaptığınız anlaşmalardan birinin süresi doldu.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ALERT_AgreementCancelled</Label>
+    <String>%s sizinle olan bir anlaşmayı iptal etti.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ALERT_GalacticEventExpired</Label>
+    <String>Galaktik olay %s sona erdi.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ALERT_ShipyardCannotManufactureShip</Label>
+    <String>%s artık tekrar tekrar %s üretmiyor çünkü %s. tükendi</String>
+  </StringTable>
+  <StringTable>
+    <Label>ALERT_GalacticEventActive</Label>
+    <String>Galaktik olay %s aktiftir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ALERT_GalacticEventActive_Duration</Label>
+    <String>Galaktik olay %s %ld tur daha aktiftir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ALERT_ScenarioObjectiveActive</Label>
+    <String>%s</String>
+  </StringTable>
+  <StringTable>
+    <Label>ALERT_AdministrationCapped</Label>
+    <String>Daha fazla [HS=HS_Administration]Yöneticiye[/HS] ihtiyacınız var.</String>
+  </StringTable>
+</StringTableList>

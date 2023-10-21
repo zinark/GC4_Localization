@@ -1,0 +1,759 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<StringTableList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+  <StringTable>
+    <Label>Event_AncientArtifact_Name</Label>
+    <String>Antik Eser</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_AncientArtifact_Dec</Label>
+    <String>Kaşiflerimiz kaynağı bilinmeyen eski bir eser keşfettiler. Bazıları bunun ileri teknolojinin kilidini açmanın anahtarı olduğuna inanırken, diğerleri bunun atalarımızdan kalma bir kalıntı olduğunu ve korunması gerektiğini savunuyor.[BR][BR]Bu eserle ne yapmalıyız?</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_AncientArtifact_Opportunity_Bonus_Name</Label>
+    <String>Teknolojik gelişmeler için eseri inceleyin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_AncientArtifact_Tradition_Bonus_Name</Label>
+    <String>Bu eseri mirasımızın bir sembolü olarak koruyun.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_SpaceWhaleMigration_Name</Label>
+    <String>Uzay Yaratığı Göçü</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_SpaceWhaleMigration_Dec</Label>
+    <String>Garip uzay yaratıklarının büyük bir göçü bölgemizden geçiyor. Arkalarında büyük bir tahribat bırakıyorlar.  Bu yaratıkları ortadan kaldırmamız için üzerimizde büyük bir siyasi baskı var ancak bu tür şeylere düşkünlüğünüz olduğunu duyduk.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_SpaceWhaleMigration_Compassion_Name</Label>
+    <String>Yaratıkları koruyun</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_SpaceWhaleMigration_Compassion_Dec</Label>
+    <String>Uzay yaratıklarını koruyacak ve güvenli geçişlerini sağlayarak diğer merhametli grupların iyi niyetini kazanacağız.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_SpaceWhaleMigrationCompassion_String1</Label>
+    <String>Uzay balinalarını korudun.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_SpaceWhaleMigration_Pragmatism_Name</Label>
+    <String>Daha iyi bir fikrim var, bu yaratıkları katledip onlardan yeni bilgiler elde edeceğiz.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_SpaceWhaleMigration_Pragmatism_Dec</Label>
+    <String>Bu yaratıklar çok fazla acı çekmeyecekler. Muhtemelen.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_TechnologyExchange_Name</Label>
+    <String>Teknoloji Değişimi</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_TechnologyExchange_Dec</Label>
+    <String>Kahraman kaşiflerimiz, sözde Arnor tarafından geride bırakılan bir Öncü eserine rastladılar.  Bunu anlamamız mümkün değil.  Bize sizin bunu çözebileceğiniz önerildi. Keşfettiklerinizi bizimle paylaşmanız koşuluyla bakmanıza izin vermeye hazırız.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_TechnologyExchange_Cooperation_Bonus_Name</Label>
+    <String>Onlara daha fazla fayda sağlayacağını bilerek takası kabul edin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_TechnologyExchange_Cooperation_Bonus_Dec</Label>
+    <String>Teknoloji değişimini kabul ederek +25 araştırma birimi kazandık. Ancak onlar çok daha fazlasını kazandılar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_TechnologyExchange_Cooperation_String1</Label>
+    <String>Teknoloji değişimini kabul ettiniz</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_TechnologyExchange_Cooperation_String2</Label>
+    <String>Ekibiniz esere bakacak ve akut bir tereyağı parmak vakası yaşayacak. 20 ay boyunca {PLAYERFACTION:1} ile -3 İlişki. Sizin için +25 Araştırma.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_TechnologyExchange_Independence_Bonus_Name</Label>
+    <String>Esere bakmayı kabul edin ve sonra 'yanlışlıkla' onu yok edin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_TechnologyExchange_Droppedit</Label>
+    <String>Objemizi bilerek mahvettin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_TechnologyExchange_Isolation_Bonus_Name</Label>
+    <String>Bunun için çok meşgulüz.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_TechnologyExchange_Isolation_Bonus_Dec</Label>
+    <String>Teknoloji alışverişini reddederek ve kendimizi izole ederek diplomatik ilişkileri zorlayabiliriz ancak kendi yolumuza odaklanabiliriz. -1 20 ay boyunca {PLAYERFACTION:1} ile ilişkiler</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_TechnologyExchange_Isolation_String1</Label>
+    <String>Eser konusunda bize yardım etmeyi reddettiniz.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_AlternateEnergy_Name</Label>
+    <String>Alternatif Enerji Kaynağı</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_AlternateEnergy_Desc</Label>
+    <String>Uygarlığımız yakın zamanda, endüstrilerimizde devrim yaratacağına inandığımız alternatif bir enerji kaynağı keşfetti. Ancak bu enerji kaynağı, bölgemizde nadir bulunan bir kaynak olan Elerium gerektiriyor. Bu enerji kaynağını geliştirmek için sizden yardım talep ediyoruz. Karşılığında, elde edeceğimiz faydaları uygarlığınızla paylaşacağız.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_AlternateEnergy_Innovation_Name</Label>
+    <String>Biraz ödünç almak zorunda kalsak bile araştırma için Eleryum sağlayın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_AlternateEnergy_Innovation_Bonus</Label>
+    <String>Elerium Enerji Sistemi</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_AlternateEnergy_Innovation_Dec</Label>
+    <String>+1 50 ay boyunca {PLAYERFACTION:1} ile ilişkiler.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_AlternateEnergy_Tradition_Name</Label>
+    <String>Bu projeye yardım etmeyi çok isterdik ama istemiyoruz.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_AlternateEnergy_Tradition_Dec</Label>
+    <String>-1 25 ay boyunca {PLAYERFACTION:1} ile ilişkiler.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_AlternateEnergy_Tradition_String1</Label>
+    <String>Elerium projesinde bize yardım etmedin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_AlternateEnergy_Innovation_String1</Label>
+    <String>Elerium projesinde bize yardım ettiniz.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Refugees_Name_5XA</Label>
+    <String>Felaket mültecileri</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Refugees_Dec_5XA</Label>
+    <String>Ana gezegenimiz yıkıcı bir doğal afetten muzdarip. Binlerce insanımız yerinden edildi ve sığınacak bir yer arıyor. Bu umutsuz zamanda sizden yardım istiyoruz. Bu mültecileri kabul edip yeni bir yuva bulmalarına yardımcı olur musunuz?</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Refugees_Compassion_Bonus_Name</Label>
+    <String>Mültecileri kabul edin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Refugees_Compassion_Bonus_Dec</Label>
+    <String>+1 ilişkilere..</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_RefugeesCompassion_String1</Label>
+    <String>Mültecilerimizi kabul ettiniz.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Refugees_Cruelty_Bonus_Name</Label>
+    <String>Benim daha iyi bir fikrim var. Onları toplayıp köle olarak çalıştıracağız.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Refugees_Cruelty_Bonus_Dec</Label>
+    <String>Onları 300 kredi karşılığında adamlarınızdan birine satın. -2 {PLAYERFACTION:1} ile 50 ay boyunca ilişkiler</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_RefugeesCruelty_String1</Label>
+    <String>Mültecilerimizi köleleştirdiniz!</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_DisputedTerritory_Name</Label>
+    <String>İhtilaflı Bölge</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_DisputedTerritory_Dec</Label>
+    <String>Bölgemiz, kaynaklar açısından zengin tartışmalı bir bölgeyi içeriyor. Ne yazık ki, dünyamızdaki rakip bir siyasi grup da buranın kendilerine ait olduğunu iddia ediyor. Müzakereye açığız, ancak desteğinize ihtiyacımız var. Eğer hak talebimizi desteklerseniz, kaynakları sizinle paylaşacağız. Ancak tarafsız kalırsanız, dostane bir ilişki sürdürmemiz mümkün olmayabilir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_DisputedTerritory_Compassion_Bonus_Name</Label>
+    <String>İddialarını destekleyin ve rakip grubun asla güç kazanmamasını umarak kaynakları paylaşın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_DisputedTerritory_Compassion_Bonus_Dec</Label>
+    <String>75 tur boyunca {PLAYERFACTION:1} ile +1 İlişki.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_DisputedTerritoryCompassion_String1</Label>
+    <String>İhtilaflı bölge üzerindeki hak iddiamı desteklediniz</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_DisputedTerritory_Authority_Bonus_Name</Label>
+    <String>Tarafsız kalın ve anlaşmazlığı onların çözmesine izin verin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_DisputedTerritory_Authority_Bonus_Dec</Label>
+    <String>-2 25 ay boyunca {PLAYERFACTION:1} ile ilişkiler</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_DisputedTerritoryAuthority_String1</Label>
+    <String>İhtilaflı bölgede tarafsız kaldınız</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_DamagedTradeShip_Name</Label>
+    <String>Hasarlı Ticaret Gemisi</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_DamagedTradeShip_Dec</Label>
+    <String>Ana gezegenimizden gelen yük gemilerimizden biri bir iyon fırtınası nedeniyle hasar gördü ve bölgenize yakın derin uzayda mahsur kaldı. Biraz yardıma ihtiyacımız var.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_DamagedTradeShip_Compassion_Bonus_Name</Label>
+    <String>Karaya oturan gemiye yardım gönderin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_DamagedTradeShip_Compassion_Bonus_Dec</Label>
+    <String>+1 {PLAYERFACTION:1} ile 50 ay boyunca ilişkiler</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_DamagedTradeShipCompassion_String1</Label>
+    <String>Karaya oturan ticaret gemimize yardım gönderdiniz.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_DamagedTradeShip_Authority_Bonus_Name</Label>
+    <String>Kargolarını vergilendirme fırsatını değerlendirin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_DamagedTradeShip_Authority_Bonus_Dec</Label>
+    <String>50 ay boyunca {PLAYERFACTION:1} ile +300 kredi ve -2 İlişki</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_DamagedTradeShipAuthority_String1</Label>
+    <String>Yük gemimizi ele geçirdiniz.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_AncientArtifact_Name_0X56CB</Label>
+    <String>Dehşet Lordu Eseri</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_AncientArtifact_Dec_0X56CB</Label>
+    <String>Dehşet Lordları tarafından geride bırakılan bir tür cihaza rastladık.  Ne olduğundan tam olarak emin değiliz ve araştırmacılarınızdan birinin bunu incelemeye istekli olup olmadığını görmek istedik.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_AncientArtifact_Authority_Bonus_Name_0X56CB</Label>
+    <String>Objeyi al ve etkinleştir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_AncientArtifact_Authority_Bonus_Dec_0X56CB</Label>
+    <String>Bilinmiyor ama -1 50 ay boyunca {PLAYERFACTION:1} ile ilişkiler</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_AncientArtifactAuthority_String1_0X56CB</Label>
+    <String>Antik eseri kendin için sakladın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_AncientArtifact_Compassion_Bonus_Name_0X56CB</Label>
+    <String>Eseri incelemek üzere ortak bir görev gücü oluşturun.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_AncientArtifact_Compassion_Bonus_Dec_0X56CB</Label>
+    <String>+1 {PLAYERFACTION:1} ile 50 ay boyunca ilişkiler</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_AncientArtifactCompassion_String1_0X56CB</Label>
+    <String>Artifact görev gücü.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_RefugeeCrisis_Name_0X56CD</Label>
+    <String>Başarısız Kolonizasyon Çabası</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_RefugeeCrisis_Dec_0X56CD</Label>
+    <String>Halkımızdan bazıları bizim onayımız olmadan dünyaları kolonileştirmeye karar verdiler. Gemileri başarısız oldu ve yolcular öldü ve gemi uzayınızın yakınına sürüklendi.  Gemiyi bizim için kurtarmanızı istiyoruz. Gemide bulduklarınız sizde kalabilir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_RefugeeCrisis_Compassion_Bonus_Name_0X56CD</Label>
+    <String>Gemiyi bulun ve gemide bulduğunuz büyük miktardaki şekerlemeyi saklayarak geri getirin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_RefugeeCrisis_Compassion_Bonus_Dec_0X56CD</Label>
+    <String>+1 {PLAYERFACTION:1} ile 50 ay boyunca ilişkiler</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_RefugeeCrisis_Compassion_Bonus_Stat_0X56CD</Label>
+    <String>Mülteci Gemisi Hediyeleri</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_RefugeeCrisisCompassion_String1_0X56CD</Label>
+    <String>Kayıp yoldaşlarımızı geri getirdiniz.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_RefugeeCrisis_Cruelty_Bonus_Name_0X56CD</Label>
+    <String>Sanırım sadece gemiyi ve içindeki eşyaları alacağız.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_RefugeeCrisisEvil_String1_0X56CD</Label>
+    <String>Mallarımızı çaldın!</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_RefugeeCrisis_Evil_Bonus_Dec_0X56CD</Label>
+    <String>-1 50 ay boyunca {PLAYERFACTION:1} ile ilişkiler.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_CoupFugitive_Name_0X47AE</Label>
+    <String>Devlet Düşmanı</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_CoupFugitive_Dec_0X47AE</Label>
+    <String>Saygıdeğer generallerimizden biri bana karşı darbe yapmaya cüret etti! Hain planlarını başarıyla engelledik, ancak güçlerimizden kaçmayı başardı ve sizin gezegeninize sığındı. Bu haini bize geri teslim etmek için işbirliği yapmanız büyük önem taşıyor.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_CoupFugitive_Authority_Bonus_Name_0X47AE</Label>
+    <String>Haini bulup teslim edeceğiz.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_CoupFugitive_Authority_Bonus_Dec_0X47AE</Label>
+    <String>+1 {PLAYERFACTION:1} ile 50 ay boyunca ilişkiler</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_CoupFugitive_Calm_Bonus_Dec_0X57AE</Label>
+    <String>Bu gerçekten bizim sorunumuz değil. Ne isterse yapabilir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_CoupFugitive_Calm_Bonus_Dec_0X47AE</Label>
+    <String>{PLAYERFACTION:1}'yi rahatsız ediyoruz ve kaçağın eylemleri bir süre için acı veriyor. Ama onun maskaralıkları bir komedi gösterisiyle sonuçlanıyor.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_CoupFugitive_Calm_Bonus_Stat_0X47AE</Label>
+    <String>Eğlenceli kaçak</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_CoupFugitiveAuthority_String1_0X47AE</Label>
+    <String>Bize hainimizin kellesini verdin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_InvasiveSpecies_Name_0X47AB</Label>
+    <String>İstilacı Türler</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_InvasiveSpecies_Dec_0X47AB</Label>
+    <String>Ana gezegeninizden kaynaklanan ve şu anda ithalat yoluyla dünyamıza gelen haşereler nedeniyle yıkım raporları alıyoruz. Çevreyi onarma maliyetini karşılamak için bize 500 kredi ödemenizi talep ediyoruz.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_InvasiveSpecies_Comp_Bonus_Name_0X47AB</Label>
+    <String>Zararları telafi edin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_InvasiveSpecies_Cruel_Bonus_Name_0X47AB</Label>
+    <String>Bizim sorunumuz değil.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_InvasiveSpecies_Comp_Bonus_Dec_0X47AB</Label>
+    <String>Onlara istediklerini ödeyin. Onlara bir Monsantium Depozitosu verirsek bir tane kaybederiz.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_InvasiveSpecies_Cruel_Bonus_Dec_0X47AB</Label>
+    <String>-1 50 ay boyunca {PLAYERFACTION:1} ile ilişkiler</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_InvasiveSpecies_Cruel_String1_0X47AB</Label>
+    <String>Böcekleriniz dünyamıza zarar veriyor.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_CulturalInvasion_Name_0X9A7BC</Label>
+    <String>Kültürel İstila</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_CulturalInvasion_Dec_0X9A7BC</Label>
+    <String>Halkınızın müzik ve kültürünün amansız dalgası dünyalarımızı istila etti ve toplumumuzun her köşesine nüfuz etti. Canlı melodiler ve bulaşıcı ritimler sokaklarımızda yankılanarak vatandaşlarımızın dikkatini dağıtıyor ve yaşam tarzımızın ahengini bozuyor. Gelenek ve göreneklerinizin renkli dokusu bizimkilerle iç içe geçerek uygarlığımızın dokusunu çözme tehdidinde bulunuyor. Müdahale etmenizi ve fırtınayı dindirmenizi talep ediyoruz.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_CulturalInvasion_Authority_Bonus_Name_0X9A7BC</Label>
+    <String>Sıkı kültürel düzenlemeler uygulayın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_CulturalInvasion_Authority_Bonus_Dec_0X9A7BC</Label>
+    <String>Para harcıyor ve kontrol ediyoruz ancak {PLAYERFACTION:1} ile ilişkilerimizi geliştiriyoruz.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_CulturalInvasionAuthority_String1_0X9A7BC</Label>
+    <String>Kültürümüzü korumak için adımlar atıyorsunuz.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_CulturalInvasion_Compassion_Bonus_Name_0X9A7BC</Label>
+    <String>Kültürel alışverişi teşvik ederek onların kültürünü kendi halkımıza aktif bir şekilde tanıtıyoruz.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_CulturalInvasion_Compassion_Bonus_Dec_0X9A7BC</Label>
+    <String>Kültürel alışverişi teşvik ederek onların kültürünü kendi halkımıza aktif bir şekilde tanıtabiliriz. Bu bizim etkimizi azaltacaktır...</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_CulturalInvasion_Calm_Bonus_Name_0X9A7BC</Label>
+    <String>Müziğimizi yerli sanatçılara lisanslayacağız.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_CulturalInvasion_Calm_Bonus_Dec_0X9A7BC</Label>
+    <String>Her iki tarafta da insanların ruh halini iyileştiriyoruz.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_CulturalInvasion_Calm_Bonus_Stat_0X9A7BC</Label>
+    <String>Kültürel Değişim Programı</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_CulturalInvasionCalm_String1_0X9A7BC</Label>
+    <String>Halkımız müziğinizden keyif alıyor.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_CulturalInvasion_Compassion_Bonus_Stat_0X9A7BC</Label>
+    <String>Kambiyo Sözleşmesi</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_CultureExchange_Name_0X9A7BC</Label>
+    <String>Kültürel Değişim Festivali</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_CultureExchange_Dec_0X9A7BC</Label>
+    <String>Size bir teklifimiz var. Barış adına bir Kültürel Değişim Festivali düzenlemek istiyoruz. Her iki medeniyetin sanat, müzik ve gelenekleri anlayış ve birlikteliği teşvik edebilir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_CultureExchange_Choice1_0X9A7BC</Label>
+    <String>Festivali Kabul Edin</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_CultureExchange_Choice1_Dec_0X9A7BC</Label>
+    <String>Etkinliği tanıtmaya karar verdik, turist akını ve kültürel takdirde bir artış bekliyoruz. Ancak, farklı kalabalığı yönetmek için biraz kontrol harcamamız gerekecek.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_CultureExchange_Choice2_0X9A7BC</Label>
+    <String>Teklifi Reddedin</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_CultureExchange_Choice2_Dec_0X9A7BC</Label>
+    <String>Kültür festivaline katılmama kararı aldık. İç barış ve istikrarımıza öncelik veriyoruz. Ancak bu karar {PLAYERFACTIONLONG:1}'nin hoşuna gitmeyebilir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_CultureExchange_Diplomatic_0X9A7BC</Label>
+    <String>Festival teklifimizi reddettiniz</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_CivPilgrimage_0x49B2_Name</Label>
+    <String>Hac Teklifi</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_CivPilgrimage_0x49B2_Dec</Label>
+    <String>Halkımız çok ruhanidir. Etki alanınız içinde halkımızın onları kadim Mithilar'a bağladığına inandığı bölgeler var. Bölgenizden geçmelerine izin verir misiniz? Buna minnettar oluruz.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_CivPilgrimage_0x49B2_Choice1_Name</Label>
+    <String>Hac yolculuğuna izin verin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_CivPilgrimage_0x49B2_Choice1_Dec</Label>
+    <String>Manevi öneminin bilincinde olarak ve geleneklerine saygı duyarak, onlara hac ziyareti için izin verdik. Güvenliklerini sağlamak için biraz kontrol gerekecek.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_CivPilgrimage_0x49B2_Choice2_Name</Label>
+    <String>Hayır. Hiç sanmıyorum.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_CivPilgrimage_0x49B2_Choice2_Dec</Label>
+    <String>İhtiyacımız olan son şey uzayımızda seyahat eden bir grup uzaylı casus.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_CivPilgrimage_GoodDiplomaticReason_0x49B2</Label>
+    <String>Hac Onayı için Minnettarız</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_CivPilgrimage_NegativeDiplomaticReason_0x49B2</Label>
+    <String>Hac Ziyaretinin Reddedilmesi Hayal Kırıklığına Uğrattı</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_FeastProposal_0x15E9_Name</Label>
+    <String>Korkunç İstek</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_FeastProposal_0x15E9_Dec</Label>
+    <String>Bizler, {PLAYERFACTIONLONG:1}, yaşam döngümüzün önemli bir dönemine yaklaşıyoruz - kutsal çiftleşme ritüelimiz.[BR][BR] Ritüelin başarılı olması için, ziyafet çekecek canlılara ihtiyacımız var. Bu canlıları sizin sağlamanızı istiyoruz. Gerekçelendirmenize yardımcı olacaksa onları hapishanelerinizden toplayabilirsiniz. Ama bunun türümüz için önemi abartılamaz. Bu iyi niyet jestini sunacak mısınız?</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_FeastProposal_0x15E9_Choice1_Name</Label>
+    <String>Güzel. Onları beslemek için birkaç suçlu topla.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_FeastProposal_0x15E9_Choice1_Dec</Label>
+    <String>Bu seçimin halkımız arasında huzursuzluğa yol açacağı kesin. Ama en azından ilişkileri geliştirecektir. Şimdilik.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_FeastProposal_0x15E9_Choice2_Name</Label>
+    <String>Kesinlikle olmaz.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_FeastProposal_0x15E9_Choice2_Dec</Label>
+    <String>Bu seçimden mutsuz olacaklar ama halkımız yarın da size saygı duymaya devam edecek...</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_FeastProposal_PositiveDiplomaticReason_0x15E9</Label>
+    <String>Et festivalimizi desteklediniz</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_FeastProposal_NegativeDiplomaticReason_0x15E9</Label>
+    <String>Festivalimizi mahvettin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_SportRequest_0x23F4_Name</Label>
+    <String>Kanlı Teklif</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_SportRequest_0x23F4_Dec</Label>
+    <String>Bizler, {PLAYERFACTIONLONG:1}, kişinin fiziğinin ve zihinsel becerilerinin gerçek yeteneklerini test eden uzun süredir devam eden bir oyun geleneğine sahibiz. Isınmak için, zayıf türünüzün savaşçılarımıza pratik yapmaları için bazı örnekler sağlaması tavsiye edilir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_SportRequest_0x23F4_Choice1_Name</Label>
+    <String>Sadece izleyebilirsem.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_SportRequest_0x23F4_Choice1_Dec</Label>
+    <String>Halkımız muhtemelen bu karar karşısında dehşete düşecektir, ancak bu karar zalim {PLAYERFACTIONLONG:1} ile daha fazla çatışmayı önleyebilir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_SportRequest_0x23F4_Choice2_Name</Label>
+    <String>İğrenç tekliflerini reddedin</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_SportRequest_0x23F4_Choice2_Dec</Label>
+    <String>Halkımız rahatlayacak olsa da, bu durum onlarla ilişkilerimizi daha da bozabilir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_SportRequest_PositiveDiplomaticReason_0x23F4</Label>
+    <String>Yerini biliyorsun</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_SportRequest_NegativeDiplomaticReason_0x23F4</Label>
+    <String>Çok fazla omurga var sende.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_SubmersionFestival_0x3C4D_Name</Label>
+    <String>Derin Su Festivali</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_SubmersionFestival_0x3C4D_Dec</Label>
+    <String>{PLAYERFACTIONLONG:1}, halkınızı amfibi mirasımızın bir kutlaması olan Derin Su Festivalimize katılmaya davet ediyor. Okyanuslarımızın derinliğini deneyimlemek için en iyi yüzücülerinizden bazılarını talep ediyoruz. Bu eşsiz, hayatta bir kez ele geçecek bir fırsat. Ancak itiraf etmeliyiz ki bazı riskleri de beraberinde getiriyor. [BR][BR]Kabul edecek misiniz?</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_SubmersionFestival_0x3C4D_Choice1_Name</Label>
+    <String>Gönüllüler göndereceğiz.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_SubmersionFestival_0x3C4D_Choice1_Dec</Label>
+    <String>Bu kültürel değişim için bir fırsat ama aynı zamanda yüzücülerimizden herhangi birinin ölmesi durumunda bir risk.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_SubmersionFestival_0x3C4D_Choice2_Name</Label>
+    <String>Bu bizim katılmamız için çok tehlikeli.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_SubmersionFestival_0x3C4D_Choice2_Dec</Label>
+    <String>Katılmak için can atacak bazı insanlarımız olsa da, bir şeyler ters giderse ortaya çıkacak skandal tam bir felaket olur.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_SubmersionFestival_PositiveDiplomaticReason_0x3C4D</Label>
+    <String>İyi yüzücülersiniz</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_SubmersionFestival_NegativeDiplomaticReason_0x3C4D</Label>
+    <String>Sen korkaksın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_OceanExploration_0x4F5A_Name</Label>
+    <String>Derin Su</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_OceanExploration_0x4F5A_Dec</Label>
+    <String>Halkımız {PLAYERFACTIONLONG:1}, suyla derin bir bağa sahiptir. Okyanuslarınızın derinliklerini keşfetmek, sakinlerini incelemek ve gizemlerini anlamak istiyoruz.[BR][BR]Sizi temin ederiz ki niyetimiz tamamen bilimseldir. Bize izin verir misiniz?</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_OceanExploration_0x4F5A_Choice1_Name</Label>
+    <String>Kulağa harika geliyor.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_OceanExploration_0x4F5A_Choice1_Dec</Label>
+    <String>Bu yıldızlararası işbirliğine doğru atılmış bir adım, ancak kıyı toplumlarımız özellikle temkinli.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_OceanExploration_0x4F5A_Choice2_Name</Label>
+    <String>Hayır. Dünyalarımız bunun için açık değil.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_OceanExploration_0x4F5A_Choice2_Dec</Label>
+    <String>Özerkliğimize ve halkımızın duygularına değer veriyoruz. Denizler yalnızca bize aittir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_OceanExploration_PositiveDiplomaticReason_0x4F5A</Label>
+    <String>Bize okyanusa giriş izni verdin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_OceanExploration_NegativeDiplomaticReason_0x4F5A</Label>
+    <String>Bizi okyanuslarından mahrum bıraktın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_DevoutShrines_0x5A1B_Name</Label>
+    <String>Yol</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_DevoutShrines_0x5A1B_Dec</Label>
+    <String>Bildiğiniz gibi {PLAYERFACTIONLONG:1}, Yol tarafından aydınlatıldı. Gezegenlerinizde tapınaklar kurarak ve halkınıza kutsal inançlarımızı öğreterek size kurtuluş getirmek istiyoruz. Yolu kucaklayın ve size doğru yolda rehberlik etmemize izin verin. Kabul ediyor musunuz?</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_DevoutShrines_0x5A1B_Choice1_Name</Label>
+    <String>Çok iyi. Tapınaklarınızı kurun.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_DevoutShrines_0x5A1B_Choice1_Dec</Label>
+    <String>Bu durum kültürel nüfuz artışımızı bir süreliğine azaltacaktır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_DevoutShrines_0x5A1B_Choice2_Name</Label>
+    <String>Halkımız ilgilenmiyor.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_DevoutShrines_0x5A1B_Choice2_Dec</Label>
+    <String>Bu reddi hafife almayabilirler, ancak etkimiz azalmadı.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_DevoutShrines_PositiveDiplomaticReason_0x5A1B</Label>
+    <String>Sen yolu kucakladın</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_DevoutShrines_NegativeDiplomaticReason_0x5A1B</Label>
+    <String>Sen yolu reddettin</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_DreamSpyingAccusation_0x8C3D_Name</Label>
+    <String>Rüya Casusları</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_DreamSpyingAccusation_0x8C3D_Dec</Label>
+    <String>Sizi izliyorduk. Adamlarınızın {PLAYERFACTIONLONG:1}'nin rüyalarına sızdığını biliyoruz. Biz deli değiliz. [BR] [BR] Zihinlerimizi sizin meraklı bakışlarınızdan koruyacak bir cihaz yapmak için 10 birim Antimadde talep ediyoruz.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_DreamSpyingAccusation_0x8C3D_Choice1_Name</Label>
+    <String>Antimaddeyi alabilirsin ama işe yarayacağından şüpheliyim.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_DreamSpyingAccusation_0x8C3D_Choice1_Dec</Label>
+    <String>İddialar temelsiz olsa da, barışı korumanın yolu bu olabilir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_DreamSpyingAccusation_0x8C3D_Choice2_Name</Label>
+    <String>Eğer deli olmadığını söylemek zorundaysan.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_DreamSpyingAccusation_0x8C3D_Choice2_Dec</Label>
+    <String>Öfkeli olabilirler, ancak hayallere dayalı zorbalıklara maruz kalmayacağız.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_DreamSpyingAccusation_PositiveDiplomaticReason_0x8C3D</Label>
+    <String>Rüyalarımızı gözetlemiyorsun.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_DreamSpyingAccusation_NegativeDiplomaticReason_0x8C3D</Label>
+    <String>Rüyalarımızı gözetliyorsun</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_WarProfiteerDeal_0xA12F_Name</Label>
+    <String>Savaş Silahları</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_WarProfiteerDeal_0xA12F_Dec</Label>
+    <String>Biz, {PLAYERFACTIONLONG:1}, bazı ekstra askeri donanımlara rastladık. İlgilenebileceğinizi düşündük. Bu silahlar silah kapasitenizi önemli ölçüde arttıracaktır. Ancak unutmayın, bu tür anlaşmalar aramızda kalır. Bir anlaşmamız var mı?</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_WarProfiteerDeal_0xA12F_Choice1_Name</Label>
+    <String>Gemilerimizde daha iyi silahlar mı var? Evet, lütfen. Evet, lütfen.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_WarProfiteerDeal_0xA12F_Choice1_Dec</Label>
+    <String>Bu silahlar yardımcı olacaktır ancak genel diplomatik kabiliyetimizi azaltacaktır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_WarProfiteerDeal_0xA12F_Choice2_Name</Label>
+    <String>Bunu geçmeliyiz.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_WarProfiteerDeal_0xA12F_Choice2_Dec</Label>
+    <String>Yabancı hükümetlerden gelen garip silahları yerleştirme alışkanlığımız yok.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_WarProfiteerDeal_PositiveDiplomaticReason_0xA12F</Label>
+    <String>Silahlarımızı seviyorsun.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_WarProfiteerDeal_NegativeDiplomaticReason_0xA12F</Label>
+    <String>Sen aptalsın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_TraderDeal_0xC45D_Name</Label>
+    <String>Özel Teklif</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_TraderDeal_0xC45D_Dec</Label>
+    <String>Biz, {PLAYERFACTIONLONG:1}, sizin için sınırlı süreli bir teklifimiz var. Kolonilerin refahını ve üretkenliğini arttırdığı bilinen nadir bir Uyum Kristali. Karşılığında tek istediğimiz mütevazı bir meblağ.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_TraderDeal_0xC45D_Choice1_Name</Label>
+    <String>Anlaşmayı kabul et</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_TraderDeal_0xC45D_Choice1_Dec</Label>
+    <String>Bunu kullanabiliriz.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_TraderDeal_0xC45D_Choice2_Name</Label>
+    <String>Şu anda bunu karşılayamayız.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_TraderDeal_0xC45D_Choice2_Dec</Label>
+    <String>Belki başka bir zaman, kasalarımız daha bol olduğunda.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_PersuasionOffer_0xC45E_Name</Label>
+    <String>İkna Atölyesi</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_PersuasionOffer_0xC45E_Dec</Label>
+    <String>Tüccarlarımız galaksi boyunca sayısız anlaşma yaparak ikna sanatını geliştirdiler. Belli bir ücret karşılığında bu ticari sırlardan bazılarını sizinle paylaşmaya hazırız. Bu bilgi gelecekteki müzakerelerinize büyük fayda sağlayabilir. İlgileniyor musunuz?</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_PersuasionOffer_0xC45E_Choice1_Name</Label>
+    <String>Atölyeye yatırım yapın</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_PersuasionOffer_0xC45E_Choice1_Dec</Label>
+    <String>İkna sanatı değerli bir beceridir. Kabul ediyoruz. Ticaret yaparken daha iyi anlaşmalar elde etmek için ikna kabiliyetimizi kullanabiliriz.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_PersuasionOffer_0xC45E_Choice2_Name</Label>
+    <String>Teklifi reddetmek</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_PersuasionOffer_0xC45E_Choice2_Dec</Label>
+    <String>Kendi müzakere yöntemlerimize güveneceğiz.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_CrystalResonance_0xC45F_Name</Label>
+    <String>Kristal Rezonansı</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_CrystalResonance_0xC45F_Dec</Label>
+    <String>{PLAYERFACTION:1} size bir teklifle geldi. Hayal gücünüzün ötesindeki harmonikleri tespit edebiliyoruz. Biliminize yardımcı olacak bu harmoniklerin nasıl tespit edileceğine dair bilgiyi paylaşmaya hazırız, ancak karşılığında benzersiz kristal oluşumlara sahip bazı dünyalarınıza erişim istiyoruz.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_CrystalResonance_0xC45F_Choice1_Name</Label>
+    <String>Erişim izni ver.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_CrystalResonance_0xC45F_Choice1_Dec</Label>
+    <String>Evrenin kadim bilgisi paha biçilmezdir. Kabul ediyoruz.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_CrystalResonance_0xC45F_Choice2_Name</Label>
+    <String>Hayır, teşekkür ederim.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_CrystalResonance_0xC45F_Choice2_Dec</Label>
+    <String>Kaynaklarımız kendi kullanımımız içindir. Erişim izni veremeyiz. Bu onları aşağılayabilir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_CrystalResonance_0xC45F_Diplomacy</Label>
+    <String>Kötü bir seçim yaptın.</String>
+  </StringTable>
+</StringTableList>

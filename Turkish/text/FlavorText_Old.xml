@@ -1,0 +1,1558 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<FlavorTextDefs xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
+  <FlavorTextDef>
+    <InternalName>AI_RESPOND_ASK_FOR_HELP_ACCEPT_RETURN_TO_MENU</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerHasUniversalTranslator>false</ListenerHasUniversalTranslator>
+      </Requirements>
+      <Text>Ranom lesitir yacasus cerin, sab omoric ero re metini tibu.[BR](Universal Translator'ı araştırmanız gerekiyor)</Text>
+      <PreferenceWeight>1</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Text>Çok minnettarız. Cömertliğinizi unutmayacağız.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AI_RESPOND_ASK_FOR_HELP_REJECT</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerHasUniversalTranslator>false</ListenerHasUniversalTranslator>
+      </Requirements>
+      <Text>Ranom lesitir yacasus cerin, sab omoric ero re metini tibu.[BR](Universal Translator'ı araştırmanız gerekiyor)</Text>
+      <PreferenceWeight>1</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Text>Üzgünüz, ancak şu anda size yardım etmeyi haklı çıkaramayız. Belki daha yakın ilişkilerimiz olsaydı fon bulabilirdik... ancak şu anki haliyle, varlıklarımızı kendimize saklamamızın daha iyi olacağını düşünüyoruz.</Text>
+      <PreferenceWeight>1</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerRaceTrait>SlaversAbility</SpeakerRaceTrait>
+      </Requirements>
+      <Text>Uzaylılara sadaka veren insanlar gibi mi görünüyoruz?</Text>
+      <PreferenceWeight>10</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerRaceTrait>SlaversAbility</SpeakerRaceTrait>
+      </Requirements>
+      <Text>Köleliği uygulayan bir medeniyetten ciddi ciddi para mı istediniz?</Text>
+      <PreferenceWeight>10</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerRaceTrait>ParanoidAbility</SpeakerRaceTrait>
+      </Requirements>
+      <Text>Bu bir çeşit hile olmalı. Git başımdan!</Text>
+      <PreferenceWeight>10</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AI_RESPOND_ASK_FOR_HELP_REJECT_RETURN_TO_MENU</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerHasUniversalTranslator>false</ListenerHasUniversalTranslator>
+      </Requirements>
+      <Text>Ranom lesitir yacasus cerin, sab omoric ero re metini tibu.[BR](Universal Translator'ı araştırmanız gerekiyor)</Text>
+      <PreferenceWeight>1</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Text>Bu talihsiz bir durum, belki bir dahaki sefere.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AI_RESPOND_OFFER_FOREIGN_AID_ACCEPT</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerHasUniversalTranslator>false</ListenerHasUniversalTranslator>
+      </Requirements>
+      <Text>Ranom lesitir yacasus cerin, sab omoric ero re metini tibu.[BR](Universal Translator'ı araştırmanız gerekiyor)</Text>
+      <PreferenceWeight>1</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Text>Çok teşekkür ederiz, desteğiniz için minnettarız. {PLAYERFACTIONLONG:2}'ün cömertliği önümüzdeki yıllarda {PLAYERFACTIONLONG:1} boyunca hatırlanacaktır.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AI_RESPOND_OFFER_FOREIGN_AID_ACCEPT_RETURN_TO_MENU</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerHasUniversalTranslator>false</ListenerHasUniversalTranslator>
+      </Requirements>
+      <Text>Ranom lesitir yacasus cerin, sab omoric ero re metini tibu.[BR](Universal Translator'ı araştırmanız gerekiyor)</Text>
+      <PreferenceWeight>1</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Text>Rica ederim, tek umudumuz bunun gelecekte medeniyetlerimizi birbirine daha da yakınlaştırması.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AI_RESPOND_OFFER_FOREIGN_AID_REJECT</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerHasUniversalTranslator>false</ListenerHasUniversalTranslator>
+      </Requirements>
+      <Text>Ranom lesitir yacasus cerin, sab omoric ero re metini tibu.[BR](Universal Translator'ı araştırmanız gerekiyor)</Text>
+      <PreferenceWeight>1</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Text>Size borçlu olmak gibi bir niyetimiz yok. Eğer bize yardımcı olmak istiyorsanız, yolumuzdan çekilin.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AI_RESPOND_OFFER_FOREIGN_AID_REJECT_RETURN_TO_MENU</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerHasUniversalTranslator>false</ListenerHasUniversalTranslator>
+      </Requirements>
+      <Text>Ranom lesitir yacasus cerin, sab omoric ero re metini tibu.[BR](Universal Translator'ı araştırmanız gerekiyor)</Text>
+      <PreferenceWeight>1</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Text>Böyle hissettiğin için üzgünüm.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>DIPLOMACY_WND_START_TRADE</InternalName>
+    <FlavorTextOption>
+      <ResponseTag>GARBLED_TEXT</ResponseTag>
+      <Requirements>
+        <ListenerHasUniversalTranslator>false</ListenerHasUniversalTranslator>
+      </Requirements>
+      <Text>(işlem yapabilmek için Universal Translator'ı araştırmanız gerekir)</Text>
+      <PreferenceWeight>1</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Text>Sana bir takas teklifim var.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>DIPLOMACY_WND_TRADE_DISABLED_FOR_WAR</InternalName>
+    <FlavorTextOption>
+      <ResponseTag>GARBLED_TEXT</ResponseTag>
+      <Requirements>
+        <ListenerHasUniversalTranslator>false</ListenerHasUniversalTranslator>
+      </Requirements>
+      <Text>(savaş halinde olduğunuz biriyle ticaret yapamazsınız)</Text>
+      <PreferenceWeight>1</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Text>(savaş halinde olduğunuz biriyle ticaret yapamazsınız)</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>DIPLOMACY_WND_CONVERSATION_DISABLED_FOR_WAR</InternalName>
+    <FlavorTextOption>
+      <ResponseTag>GARBLED_TEXT</ResponseTag>
+      <Requirements>
+        <ListenerHasUniversalTranslator>false</ListenerHasUniversalTranslator>
+      </Requirements>
+      <Text>(savaş halinde olduğunuz biriyle konuşamazsınız)</Text>
+      <PreferenceWeight>1</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Text>(savaş halinde olduğunuz biriyle konuşamazsınız)</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>DIPLOMACY_WND_CONVERSATION</InternalName>
+    <FlavorTextOption>
+      <ResponseTag>GARBLED_TEXT</ResponseTag>
+      <Requirements>
+        <ListenerHasUniversalTranslator>false</ListenerHasUniversalTranslator>
+      </Requirements>
+      <Text>(sohbet etmek için Universal Translator'ı araştırmanız gerekir)</Text>
+      <PreferenceWeight>1</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Text>Sizinle bir konuda konuşmak istiyorum.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>DIPLOMACY_WND_MORE_OPTIONS</InternalName>
+    <FlavorTextOption>
+      <ResponseTag>GARBLED_TEXT</ResponseTag>
+      <Requirements>
+        <ListenerHasUniversalTranslator>false</ListenerHasUniversalTranslator>
+      </Requirements>
+      <Text>(sohbet etmek için Universal Translator'ı araştırmanız gerekir)</Text>
+      <PreferenceWeight>1</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Text>Aklımda başka bir şey var.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>DIPLOMACY_WND_DONE</InternalName>
+    <FlavorTextOption>
+      <ResponseTag>GARBLED_TEXT</ResponseTag>
+      <Requirements>
+        <ListenerHasUniversalTranslator>false</ListenerHasUniversalTranslator>
+      </Requirements>
+      <Text>GIT BURADAN, HIÇ MANTIKLI DEĞILSIN.</Text>
+      <PreferenceWeight>1</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Text>Güle güle.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>DEMAND_CREDITS_MAIN</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <PersonalityType>Benevolent</PersonalityType>
+      </Requirements>
+      <Text>Selamlar, {LEADERNAME:2}. {PLAYERFACTIONLONG:1}'in gölgesinde yaşayan bir uygarlık olarak, saygınızın bir göstergesi olarak bize {AMOUNT:2} kredi sağlamanız uygun olacaktır.</Text>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Text>{LEADERNAME:2}, {PLAYERFACTIONLONG:1}'in gücünü kabul etme zamanınız geldi. Acınası medeniyetinizden {AMOUNT:2} kredi talep ediyoruz.</Text>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>FACTION_KRYNN</SpeakerFaction>
+      </Requirements>
+      <Text>Davamıza olan bağlılığınız için bunu {AMOUNT:2} kredilik bir ondalık olarak düşünün.</Text>
+      <PreferenceWeight>100</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>FACTION_IRIDIUM</SpeakerFaction>
+      </Requirements>
+      <Text>Giderler artıyor ve sizden ek bir {AMOUNT:2} krediye ihtiyacımız olacak.</Text>
+      <PreferenceWeight>100</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>DEMAND_CREDITS_RESPONSE_ACCEPT</InternalName>
+    <FlavorTextOption>
+      <Text>Pekala, {PLAYERFACTIONLONG:2} şimdilik size istediğinizi verecektir.</Text>
+      <PreferenceWeight>10</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerRaceTrait>SyntheticLife</ListenerRaceTrait>
+      </Requirements>
+      <Text>Irkımızın sonsuz bir hafızası vardır. Bu örtülü tehdidi unutmayacağız.</Text>
+      <PreferenceWeight>10</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerRaceTrait>TimeTravelersAbility</ListenerRaceTrait>
+      </Requirements>
+      <Text>Medeniyetiniz bizi daha önce ödemeye zorladı. Biz de ödedik. Ama sonu sizin için iyi olmadı.</Text>
+      <PreferenceWeight>10</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerRaceTrait>SlaversAbility</ListenerRaceTrait>
+      </Requirements>
+      <Text>Size bedava bir şeyler vermem bizi daha az öfkeli yapmayacak. Ama ölüm de yapmaz. Tamam, al o zaman.</Text>
+      <PreferenceWeight>10</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerRaceTrait>SlaversAbility</ListenerRaceTrait>
+      </Requirements>
+      <Text>Şu an avantajlısın. Ama sen benim kölem olarak yaşadığında bu günü tekrar gözden geçireceğiz.</Text>
+      <PreferenceWeight>10</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>DEMAND_CREDITS_RESPONSE_REJECT</InternalName>
+    <FlavorTextOption>
+      <Text>{PLAYERFACTION:2} itilip kakılmayacaktır... ve gücünüzün büyüklüğü tartışmalıdır.</Text>
+      <PreferenceWeight>1</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerRaceTrait>SyntheticLife</ListenerRaceTrait>
+      </Requirements>
+      <Text>{PLAYERFACTION:2} sizden korkmuyor.</Text>
+      <PreferenceWeight>10</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerRaceTrait>SlaversAbility</ListenerRaceTrait>
+      </Requirements>
+      <Text>Siktir git.</Text>
+      <PreferenceWeight>10</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerRaceTrait>SneakyAbility</ListenerRaceTrait>
+      </Requirements>
+      <Text>Blöf yapıyorsun.</Text>
+      <PreferenceWeight>10</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerRaceTrait>EntrepreneursAbility</ListenerRaceTrait>
+      </Requirements>
+      <Text>Ciddi olmadığına bahse girerim.</Text>
+      <PreferenceWeight>10</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>DEMAND_CREDITS_RESPONSE_REJECT_COUNTER</InternalName>
+    <FlavorTextOption>
+      <Text>Buna pişman olacaksın.</Text>
+      <Text>Tehlikeli bir hata.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>DEMAND_CREDITSPERTURN_MAIN</InternalName>
+    <FlavorTextOption>
+      <Text>Büyük güce sahip bir uygarlık olarak, {PLAYERFACTIONLONG:1}'ün {PLAYERFACTIONLONG:2}'ten haraç alması uygundur... diyelim ki ayda {AMOUNT:2} kredi kadar?</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>DEMAND_CREDITSPERTURN_RESPONSE_ACCEPT</InternalName>
+    <FlavorTextOption>
+      <Text>{PLAYERFACTIONLONG:2} şimdilik bu talebe uyacaktır.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>DEMAND_CREDITSPERTURN_RESPONSE_REJECT</InternalName>
+    <FlavorTextOption>
+      <Text>Büyük güç mü? Saçmalama; yola koyul {LEADERNAME:1}.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>DEMAND_CREDITSPERTURN_RESPONSE_REJECT_COUNTER</InternalName>
+    <FlavorTextOption>
+      <Text>Yanlış cevap. Eminim yakında hatanızın sonuçlarını göreceksiniz.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>DEMAND_TECH_MAIN</InternalName>
+    <FlavorTextOption>
+      <Text>{PLAYERFACTIONLONG:2}'e kıyasla muazzam gücümüze rağmen, hala eksik olduğumuz bilgilere sahip olduğunuzu görüyoruz. Bize {TECHNAME:2} hakkında bilgi verirseniz, göreceli zayıflığınızdan faydalanma isteğinizi göz ardı edebiliriz.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>DEMAND_TECH_RESPONSE_ACCEPT</InternalName>
+    <FlavorTextOption>
+      <Text>Pekala, {PLAYERFACTIONLONG:2} şimdilik size istediğinizi verecektir.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>DEMAND_TECH_RESPONSE_REJECT</InternalName>
+    <FlavorTextOption>
+      <Text>{PLAYERFACTIONLONG:2} itilip kakılmayacaktır... ve gücünüzün büyüklüğü tartışmalıdır.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>DEMAND_TECH_RESPONSE_REJECT_COUNTER</InternalName>
+    <FlavorTextOption>
+      <Text>Buna pişman olacaksın.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>REQUEST_CREDITS_HELPME_MAIN</InternalName>
+    <FlavorTextOption>
+      <Text>{PLAYERFACTIONLONG:3} tarafından saldırıya uğradık. Lütfen {LEADERNAME:2}, bize {AMOUNT:2} kredi vererek yardım edin.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>REQUEST_CREDITS_HELPME_RESPONSE_ACCEPT</InternalName>
+    <FlavorTextOption>
+      <Text>Katılıyorum. Yardım edeceğiz.</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>REQUEST_CREDITS_HELPME_RESPONSE_ACCEPT_COUNTER</InternalName>
+    <FlavorTextOption>
+      <Text>Yardımlarınız için minnettarız.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>REQUEST_CREDITS_HELPME_RESPONSE_REJECT</InternalName>
+    <FlavorTextOption>
+      <Text>{PLAYERFACTIONLONG:2}'nin kendi sorunları vardır. Hayır.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>REQUEST_TECH_HELPME_MAIN</InternalName>
+    <FlavorTextOption>
+      <Text>Savunmamız {PLAYERFACTIONLONG:3} tarafından saldırı altında ve umutsuzca yardımınıza ihtiyacımız var, {LEADERNAME:2}. Bize {TECHNAME:2} sağlayabilir misiniz?</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>REQUEST_TECH_HELPME_RESPONSE_ACCEPT</InternalName>
+    <FlavorTextOption>
+      <Text>Çok iyi.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>REQUEST_TECH_HELPME_RESPONSE_ACCEPT_COUNTER</InternalName>
+    <FlavorTextOption>
+      <Text>Cömertliğiniz ve hızlı hareketiniz için derinden minnettarız, {LEADERNAME:2}. İhtiyaç duyduğumuz bu dönemde {TECHNAME:2} bizimle paylaşma isteğiniz gerçekten takdire şayandır.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>REQUEST_TECH_HELPME_RESPONSE_REJECT</InternalName>
+    <FlavorTextOption>
+      <Text>{PLAYERFACTIONLONG:2}'nin kendi sorunları vardır. Hayır.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>REQUEST_WAR_HELPME_MAIN</InternalName>
+    <FlavorTextOption>
+      <Text>{PLAYERFACTIONLONG:3} bize karşı bir saldırı başlattı ve durumumuz kritik, {LEADERNAME:2}. Hayatta kalmak için tek umudumuz {PLAYERFACTIONLONG:3}'ya karşı savaş ilan etmenizde yatıyor.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>REQUEST_WAR_HELPME_RESPONSE_ACCEPT</InternalName>
+    <FlavorTextOption>
+      <Text>Durumunuzun ciddiyetini anlıyoruz ve yanınızdayız. {PLAYERFACTIONLONG:3}'ye savaş ilan edeceğiz ve hayatta kalmanızı sağlamak için güçlerimizi birleştireceğiz. Birlikte bu tehditle yüzleşecek ve zaferle çıkacağız.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>REQUEST_WAR_HELPME_RESPONSE_ACCEPT_COUNTER</InternalName>
+    <FlavorTextOption>
+      <Text>Bu vahim durumda desteğiniz çok değerli {LEADERNAME:2}. {PLAYERFACTIONLONG:3}'e karşı bizimle birlikte durma kararlılığınız için gerçekten minnettarız. Birlikte zafere ulaşacağız.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>REQUEST_WAR_HELPME_RESPONSE_REJECT</InternalName>
+    <FlavorTextOption>
+      <Text>Üzgünüm, hayır.</Text>
+      <Text>Hayır.</Text>
+      <Text>Mümkün değil.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>PAY_CREDITS_FOR_DECLAREWARONOTHER_MAIN</InternalName>
+    <FlavorTextOption>
+      <Text>{PLAYERFACTIONLONG:1}'ün üyeleri olarak, hain {PLAYERFACTIONLONG:3} ile olan çatışmamızda bize yardımcı olmanız için size yalvarıyoruz. Ortaklığınız için minnettarlığımızla, {AMOUNT:1} kredilik cömert bir ödül öneriyoruz. Bu çabamızda bizimle birleşecek misiniz?</Text>
+      <Text>Bizler, {PLAYERFACTIONLONG:1} temsilcileri olarak, {PLAYERFACTIONLONG:3}'e karşı mücadelede yardım talebiyle size ulaşıyoruz. Desteğiniz paha biçilmez olacaktır ve hizmetlerinizin karşılığı olarak {AMOUNT:1} kredi vaat ediyoruz. Bizimle birlikte olacak mısınız?</Text>
+      <Text>{PLAYERFACTIONLONG:1} adına, zorlu {PLAYERFACTIONLONG:3}'e karşı bize güç vermeniz için size yalvarıyoruz. Yanımızda durmayı kabul ederseniz, cesaretinizi {AMOUNT:1} krediyle ödüllendirmeyi taahhüt ediyoruz. Bu savaşta bize katılacak mısınız?</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>PAY_CREDITS_FOR_DECLAREWARONOTHER_RESPONSE_ACCEPT</InternalName>
+    <FlavorTextOption>
+      <Text>Her iki medeniyetimizin de yararı için {PLAYERFACTIONLONG:3}'ye savaş ilan edeceğiz.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>PAY_CREDITS_FOR_DECLAREWARONOTHER_RESPONSE_ACCEPT_COUNTER</InternalName>
+    <FlavorTextOption>
+      <Text>Size güvenebileceğimizi biliyordum. Teşekkür ederim!</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>PAY_CREDITS_FOR_DECLAREWARONOTHER_RESPONSE_REJECT</InternalName>
+    <FlavorTextOption>
+      <Text>Hayır.</Text>
+      <Text>Şu anda savaşa giremeyiz.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>PAY_CREDITS_FOR_DECLAREWARONOTHER_DEMAND_MAIN</InternalName>
+    <FlavorTextOption>
+      <Text>Eminim {PLAYERFACTIONLONG:3}'ün bu galaksinin başına bela olduğu konusunda hemfikirsinizdir. Sorumluluğunuzu yerine getirin ve onlara savaş ilan edin; her türlü masraf endişesini ortadan kaldırmak için {AMOUNT:1} kredi sağlayacağız.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>PAY_CREDITS_FOR_DECLAREWARONOTHER_DEMAND_RESPONSE_ACCEPT</InternalName>
+    <FlavorTextOption>
+      <Text>{PLAYERFACTIONLONG:3}'ye savaş ilan edeceğiz. Birlikte duruyoruz.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>PAY_CREDITS_FOR_DECLAREWARONOTHER_DEMAND_RESPONSE_REJECT</InternalName>
+    <FlavorTextOption>
+      <Text>Sizin çıkarlarınız için paralı askerlik yapmakla ilgilenmiyoruz, {LEADERNAME:1}.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>PAY_CREDITS_FOR_DECLAREWARONOTHER_DEMAND_RESPONSE_REJECT_COUNTER</InternalName>
+    <FlavorTextOption>
+      <Text>Yakında bir taraf tutmaya zorlanacaksınız ve o zaman cömert teklifimizi kabul etmiş olmayı dileyeceksiniz.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>PAY_TECH_FOR_DECLAREWARONOTHER_MAIN</InternalName>
+    <FlavorTextOption>
+      <Text>{PLAYERFACTIONLONG:1} size bir fırsatla gelir: {PLAYERFACTIONLONG:3} bir tehdittir.  Onların ezici bir tehdit haline gelmesini önlemek için önleyici eylemin en iyi yol olduğuna inanıyoruz.[BR][BR] Ancak, şu anda onlarla başa çıkabilecek durumda değiliz.  Bu nedenle, onlara savaş ilan ederseniz, savaşınıza yardımcı olması için size {TECHNAME:1} bilgisini vereceğiz.</Text>
+      <Text>{PLAYERFACTIONLONG:1} bir teklif getiriyor: {PLAYERFACTIONLONG:3} gerçek bir sorun haline geliyor. Büyük bir tehdit haline gelmelerini önlemenin en iyi yolunun şimdi harekete geçmek olduğuna inanıyoruz.[BR][BR]Mevcut sınırlamalarımıza rağmen, onlara savaş ilan ederseniz, çatışmadaki çabalarınızı desteklemek için {TECHNAME:1} teknolojisini sağlayacağız.</Text>
+      <Text>{PLAYERFACTIONLONG:1} bir düzenleme önermektedir: {PLAYERFACTIONLONG:3} önemli bir tehlike oluşturmaktadır. Ezici bir güç haline gelmeden önce harekete geçmenin çok önemli olduğunu düşünüyoruz.[BR][BR]Şu anda harekete geçemesek de, onlara karşı savaşı başlatırsanız, savaşınıza yardımcı olması için size {TECHNAME:1} bilgisine erişim izni vereceğiz.</Text>
+      <Text>{PLAYERFACTIONLONG:1} bir teklifle geliyor: {PLAYERFACTIONLONG:3} ciddi bir tehdit oluşturuyor. Tehlikelerini bertaraf etmenin en iyi yolunun şimdi önleyici tedbirler almak olduğunu düşünüyoruz.[BR][BR]Şu anda harekete geçmek için yeterli kaynağımız yok. Bununla birlikte, eğer siz öncülük eder ve onlara savaş ilan ederseniz, savaşta size yardımcı olmak için {TECHNAME:1}'in en son teknolojisini sağlayacağız.</Text>
+      <Text>{PLAYERFACTIONLONG:1} bir çözüm sunmaktadır: {PLAYERFACTIONLONG:3} büyük bir endişe kaynağı haline geliyor. Onları tehdit olmaktan çıkarmanın en iyi yolunun şimdi harekete geçmek olduğuna inanıyoruz.[BR][BR]Mevcut sınırlamalarımıza rağmen, onlara karşı savaş başlatırsanız, çabalarınızı desteklemek için size {TECHNAME:1}'in gelişmiş bilgisini sunacağız.</Text>
+      <Text>{PLAYERFACTIONLONG:1} bir fırsat sunuyor: {PLAYERFACTIONLONG:3} büyüyen bir tehdittir. Onlar durdurulamaz hale gelmeden önce önleyici tedbirler almanın önemli olduğunu düşünüyoruz.[BR][BR]Şu anda harekete geçemiyoruz. Ancak, onlara savaş ilan ederseniz, çatışmaya yardımcı olmanız için size {TECHNAME:1} teknolojisine erişim izni vereceğiz.</Text>
+      <Text>{PLAYERFACTIONLONG:1} bir planla birlikte gelir: {PLAYERFACTIONLONG:3} gerçek bir tehlike oluşturuyor. Oluşturdukları tehdidi etkisiz hale getirmenin en iyi yolunun şimdi harekete geçmek olduğuna inanıyoruz.[BR][BR]Şu anda harekete geçemesek de, onlara karşı savaşı başlatırsanız, savaşınızı desteklemek için size {TECHNAME:1} bilgisini vereceğiz.</Text>
+      <Text>{PLAYERFACTIONLONG:1} bir anlaşma öneriyor: {PLAYERFACTIONLONG:3} ciddi bir endişe kaynağıdır. Büyük bir tehdit haline gelmeden önce önleyici tedbirler almanın en iyisi olduğunu düşünüyoruz.[BR][BR]Mevcut sınırlamalarımız göz önüne alındığında, onlara savaş ilan ederseniz, savaştaki çabalarınıza yardımcı olmak için {TECHNAME:1}'in en son teknolojisini sağlayacağız.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>PAY_TECH_FOR_DECLAREWARONOTHER_RESPONSE_ACCEPT</InternalName>
+    <FlavorTextOption>
+      <Text>{PLAYERFACTIONLONG:3}'ye savaş ilan edeceğiz ve uygarlıklarımızın yararı için birlikte çalışacağız.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>PAY_TECH_FOR_DECLAREWARONOTHER_RESPONSE_ACCEPT_COUNTER</InternalName>
+    <FlavorTextOption>
+      <Text>Size güvenebileceğimizi biliyordum. Teşekkür ederim!</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>PAY_TECH_FOR_DECLAREWARONOTHER_RESPONSE_REJECT</InternalName>
+    <FlavorTextOption>
+      <Text>Şu anda savaşa girme riskini göze alamayız.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>GIVE_CREDITS_MAIN</InternalName>
+    <FlavorTextOption>
+      <Text>{PLAYERFACTIONLONG:1} dostluğumuzu {AMOUNT:1} kredilik bir hediye ile kutlamak istiyor.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>GIVE_CREDITS_RESPONSE_ACCEPT</InternalName>
+    <FlavorTextOption>
+      <Text>Bu hediye için teşekkür ederim.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>GIVE_TECH_MAIN</InternalName>
+    <FlavorTextOption>
+      <Text>{PLAYERFACTIONLONG:1} dostluğumuzu {TECHNAME:1} hakkında bir bilgi armağanıyla kutlamak istiyor.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>GIVE_TECH_RESPONSE_ACCEPT</InternalName>
+    <FlavorTextOption>
+      <Text>Bu hediye için teşekkür ederim.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>ON_PLAYER_DEAD_MAIN</InternalName>
+    <FlavorTextOption>
+      <Text>{PLAYERFACTIONLONG:3} yok edilmiştir.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>ON_PLAYER_DEAD_RESPONSE_OK</InternalName>
+    <FlavorTextOption>
+      <Text>Anlaşıldı.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>DEMAND_STARBASE_REMOVAL_MAIN</InternalName>
+    <FlavorTextOption>
+      <Text>Yıldız üssünüz {OBJECTNAME} çıkarlarımıza doğrudan bir tehdit oluşturuyor. Onu bir an önce kaldırmanızı talep ediyoruz.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>DEMAND_STARBASE_REMOVAL_RESPONSE_ACCEPT</InternalName>
+    <FlavorTextOption>
+      <Text>Tamam, onu hemen yok edeceğiz.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>DEMAND_STARBASE_REMOVAL_RESPONSE_ACCEPT_COUNTER</InternalName>
+    <FlavorTextOption>
+      <Text>Mükemmel, {PLAYERFACTIONLONG:1}'nin takdirini kazandınız.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>DEMAND_STARBASE_REMOVAL_RESPONSE_REJECT</InternalName>
+    <FlavorTextOption>
+      <Text>Hayır, yıldız üssü olduğu yerde kalacak.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>DEMAND_STARBASE_REMOVAL_RESPONSE_REJECT_COUNTER</InternalName>
+    <FlavorTextOption>
+      <Text>Bunun niyetinizi sorgulattığını anlıyorsunuz, {LEADERNAME:2}.</Text>
+      <Text>Bu da niyetiniz hakkında şüphe uyandırıyor, {LEADERNAME:2}.</Text>
+      <Text>Bu da sizin gerçek niyetinizi sorgulatıyor, {LEADERNAME:2}.</Text>
+      <Text>Bu da amacınız hakkında şüphe uyandırıyor {LEADERNAME:2}.</Text>
+      <Text>Bu durum güdülerinize gölge düşürüyor {LEADERNAME:2}.</Text>
+      <Text>Bu da niyetlerinizi ön plana çıkarır {LEADERNAME:2}.</Text>
+      <Text>Bu durum, {LEADERNAME:2} güdülerinizin inandırıcılığına meydan okumaktadır.</Text>
+      <Text>Bu da niyetinizi mercek altına almanıza neden olur {LEADERNAME:2}.</Text>
+      <Text>Bu da güdülerinizin gerçekliği konusunda soru işaretleri yaratmaktadır {LEADERNAME:2}.</Text>
+      <Text>Bu da amacınızı şüpheye düşürüyor, {LEADERNAME:2}.</Text>
+      <Text>Bu durum niyetinizin gerçekliğini sorgulatmaktadır {LEADERNAME:2}.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>DEMAND_ASCENSION_STARBASE_MAIN</InternalName>
+    <FlavorTextOption>
+      <Text>Yıldız üssünüzü istiyorum {OBJECTNAME}. Eğer onu bize vermezseniz, sizden zorla alacağız.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>DEMAND_ASCENSION_STARBASE_RESPONSE_ACCEPT</InternalName>
+    <FlavorTextOption>
+      <Text>Sakin olun. Onu çıkaracağız.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>DEMAND_ASCENSION_STARBASE_RESPONSE_ACCEPT_COUNTER</InternalName>
+    <FlavorTextOption>
+      <Text>Doğru seçimi yaptın.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>DEMAND_ASCENSION_STARBASE_RESPONSE_REJECT</InternalName>
+    <FlavorTextOption>
+      <Text>Hayır, teşekkürler.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>DEMAND_ASCENSION_STARBASE_RESPONSE_REJECT_COUNTER</InternalName>
+    <FlavorTextOption>
+      <Text>O zaman savaş.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>OFFER_ASCENSION_STARBASE_TRADE_MAIN</InternalName>
+    <FlavorTextOption>
+      <Text>Yıldız üssünüzü istiyoruz {OBJECTNAME}, içinde bir yükseliş kristali var. Onun için size {AMOUNT:1} vereceğiz.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>OFFER_ASCENSION_STARBASE_TRADE_RESPONSE_ACCEPT</InternalName>
+    <FlavorTextOption>
+      <Text>Tamam.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>OFFER_ASCENSION_STARBASE_TRADE_RESPONSE_ACCEPT_COUNTER</InternalName>
+    <FlavorTextOption>
+      <Text>Mükemmel, {PLAYERFACTIONLONG:1}'nin takdirini kazandınız.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>OFFER_ASCENSION_STARBASE_TRADE_RESPONSE_REJECT</InternalName>
+    <FlavorTextOption>
+      <Text>Hayır.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>OFFER_ASCENSION_STARBASE_TRADE_RESPONSE_REJECT_COUNTER</InternalName>
+    <FlavorTextOption>
+      <Text>Bundan vazgeçmeyeceğiz, {LEADERNAME:2}.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AI_INIT_TRADE_PEACE_INTRO</InternalName>
+    <FlavorTextOption>
+      <Text>Bu savaşı bitirmenin zamanı geldi. Bu şartları kabul ediyor musunuz?</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AI_INIT_TRADE_TECHBUY_INTRO</InternalName>
+    <FlavorTextOption>
+      <Text>{PLAYERFACTIONLONG:2} ilgilendiğimiz bilgiye sahip. Karşılığında bunu kabul eder misiniz?</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>WARN_MILITARY_BUILDUP_MAIN</InternalName>
+    <FlavorTextOption>
+      <Text>{PLAYERFACTIONLONG:2}, kapımızın önünde güç topladığınızı görüyoruz. Bunu durdurmalısınız.</Text>
+      <PreferenceWeight>1</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <RelationsRange>
+          <NoMin>true</NoMin>
+          <RangeMax>-4</RangeMax>
+        </RelationsRange>
+      </Requirements>
+      <Text>{PLAYERFACTIONLONG:2}, kapımızın önünde güç topladığınızı görüyoruz. Bunu durdurmalısınız.</Text>
+      <PreferenceWeight>10</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <RelationsRange>
+          <RangeMin>-3</RangeMin>
+          <RangeMax>3</RangeMax>
+        </RelationsRange>
+      </Requirements>
+      <Text>{PLAYERFACTIONLONG:2}, kapımızın önünde güç topladığınızı görüyoruz. Bunu durdurmalısınız.</Text>
+      <PreferenceWeight>10</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <RelationsRange>
+          <RangeMin>4</RangeMin>
+          <NoMax>true</NoMax>
+        </RelationsRange>
+      </Requirements>
+      <Text>{PLAYERFACTIONLONG:2} Sizi sevmemize rağmen, gördüğümüz askeri yığınaktan hoşlanmıyoruz.</Text>
+      <Text>{PLAYERFACTIONLONG:2}, sizi takdir ediyoruz, ancak artan askeri varlık bizi endişelendiriyor.</Text>
+      <Text>{PLAYERFACTIONLONG:2}, sizinle olan ilişkimize değer veriyoruz, ancak askeri yığınak bizi endişelendiriyor.</Text>
+      <Text>{PLAYERFACTIONLONG:2}, sizinle olumlu bir ilişkimiz var, ancak son zamanlardaki askeri genişleme bizi endişelendiriyor.</Text>
+      <Text>{PLAYERFACTIONLONG:2}, dostluğumuzdan memnunuz, ancak artan askeri varlık bizim için bir tedirginlik kaynağı.</Text>
+      <Text>{PLAYERFACTIONLONG:2}, size karşı bir sevgimiz var, ancak artan askeri yığınak bizim için endişe kaynağıdır.</Text>
+      <Text>{PLAYERFACTIONLONG:2}, müttefikliğimizi takdir ediyoruz, ancak askeri faaliyetlerdeki artış bizi endişelendiriyor.</Text>
+      <Text>{PLAYERFACTIONLONG:2}, ortaklığımıza değer veriyoruz, ancak artan askeri varlık bizim için bir endişe kaynağı.</Text>
+      <Text>{PLAYERFACTIONLONG:2}, sizinle iyi bir ilişkimiz var, ancak artan askeri genişleme bizi endişelendiriyor.</Text>
+      <PreferenceWeight>10</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>WARN_MILITARY_BUILDUP_ACCEPT</InternalName>
+    <FlavorTextOption>
+      <Text>Burada görecek bir şey yok.</Text>
+      <PreferenceWeight>1</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <RelationsRange>
+          <NoMin>true</NoMin>
+          <RangeMax>-4</RangeMax>
+        </RelationsRange>
+      </Requirements>
+      <Text>Neden beni durdurmuyorsun?</Text>
+      <PreferenceWeight>10</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <RelationsRange>
+          <RangeMin>-3</RangeMin>
+          <RangeMax>3</RangeMax>
+        </RelationsRange>
+      </Requirements>
+      <Text>Burada görecek bir şey yok.</Text>
+      <PreferenceWeight>10</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <RelationsRange>
+          <RangeMin>4</RangeMin>
+          <NoMax>true</NoMax>
+        </RelationsRange>
+      </Requirements>
+      <Text>Bize güvenmelisin dostum.</Text>
+      <PreferenceWeight>10</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>WARN_MILITARY_BUILDUP_ACCEPT_COUNTER</InternalName>
+    <FlavorTextOption>
+      <Text>Dikkatlice gözlemleyeceğiz.</Text>
+      <PreferenceWeight>1</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <RelationsRange>
+          <NoMin>true</NoMin>
+          <RangeMax>-4</RangeMax>
+        </RelationsRange>
+      </Requirements>
+      <Text>Dikkatlice gözlemleyeceğiz.</Text>
+      <PreferenceWeight>10</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <RelationsRange>
+          <RangeMin>-3</RangeMin>
+          <RangeMax>3</RangeMax>
+        </RelationsRange>
+      </Requirements>
+      <Text>Seni izliyor olacağız.</Text>
+      <PreferenceWeight>10</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <RelationsRange>
+          <RangeMin>4</RangeMin>
+          <NoMax>true</NoMax>
+        </RelationsRange>
+      </Requirements>
+      <Text>Umarım, sizin iyiliğiniz için, güvenimiz yersiz değildir.</Text>
+      <PreferenceWeight>10</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>WARN_DANGEROUS_PLAYER_MAIN</InternalName>
+    <FlavorTextOption>
+      <Text>Sizi uyarmalıyız, {LEADERNAME:2}, {PLAYERFACTIONLONG:3} güçlü bir ordu kurdu. Onlara karşı dikkatli olun.</Text>
+      <Text>Dikkatli olunması tavsiye edilir, {LEADERNAME:2}. {PLAYERFACTIONLONG:3}'ün müthiş bir askeri gücü var. Yeteneklerine dikkat edin.</Text>
+      <Text>Bir uyarı, {LEADERNAME:2}. {PLAYERFACTIONLONG:3}'ün güçlü bir askeri varlığı var. Dikkatli olun.</Text>
+      <Text>Dikkatli olun, {LEADERNAME:2}. {PLAYERFACTIONLONG:3}'ün güçlü bir ordusu var. Onlarla ilişkilerinizde dikkatli olun.</Text>
+      <Text>Dikkatli olun, {LEADERNAME:2}. {PLAYERFACTIONLONG:3}'ün güçlü bir askeri yığınağı var. Onlarla etkileşimlerinizde bunu aklınızda bulundurun.</Text>
+      <Text>Dikkatli olun, {LEADERNAME:2}. {PLAYERFACTIONLONG:3}'ün önemli bir askeri varlığı var. Güçlerine ve yeteneklerine karşı dikkatli olun.</Text>
+      <Text>Bir danışma, {LEADERNAME:2}. {PLAYERFACTIONLONG:3}'ün müthiş bir askeri gücü var. Onlarla ilişkilerinizde bunu göz önünde bulundurun.</Text>
+      <Text>Bir uyarı, {LEADERNAME:2}. {PLAYERFACTIONLONG:3}'ün güçlü bir askeri yığınağı var. Onlarla çatışmaya girerken dikkatli olun.</Text>
+      <Text>Bir uyarı, {LEADERNAME:2}. {PLAYERFACTIONLONG:3}'ün güçlü bir askeri varlığı var. Dikkatli ilerleyin ve güçlerini aklınızda tutun.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>WARN_DANGEROUS_PLAYER_ACCEPT</InternalName>
+    <FlavorTextOption>
+      <Text>Uyarı için teşekkürler. Dikkatli olacağız.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>WARN_DANGEROUS_PLAYER_ACCEPT_COUNTER</InternalName>
+    <FlavorTextOption>
+      <Text>Her zaman.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>HELP_FRIENDLY_PLAYER_MAIN</InternalName>
+    <FlavorTextOption>
+      <Text>Görünüşe göre {PLAYERFACTIONLONG:3}, {LEADERNAME:2} ile biraz sorun yaşıyorsunuz. Lütfen savaş çabalarınıza yardımcı olmak için bizden gelen bu {OBJECTNAME:1}'yı kabul edin.</Text>
+      <Text>Görünüşe göre {PLAYERFACTIONLONG:3}, {LEADERNAME:2} ile ilgili zorluklarla karşılaşıyorsunuz. Çatışmanıza bir destek jesti olarak bu {OBJECTNAME:1}'yı sunmamıza izin verin.</Text>
+      <Text>{PLAYERFACTIONLONG:3}, {LEADERNAME:2}'e karşı verdiğiniz mücadelenin farkındayız. Lütfen bu {OBJECTNAME:1}'yı savaş çabalarınıza verdiğimiz desteğin bir işareti olarak kabul edin.</Text>
+      <Text>Görünüşe göre {PLAYERFACTIONLONG:3} size sorun çıkarıyor, {LEADERNAME:2}. Onlara karşı savaşınızda size yardımcı olması için size bu {OBJECTNAME:1}'yı sunmak istiyoruz.</Text>
+      <Text>{PLAYERFACTIONLONG:3}, {LEADERNAME:2} ile zor zamanlar geçirdiğinizi görüyoruz. Savaş çabalarınıza desteğimizin bir göstergesi olarak size bu {OBJECTNAME:1}'yı vermemize izin verin.</Text>
+      <Text>{PLAYERFACTIONLONG:3} ile olan çatışmanız gözden kaçmadı, {LEADERNAME:2}. Savaş çabalarınıza verdiğimiz desteğin bir sembolü olarak size bu {OBJECTNAME:1}'yı sunuyoruz.</Text>
+      <Text>{PLAYERFACTIONLONG:3}, {LEADERNAME:2}'e karşı verdiğiniz mücadelenin farkındayız. Lütfen bu {OBJECTNAME:1}'yı savaş çabalarınızı destekleme taahhüdümüzün bir işareti olarak kabul edin.</Text>
+      <Text>{PLAYERFACTIONLONG:3} size sorun çıkarıyor gibi görünüyor, {LEADERNAME:2}. Onlara karşı verdiğiniz mücadeleye desteğimizin bir göstergesi olarak size bu {OBJECTNAME:1}'yı sunmamıza izin verin.</Text>
+      <Text>{PLAYERFACTIONLONG:3}, {LEADERNAME:2}'ten gelen zorluklarla karşı karşıya olduğunuzu anlıyoruz. Lütfen bu {OBJECTNAME:1}'yı savaş çabalarınıza verdiğimiz desteğin bir sembolü olarak kabul edin.</Text>
+      <Text>Görünüşe göre {PLAYERFACTIONLONG:3} zorlanıyor, {LEADERNAME:2}. Onlara karşı verdiğiniz mücadeleye desteğimizin bir göstergesi olarak size bu {OBJECTNAME:1}'yı sunmak istiyoruz.</Text>
+      <Text>{PLAYERFACTIONLONG:3} ile olan savaşınız gözden kaçmadı, {LEADERNAME:2}. Lütfen bu {OBJECTNAME:1}'yı savaş çabalarınıza yardımcı olma taahhüdümüzün bir işareti olarak kabul edin.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>HELP_FRIENDLY_PLAYER_ACCEPT</InternalName>
+    <FlavorTextOption>
+      <Text>Yardımınız mükemmel bir zamanda geldi. Teşekkür ederim.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>HELP_FRIENDLY_PLAYER_ACCEPT_COUNTER</InternalName>
+    <FlavorTextOption>
+      <Text>Arkadaşlarımıza her zaman yardım ederiz.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>PLAYER_SURRENDER_MAIN</InternalName>
+    <FlavorTextOption>
+      <Text>{LEADERNAME:2}, siz kazandınız. Teslim oluyoruz ve kalan tüm varlıklarımızı size teslim edeceğiz.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>PLAYER_SURRENDER_RESPONSE_1</InternalName>
+    <FlavorTextOption>
+      <Text>Sebebini gördüğüne sevindim.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>PLAYER_SURRENDER_WITH_BENEFICIARY_MAIN</InternalName>
+    <FlavorTextOption>
+      <Text>İşimiz bitmiş olabilir {LEADERNAME:2}, ancak halkımızı sizin gözetiminize teslim edeceğimizi düşünüyorsanız aptalsınız. Kalan tüm mal varlığımız dostlarımız {PLAYERFACTIONLONG:3}'e teslim edilecektir.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>PLAYER_SURRENDER_WITH_BENEFICIARY_RESPONSE_1</InternalName>
+    <FlavorTextOption>
+      <Text>Sonunda pek bir şey fark etmeyecek olsa da, dilediğinizi yapın.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>PLAYER_SURRENDER_GIVE_TO_BENEFICIARY_MAIN</InternalName>
+    <FlavorTextOption>
+      <Text>Başka seçeneğimiz yok, {LEADERNAME:2}, {PLAYERFACTIONLONG:3}'e teslim olmak zorundayız. Geçmişte bize iyi davrandınız, bu yüzden uygarlığımızın geri kalanını size vermek istiyoruz. Kaynaklarımızı {PLAYERFACTIONLONG:3}'ya saldırmak için kullanın!</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>PLAYER_SURRENDER_GIVE_TO_BENEFICIARY_RESPONSE_1</InternalName>
+    <FlavorTextOption>
+      <Text>Teşekkürler.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>CAMPAIGN1_BUILDSHIPYARDHINT_MAIN</InternalName>
+    <FlavorTextOption>
+      <Text>Artık bir gezegeni kolonileştirdiğinize göre, orada sıkışıp kalmayacağınızı gösterin. Bir tersane inşa edin.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>CAMPAIGN1_BUILDSHIPYARDHINT_RESPONSE</InternalName>
+    <FlavorTextOption>
+      <Text>Peki, ben [I] tahmin ediyorum [/I]...</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>CAMPAIGN1_BUILDSHIPYARDHINT_RESPONSE_2</InternalName>
+    <FlavorTextOption>
+      <Text>Bunu nasıl yapmamı bekliyorsun?</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>CAMPAIGN1_BUILDSHIPYARDHINT_COUNTERRESPONSE_2</InternalName>
+    <FlavorTextOption>
+      <Text>Eminim bu sizin için bazı şeyleri açıklığa kavuşturacaktır.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>CAMPAIGN1_BUILDCONSTRUCTORHINT_MAIN</InternalName>
+    <FlavorTextOption>
+      <Text>Nihayet. Bir kurucu gemi inşa etme zamanı, böylece genişlemeye başlayabilirsiniz.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>CAMPAIGN1_BUILDCONSTRUCTORHINT_RESPONSE</InternalName>
+    <FlavorTextOption>
+      <Text>Pekala...</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>CAMPAIGN1_BUILDSTARBASEHINT_MAIN</InternalName>
+    <FlavorTextOption>
+      <Text>Talimatları takip etmekte çok iyisin. O yapıcıyla bir yıldız üssü inşa et... ve ne var biliyor musun? İstediğin yere koy, ikram olarak.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>CAMPAIGN1_BUILDSTARBASEHINT_RESPONSE</InternalName>
+    <FlavorTextOption>
+      <Text>Tanrım, kesinlikle çok talepkarsınız...</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>CAMPAIGN1_DESTROYEDTERRANS_MAIN</InternalName>
+    <FlavorTextOption>
+      <Text>Seni canavar.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>CAMPAIGN1_DESTROYEDTERRANS_RESPONSE</InternalName>
+    <FlavorTextOption>
+      <Text>Pişmanlık yok, sonsuza dek Drengi.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>CAMPAIGN1_PLANETTRADE_MAIN</InternalName>
+    <FlavorTextOption>
+      <Text>Güzel bir gezegenin varmış {OBJECTNAME}. Onu teslim etmeye ne dersiniz? Elbette {AMOUNT:1} ödeyeceğiz... Biz hırsız değiliz. Ama reddederseniz, sizin için daha fazla diplomasi yok.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>CAMPAIGN1_PLANETTRADE_RESPONSE</InternalName>
+    <FlavorTextOption>
+      <Text>Gulp, iyi.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>CAMPAIGN1_PLANETTRADE_RESPONSE_2</InternalName>
+    <FlavorTextOption>
+      <Text>Hayıra ne dersin?</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>CAMPAIGN1_REFUSEDPLANETTRADE_MAIN</InternalName>
+    <FlavorTextOption>
+      <Text>Oh adamım, şimdi aptallık yaptın.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>CAMPAIGN1_REFUSEDPLANETTRADE_RESPONSE</InternalName>
+    <FlavorTextOption>
+      <Text>Tabii ki yaptım.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>CAMPAIGN1_TESTING_MAIN</InternalName>
+    <FlavorTextOption>
+      <Text>Sevinin, çünkü sınavınız başarıyla sonuçlandı.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>CAMPAIGN1_TESTING_RESPONSE</InternalName>
+    <FlavorTextOption>
+      <Text>Huzzah.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>GENERAL_CONVERSATION_ACCEPT</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ResponseTo>TRADE_OPPOSINGCULTURE_TALK_GENERAL</ResponseTo>
+      </Requirements>
+      <Text>We tend to weigh the profitability of the trade route over the ideological choices of that civilization.</Text>
+      <Text>In our dealings with other civilizations, the profitability of the trade route holds a higher significance than their ideological stance.</Text>
+      <Text>The financial success of our trade endeavors takes precedence over any cultural or moral differences.</Text>
+      <Text>The practicality of a profitable trade route takes priority over the beliefs of the civilizations involved.</Text>
+      <Text>In our approach to trade, the economic benefits are given priority over any ideological considerations.</Text>
+      <Text>We prioritize the success of the trade route over any conflicting beliefs with the civilizations we interact with.</Text>
+      <Text>Financial stability in trade supersedes any disparities in ideology with the civilizations we do business with.</Text>
+      <Text>Our focus in trade is primarily on the profitability of the route, rather than the beliefs of the civilizations involved.</Text>
+      <Text>The success of the trade is of greater importance to us than any differing ideologies of the civilizations we engage with.</Text>
+      <Text>We prioritize the economic outcome of the trade route over any ideological differences with the civilizations involved.</Text>
+      <Text>Our trade dealings place a greater emphasis on financial success over any ideological contrasts with the civilizations we interact with.</Text>
+      <PreferenceWeight>10</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <ResponseTo>STANDARD_RESPONSE</ResponseTo>
+      </Requirements>
+      <Text>End Communication</Text>
+      <PreferenceWeight>910</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <RelativeStrength>SpeakerMuchWeaker</RelativeStrength>
+        <ResponseTo>TAUNTING_TALK_GENERAL</ResponseTo>
+      </Requirements>
+      <Text>Big talk from a puny power.</Text>
+      <Text>Are you looking for us to destroy you?</Text>
+      <Text>You are really tempting fate.</Text>
+      <PreferenceWeight>910</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <ResponseTo>TAUNTING_TALK_GENERAL</ResponseTo>
+      </Requirements>
+      <Text>I will ignore those words this time.</Text>
+      <Text>You may live to regret your insolence.</Text>
+      <Text>An unfortunate attitude.</Text>
+      <PreferenceWeight>332</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerRaceTrait>SyntheticLife</SpeakerRaceTrait>
+        <ResponseTo>TAUNTING_TALK_GENERAL</ResponseTo>
+      </Requirements>
+      <Text>Shouldn't you be oiling yourself or something?</Text>
+      <Text>For a space robot, you have a lot of attitude.</Text>
+      <Text>Shouldn't you be making me some toast right about now?</Text>
+      <PreferenceWeight>5</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerRaceTrait>DeterminedAbility</ListenerRaceTrait>
+        <ResponseTo>TRADE_OPPOSINGCULTURE_TALK_GENERAL</ResponseTo>
+      </Requirements>
+      <Text>We will correspond with whomever we so choose.</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerRaceTrait>EntrepreneursAbility</ListenerRaceTrait>
+        <ResponseTo>TRADE_OPPOSINGCULTURE_TALK_GENERAL</ResponseTo>
+      </Requirements>
+      <Text>Their money is as good as anyone else's.</Text>
+      <PreferenceWeight>20</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerRaceTrait>SlaversAbility</ListenerRaceTrait>
+        <ResponseTo>TRADE_OPPOSINGCULTURE_TALK_GENERAL</ResponseTo>
+      </Requirements>
+      <Text>From our perspective, you are all equally worthy to be our slaves.</Text>
+      <PreferenceWeight>20</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerRaceTrait>XenophobicAbility</ListenerRaceTrait>
+        <ResponseTo>TRADE_OPPOSINGCULTURE_TALK_GENERAL</ResponseTo>
+      </Requirements>
+      <Text>We think all of you are pretty gross.</Text>
+      <PreferenceWeight>20</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerRaceTrait>SyntheticLife</ListenerRaceTrait>
+        <ResponseTo>TRADE_OPPOSINGCULTURE_TALK_GENERAL</ResponseTo>
+      </Requirements>
+      <Text>We have little interest in the dogmas of organics.</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <ResponseTo>TALK_OPENBORDERS_GENERAL</ResponseTo>
+      </Requirements>
+      <Text>We are glad to hear that.</Text>
+      <PreferenceWeight>20</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <ResponseTo>TALK_ATWAR_GENERAL</ResponseTo>
+      </Requirements>
+      <Text>We shall resist you!</Text>
+      <PreferenceWeight>20</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerRaceTrait>SyntheticLife</ListenerRaceTrait>
+        <ResponseTo>TALK_EASYTARGET_GENERAL</ResponseTo>
+      </Requirements>
+      <Text>We are machines. Your boasts are irrelevant.</Text>
+      <PreferenceWeight>80</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <ResponseTo>TALK_TECHVICTORYWORRY_GENERAL</ResponseTo>
+      </Requirements>
+      <Text>I'm sorry, but we must continue our quest for ultimate knowledge.</Text>
+      <PreferenceWeight>20</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <ResponseTo>TALK_EASYTARGET_GENERAL</ResponseTo>
+      </Requirements>
+      <Text>I think any would-be enemy would discover that we are tougher than we look.</Text>
+      <Text>You may find that it would be a fatal mistake to attack us.</Text>
+      <Text>You will soon realize that we are stronger than we appear.</Text>
+      <Text>Underestimating us would be a costly mistake.</Text>
+      <Text>Our resilience is not to be underestimated.</Text>
+      <Text>Attacking us would prove to be a fatal error.</Text>
+      <Text>We may seem fragile, but in reality, we are a formidable force.</Text>
+      <Text>Any attempt to attack us would result in dire consequences.</Text>
+      <Text>Our strength is not easily noticeable, but it should not be underestimated.</Text>
+      <Text>Any hostile action towards us would result in devastating consequences.</Text>
+      <Text>You will find that we are more robust than we seem.</Text>
+      <Text>Making the mistake of attacking us would be a serious misstep.</Text>
+      <Text>We may look weak, but we are far from it.</Text>
+      <Text>Any hostile intent towards us would be met with severe consequences.</Text>
+      <Text>We possess a hidden strength that should not be overlooked.</Text>
+      <Text>You will soon learn that attacking us would be a grave error.</Text>
+      <Text>Our appearance may be deceiving, but our resolve is not.</Text>
+      <Text>Any attempt to harm us would result in disastrous consequences.</Text>
+      <Text>Don't let our appearance fool you, we are a formidable force.</Text>
+      <Text>Attacking us would be a fatal mistake.</Text>
+      <Text>Our toughness is not immediately noticeable, but it should not be underestimated.</Text>
+      <Text>Any hostile actions towards us would result in dire consequences.</Text>
+      <PreferenceWeight>20</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <ResponseTo>TALK_ASCENSIONVICTORYWORRY_GENERAL</ResponseTo>
+      </Requirements>
+      <Text>According to the pamphlets, ascension means hanging out with lions and lambs and tables of fruit.</Text>
+      <PreferenceWeight>20</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_TERRAN</ListenerFaction>
+        <ResponseTo>CULTURE_FLIP_TALK_GENERAL</ResponseTo>
+      </Requirements>
+      <Text>Ah, that. Well, everyone knows that ginger and chocolate are the most powerful things in the universe.</Text>
+      <Text>We cannot help that people are interested in the wonderful products of MetaAppleDisneyGooglePlus.</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+        <ResponseTo>CULTURE_FLIP_TALK_GENERAL</ResponseTo>
+      </Requirements>
+      <Text>You biologics need to be educated on the superiority of machines.</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <ResponseTo>CULTURE_FLIP_TALK_GENERAL</ResponseTo>
+      </Requirements>
+      <Text>Well, to be honest, I had hoped you wouldn't notice...</Text>
+      <Text>I understand. It's just that our culture is so wonderful.</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>FACTION_ALTARIAN</SpeakerFaction>
+        <ListenerFaction>FACTION_TERRAN</ListenerFaction>
+        <ResponseTo>CULTURE_FLIP_TALK_GENERAL</ResponseTo>
+      </Requirements>
+      <Text>You clearly have never tasted chocolate.</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerHasUniversalTranslator>false</ListenerHasUniversalTranslator>
+      </Requirements>
+      <Text>Huh?</Text>
+      <Text>I have no idea what was just said.</Text>
+      <PreferenceWeight>4</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <ResponseTo>TALK_YOR_GENERAL</ResponseTo>
+      </Requirements>
+      <Text>This is a PG rated discussion. In other words, probably best not to explore the details.</Text>
+      <PreferenceWeight>120</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerRaceTrait>DeterminedAbility</ListenerRaceTrait>
+      </Requirements>
+      <Text>We shall see.</Text>
+      <Text>Acknowledged.</Text>
+      <PreferenceWeight>5</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Text>Acknowledged.</Text>
+      <Text>Understood.</Text>
+      <Text>We will take what you have said under advisement.</Text>
+      <Text>We understand.</Text>
+      <Text>We will take your message under advisement.</Text>
+      <PreferenceWeight>1</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>END_GAME_PARAGRAPH_CONQUEST</InternalName>
+    <FlavorTextOption>
+      <Text>Silahları, gemileri ve silahlı gemileri yaratıcı bir şekilde kullanarak galaksinin boynuna çizmeyi geçirdiniz. Tüm düşmanlarınız ezildi, gezegenlerine boyun eğdirildi ve vatandaşları bayrağınızı dalgalandırmak zorunda bırakıldı. Hoş değildi, ama asla öyle olmak zorunda değildi, değil mi?</Text>
+    </FlavorTextOption>
+    <!-- <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_DRENGIN</ListenerFaction>
+      </Requirements>
+      <Text>Through force of arms and sheer cruelty, {PLAYERFACTIONLONG:2} has achieved its rightful place in the galaxy.</Text>
+    </FlavorTextOption> -->
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>END_GAME_PARAGRAPH_INFLUENCE</InternalName>
+    <FlavorTextOption>
+      <Text>Kültürünüz tüm galaksiye yayıldı. Her yerdeki uzaylılar halkınızın yöntemlerini taklit etmeye çalışıyor, sizin sunduğunuz mükemmel yaşam vizyonuna daha iyi uyması için gerektiği kadar uzuv ekliyor ya da çıkarıyor. Onların kalplerine ve zihinlerine zaten sahipken bedenlerini fethetmeye kimin ihtiyacı var?</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>END_GAME_PARAGRAPH_RESEARCH</InternalName>
+    <FlavorTextOption>
+      <Text>Güçlü beyninizi kullanarak kültürünüz sadece bu evrenin değil, ötesinin de sırlarını çözdü. Bırakın galaksinin ahmakları üzerine çömeldikleri toz ve kaya parçaları için didişsinler. Halkınız için çok daha büyük bir şey var.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>END_GAME_PARAGRAPH_ASCENSION</InternalName>
+    <FlavorTextOption>
+      <Text>Öncülerin yöntemleri üzerindeki çalışmalarınız tamamlandı ve halkınız yakında Öncülerin kendilerinden ayırt edilemez hale gelecek. Onların teknolojisinde ve düşünce tarzında ustalaşan halkınız, bu galaksinin daha düşük zihinlerinin kavramaya bile başlayamayacağı bir yolculuğa çıkmak üzere.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>END_GAME_PARAGRAPH_ASCENSION_DEFEAT</InternalName>
+    <FlavorTextOption>
+      <Text>Başka bir ırk Öncülerin yolunu izledi ve yükseldi. Yok oluşumuz hemen gerçekleşmese de, evrimsel olarak eskimemize neden oldunuz. Uzay gemilerimiz ve lazerlerimiz, zaman ve uzayın çocuk oyuncağı olduğu, ölümlülüğün ötesindeki bir ırk için çok az anlam ifade ediyor. Onlar için bizler gerçek anlamda bilinçli bile değiliz, galaksinin etrafında uçuşan tozlarız, kaprislerinin emrettiği şekilde görmezden gelinir ya da yok ediliriz.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>END_GAME_PARAGRAPH_ALLIANCE</InternalName>
+    <FlavorTextOption>
+      <Text>Ve bir kalem darbesiyle barış nihayet gelmişti. Karşılıklı güven ve saygı temeli üzerine kurulduğu için kalıcı olacak bir barış. Zihinleri ve kaynakları artık savaşın bitmek bilmeyen susuzluğuna harcanmadığından, halkınızın ve müttefiklerinin üzerine yeni bir altın refah çağı çöküyor.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>END_GAME_PARAGRAPH_TURNLIMIT</InternalName>
+    <FlavorTextOption>
+      <Text>Yıllar boyunca halkınız galaktik sahnede hırslı ve işbirlikçi komşularınızla savaştı ve mücadele etti. Hiçbir ırk kesin bir üstünlük elde edememiş olsa da, çatışma bir yıpratma savaşına dönüştüğünde, sonuçta en iyi konumda olan sizin halkınız oldu.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>END_GAME_PARAGRAPH_PRESTIGE</InternalName>
+    <FlavorTextOption>
+      <Text>Yıllar boyunca halkınız galaktik sahnede hırslı ve işbirlikçi komşularınızla savaştı ve mücadele etti. Hiçbir ırk kesin bir üstünlük elde edememiş olsa da, çatışma bir yıpratma savaşına dönüştüğünde, sonuçta en iyi konumda olan sizin halkınız oldu.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>END_GAME_PARAGRAPH_UNITEDPLANETS</InternalName>
+    <FlavorTextOption>
+      <Text>Bunu görmemelisin.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>END_GAME_PARAGRAPH_DEFEAT</InternalName>
+    <FlavorTextOption>
+      <Text>Ve bununla birlikte, uygarlığınız çöktü. Bir süre için, halkınız mülteci ve münzevi olarak galaksinin dört bir yanına dağılarak yaşamaya devam etti. Ama türünüzün gücü asla geri gelmedi. Halkınız müzelerde ve ders kitaplarında mı hatırlanacak, yoksa tüm varlıkların hafızalarından silinecek mi? Bunu asla bilemeyeceksiniz. Artık bunu söylemek sana düşmez.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>END_GAME_PARAGRAPH_RETIRED</InternalName>
+    <FlavorTextOption>
+      <Text>Galaksiye yayılan bir medeniyet inşa etmek uzun zaman alır ve herkesin buna sabrı yoktur. Halkınız elinizden gelenin en iyisini yaptığınızı anlayacak mı, yoksa uzaylılar kemiklerini yerken onları terk ettiğiniz için sizi lanetleyecekler mi? Sizi geceleri uyutmamasına izin vermeyin (sizi geceleri uyutmasına izin vermelisiniz).</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>STOLE_CREDITS</InternalName>
+    <FlavorTextOption>
+      <Text>Diplomatımız {OBJECTNAME} {PLAYERFACTION:3}'dan {AMOUNT:2} kredi çalmıştır.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>UNIT_STOLE_TECH</InternalName>
+    <FlavorTextOption>
+      <Text>Diplomatımız {OBJECTNAME} {TECHNAME:2} teknolojisini {PLAYERFACTION:3}'dan çaldı.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>UNIT_STOLE_TECH_RESPONSE_OK</InternalName>
+    <FlavorTextOption>
+      <Text>İyi çalışmaya devam edin.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>STOLE_TECH</InternalName>
+    <FlavorTextOption>
+      <Text>{TECHNAME:2} teknolojisini {PLAYERFACTION:3}'ten çaldık.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>STOLE_TECH_FAIL</InternalName>
+    <FlavorTextOption>
+      <Text>Kozmik gözümüz {PLAYERFACTION:3}'e baktı. Yeni teknolojiler gözlemlenmemiş olsa da, bizimkinden farklı araştırma yöntemleri hakkında bazı bilgiler edindik. [BR][BR][COLOR=UIDefaultHighlight][ICON=Stat_Research_Icon] +30 Araştırma [/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>STOLE_TECH_RESPONSE_OK</InternalName>
+    <FlavorTextOption>
+      <Text>Mükemmel.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>GENERIC</InternalName>
+    <FlavorTextOption>
+      <Text>Dolgu Açıklaması</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>FIRST_CONTACT_MAIN</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>FACTION_KORATH</SpeakerFaction>
+      </Requirements>
+      <Text>Hangi iğrenç kirletici yaratık ekranımdan geçiyor?</Text>
+      <PreferenceWeight>100</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>FIRST_CONTACT_RESPONSE_PEACEFUL</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>FACTION_KORATH</SpeakerFaction>
+      </Requirements>
+      <Text>Seninle ve senin gibilerle tanıştığıma memnun oldum, Korath.</Text>
+      <PreferenceWeight>1</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>FIRST_CONTACT_RESPONSE_NEUTRAL</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>FACTION_KORATH</SpeakerFaction>
+      </Requirements>
+      <Text>Davranışlarına dikkat et, Korath. Burada kimsenin gözünü korkutamazsın.</Text>
+      <PreferenceWeight>100</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>GENERIC_GREETING</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>FACTION_KORATH</SpeakerFaction>
+      </Requirements>
+      <Text>Çabuk olun, uzaylı pislikler.</Text>
+      <PreferenceWeight>100</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>DECLARE_WAR_MAIN</InternalName>
+    <FlavorTextOption>
+      <ResponseTag>KORATH_DECLARE_WAR_ON_PLAYER</ResponseTag>
+      <Requirements>
+        <SpeakerFaction>FACTION_KORATH</SpeakerFaction>
+      </Requirements>
+      <Text>Bizden biri olmadığın için ne kadar sefil bir hayat yaşamak zorundasın. Yakında sen ve senin türün için her şey sona erecek.</Text>
+      <PreferenceWeight>100</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>ASK_FOR_PEACE_MAIN</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>FACTION_KORATH</SpeakerFaction>
+      </Requirements>
+      <Text>Gücünü kanıtladın, uzaylı. Bu kadar kavga yeter. Yaralarımızla ilgilenelim.</Text>
+      <PreferenceWeight>100</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AI_CREATED_TRADE_OFFER</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>FACTION_KORATH</SpeakerFaction>
+      </Requirements>
+      <Text>Bak, uzaylı. Bir teklif ve bir hediye. Kabul etmemek aptallık olur.</Text>
+      <PreferenceWeight>100</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>TRADE_OFFER_ACCEPT</InternalName>
+    <FlavorTextOption>
+      <ResponseTag>KORATH_DECLARE_WAR_ON_PLAYER</ResponseTag>
+      <Requirements>
+        <SpeakerFaction>FACTION_KORATH</SpeakerFaction>
+      </Requirements>
+      <Text>Teklifini kabul ediyoruz uzaylı.</Text>
+      <PreferenceWeight>100</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>GENERAL_CONVERSATION_MAIN</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>FACTION_KORATH</SpeakerFaction>
+      </Requirements>
+      <Text>Galaksi pis uzaylılarla dolup taşıyor. Bu mide bulandırıcı.</Text>
+      <Text>O iğrenç suratının çıkardığı seslerden hiç bıktın mı? Ben sıkılıyorum.</Text>
+      <Text>Boş konuşmalarla benim zamanımı boşa harcama. Ama en çok da benimkini boşa harcama.</Text>
+      <PreferenceWeight>100</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>GENERAL_CONVERSATION_ACCEPT</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>FACTION_KORATH</SpeakerFaction>
+      </Requirements>
+      <Text>Nice to talk to you too, Korath.</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>FACTION_KORATH</SpeakerFaction>
+      </Requirements>
+      <Text>You seem uglier than normal today.</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>ELECTION_WARNING_LOSE</InternalName>
+    <FlavorTextOption>
+      <Text>Beş ay sonra bir seçime gidiyoruz. Anketörler [COLOR=UIDefaultHighlight]büyük bir farkla kaybedeceğimizi bildiriyor[/COLOR].[BR][BR]Seçimler, onay oranımızı yakından izlememizi gerektiriyor. Seçmenler kısa vadeli tedbirlerle kolaylıkla yönlendirilemeyecek ve morallerini uzun bir dönem boyunca değerlendireceklerdir. Onay oranını artıran her şey, vergi oranını düşürmek ve onay iyileştirmeleri yapmak gibi seçimleri kazanmamıza yardımcı olacaktır. Ya da seçim yapılmayan hükümet biçimlerini düşünebiliriz. Eğer bir seçimi kaybedersek, gücümüzü sınırlayan bir [COLOR=UIDefaultHighlight]Koalisyon Hükümetine[/COLOR] düşeriz. Savaş ilan etme kabiliyetimizin engellenmesi de buna dahildir.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>ELECTION_WARNING_LOW</InternalName>
+    <FlavorTextOption>
+      <Text>Beş ay sonra bir seçime gidiyoruz. Anketörler [COLOR=UIDefaultHighlight]kaybetme olasılığımızın yüksek olduğunu, ancak yakın olacağını bildiriyor[/COLOR]. Moralimizi yükseltmeye odaklanmalıyız.[BR][BR]Seçimler, onay oranımızı yakından izlememizi gerektiriyor. Seçmenler kısa vadeli önlemlerle kolayca etkilenmeyecek ve morallerini uzun bir süre boyunca değerlendireceklerdir. Onay oranını artıran her şey, vergi oranını düşürmek ve onay iyileştirmeleri yapmak gibi seçimleri kazanmamıza yardımcı olacaktır. Ya da seçim yapılmayan hükümet biçimlerini düşünebiliriz. Eğer bir seçimi kaybedersek, gücümüzü sınırlayan bir [COLOR=UIDefaultHighlight]Koalisyon Hükümetine[/COLOR] düşeriz. Savaş ilan etme kabiliyetimizin engellenmesi de buna dahildir.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>ELECTION_WARNING_HIGH</InternalName>
+    <FlavorTextOption>
+      <Text>Beş ay sonra bir seçime gidiyoruz. Anketörler [COLOR=UIDefaultHighlight]kazanmamızın muhtemel olduğunu, ancak bunun yakın olacağını[/COLOR] bildiriyor. Moralimizin düşmesine izin veremeyiz.[BR][BR]Seçimler, onay oranımızı yakından izlememizi gerektiriyor. Seçmenler kısa vadeli tedbirlerle kolayca etkilenmeyecek ve morallerini uzun bir süre boyunca değerlendireceklerdir. Vergi oranını düşürmek ve onaylanan iyileştirmeler yapmak gibi onayı artıran her şey seçimleri kazanmamıza yardımcı olacaktır. Ya da seçim yapılmayan hükümet biçimlerini düşünebiliriz. Eğer bir seçimi kaybedersek, gücümüzü sınırlayan bir [COLOR=UIDefaultHighlight]Koalisyon Hükümetine[/COLOR] düşeriz. Savaş ilan etme kabiliyetimizin engellenmesi de buna dahildir.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>ELECTION_WARNING_WIN</InternalName>
+    <FlavorTextOption>
+      <Text>Beş ay sonra bir seçime gidiyoruz. Anketörler [COLOR=UIDefaultHighlight]açık ara farkla kazanacağımızı[/COLOR] bildiriyor.[BR][BR]Seçimler onay oranımızı yakından izlememizi gerektiriyor. Seçmenler kısa vadeli önlemlerle kolayca etkilenmeyecek ve morallerini uzun bir süre boyunca değerlendireceklerdir. Onay oranını artıran her şey, vergi oranını düşürmek ve onay iyileştirmeleri yapmak gibi seçimleri kazanmamıza yardımcı olacaktır. Ya da seçim yapılmayan hükümet biçimlerini düşünebiliriz. Eğer bir seçimi kaybedersek, gücümüzü sınırlayan bir [COLOR=UIDefaultHighlight]Koalisyon Hükümetine[/COLOR] düşeriz. Savaş ilan etme kabiliyetimizin engellenmesi de buna dahildir.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>ELECTION_WARNING_RESPONSE_ECONOMY</InternalName>
+    <FlavorTextOption>
+      <Text>Ekonomik seçeneklerimizi gözden geçirelim. [COLOR=UIDefaultHighlight](Ekonomi ekranını açar)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>ELECTION_WARNING_RESPONSE_GOVERNMENT</InternalName>
+    <FlavorTextOption>
+      <Text>Hükümet seçeneklerimizi gözden geçirelim. [COLOR=UIDefaultHighlight](Hükümet ekranını açar)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>ELECTION_WARNING_RESPONSE_WAIT</InternalName>
+    <FlavorTextOption>
+      <Text>Bana bir dakika ver.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>COLONY_LIMIT_WARNING</InternalName>
+    <FlavorTextOption>
+      <Text>Hükümetimiz büyüyen uygarlığımızın ihtiyaçları için yetersiz kalıyor. Yeni koloniler hükümetin yalnızca ana gezegene hizmet ettiğinden ve dünyalarımızdaki kararların giderek daha derin bürokrasi seviyeleri tarafından geciktirildiğinden şikayet ediyor. [BR][BR]Hükümetler yalnızca belirli sayıda dünyayı yönetmede etkilidir. Bu [COLOR=UIDefaultHighlight]Koloni Sınırı[/COLOR] aşıldıktan sonra, bu sınırın ötesinde kontrol ettiğimiz her Koloni için bir Moral cezasına maruz kalacağız.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>COLONY_LIMIT_WARNING_RESPONSE_GOVERNMENT</InternalName>
+    <FlavorTextOption>
+      <Text>Hükümet seçeneklerimizi gözden geçirelim. [COLOR=UIDefaultHighlight](Hükümet ekranını açar)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>COLONY_LIMIT_WARNING_RESPONSE_WAIT</InternalName>
+    <FlavorTextOption>
+      <Text>Bana bir dakika ver.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>COLONY_LIMIT_WARNING_TECH</InternalName>
+    <FlavorTextOption>
+      <Text>Hükümetimiz büyüyen uygarlığımızın ihtiyaçları için yetersiz kalıyor. Yeni koloniler, hükümetin yalnızca ana gezegene hizmet ettiğinden ve dünyalarımızdaki kararların bürokrasi nedeniyle giderek geciktiğinden şikayet ediyor. [BR][BR]Hükümetler yalnızca belirli sayıda dünyayı yönetmede etkilidir. Bu [COLOR=UIDefaultHighlight]Koloni Sınırı[/COLOR] aşıldıktan sonra, bu sınırın ötesindeki her Koloni için bir Moral cezasına maruz kalırız. Ne yazık ki Koloni Limitimizi artıran herhangi bir hükümet keşfetmedik. Araştırma yaparak ya da diğer uygarlıklarla ticaret yaparak daha gelişmiş yönetim biçimlerine izin veren teknolojileri keşfetmeliyiz.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>COLONY_LIMIT_WARNING_TECH_RESPONSE_TECH</InternalName>
+    <FlavorTextOption>
+      <Text>Araştırma seçeneklerimizi gözden geçirelim. [COLOR=UIDefaultHighlight](Araştırma ekranını açar)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>COLONY_LIMIT_WARNING_TECH_RESPONSE_WAIT</InternalName>
+    <FlavorTextOption>
+      <Text>Bana bir dakika ver.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>CHOOSE_FIRST_GOVERNMENT</InternalName>
+    <FlavorTextOption>
+      <Text>Artık ana gezegenimizin ötesine genişlediğimize göre, kolonistler bir yapı için feryat ediyor. Galaktik bir uygarlığı idare etmeye hazır bir hükümet biçimi seçmemizin zamanı geldi.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>CHOOSEFIRSTGOVERNMENT_RESPONSE_GO_NOW</InternalName>
+    <FlavorTextOption>
+      <Text>Harika, hadi başlayalım! [COLOR=UIDefaultHighlight](Hükümet ekranını açar)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>CHOOSEFIRSTGOVERNMENT_RESPONSE_WAIT</InternalName>
+    <FlavorTextOption>
+      <Text>Bana bir dakika ver.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>LEADER_OPINION_OF_PLAYER</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <StatRange>
+          <Stat>Loyalty</Stat>
+          <Range>
+            <NoMin>true</NoMin>
+            <RangeMax>30</RangeMax>
+          </Range>
+        </StatRange>
+      </Requirements>
+      <Text>[I] "Beceriksizliğiniz bir efsane."[/I]</Text>
+      <Text>[I] "Medeniyetimizi yıkıma götürüyorsunuz."[/I]</Text>
+      <Text>[I] "Vasat liderliğinize rağmen hayatta kalıyoruz."[/I]</Text>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <StatRange>
+          <Stat>Loyalty</Stat>
+          <Range>
+            <RangeMin>70</RangeMin>
+            <NoMax>true</NoMax>
+          </Range>
+        </StatRange>
+      </Requirements>
+      <Text>[I] "Uygarlığımız sizin yönetiminiz sayesinde gelişiyor."[/I]</Text>
+      <Text>[I] "Sonsuz desteğime sahipsiniz."[/I]</Text>
+      <Text>[I] "Size onurla hizmet ediyorum."[/I]</Text>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <StatRange>
+          <Stat>Loyalty</Stat>
+          <Range>
+            <RangeMin>30</RangeMin>
+            <RangeMax>70</RangeMax>
+          </Range>
+        </StatRange>
+      </Requirements>
+      <Text>[I] "Yetkin ama istisnai olmayan bir yöneticisiniz."[/I]</Text>
+      <Text>[I] "Medeniyetimizin becerikli bir yöneticisisiniz, ancak daha fazlasını arzulamalıyız."[/I]</Text>
+      <Text>[I] "Öyle ya da böyle güçlü bir fikrim yok."[/I]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+</FlavorTextDefs>

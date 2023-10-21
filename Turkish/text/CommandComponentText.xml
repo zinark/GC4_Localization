@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<StringTableList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+  <StringTable>
+    <Label>Basic_Commander_Name</Label>
+    <String>Komutan</String>
+  </StringTable>
+  <StringTable>
+    <Label>Basic_Commander_Dec</Label>
+    <String>[ICON=Moves_Icon] Filo Hareketlerini İki Katına Çıkarır [ICON=Hitpoints_Icon] +%50 filo Vuruş Puanı [ICON=ShipLogistics_Icon] +%25 Lojistik</String>
+  </StringTable>
+  <StringTable>
+    <Label>Admiral_Commander_Name</Label>
+    <String>Amiral</String>
+  </StringTable>
+  <StringTable>
+    <Label>Admiral_Commander_Dec</Label>
+    <String>[ICON=AllWeaponsIcon] %25 Filodaki Tüm Silahlar [ICON=ShipsDefendingWorldIcon] %25 Filodaki Tüm Savunmalar</String>
+  </StringTable>
+  <StringTable>
+    <Label>Navigator_Commander_Name</Label>
+    <String>Navigatör</String>
+  </StringTable>
+  <StringTable>
+    <Label>Navigator_Commander_Dec</Label>
+    <String>Amiral gemisini Yıldız Sörfçüsü'ne yükseltir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Martyr_Commander_Name</Label>
+    <String>Şehit</String>
+  </StringTable>
+  <StringTable>
+    <Label>Martyr_Commander_Dec</Label>
+    <String>Amiral gemisini Martyr sınıfına yükseltir. Temas ettiği her düşman filosunu yok eder (dost filoyu da yok eder).</String>
+  </StringTable>
+  <StringTable>
+    <Label>Intimidator_Commander_Name</Label>
+    <String>Intimidator</String>
+  </StringTable>
+  <StringTable>
+    <Label>Intimidator_Commander_Dec</Label>
+    <String>Amiral gemisini Intimidator sınıfına yükseltir. Düşman filo bonuslarını hedef alır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Sovereign_Commander_Name</Label>
+    <String>Egemen</String>
+  </StringTable>
+  <StringTable>
+    <Label>Sovereign_Commander_Dec</Label>
+    <String>Amiral gemisini Sovereign sınıfına yükseltir. Hedef düşman filosu Bağlantısız Gezegenler Birliği'ne ait olacak şekilde değiştirilir. Hükümdar gemisi feda edilir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Exterminator_Commander_Name</Label>
+    <String>Yok Edici</String>
+  </StringTable>
+  <StringTable>
+    <Label>Exterminator_Commander_Dec</Label>
+    <String>Bir komuta gemisini, savunmasız bir gezegenin tüm nüfusunu yok edebilecek bir Spore gemisine dönüştürür.</String>
+  </StringTable>
+</StringTableList>

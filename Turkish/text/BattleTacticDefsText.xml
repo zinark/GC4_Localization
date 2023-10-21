@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<StringTableList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+  <StringTable>
+    <Label>BattleTactic_Balanced_Name</Label>
+    <String>Dengeli</String>
+  </StringTable>
+  <StringTable>
+    <Label>BattleTactic_Balanced_Description</Label>
+    <String>Bonus, ceza veya savaş uzunluğunda değişiklik yok.</String>
+  </StringTable>
+  <StringTable>
+    <Label>BattleTactic_Assault_Name</Label>
+    <String>Saldırı</String>
+  </StringTable>
+  <StringTable>
+    <Label>BattleTactic_Assault_Description</Label>
+    <String>-25 Savunma ve gemileriniz hücum etmek için hız artışı alır. Savaş %50 daha uzun sürer. Gemiler saldırırken düzende kalmaya çalışmaz.</String>
+  </StringTable>
+  <StringTable>
+    <Label>BattleTactic_DefensiveFire_Name</Label>
+    <String>Savunma Ateşi</String>
+  </StringTable>
+  <StringTable>
+    <Label>BattleTactic_DefensiveFire_Description</Label>
+    <String>-50 Saldırı, +%50 Savunma. Filonuzun hasarını en aza indirmeye çalışırken kullanışlıdır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>BattleTactic_Retreat_Name</Label>
+    <String>Geri Çekilme</String>
+  </StringTable>
+  <StringTable>
+    <Label>BattleTactic_Retreat_Description</Label>
+    <String>Filo hiç saldırmıyor; savaş sadece yarısı kadar sürüyor.</String>
+  </StringTable>
+  <StringTable>
+    <Label>BattleTactic_NoComingBack_Name</Label>
+    <String>Geri Dönüş Yok</String>
+  </StringTable>
+  <StringTable>
+    <Label>BattleTactic_NoComingBack_Description</Label>
+    <String>Gemiler, düşman gemilerine intihar amaçlı çarpma girişiminde bulunarak ölüme yaklaşır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>BattleTactic_Capture_Name</Label>
+    <String>Yakalama</String>
+  </StringTable>
+  <StringTable>
+    <Label>BattleTactic_Capture_Description</Label>
+    <String>Diğer filoyu yenerseniz bir gemiyi temizleme şansı vardır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>BattleTactic_Skirmish_Name</Label>
+    <String>Çatışma</String>
+  </StringTable>
+  <StringTable>
+    <Label>BattleTactic_Skirmish_Description</Label>
+    <String>Gemiler ölümle burun buruna gelene kadar saldırır; sonra da savaştan kaçmaya çalışır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>BattleTactic_StandFirm_Name</Label>
+    <String>Sağlam Durun</String>
+  </StringTable>
+  <StringTable>
+    <Label>BattleTactic_StandFirm_Description</Label>
+    <String>Gemiler konumlarını korur ve +%50 silah menzili kazanır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>BattleTactic_Surround_Name</Label>
+    <String>Surround</String>
+  </StringTable>
+  <StringTable>
+    <Label>BattleTactic_Surround_Description</Label>
+    <String>-25 Savunma. Saldıran gemiler savunan filonun etrafına dizilerek kaçışı engeller. Savaş iki kat daha uzun sürer.</String>
+  </StringTable>
+  <StringTable>
+    <Label>BattleTactic_Swarm_Name</Label>
+    <String>Sürü</String>
+  </StringTable>
+  <StringTable>
+    <Label>BattleTactic_Swarm_Description</Label>
+    <String>Gemiler saldırırken aynı düzende kalmaya çalışmazlar.</String>
+  </StringTable>
+</StringTableList>

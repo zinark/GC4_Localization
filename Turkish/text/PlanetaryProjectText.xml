@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<StringTableList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+  <StringTable>
+    <Label>ProjectEconomicStimulus_Name</Label>
+    <String>Ekonomik Teşvik</String>
+  </StringTable>
+  <StringTable>
+    <Label>ProjectEconomicStimulus_ShortDec</Label>
+    <String>Fabrikalarımızdan tüketim mallarının pompalanması ekonomik faaliyeti ve dolayısıyla hazinemizin büyümesini teşvik eder.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ProjectResearchProject_Name</Label>
+    <String>Araştırma Projesi</String>
+  </StringTable>
+  <StringTable>
+    <Label>ProjectResearchProject_ShortDec</Label>
+    <String>Tüm üretim tesislerimizi özellikle önemli bir araştırma projesine adayarak bilim adamlarımızın verimliliğini büyük ölçüde artırıyoruz.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ProjectCulturalFestival_Name</Label>
+    <String>Kültür Festivali</String>
+  </StringTable>
+  <StringTable>
+    <Label>ProjectCulturalFestival_ShortDec</Label>
+    <String>Etkimizi galaksiye yaymaya adanmış, kültürümüzün gezegen çapında bir kutlaması.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ProjectBirthingSubsidies_Name</Label>
+    <String>Doğum Sübvansiyonları</String>
+  </StringTable>
+  <StringTable>
+    <Label>ProjectBirthingSubsidies_ShortDec</Label>
+    <String>Yeni bir koloni genellikle büyümek için yardıma ihtiyaç duyar. Üretim kaynaklarımızı ailelerin çevrelerini güvence altına almalarına yardımcı olmaya yönlendirerek, büyümelerini ve gelişmelerini sağlayabiliriz.</String>
+  </StringTable>
+</StringTableList>

@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<FlavorTextDefs xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
+  <FlavorTextDef>
+    <InternalName>TERROR_STAR_ATTACK_MAIN</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerHasUniversalTranslator>false</ListenerHasUniversalTranslator>
+      </Requirements>
+      <Text>Talotic yopitu mul nesin, {PLAYERFACTION:2}.[BR][BR][COLOR=UIDefaultHighlight](Tahmin etmeniz gerekirse, gezegenlerini havaya uçurduğunuz için çok kızgınlar.)[/COLOR]</Text>
+      <PreferenceWeight>10</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Text>Bu vahşet asla unutulmayacak, {PLAYERFACTION:2}. Siz yok edilene kadar rahat etmeyeceğiz.[BR][BR][COLOR=UIDefaultHighlight](Uygarlıklarımızdan biri ölene kadar savaştayız.)[/COLOR]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>TERROR_STAR_ATTACK_RESPONSE_CRUEL</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerHasUniversalTranslator>false</ListenerHasUniversalTranslator>
+      </Requirements>
+      <Text>Bwahahaha... Yüzünü görmelisin!</Text>
+      <PreferenceWeight>10</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Text>Halkınızın ölüm çığlıkları kulaklarıma müzik gibi geliyor.</Text>
+      <PreferenceWeight>10</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>TERROR_STAR_ATTACK_RESPONSE_PRAGMATIC</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerHasUniversalTranslator>false</ListenerHasUniversalTranslator>
+      </Requirements>
+      <Text>Eh, zaten beni anlayacak değilsin.</Text>
+      <PreferenceWeight>10</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Text>Fedakarlıklar yapılmalıdır.</Text>
+      <PreferenceWeight>10</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>TERROR_STAR_ATTACK_RESPONSE_RIGHTEOUS</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerHasUniversalTranslator>false</ListenerHasUniversalTranslator>
+      </Requirements>
+      <Text>Beni anlamıyor olabilirsiniz ama galaksiyi sizin uygarlığınızdan kurtararak ona bir iyilik yapıyorum.</Text>
+      <PreferenceWeight>10</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Text>Galaksi sizin uygarlığınız olmadan daha iyi olacak.</Text>
+      <PreferenceWeight>10</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+</FlavorTextDefs>

@@ -1,0 +1,611 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<StringTableList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+  <StringTable>
+    <Label>CleverGroup_Name</Label>
+    <String>[ICON=RaceTraitClever] Zekice</String>
+  </StringTable>
+  <StringTable>
+    <Label>CleverGroup_Dec</Label>
+    <String>Grup Açıklaması</String>
+  </StringTable>
+  <StringTable>
+    <Label>Clever1_Name</Label>
+    <String>[ICON=RaceTraitClever] Zeki (+2)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Clever1_Dec</Label>
+    <String>Teknolojilerin ne kadar hızlı öğrenildiğini değiştirir</String>
+  </StringTable>
+  <StringTable>
+    <Label>Clever2_Name</Label>
+    <String>[ICON=RaceTraitClever] Zeki (+1)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Clever2_Dec</Label>
+    <String>Teknolojilerin ne kadar hızlı öğrenildiğini değiştirir</String>
+  </StringTable>
+  <StringTable>
+    <Label>Clever3_Name</Label>
+    <String>[ICON=RaceTraitClever] Aptal (-1)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Clever3_Dec</Label>
+    <String>Teknolojilerin ne kadar hızlı öğrenildiğini değiştirir</String>
+  </StringTable>
+  <StringTable>
+    <Label>Clever4_Name</Label>
+    <String>[ICON=RaceTraitClever] Aptal (-2)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Clever4_Dec</Label>
+    <String>Teknolojilerin ne kadar hızlı öğrenildiğini değiştirir</String>
+  </StringTable>
+  <StringTable>
+    <Label>RichGroup_Name</Label>
+    <String>[ICON=RaceTraitEconomical] Zengin</String>
+  </StringTable>
+  <StringTable>
+    <Label>RichGroup_Dec</Label>
+    <String>Grup Açıklaması</String>
+  </StringTable>
+  <StringTable>
+    <Label>Rich1_Name</Label>
+    <String>[ICON=RaceTraitEconomical] Zengin (+2)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Rich1_Dec</Label>
+    <String>Kredilerin ne kadar hızlı kazanılacağını değiştirir</String>
+  </StringTable>
+  <StringTable>
+    <Label>Rich2_Name</Label>
+    <String>[ICON=RaceTraitEconomical] Zengin (+1)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Rich2_Dec</Label>
+    <String>Kredilerin ne kadar hızlı kazanılacağını değiştirir</String>
+  </StringTable>
+  <StringTable>
+    <Label>Rich3_Name</Label>
+    <String>[ICON=RaceTraitEconomical] Zayıf (-1)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Rich3_Dec</Label>
+    <String>Kredilerin ne kadar hızlı kazanılacağını değiştirir</String>
+  </StringTable>
+  <StringTable>
+    <Label>Rich4_Name</Label>
+    <String>[ICON=RaceTraitEconomical] Zayıf (-2)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Rich4_Dec</Label>
+    <String>Kredilerin ne kadar hızlı kazanılacağını değiştirir</String>
+  </StringTable>
+  <StringTable>
+    <Label>ProductiveGroup_Name</Label>
+    <String>[ICON=RaceTraitProductive] Üretken</String>
+  </StringTable>
+  <StringTable>
+    <Label>ProductiveGroup_Dec</Label>
+    <String>Grup Açıklaması</String>
+  </StringTable>
+  <StringTable>
+    <Label>Productive1_Name</Label>
+    <String>[ICON=RaceTraitProductive] Üretken (+2)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Productive1_Dec</Label>
+    <String>Gezegenlerinizde iyileştirmelerin ne kadar hızlı inşa edileceğini değiştirir</String>
+  </StringTable>
+  <StringTable>
+    <Label>Productive2_Name</Label>
+    <String>[ICON=RaceTraitProductive] Üretken (+1)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Productive2_Dec</Label>
+    <String>Gezegenlerinizde iyileştirmelerin ne kadar hızlı inşa edileceğini değiştirir</String>
+  </StringTable>
+  <StringTable>
+    <Label>Productive3_Name</Label>
+    <String>[ICON=RaceTraitProductive] Verimsiz (-1)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Productive3_Dec</Label>
+    <String>Gezegenlerinizde iyileştirmelerin ne kadar hızlı inşa edileceğini değiştirir</String>
+  </StringTable>
+  <StringTable>
+    <Label>Productive4_Name</Label>
+    <String>[ICON=RaceTraitProductive] Verimsiz (-2)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Productive4_Dec</Label>
+    <String>Gezegenlerinizde iyileştirmelerin ne kadar hızlı inşa edileceğini değiştirir</String>
+  </StringTable>
+  <StringTable>
+    <Label>MilitantGroup_Name</Label>
+    <String>[ICON=RaceTraitMilitant] Militan</String>
+  </StringTable>
+  <StringTable>
+    <Label>MilitantGroup_Dec</Label>
+    <String>Grup Açıklaması</String>
+  </StringTable>
+  <StringTable>
+    <Label>Militant1_Name</Label>
+    <String>[ICON=RaceTraitMilitant] Militan (+2)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Militant1_Dec</Label>
+    <String>Başlangıç Kontrolünüzü artırır</String>
+  </StringTable>
+  <StringTable>
+    <Label>Militant2_Name</Label>
+    <String>[ICON=RaceTraitMilitant] Militan (+1)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Militant2_Dec</Label>
+    <String>Başlangıç Kontrolünüzü artırır</String>
+  </StringTable>
+  <StringTable>
+    <Label>Militant3_Name</Label>
+    <String>[ICON=RaceTraitMilitant] Pasif (-1)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Militant3_Dec</Label>
+    <String>Başlangıç Kontrolünüzü azaltır</String>
+  </StringTable>
+  <StringTable>
+    <Label>Militant4_Name</Label>
+    <String>[ICON=RaceTraitMilitant] Pasif (-2)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Militant4_Dec</Label>
+    <String>Başlangıç Kontrolünüzü azaltır</String>
+  </StringTable>
+  <StringTable>
+    <Label>InfluentialGroup_Name</Label>
+    <String>[ICON=RaceTraitInfluential] Etkili</String>
+  </StringTable>
+  <StringTable>
+    <Label>InfluentialGroup_Dec</Label>
+    <String>Grup Açıklaması</String>
+  </StringTable>
+  <StringTable>
+    <Label>Influential1_Name</Label>
+    <String>[ICON=RaceTraitInfluential] Etkili (+2)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Influential1_Dec</Label>
+    <String>Sınırların ne kadar hızlı genişletileceğini değiştirir</String>
+  </StringTable>
+  <StringTable>
+    <Label>Influential2_Name</Label>
+    <String>[ICON=RaceTraitInfluential] Etkili (+1)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Influential2_Dec</Label>
+    <String>Sınırların ne kadar hızlı genişletileceğini değiştirir</String>
+  </StringTable>
+  <StringTable>
+    <Label>Influential3_Name</Label>
+    <String>[ICON=RaceTraitInfluential] Unutulabilir (-1)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Influential3_Dec</Label>
+    <String>Sınırların ne kadar hızlı genişletileceğini değiştirir</String>
+  </StringTable>
+  <StringTable>
+    <Label>Influential4_Name</Label>
+    <String>[ICON=RaceTraitInfluential] Unutulabilir (-2)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Influential4_Dec</Label>
+    <String>Sınırların ne kadar hızlı genişletileceğini değiştirir</String>
+  </StringTable>
+  <StringTable>
+    <Label>LikeableGroup_Name</Label>
+    <String>[ICON=RaceTraitContent] Beğenilebilir</String>
+  </StringTable>
+  <StringTable>
+    <Label>LikeableGroup_Dec</Label>
+    <String>Grup Açıklaması</String>
+  </StringTable>
+  <StringTable>
+    <Label>Likeable1_Name</Label>
+    <String>[ICON=RaceTraitContent] Beğenilebilir (+2)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Likeable1_Dec</Label>
+    <String>Diğer oyuncuların size karşı tutumunu değiştirir</String>
+  </StringTable>
+  <StringTable>
+    <Label>Likeable2_Name</Label>
+    <String>[ICON=RaceTraitContent] Beğenilebilir (+1)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Likeable2_Dec</Label>
+    <String>Diğer oyuncuların size karşı tutumunu değiştirir</String>
+  </StringTable>
+  <StringTable>
+    <Label>Likeable3_Name</Label>
+    <String>[ICON=RaceTraitContent] Beğenilmez (-1)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Likeable3_Dec</Label>
+    <String>Diğer oyuncuların size karşı tutumunu değiştirir</String>
+  </StringTable>
+  <StringTable>
+    <Label>Likeable4_Name</Label>
+    <String>[ICON=RaceTraitContent] Beğenilmez (-2)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Likeable4_Dec</Label>
+    <String>Diğer oyuncuların size karşı tutumunu değiştirir</String>
+  </StringTable>
+  <StringTable>
+    <Label>ExplorerGroup_Name</Label>
+    <String>[ICON=RaceTraitExplorers] Kaşifler</String>
+  </StringTable>
+  <StringTable>
+    <Label>ExplorerGroup_Dec</Label>
+    <String>Grup Açıklaması</String>
+  </StringTable>
+  <StringTable>
+    <Label>Explorer1_Name</Label>
+    <String>[ICON=RaceTraitExplorers] Kaşifler (+2)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Explorer1_Dec</Label>
+    <String>Gemilerinizin sınırlarınızdan ne kadar uzağa gidebileceğini değiştirir</String>
+  </StringTable>
+  <StringTable>
+    <Label>Explorer2_Name</Label>
+    <String>[ICON=RaceTraitExplorers] Kaşifler (+1)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Explorer2_Dec</Label>
+    <String>Gemilerinizin sınırlarınızdan ne kadar uzağa gidebileceğini değiştirir</String>
+  </StringTable>
+  <StringTable>
+    <Label>Explorer3_Name</Label>
+    <String>[ICON=RaceTraitExplorers] Kaşifler (-1)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Explorer3_Dec</Label>
+    <String>Gemilerinizin sınırlarınızdan ne kadar uzağa gidebileceğini değiştirir</String>
+  </StringTable>
+  <StringTable>
+    <Label>Explorer4_Name</Label>
+    <String>[ICON=RaceTraitExplorers] Kaşifler (-2)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Explorer4_Dec</Label>
+    <String>Gemilerinizin sınırlarınızdan ne kadar uzağa gidebileceğini değiştirir</String>
+  </StringTable>
+  <StringTable>
+    <Label>FastGroup_Name</Label>
+    <String>[ICON=RaceTraitFast] Hızlı</String>
+  </StringTable>
+  <StringTable>
+    <Label>FastGroup_Dec</Label>
+    <String>Grup Açıklaması</String>
+  </StringTable>
+  <StringTable>
+    <Label>Fast1_Name</Label>
+    <String>[ICON=RaceTraitFast] Hızlı (+2)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Fast1_Dec</Label>
+    <String>Gemilerinizin her turda ne kadar uzağa gidebileceğini değiştirir</String>
+  </StringTable>
+  <StringTable>
+    <Label>Fast2_Name</Label>
+    <String>[ICON=RaceTraitFast] Hızlı (+1)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Fast2_Dec</Label>
+    <String>Gemilerinizin her turda ne kadar uzağa gidebileceğini değiştirir</String>
+  </StringTable>
+  <StringTable>
+    <Label>ExpBonusGroup_Name</Label>
+    <String>[ICON=RaceTraitVeteran] Gazi</String>
+  </StringTable>
+  <StringTable>
+    <Label>ExpBonusGroup_Dec</Label>
+    <String>Grup Açıklaması</String>
+  </StringTable>
+  <StringTable>
+    <Label>Veteran1_Name</Label>
+    <String>[ICON=RaceTraitVeteran] Veteran (+2)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Veteran1_Dec</Label>
+    <String>Gemilerinizin ne kadar hızlı deneyim kazanacağını değiştirir</String>
+  </StringTable>
+  <StringTable>
+    <Label>Veteran2_Name</Label>
+    <String>[ICON=RaceTraitVeteran] Veteran (+1)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Veteran2_Dec</Label>
+    <String>Gemilerinizin ne kadar hızlı deneyim kazanacağını değiştirir</String>
+  </StringTable>
+  <StringTable>
+    <Label>Veteran3_Name</Label>
+    <String>[ICON=RaceTraitVeteran] Veteran (-1)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Veteran3_Dec</Label>
+    <String>Gemilerinizin ne kadar hızlı deneyim kazanacağını değiştirir</String>
+  </StringTable>
+  <StringTable>
+    <Label>Veteran4_Name</Label>
+    <String>[ICON=RaceTraitVeteran] Veteran (-2)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Veteran4_Dec</Label>
+    <String>Gemilerinizin ne kadar hızlı deneyim kazanacağını değiştirir</String>
+  </StringTable>
+  <StringTable>
+    <Label>BrutalGroup_Name</Label>
+    <String>[ICON=RaceTraitBrutal] Acımasız</String>
+  </StringTable>
+  <StringTable>
+    <Label>BrutalGroup_Dec</Label>
+    <String>Grup Açıklaması</String>
+  </StringTable>
+  <StringTable>
+    <Label>Brutal1_Name</Label>
+    <String>[ICON=RaceTraitBrutal] Acımasız (+2)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Brutal1_Dec</Label>
+    <String>Gezegen İstilalarının başarısını değiştirir</String>
+  </StringTable>
+  <StringTable>
+    <Label>Brutal2_Name</Label>
+    <String>[ICON=RaceTraitBrutal] Acımasız (+1)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Brutal2_Dec</Label>
+    <String>Gezegen İstilalarının başarısını değiştirir</String>
+  </StringTable>
+  <StringTable>
+    <Label>Brutal3_Name</Label>
+    <String>[ICON=RaceTraitBrutal] Gentle (-1)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Brutal3_Dec</Label>
+    <String>Gezegen İstilalarının başarısını değiştirir</String>
+  </StringTable>
+  <StringTable>
+    <Label>Brutal4_Name</Label>
+    <String>[ICON=RaceTraitBrutal] Gentle (-2)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Brutal4_Dec</Label>
+    <String>Gezegen İstilalarının başarısını değiştirir</String>
+  </StringTable>
+  <StringTable>
+    <Label>CourageousGroup_Name</Label>
+    <String>[ICON=RaceTraitCourageous] Cesur</String>
+  </StringTable>
+  <StringTable>
+    <Label>CourageousGroup_Dec</Label>
+    <String>Grup Açıklaması</String>
+  </StringTable>
+  <StringTable>
+    <Label>Courageous1_Name</Label>
+    <String>[ICON=RaceTraitCourageous] Cesur (+2)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Courageous1_Dec</Label>
+    <String>Kültürel Etki etkilerine direnme yeteneğini değiştirir</String>
+  </StringTable>
+  <StringTable>
+    <Label>Courageous2_Name</Label>
+    <String>[ICON=RaceTraitCourageous] Cesur (+1)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Courageous2_Dec</Label>
+    <String>İstilalara direnme yeteneğini değiştirir</String>
+  </StringTable>
+  <StringTable>
+    <Label>Courageous3_Name</Label>
+    <String>[ICON=RaceTraitCourageous] Craven (-1)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Courageous3_Dec</Label>
+    <String>İstilalara direnme yeteneğini değiştirir</String>
+  </StringTable>
+  <StringTable>
+    <Label>Courageous4_Name</Label>
+    <String>[ICON=RaceTraitCourageous] Craven (-2)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Courageous4_Dec</Label>
+    <String>İstilalara direnme yeteneğini değiştirir</String>
+  </StringTable>
+  <StringTable>
+    <Label>DeceptiveGroup_Name</Label>
+    <String>[ICON=RaceTraitDeceptive] Aldatıcı</String>
+  </StringTable>
+  <StringTable>
+    <Label>DeceptiveGroup_Dec</Label>
+    <String>Grup Açıklaması</String>
+  </StringTable>
+  <StringTable>
+    <Label>Deceptive1_Name</Label>
+    <String>[ICON=RaceTraitDeceptive] Aldatıcı (+2)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Deceptive1_Dec</Label>
+    <String>Etkinliklerde ve diplomaside Aldatma kullanma şansınızı değiştirir</String>
+  </StringTable>
+  <StringTable>
+    <Label>Deceptive2_Name</Label>
+    <String>[ICON=RaceTraitDeceptive] Aldatıcı (+1)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Deceptive2_Dec</Label>
+    <String>Etkinliklerde ve diplomaside Aldatma kullanma şansınızı değiştirir</String>
+  </StringTable>
+  <StringTable>
+    <Label>Deceptive3_Name</Label>
+    <String>[ICON=RaceTraitDeceptive] Kötü Yalancı (-1)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Deceptive3_Dec</Label>
+    <String>Etkinliklerde ve diplomaside Aldatma kullanma şansınızı değiştirir</String>
+  </StringTable>
+  <StringTable>
+    <Label>Deceptive4_Name</Label>
+    <String>[ICON=RaceTraitDeceptive] Kötü Yalancı (-2)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Deceptive4_Dec</Label>
+    <String>Etkinliklerde ve diplomaside Aldatma kullanma şansınızı değiştirir</String>
+  </StringTable>
+  <StringTable>
+    <Label>MinerGroup_Name</Label>
+    <String>[ICON=RaceTraitMiners] Madenciler</String>
+  </StringTable>
+  <StringTable>
+    <Label>MinerGroup_Dec</Label>
+    <String>Grup Açıklaması</String>
+  </StringTable>
+  <StringTable>
+    <Label>Miners1_Name</Label>
+    <String>[ICON=RaceTraitPersuasive] Madenciler (+1)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Miners1_Dec</Label>
+    <String>Ek madencilik görev teknolojilerini kullanılabilir hale getirir</String>
+  </StringTable>
+  <StringTable>
+    <Label>BureaucratGroup_Name</Label>
+    <String>[ICON=Bureaucrats_Icon] Bürokratlar</String>
+  </StringTable>
+  <StringTable>
+    <Label>BureaucratGroup_Dec</Label>
+    <String>Grup Açıklaması</String>
+  </StringTable>
+  <StringTable>
+    <Label>Bureaucrat1_Name</Label>
+    <String>[ICON=RaceTraitPersuasive] Bürokratlar (+1)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Bureaucrat1_Dec</Label>
+    <String>Ek kurumsal teknolojileri kullanılabilir hale getirir</String>
+  </StringTable>
+  <StringTable>
+    <Label>FamingGroup_Name</Label>
+    <String>[ICON=RaceTraitFarmers] Çiftçiler</String>
+  </StringTable>
+  <StringTable>
+    <Label>FamingGroup_Dec</Label>
+    <String>Grup Açıklaması</String>
+  </StringTable>
+  <StringTable>
+    <Label>Farmer1_Name</Label>
+    <String>[ICON=RaceTraitPersuasive] Çiftçiler (+1)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Farmer1_Dec</Label>
+    <String>İleri tarım teknolojilerini kullanılabilir hale getirir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>UrbanitesGroup_Name</Label>
+    <String>[ICON=RaceTraitUrbanites] Kentliler</String>
+  </StringTable>
+  <StringTable>
+    <Label>UrbanitesGroup_Dec</Label>
+    <String>Grup Açıklaması</String>
+  </StringTable>
+  <StringTable>
+    <Label>Urbanite1_Name</Label>
+    <String>[ICON=RaceTraitPersuasive] Kentliler (+1)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Urbanite1_Dec</Label>
+    <String>Daha gelişmiş şehir kurma teknolojilerine erişimi var</String>
+  </StringTable>
+  <StringTable>
+    <Label>IntimidatingGroup_Name</Label>
+    <String>[ICON=RaceTraitIntimidating] Korkutucu</String>
+  </StringTable>
+  <StringTable>
+    <Label>IntimidatingGroup_Dec</Label>
+    <String>Grup Açıklaması</String>
+  </StringTable>
+  <StringTable>
+    <Label>Intimidating1_Name</Label>
+    <String>[ICON=RaceTraitIntimidating] Gözdağı Verme (+2)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Intimidating1_Dec</Label>
+    <String>Etkinliklerde ve diplomaside Gözdağı kullanma şansınızı değiştirir</String>
+  </StringTable>
+  <StringTable>
+    <Label>Intimidating2_Name</Label>
+    <String>[ICON=RaceTraitIntimidating] Gözdağı Verme (+1)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Intimidating2_Dec</Label>
+    <String>Etkinliklerde ve diplomaside Gözdağı kullanma şansınızı değiştirir</String>
+  </StringTable>
+  <StringTable>
+    <Label>Intimidating3_Name</Label>
+    <String>[ICON=RaceTraitIntimidating] Meek (-1)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Intimidating3_Dec</Label>
+    <String>Etkinliklerde ve diplomaside Gözdağı kullanma şansınızı değiştirir</String>
+  </StringTable>
+  <StringTable>
+    <Label>Intimidating4_Name</Label>
+    <String>[ICON=RaceTraitIntimidating] Meek (-2)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Intimidating4_Dec</Label>
+    <String>Etkinliklerde ve diplomaside Gözdağı kullanma şansınızı değiştirir</String>
+  </StringTable>
+  <StringTable>
+    <Label>PersuasiveGroup_Name</Label>
+    <String>[ICON=RaceTraitPersuasive] İkna Edici</String>
+  </StringTable>
+  <StringTable>
+    <Label>PersuasiveGroup_Dec</Label>
+    <String>Grup Açıklaması</String>
+  </StringTable>
+  <StringTable>
+    <Label>Persuasive1_Name</Label>
+    <String>[ICON=RaceTraitPersuasive] İkna Edici (+2)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Persuasive1_Dec</Label>
+    <String>Etkinliklerde ve diplomaside İkna kullanma şansınızı değiştirir</String>
+  </StringTable>
+  <StringTable>
+    <Label>Persuasive2_Name</Label>
+    <String>[ICON=RaceTraitPersuasive] İkna Edici (+1)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Persuasive2_Dec</Label>
+    <String>Etkinliklerde ve diplomaside İkna kullanma şansınızı değiştirir</String>
+  </StringTable>
+  <StringTable>
+    <Label>Persuasive3_Name</Label>
+    <String>[ICON=RaceTraitPersuasive] İnandırıcı Değil (-1)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Persuasive3_Dec</Label>
+    <String>Etkinliklerde ve diplomaside İkna kullanma şansınızı değiştirir</String>
+  </StringTable>
+  <StringTable>
+    <Label>Persuasive4_Name</Label>
+    <String>[ICON=RaceTraitPersuasive] İnandırıcı Değil (-2)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Persuasive4_Dec</Label>
+    <String>Etkinliklerde ve diplomaside İkna kullanma şansınızı değiştirir</String>
+  </StringTable>
+</StringTableList>

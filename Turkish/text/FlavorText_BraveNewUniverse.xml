@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<FlavorTextDefs xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
+  <FlavorTextDef>
+    <InternalName>BraveNewUniverse_StartOfGame</InternalName>
+    <FlavorTextOption>
+      <Text>Altuzay Akımlarının keşfiyle ilgili önemli bir istihbarat aldık. Bu akışlar gemilerin farklı galaktik sektörler arasında anında geçiş yapmasına olanak sağlıyor. Bu hem eşi benzeri görülmemiş bir fırsat hem de önemli bir tehdit oluşturmaktadır. [BR][BR] Çeşitli uygarlıkların uzay bölgemize akın etmesi sağduyu ve diplomasi gerektirmektedir. En önemli göreviniz önceki görevimizi anımsatıyor: yıllar önce Dread Lord krizi sırasında kurduğumuza benzer bir koalisyon oluşturmak. [BR][BR] İttifak kurmak şüphesiz zorluklar yaratacaktır, ancak kaynaklarımız ve stratejilerimiz yok değil. Ticaret görüşmeleri, deneyimli diplomatların konuşlandırılması ve ileri diplomatik tekniklerin araştırılması çok değerli olacaktır. Yeni ortaya çıkan bu uygarlıklarla sağlam ittifaklar kurmaya çalışmanız şarttır.</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+</FlavorTextDefs>

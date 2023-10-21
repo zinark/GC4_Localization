@@ -1,0 +1,739 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<StringTableList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+  <StringTable>
+    <Label>Component_Name</Label>
+    <String>Bileşen</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_Dec</Label>
+    <String>Bileşen</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_ECMAOE_Name</Label>
+    <String>Orta Menzilli ECM'ler</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_ECMAOE_Dec</Label>
+    <String>[ICON=PointDefenseIcon] Etki Alanı içindeki müttefik gemileri 8 Kaçış kazanır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_Heal4AOE_Name</Label>
+    <String>Onarım Dronları</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_Heal4AOE_Dec</Label>
+    <String>[ICON=Hitpoints_Icon] Etki Alanı içindeki müttefik gemileri tur başına 4 Hit Puanı onarır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_Slow2AOE_Name</Label>
+    <String>Durağanlık Alanı</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_Slow2AOE_Dec</Label>
+    <String>[ICON=Moves_Icon] Etki Alanı içindeki düşman gemileri -2 Hareket alır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_NoLogistics_Name</Label>
+    <String>Otonom Motor</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_NoLogistics_Dec</Label>
+    <String>[ICON=ShipLogistics_Icon] Lojistik gerektirmez.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_Skyfire_Dec</Label>
+    <String>[ICON=KineticAugmentIcon] Tüm Filo için +%30 Kinetik Saldırı.[BR][ICON=ApprovalStatIcon] Bu geminin konuşlandığı herhangi bir gezegende +%30 Üretim.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_HeartOfConquest_Dec</Label>
+    <String>[ICON=BeamAugmentIcon] Tüm Filo için +%30 Işın Saldırısı.[BR][ICON=ApprovalStatIcon] Bu geminin konuşlandığı herhangi bir gezegene +%10 Onay.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_Curiosity_Dec</Label>
+    <String>[ICON=Stat_Research_Icon] Bir Anomali araştırıldığında +1 Araştırma.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_ControlPerBattle_Name</Label>
+    <String>Gözdağı Motoru</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_ControlPerBattle_Dec</Label>
+    <String>[ICON=Stat_Control_Icon] Savaş başına +1 Kontrol.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_CreditsPerBattle_Name</Label>
+    <String>Hurda Modülü</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_CreditsPerBattle_Dec</Label>
+    <String>[ICON=Stat_Credits_Icon] Savaş başına +100 Kredi.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_HealPerBattle_Name</Label>
+    <String>Yenilenen Gövdeler</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_HealPerBattle_Dec</Label>
+    <String>[ICON=Hitpoints_Icon] Her savaştan sonra tamamen iyileşir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_InfluencePerBattle_Name</Label>
+    <String>Gömülü Medya</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_InfluencePerBattle_Dec</Label>
+    <String>[ICON=InfluenceGrowth_Icon] Savaş başına her çekirdek dünyaya +5 Nüfuz.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_ResearchPerBattle_Name</Label>
+    <String>Dissector</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_ResearchPerBattle_Dec</Label>
+    <String>[ICON=Stat_Research_Icon] Savaş başına +1 Araştırma.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_BeamAttackPerLevel_Name</Label>
+    <String>Uyarlanabilir Lazerler</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_BeamAttackPerLevel_Dec</Label>
+    <String>[ICON=BeamAugmentIcon] Seviye başına +1 Işın Saldırısı.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_MissileAttackPerLevel_Name</Label>
+    <String>Uyarlanabilir Füzeler</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_MissileAttackPerLevel_Dec</Label>
+    <String>[ICON=MissileAugmentIcon] Seviye başına +1 Füze Saldırısı.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_MovesPerLevel_Name</Label>
+    <String>Momentum Motoru</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_MovesPerLevel_Dec</Label>
+    <String>[ICON=Moves_Icon] Seviye Başına +1 Hareket</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_Perserverance_Dec</Label>
+    <String>[ICON=ApprovalStatIcon] Bu geminin konuşlandığı herhangi bir gezegene +%10 Onay.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_EternalCity_Dec</Label>
+    <String>[ICON=ApprovalStatIcon] Bu geminin konuşlandığı herhangi bir gezegene +%10 Onay[BR][ICON=Stat_Research_Icon] Bu geminin konuşlandığı herhangi bir gezegende +%30 Araştırma.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_Gaze_Dec</Label>
+    <String>[ICON=BeamAugmentIcon] Filosundaki tüm gemilere +%25 Işın saldırısı.[BR][ICON=ShieldStrengthIcon] Filosundaki tüm gemilere +5 Kalkan.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_Scavenger_Name</Label>
+    <String>Islah Laboratuvarı</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_Scavenger_Dec</Label>
+    <String>[ICON=Stat_Special_Icon] Savaşta mağlup edilen gemileri ele geçirmek için %100 şans.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_Scavenger25_Name</Label>
+    <String>Yumurta Odası</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_Scavenger25_Dec</Label>
+    <String>[ICON=Stat_Special_Icon] Savaşta mağlup edilen gemileri ele geçirmek için %25 şans.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier0Mercenary00_Name</Label>
+    <String>Paralı Asker</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier0Mercenary00_Dec</Label>
+    <String>Şablon oluştururken yerleştirme için kullanılan paralı asker. Bitmiş versiyonda oyuncu görünmeyecektir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier1MercenaryComponent01_Name</Label>
+    <String>Hızlı Borik</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier1MercenaryComponent01_Dec</Label>
+    <String>[ICON=CanSurveyIcon] Survey Ship[BR][ICON=Moves_Icon] Hızlı</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier1MercenaryComponent02_Name</Label>
+    <String>Adrastos Vanya</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier1MercenaryComponent02_Dec</Label>
+    <String>[ICON=CanSurveyIcon] Survey Ship[BR][ICON=Shiprange_Icon] Son derece uzun gemi menzili.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier1MercenaryComponent03_Name</Label>
+    <String>Cain Rhuin</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier1MercenaryComponent03_Dec</Label>
+    <String>[ICON=CanSurveyIcon] Sörvey Gemisi[BR][ICON=Shiprange_Icon] Menzili Filo ile Paylaşır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier1MercenaryComponent04_Name</Label>
+    <String>Mirazu Ysen</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier1MercenaryComponent04_Dec</Label>
+    <String>[ICON=CanSurveyIcon] Sörvey Gemisi[BR][ICON=Stat_Credits_Icon] Sörvey yapılan anomali başına 25 kredi kazanır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier1MercenaryComponent05_Name</Label>
+    <String>LL'anso</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier1MercenaryComponent05_Dec</Label>
+    <String>[ICON=ImmuneToNebula] Nebula Etkilerine Bağışıklık[BR][ICON=Stat_Special_Icon] Korsanlar tarafından yok sayılır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier1MercenaryComponent06_Name</Label>
+    <String>Arratic Ken</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier1MercenaryComponent06_Dec</Label>
+    <String>[ICON=Shiprange_Icon] Çok Hızlı[BR][ICON=Shiprange_Icon] Son derece uzun gemi menzili.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier1MercenaryComponent07_Name</Label>
+    <String>Sizzor Thane</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier1MercenaryComponent07_Dec</Label>
+    <String>[ICON=SensorRange_Icon] Son derece geniş sensör aralığı.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier1MercenaryComponent08_Name</Label>
+    <String>Blandon Xute</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier1MercenaryComponent08_Dec</Label>
+    <String>[ICON=Mining_Icon] Geminin konuşlandığı Maden Yıldız Üssü'nün kaynak verimine +%100.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier1MercenaryComponent09_Name</Label>
+    <String>Pizzota Of Karn</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier1MercenaryComponent09_Dec</Label>
+    <String>[ICON=InfluenceGrowth_Icon] Geminin konuşlandığı herhangi bir Yıldız Üssünün her turunda +%100 etki.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier1MercenaryComponent10_Name</Label>
+    <String>Retuio III</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier1MercenaryComponent10_Dec</Label>
+    <String>[ICON=AreaofEffectIcon] Geminin konuşlandığı herhangi bir yıldız üssünün Etki Alanına +3.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier1MercenaryComponent11_Name</Label>
+    <String>Dr. Angekio Zi</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier1MercenaryComponent11_Dec</Label>
+    <String>[ICON=CanColonizeIcon] Daha fazla kolonist tutar[BR][ICON=Stat_Manufacturing_Icon] Bu gemiyle kurulan herhangi bir koloniye +%25 Üretim.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier1MercenaryComponent12_Name</Label>
+    <String>Bin Beebo</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier1MercenaryComponent12_Dec</Label>
+    <String>[ICON=CanColonizeIcon] Sucul, Donmuş ve Çorak Uç Dünyaları Kolonileştirebilir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier1MercenaryComponent13_Name</Label>
+    <String>Mevcut Yuva</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier1MercenaryComponent13_Dec</Label>
+    <String>[ICON=CanInvadeIcon] Savaş çağından önce dünyaları istila edebilir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier1MercenaryComponent14_Name</Label>
+    <String>İnşaatçı Draedilik</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier1MercenaryComponent14_Dec</Label>
+    <String>[ICON=StarbaseSupport] 5 serbest modül ile bir yıldız üssü inşa eder.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier1MercenaryComponent15_Name</Label>
+    <String>Avatar-278</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier1MercenaryComponent15_Dec</Label>
+    <String>[ICON=Stat_Raw_Productive_Icon] Geminin konuşlandığı herhangi bir gezegene +5 Ham Üretim.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier1MercenaryComponent16_Name</Label>
+    <String>T'y't'n'lp</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier1MercenaryComponent16_Dec</Label>
+    <String>[ICON=Stat_Manufacturing_Icon] Geminin konuşlandığı herhangi bir gezegende +%15 üretim.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier1MercenaryComponent17_Name</Label>
+    <String>Vinç</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier1MercenaryComponent17_Dec</Label>
+    <String>[ICON=Stat_Research_Icon] Geminin konuşlandığı herhangi bir gezegene +5 Araştırma puanı.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier1MercenaryComponent18_Name</Label>
+    <String>Annjeanette Sil</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier1MercenaryComponent18_Dec</Label>
+    <String>[ICON=ApprovalStatIcon] Geminin konuşlandığı herhangi bir gezegene +5 Moral puanı.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier1MercenaryComponent19_Name</Label>
+    <String>Arkadaş canlısı Mike</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier1MercenaryComponent19_Dec</Label>
+    <String>[ICON=Stat_Credits_Icon] Geminin konuşlandığı herhangi bir gezegene tur başına +5 Kredi.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier1MercenaryComponent20_Name</Label>
+    <String>Silvainout</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier1MercenaryComponent20_Dec</Label>
+    <String>[ICON=Stat_Military_Power_Icon] +75% Kaçınma[BR][ICON=KineticRangeIcon] Yüksek kütleli sürücü saldırısı.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier1MercenaryComponent21_Name</Label>
+    <String>Qualen Dohg</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier1MercenaryComponent21_Dec</Label>
+    <String>[ICON=Hitpoints_Icon] Orta boy bir geminin isabet puanına sahiptir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier1MercenaryComponent22_Name</Label>
+    <String>Prens Viturian</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier1MercenaryComponent22_Dec</Label>
+    <String>[ICON=BeamRangeIcon] +%50 Işın Menzili[BR][ICON=ShieldStrengthIcon] Işın Hasarının %75'ini Yok Sayar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier1MercenaryComponent23_Name</Label>
+    <String>Zeek the Meek</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier1MercenaryComponent23_Dec</Label>
+    <String>[ICON=Stat_Special_Icon] Alınan tüm hasarın %30'unu yok sayar. [BR][ICON=BeamAugmentIcon] Güçlü prototip ışın silahı.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier1MercenaryComponent24_Name</Label>
+    <String>Tad Stormbringer</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier1MercenaryComponent24_Dec</Label>
+    <String>[ICON=MissileAugmentIcon] Güçlü Prototip füzeler.[BR][ICON=Stat_Handy_Icon] Savaş sonunda anında onarılır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier1MercenaryComponent25_Name</Label>
+    <String>Lain</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier1MercenaryComponent25_Dec</Label>
+    <String>[ICON=BeamAugmentIcon] Güçlü prototip Işın silahları.[BR][ICON=Shiprange_Icon] Uzun Menzil[BR][ICON=Moves_Icon] Prototip hiper sürücü.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier1MercenaryComponent26_Name</Label>
+    <String>Kaul'dan Ser Manx</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier1MercenaryComponent26_Dec</Label>
+    <String>[ICON=BeamAugmentIcon] Filosundaki tüm gemilerin yanı sıra Işın saldırısı +%50.[BR][ICON=Stat_Planetary_Defense_Icon] Yüksek savunma ve Vuruş Puanı.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier2MercenaryComponent01_Name</Label>
+    <String>Reef Farseer</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier2MercenaryComponent01_Dec</Label>
+    <String>[ICON=CanSurveyIcon] Survey Ship[BR][ICON=Shiprange_Icon] Uzun Menzil.[BR][ICON=Moves_Icon] Hızlı.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier2MercenaryComponent02_Name</Label>
+    <String>Mevcut Yuva</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier2MercenaryComponent02_Dec</Label>
+    <String>Eski Modül, oyun mekaniği değişiklikleri nedeniyle kaldırıldı. (Yer tutucu olarak bırakıldı)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier2MercenaryComponent03_Name</Label>
+    <String>Mevcut Yuva</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier2MercenaryComponent03_Dec</Label>
+    <String>Eski Modül, oyun mekaniği değişiklikleri nedeniyle kaldırıldı. (Yer tutucu olarak bırakıldı)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier2MercenaryComponent04_Name</Label>
+    <String>Antarzea'lı Yshua</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier2MercenaryComponent04_Dec</Label>
+    <String>[ICON=StarbaseSupport] İnşa edildiğinde anında 100 Etki puanı. [BR][ICON=InfluenceGrowth_Icon] Sonraki her turda %100 Etki.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier2MercenaryComponent05_Name</Label>
+    <String>Fitrios Pompados</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier2MercenaryComponent05_Dec</Label>
+    <String>[ICON=Stat_Credits_Icon] Çift normal getirili ticaret rotası oluşturur. [BR][ICON=Stat_Special_Icon] Bozulursa ana dünyada yeniden doğar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier2MercenaryComponent06_Name</Label>
+    <String>Dr. Jondi Ians</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier2MercenaryComponent06_Dec</Label>
+    <String>[ICON=AscensionPointsStatIcon] Öncü çalışmalara verilen primi iki katına çıkarır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier2MercenaryComponent07_Name</Label>
+    <String>Inquisitor</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier2MercenaryComponent07_Dec</Label>
+    <String>[ICON=ApprovalStatIcon] Geminin konuşlandığı herhangi bir gezegene +%100 Onay.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier2MercenaryComponent08_Name</Label>
+    <String>Kalli Datun</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier2MercenaryComponent08_Dec</Label>
+    <String>[ICON=Stat_Credits_Icon] Geminin konuşlandığı herhangi bir gezegende tur başına +5 Kredi.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier2MercenaryComponent09_Name</Label>
+    <String>Melkiur Savante</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier2MercenaryComponent09_Dec</Label>
+    <String>[ICON=Stat_Research_Icon] Geminin konuşlandığı herhangi bir gezegene +5 Araştırma puanı.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier2MercenaryComponent10_Name</Label>
+    <String>Ghhhhhsk</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier2MercenaryComponent10_Dec</Label>
+    <String>[ICON=InfluenceGrowth_Icon] Geminin konuşlandığı herhangi bir gezegenin tur başına +%100 etkisi.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier2MercenaryComponent11_Name</Label>
+    <String>Dillerin Efendisi</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier2MercenaryComponent11_Dec</Label>
+    <String>[ICON=InfluenceGrowth_Icon] Gemi orada konuşlanmışken herhangi bir koloninin temel etkisine +150 Puan.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier2MercenaryComponent12_Name</Label>
+    <String>LL-88</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier2MercenaryComponent12_Dec</Label>
+    <String>[ICON=Malevolent_Icon] Gemi veya içinde bulunduğu filo her savaş kazandığında +1 Kültür Puanı.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier2MercenaryComponent13_Name</Label>
+    <String>İntikam</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier2MercenaryComponent13_Dec</Label>
+    <String>Güçlü bir savaş gemisi.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier2MercenaryComponent14_Name</Label>
+    <String>Basilisk</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier2MercenaryComponent14_Dec</Label>
+    <String>[ICON=KineticAugmentIcon] Prototip Kitle sürücüleri.[BR][ICON=Moves_Icon] Fast[BR][ICON=Shiprange_Icon] Son derece uzun menzil.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier2MercenaryComponent15_Name</Label>
+    <String>Spinn</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier2MercenaryComponent15_Dec</Label>
+    <String>[ICON=FightersCap_Icon] 5 adet Interceptor drone taşır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier2MercenaryComponent16_Name</Label>
+    <String>Amiral Waro</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier2MercenaryComponent16_Dec</Label>
+    <String>[ICON=MissileAugmentIcon] Güçlü Prototip Füze silahları.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier2MercenaryComponent17_Name</Label>
+    <String>Gece Yumruğu</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier2MercenaryComponent17_Dec</Label>
+    <String>[ICON=BeamAugmentIcon] Güçlü prototip ışın silahları.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier2MercenaryComponent18_Name</Label>
+    <String>Watterson Bitte</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier2MercenaryComponent18_Dec</Label>
+    <String>[ICON=Moves_Icon] Filodaki tüm gemilerin hamlelerine +%50.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier2MercenaryComponent19_Name</Label>
+    <String>Kreuger von Trant</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier2MercenaryComponent19_Dec</Label>
+    <String>[ICON=ShieldStrengthIcon] Filodaki tüm gemiler ücretsiz 10 puanlık kalkan savunması alır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier2MercenaryComponent20_Name</Label>
+    <String>Holopai</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier2MercenaryComponent20_Dec</Label>
+    <String>[ICON=AllWeaponsIcon] Filodaki tüm silahlar için +%30 menzil.[BR][ICON=AllWeaponsIcon] Filodaki tüm silahlar için +%30 ateş hızı.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier2MercenaryComponent21_Name</Label>
+    <String>Strafford Leet</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier2MercenaryComponent21_Dec</Label>
+    <String>[ICON=BeamAugmentIcon]  Filodaki tüm gemilere +%30 Kaçınma.[BR][ICON=BeamAugmentIcon]  Filodaki tüm silahlar için +%30 İsabet.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier2MercenaryComponent22_Name</Label>
+    <String>Illia'dan Ban Seurt</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier2MercenaryComponent22_Dec</Label>
+    <String>[ICON=KineticAttackIcon] Filodaki tüm gemiler tüm kütle sürücü hasarının %75'ini yok sayar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier2MercenaryComponent23_Name</Label>
+    <String>Yiyiz Ziyiy</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier2MercenaryComponent23_Dec</Label>
+    <String>[ICON=StatTooltipBreakdown_Military_Icon] Geminin konuşlandığı herhangi bir gezegenin askeri üretimine +%100.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier2MercenaryComponent24_Name</Label>
+    <String>Evelon Masha</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier2MercenaryComponent24_Dec</Label>
+    <String>[ICON=Stat_Credits_Icon] +50 filo atlatma ve her savaşta hayatta kaldığında 250 Kredi kurtarır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier3MercenaryComponent01_Name</Label>
+    <String>Laqt Reecher</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier3MercenaryComponent01_Dec</Label>
+    <String>[ICON=AreaofEffectIcon] Geminin konuşlandığı herhangi bir yıldız üssünün Etki Alanına +%100.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier3MercenaryComponent02_Name</Label>
+    <String>Son Boyar</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier3MercenaryComponent02_Dec</Label>
+    <String>[ICON=CanColonizeIcon] Herhangi bir ölü gezegeni Sınıf 16 Yaşanabilir bir gezegene dönüştürün.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier3MercenaryComponent03_Name</Label>
+    <String>ruire podaq nu</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier3MercenaryComponent03_Dec</Label>
+    <String>[ICON=AreaofEffectIcon] Etki Alanındaki başkent olmayan herhangi bir gezegeni anında döndürür.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier3MercenaryComponent04_Name</Label>
+    <String>Dak-Tat-Sum</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier3MercenaryComponent04_Dec</Label>
+    <String>[ICON=Stat_Manufacturing_Icon] Geminin konuşlandığı herhangi bir gezegende +%25 üretim.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier3MercenaryComponent05_Name</Label>
+    <String>Mancel Slader</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier3MercenaryComponent05_Dec</Label>
+    <String>[ICON=Stat_Research_Icon] Geminin konuşlandığı herhangi bir gezegende +%25 Araştırma.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier3MercenaryComponent06_Name</Label>
+    <String>Bellum Seçmeni</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier3MercenaryComponent06_Dec</Label>
+    <String>[ICON=Stat_Credits_Icon] Geminin konuşlandığı herhangi bir gezegene tur başına +%25 Kredi.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier3MercenaryComponent07_Name</Label>
+    <String>LK Seeth</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier3MercenaryComponent07_Dec</Label>
+    <String>[ICON=Stat_Raw_Productive_Icon] Geminin konuşlandığı herhangi bir gezegende +%10 Ham Üretim.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier3MercenaryComponent08_Name</Label>
+    <String>Arch Seinegrave</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier3MercenaryComponent08_Dec</Label>
+    <String>[ICON=InfluenceGrowth_Icon] Geminin konuşlandığı herhangi bir gezegenin temel etkisine +250 Puan ve tur başına +%100 etki.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier3MercenaryComponent09_Name</Label>
+    <String>Sürü Lideri Jat</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier3MercenaryComponent09_Dec</Label>
+    <String>[ICON=FightersCap_Icon] 4 Saldırı dronu[BR][ICON=FightersCap_Icon] 4 Eskort dronu.[BR][ICON=FightersCap_Icon] 5 Saldırı Savaşçısı.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier3MercenaryComponent10_Name</Label>
+    <String>Lisette de Urt</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier3MercenaryComponent10_Dec</Label>
+    <String>[ICON=KineticAugmentIcon] Güçlü prototip Kütle sürücüleri.[BR][ICON=Stat_Planetary_Defense_Icon] Her türden yüksek savunma.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier3MercenaryComponent11_Name</Label>
+    <String>Url Stratego</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier3MercenaryComponent11_Dec</Label>
+    <String>[ICON=BeamAugmentIcon] Güçlü Işın Silahları.[BR][ICON=ShipLogistics_Icon] Sadece 2 Lojistik noktası kaplar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier3MercenaryComponent12_Name</Label>
+    <String>Raz Pleetson</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier3MercenaryComponent12_Dec</Label>
+    <String>[ICON=MissileAugmentIcon] Güçlü füze silahları.[BR][ICON=Shiprange_Icon] Uzun Menzil[BR][ICON=Moves_Icon] Hızlı.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier3MercenaryComponent13_Name</Label>
+    <String>Poelacca</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier3MercenaryComponent13_Dec</Label>
+    <String>[ICON=AllWeaponsIcon] Her türden güçlü silahlar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier3MercenaryComponent14_Name</Label>
+    <String>XRT80-DEF</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier3MercenaryComponent14_Dec</Label>
+    <String>[ICON=FightersCap_Icon] 6 Eskort dronu.[BR][ICON=FightersCap_Icon] 10 Saldırı Savaşçısı.[BR][ICON=JammingIcon] Filodaki tüm gemilere %50 Kaçınma.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier3MercenaryComponent15_Name</Label>
+    <String>Enopriumta Xu</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier3MercenaryComponent15_Dec</Label>
+    <String>[ICON=KineticAugmentIcon]  Güçlü Kütle Sürücüleri.[BR][ICON=KineticRangeIcon] +100 kütle sürücü aralığı.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier3MercenaryComponent16_Name</Label>
+    <String>Yaşlı Kriat</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier3MercenaryComponent16_Dec</Label>
+    <String>[ICON=BeamAugmentIcon] Güçlü Işın Silahları.[BR][ICON=BeamAugmentIcon] Işın Hasarının %75'ini Yok Sayar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier3MercenaryComponent17_Name</Label>
+    <String>Peder Lesman</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier3MercenaryComponent17_Dec</Label>
+    <String>[ICON=Stat_Planetary_Defense_Icon] Filodaki tüm savunmalara +%50.[BR][ICON=JammingIcon] %75 Dodge.[BR][ICON=BeamAugmentIcon] Hızlı</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier3MercenaryComponent18_Name</Label>
+    <String>Hon Malteuse</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier3MercenaryComponent18_Dec</Label>
+    <String>[ICON=AllWeaponsIcon] Güçlü Prototip Silahlar.[BR][ICON=Shiprange_Icon] Uzun Menzil[BR][ICON=Moves_Icon] Hızlı.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier3MercenaryComponent19_Name</Label>
+    <String>Kelpie Wittque</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier3MercenaryComponent19_Dec</Label>
+    <String>[ICON=Moves_Icon] Filodaki tüm gemilere +%50 Hareket.[BR][ICON=Shiprange_Icon] Tüm Filoya 350 karo Menzil verilir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier3MercenaryComponent20_Name</Label>
+    <String>Brootus</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier3MercenaryComponent20_Dec</Label>
+    <String>[ICON=Stat_Planetary_Defense_Icon] Filodaki tüm savunmalara +10.[BR][ICON=Stat_Special_Icon] Tüm hasarların %75'ini yok sayar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier3MercenaryComponent21_Name</Label>
+    <String>Gölge</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier3MercenaryComponent21_Dec</Label>
+    <String>[ICON=Stat_Ship_Maintenance_Icon] Güçlü Kütle Sürücüleri.[BR][ICON=Stat_Ship_Maintenance_Icon] Tüm filo için stratejik ve taktik onarımı artırır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier3MercenaryComponent22_Name</Label>
+    <String>Mevcut Yuva</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tier3MercenaryComponent22_Dec</Label>
+    <String>Eski Modül, oyun mekaniği değişiklikleri nedeniyle kaldırıldı. (Yer tutucu olarak bırakıldı)</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_SuppressCrime_Name</Label>
+    <String>Goodwill Amplifikatör</String>
+  </StringTable>
+  <StringTable>
+    <Label>Component_SuppressCrime_Dec</Label>
+    <String>Bu geminin yarıçapındaki gezegenlerde [ICON=CrimeIcon32] -%100 Suç.</String>
+  </StringTable>
+</StringTableList>

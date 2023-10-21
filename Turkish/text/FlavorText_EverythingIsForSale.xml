@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<FlavorTextDefs xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
+  <FlavorTextDef>
+    <InternalName>EverythingIsForSale_StartOfGame</InternalName>
+    <FlavorTextOption>
+      <Text>Hoş geldiniz değerli müşterimiz, ya da şöyle mi demeliyim... birilerinin değerli koleksiyonunun müstakbel üyesi? Burada olduğunuz için çok mutluyuz.[BR][BR]Gördüğünüz gibi bu sektör, Pazar sabahı kurulan bereketli bir çiftçi pazarına benziyor. Meyveleri iş ortaklarıyla değiştirirseniz tabii. Fırsatlarla doludur ve sanılanın aksine, biz Kurumsal Sektör olarak sadece Iridia Corporation'ın kar hanesiyle ilgilenmiyoruz. Tanrım, hayır! Her kaynağa, her bireye ve evet, her organa kendi etimiz ve kanımız gibi değer veriyoruz. Belki kendimizin değil, ama kesinlikle bir başkasının - ideal olarak biri kaybolduğunda fark etmeyecek birinin. Ne de olsa açık pazar sevgiyle işler. Ve hiçbir şey birinin pankreasıyla ticaret yapmak kadar sevgi dolu olamaz, değil mi? 
+ 
+ Şimdi, bu sektörün genişliğine bir bakın. Sadece büyük değil; gerçekten, gerçekten, çok büyük... büyük. Ve biz hem kalbimizi hem de stratejik genişleme ekiplerimizi bu sektörün her köşesini etkimizin engin şemsiyesi altına almaya adadık. Ve korkmayın! Biz lazerler ve ölüm yıldızlarıyla ilgili değiliz. Biz daha çok yıldızlar arası pazarlama sanatıyla ilgileniyoruz. Tercih ettiğimiz araç? Galaksi çapında karşı konulmaz fırsatlar yayınlayan görkemli İletişim Yıldız Üssü, mağazalarımızda mevcut. Onları göksel reklam panoları olarak düşünün, eğer reklam panoları da kokteyl partileri düzenleyebilseydi ve uzaylı etkileyicileri çekebilseydi. 
+ 
+ Ve şimdi, parlak yeni unvanınızı tanıtmama izin verin: Kıdemli</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+</FlavorTextDefs>

@@ -1,0 +1,187 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<StringTableList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+  <StringTable>
+    <Label>CommandShipSet_Altarian_Name</Label>
+    <String>Dünya Destek Gemileri</String>
+  </StringTable>
+  <StringTable>
+    <Label>CommandShipSet_Altarian_Dec</Label>
+    <String>Dünyalarınızı korumak için en iyi şekilde kullanılan savunma ve ekonomik güçlendirme gemilerinden oluşan bir seçki.</String>
+  </StringTable>
+  <StringTable>
+    <Label>CommandShipSet_Arcean_Name</Label>
+    <String>Efsanevi Gemiler</String>
+  </StringTable>
+  <StringTable>
+    <Label>CommandShipSet_Arcean_Dec</Label>
+    <String>Savaşa hazır güçlü gemiler.</String>
+  </StringTable>
+  <StringTable>
+    <Label>CommandShipSet_Baratak_Name</Label>
+    <String>Genişleme Gemileri</String>
+  </StringTable>
+  <StringTable>
+    <Label>CommandShipSet_Baratak_Dec</Label>
+    <String>Medeniyetinizi galaksiye yaymanıza yardımcı olmak için üretilmiş çok çeşitli gemiler.</String>
+  </StringTable>
+  <StringTable>
+    <Label>CommandShipSet_Drath_Name</Label>
+    <String>Füze Savaş Gemileri</String>
+  </StringTable>
+  <StringTable>
+    <Label>CommandShipSet_Drath_Dec</Label>
+    <String>Uzaktan saldırmak üzere donatılmış bir dizi savaş gemisi.</String>
+  </StringTable>
+  <StringTable>
+    <Label>CommandShipSet_Drengin_Name</Label>
+    <String>Agresif Savaş Gemileri</String>
+  </StringTable>
+  <StringTable>
+    <Label>CommandShipSet_Drengin_Dec</Label>
+    <String>Savaşları kazanmak için tasarlanmış zorlu savaş gemilerinden bir seçki.</String>
+  </StringTable>
+  <StringTable>
+    <Label>CommandShipSet_Festron_Name</Label>
+    <String>Çöpçü Gemileri</String>
+  </StringTable>
+  <StringTable>
+    <Label>CommandShipSet_Festron_Dec</Label>
+    <String>Savaşlardan toplayabildiklerini toplamak için tasarlandılar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>CommandShipSet_Iconian_Name</Label>
+    <String>Savunma Savaş Gemileri</String>
+  </StringTable>
+  <StringTable>
+    <Label>CommandShipSet_Iconian_Dec</Label>
+    <String>Kendi sınırları içindeyken güçlü askeri bonuslarla tasarlanmıştır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>CommandShipSet_Iridium_Name</Label>
+    <String>Ekonomik Gemiler</String>
+  </StringTable>
+  <StringTable>
+    <Label>CommandShipSet_Iridium_Dec</Label>
+    <String>Kasanızı dolu tutmak için tasarlanmış gemiler.</String>
+  </StringTable>
+  <StringTable>
+    <Label>CommandShipSet_Krynn_Name</Label>
+    <String>Etki Gemileri</String>
+  </StringTable>
+  <StringTable>
+    <Label>CommandShipSet_Krynn_Dec</Label>
+    <String>Yanlarında bulundukları dünyaların Etkisini artıran bir dizi gemi.</String>
+  </StringTable>
+  <StringTable>
+    <Label>CommandShipSet_Manti_Name</Label>
+    <String>Amiral Gemileri</String>
+  </StringTable>
+  <StringTable>
+    <Label>CommandShipSet_Manti_Dec</Label>
+    <String>Hepsi de anomalileri araştırabilen gemilerden oluşan bir seçki.</String>
+  </StringTable>
+  <StringTable>
+    <Label>CommandShipSet_Mimot_Name</Label>
+    <String>İnşaatçı Gemileri</String>
+  </StringTable>
+  <StringTable>
+    <Label>CommandShipSet_Mimot_Dec</Label>
+    <String>Daha fazla gemi üretebilen gemilerden bir seçki.</String>
+  </StringTable>
+  <StringTable>
+    <Label>CommandShipSet_Navigators_Name</Label>
+    <String>Bilim Gemileri</String>
+  </StringTable>
+  <StringTable>
+    <Label>CommandShipSet_Navigators_Dec</Label>
+    <String>Uygarlığınız için Araştırma üretmek üzere tasarlanmış bir gemi seçkisi.</String>
+  </StringTable>
+  <StringTable>
+    <Label>CommandShipSet_Onyx_Name</Label>
+    <String>Promethion Gemileri</String>
+  </StringTable>
+  <StringTable>
+    <Label>CommandShipSet_Onyx_Dec</Label>
+    <String>Tüm filolarını Promethion ile onarabilen savaş gemilerinden bir seçki.</String>
+  </StringTable>
+  <StringTable>
+    <Label>CommandShipSet_Resistance_Name</Label>
+    <String>Kahraman Gemiler</String>
+  </StringTable>
+  <StringTable>
+    <Label>CommandShipSet_Resistance_Dec</Label>
+    <String>Seviye atladıkça normalin iki katı deneyim ve ek bonuslar kazanan bir dizi savaş gemisi.</String>
+  </StringTable>
+  <StringTable>
+    <Label>CommandShipSet_Terran_Name</Label>
+    <String>Dengeli savaş gemileri</String>
+  </StringTable>
+  <StringTable>
+    <Label>CommandShipSet_Terran_Dec</Label>
+    <String>Kinetik, Füze ve Işın saldırıları arasında dengelenmiş güçlü bir savaş gemisi seçkisi.</String>
+  </StringTable>
+  <StringTable>
+    <Label>CommandShipSet_Torian_Name</Label>
+    <String>Keşif Gemileri</String>
+  </StringTable>
+  <StringTable>
+    <Label>CommandShipSet_Torian_Dec</Label>
+    <String>Galaksiyi keşfetmek için tasarlanmış bir grup gemi.</String>
+  </StringTable>
+  <StringTable>
+    <Label>CommandShipSet_Xeloxi_Name</Label>
+    <String>Suç Gemileri</String>
+  </StringTable>
+  <StringTable>
+    <Label>CommandShipSet_Xeloxi_Dec</Label>
+    <String>Menzil içindeki tarafsız veya düşman dünyalara Kırım'ı yayan bir grup savaş gemisi.</String>
+  </StringTable>
+  <StringTable>
+    <Label>CommandShipSet_Yor_Name</Label>
+    <String>Filo Gemileri</String>
+  </StringTable>
+  <StringTable>
+    <Label>CommandShipSet_Yor_Dec</Label>
+    <String>Tüm filolarına bonuslar veren ve hepsi bir araya geldiğinde ölümcül hale gelen bir grup savaş gemisi.</String>
+  </StringTable>
+  <StringTable>
+    <Label>CommandShipSet_Crystalline_Name</Label>
+    <String>Komuta Gemileri</String>
+  </StringTable>
+  <StringTable>
+    <Label>CommandShipSet_Crystalline_Dec</Label>
+    <String>Kazanılan her savaşla Kontrolü artan bir savaş gemisi seçkisi.</String>
+  </StringTable>
+  <StringTable>
+    <Label>CommandShipSet_Korath_Name</Label>
+    <String>Fetih Gemileri</String>
+  </StringTable>
+  <StringTable>
+    <Label>CommandShipSet_Korath_Dec</Label>
+    <String>Müthiş fetih potansiyeline sahip savaş gemilerinden bir seçki.</String>
+  </StringTable>
+  <StringTable>
+    <Label>CommandShipSet_Seeing_Name</Label>
+    <String>Gözlem Gemileri</String>
+  </StringTable>
+  <StringTable>
+    <Label>CommandShipSet_Seeing_Dec</Label>
+    <String>Anomali araştırma kabiliyetine ve geniş sensör menziline sahip gemiler.</String>
+  </StringTable>
+  <StringTable>
+    <Label>CommandShipSet_Irradiated_Name</Label>
+    <String>Canavar Gemiler</String>
+  </StringTable>
+  <StringTable>
+    <Label>CommandShipSet_Irradiated_Dec</Label>
+    <String>Uzay canavarlarıyla kaynaşmış gemilerden bir seçki.</String>
+  </StringTable>
+  <StringTable>
+    <Label>CommandShipSet_Moth_Name</Label>
+    <String>Yıldız Avcısı Gemiler</String>
+  </StringTable>
+  <StringTable>
+    <Label>CommandShipSet_Moth_Dec</Label>
+    <String>Korumak ve yaymak için tasarlanmış çok yönlü gemilerden oluşan bir seçki [HS=HS_Influence]Influence[/HS].</String>
+  </StringTable>
+</StringTableList>

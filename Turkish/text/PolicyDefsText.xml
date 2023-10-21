@@ -1,0 +1,525 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<StringTableList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+  <!-- Created with the GC4 editor -->
+  <!-- PolicyDefsText.xml -->
+  <StringTable>
+    <Label>Policy_Archeology_Name</Label>
+    <String>Asteroit İstismarı</String>
+  </StringTable>
+  <StringTable>
+    <Label>Policy_Archeology_Dec</Label>
+    <String>Bizim türümüz doğal '[COLOR=UIDefaultHighlight]arkeologlardır[/COLOR]'. Bu yeteneğimizi kullanarak çıkarabileceğimiz asteroitlerden çok daha fazla fayda sağlayabiliriz.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Policy_BanDissent_Name</Label>
+    <String>Muhalefeti Yasaklayın</String>
+  </StringTable>
+  <StringTable>
+    <Label>Policy_BanDissent_Dec</Label>
+    <String>Amaçta birleştiğimizde daha güçlü oluruz ve bu nedenle hükümetimiz aleyhinde konuşmak bizi zayıflatır ve fiilen ihanettir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Policy_BlockEmbassies_Name</Label>
+    <String>Elçilikleri Engelle</String>
+  </StringTable>
+  <StringTable>
+    <Label>Policy_BlockEmbassies_Dec</Label>
+    <String>Diplomasi zayıfların güçlüleri bağlama aracıdır. Doğrudan ve gerekirse ordumuzla konuşacağız.[BR][BR][COLOR=UIDefaultHighlight]Diplomat atayamayız veya kabul edemeyiz[/COLOR]</String>
+  </StringTable>
+  <StringTable>
+    <Label>Policy_Bureaucracy_Name</Label>
+    <String>Bürokrasi</String>
+  </StringTable>
+  <StringTable>
+    <Label>Policy_Bureaucracy_Dec</Label>
+    <String>Karmaşık yasalarımıza gülüyorlar ve basit görevleri daha karmaşık hale getirebiliyorlar. Ancak en büyük lojistik zorluklar ortaya çıktığında, idaremiz hazırdır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Policy_SecretPolice_Name</Label>
+    <String>Gizli Polis</String>
+  </StringTable>
+  <StringTable>
+    <Label>Policy_SecretPolice_Dec</Label>
+    <String>İmparatorluğumuz artık yıldızların ötesine uzanırken, sorun çıkaranları ortadan kaldırabileceğimiz pek çok karanlık köşe var...</String>
+  </StringTable>
+  <StringTable>
+    <Label>Policy_CoercedColonization_Name</Label>
+    <String>Zorla Kolonileştirme</String>
+  </StringTable>
+  <StringTable>
+    <Label>Policy_CoercedColonization_Dec</Label>
+    <String>Eğer galaksiyi kolonileştirmek istiyorsak vatandaşlarımıza ilham vermemiz gerekecektir. Bu propaganda, teşvik ya da güç yoluyla yapılabilir. Nüfus artışını ikiye katlar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Policy_GreatExpansion_Name</Label>
+    <String>Büyük Genişleme</String>
+  </StringTable>
+  <StringTable>
+    <Label>Policy_GreatExpansion_Dec</Label>
+    <String>Galaksi inanılmaz bir fırsat ve ana dünyamızdaki pek çok girişimci, eğer kurulum masraflarını karşılayabilirsek, muhtemelen ayrılmak için kaydolacaktır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Policy_ReproductiveImperative_Name</Label>
+    <String>Üreme Zorunluluğu</String>
+  </StringTable>
+  <StringTable>
+    <Label>Policy_ReproductiveImperative_Dec</Label>
+    <String>Türümüzün sayılarını yenilemek gibi bir sorunu hiçbir zaman olmamıştır. [BR][BR]Ancak, son olaylar büyümemizi büyük ölçüde arttırmamız gerektiğini açıkça ortaya koymuştur.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Policy_WithoutSlumber_Name</Label>
+    <String>Uykusuzluk</String>
+  </StringTable>
+  <StringTable>
+    <Label>Policy_WithoutSlumber_Dec</Label>
+    <String>Organik türler gibi uykuya ihtiyaç duymayız, denge ve zevk için dinleniriz. Ancak uygarlığımız bunu gerektiriyorsa, bu zevk göz ardı edilebilir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Policy_Conscription_Name</Label>
+    <String>Zorunlu Askerlik</String>
+  </StringTable>
+  <StringTable>
+    <Label>Policy_Conscription_Dec</Label>
+    <String>Birlikte ayakta kalırız ya da düşeriz. Ve her birimiz amaç ve hizmet birliği içindeyiz.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Policy_CaveOfEchoes_Name</Label>
+    <String>Yankılar Mağarası</String>
+  </StringTable>
+  <StringTable>
+    <Label>Policy_CaveOfEchoes_Dec</Label>
+    <String>Ana gezegenimiz duyarlılığımızın doğduğu yerdir. Bu en kutsal yer gelecek nesiller için korunmalıdır.[BR][BR][COLOR=UIDefaultHighlight]Etki bonusu sadece Ana Dünya'ya uygulanır.[/COLOR]</String>
+  </StringTable>
+  <StringTable>
+    <Label>Policy_HeartOfTheEmpire_Name</Label>
+    <String>İmparatorluğun Kalbi</String>
+  </StringTable>
+  <StringTable>
+    <Label>Policy_HeartOfTheEmpire_Dec</Label>
+    <String>Ana gezegenimiz medeniyetimizin çekirdeği ve bir halk olarak kim olduğumuzun zirvesidir.[BR][BR][COLOR=UIDefaultHighlight]Nüfuz ve Gelir yalnızca Ana Gezegene uygulanır.[/COLOR]</String>
+  </StringTable>
+  <StringTable>
+    <Label>Policy_ReducedRegulations_Name</Label>
+    <String>Azaltılmış Düzenlemeler</String>
+  </StringTable>
+  <StringTable>
+    <Label>Policy_ReducedRegulations_Dec</Label>
+    <String>Vatandaşlarımızın uyması gereken düzenlemelerin sayısını azaltarak vergi gelirlerimizi artırabileceğimize inanıyoruz.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Policy_CulturalValues_Name</Label>
+    <String>Kültürel Değerler</String>
+  </StringTable>
+  <StringTable>
+    <Label>Policy_CulturalValues_Dec</Label>
+    <String>Eğer galaksiyi fetheder ama bu süreçte kimliğimizi kaybedersek, sadece kendimiz için bile olsa yenilmiş oluruz.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Policy_EmergencyCoalition_Name</Label>
+    <String>Acil Durum Koalisyonu</String>
+  </StringTable>
+  <StringTable>
+    <Label>Policy_EmergencyCoalition_Dec</Label>
+    <String>Savaş çoğu zaman hepimizi kamu yararı için fedakarlık yapmaya çağırır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Policy_Empathy_Name</Label>
+    <String>Empatik Bağlantı</String>
+  </StringTable>
+  <StringTable>
+    <Label>Policy_Empathy_Dec</Label>
+    <String>Bizler '[COLOR=UIDefaultHighlight]empatik[/COLOR]' insanlarız. Medeniyetimiz, tarihimizin bu sonraki aşamasında başarılı olmak için her zamankinden daha fazla birlikte çalışmalıdır. Empatik yeteneğimizi aktif bir şekilde kullanarak mutluluğumuzu büyük ölçüde artırabiliriz.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Policy_EndlessFeast_Name</Label>
+    <String>Sonsuz Şölen</String>
+  </StringTable>
+  <StringTable>
+    <Label>Policy_EndlessFeast_Dec</Label>
+    <String>Bizim '[COLOR=UIDefaultHighlight]açgözlü[/COLOR]' doğamız iyi bir yemeği takdir etmemizi sağlıyor.  Bu amaçla, evimizde tüketmek üzere diğer gezegenlerden yaşam toplayacağız.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Policy_XenoHarvesting_Name</Label>
+    <String>Xeno Hasadı</String>
+  </StringTable>
+  <StringTable>
+    <Label>Policy_XenoHarvesting_Dec</Label>
+    <String>Bizim '[COLOR=UIDefaultHighlight]acımasız[/COLOR]' doğamız bize diğer türlerin sadece bizim yiyeceğimiz olarak ya da zenginlik sağlamak için var olduğu gerçeğini gösterir.  Bu politika, her zaman evrenden ana gezegenimize çıkarabileceğimiz zenginliği en üst düzeye çıkarmaya çalışacağımız anlamına gelir</String>
+  </StringTable>
+  <StringTable>
+    <Label>Policy_EnvironmentalExploitation_Name</Label>
+    <String>Arazi Sömürüsü</String>
+  </StringTable>
+  <StringTable>
+    <Label>Policy_EnvironmentalExploitation_Dec</Label>
+    <String>Yıldızlararası hızlı bir genişleme dönemindeyiz. Giderler, zenginliğimizi arttırmak için olağandışı önlemler almamızı gerektiriyor. Bu politika, ek zenginlik yaratmak için kamu arazilerini aşırı madencilik tekniklerine açacaktır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Policy_Eugenics_Name</Label>
+    <String>Öjenik</String>
+  </StringTable>
+  <StringTable>
+    <Label>Policy_Eugenics_Dec</Label>
+    <String>Düşük seviyedeki üyelerimizin zorla kısırlaştırılması, türümüzün her nesilde benzeri görülmemiş bir şekilde ilerlemesine yol açacaktır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Policy_ExperimentalDrives_Name</Label>
+    <String>Deneysel Sürücüler</String>
+  </StringTable>
+  <StringTable>
+    <Label>Policy_ExperimentalDrives_Dec</Label>
+    <String>Motorlarımızın güvenlik eşikleri gerçek kapasitelerinin çok altındadır. Ara sıra ortaya çıkan yan etkileri kabul edersek potansiyellerini ortaya çıkarabiliriz.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Policy_DefensiveMeasures_Name</Label>
+    <String>Savunma Önlemleri</String>
+  </StringTable>
+  <StringTable>
+    <Label>Policy_DefensiveMeasures_Dec</Label>
+    <String>Temel savunmalara odaklanarak kaşiflerimizin erişimini sınırlıyor, ancak risklerini de önemli ölçüde azaltıyoruz.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Policy_ExtremeAutomation_Name</Label>
+    <String>Ekstrem Otomasyon</String>
+  </StringTable>
+  <StringTable>
+    <Label>Policy_ExtremeAutomation_Dec</Label>
+    <String>Sözde [COLOR=UIDefaultHighlight]'Sentetik'[/COLOR] türler bizim gibi etten canlıların yapamayacağı şekilde birlikte çalışma yeteneğine sahiptir. Bunun bizim için bile bir bedeli var, ancak sonuç olarak üretimimizi büyük ölçüde artırabiliriz.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Policy_FastExploration_Name</Label>
+    <String>Hızlı Keşif</String>
+  </StringTable>
+  <StringTable>
+    <Label>Policy_FastExploration_Dec</Label>
+    <String>Doğal '[COLOR=UIDefaultHighlight]explorers[/COLOR]' olarak, motorlardan biraz daha fazla performans elde etmek için gemilerimizin kalitesinden ödün verme yeteneğine sahibiz.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Policy_FleetBuildUp_Name</Label>
+    <String>Filo Oluşturma</String>
+  </StringTable>
+  <StringTable>
+    <Label>Policy_FleetBuildUp_Dec</Label>
+    <String>Eğer onları savunma becerisinden yoksunsak, birikmiş varlıkların pek bir faydası yoktur.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Policy_ForeignDumping_Name</Label>
+    <String>Yabancı Damping</String>
+  </StringTable>
+  <StringTable>
+    <Label>Policy_ForeignDumping_Dec</Label>
+    <String>Kirlenmiş dünyalarımız için mükemmel bir çözüm bulduk, zehirli atıklarımızı gizlice diğer gezegenlere boşaltıyoruz.[BR][BR][COLOR=UIDefaultHighlight]%10 Kirliliği ticaret yolları aracılığıyla yayıyor[/COLOR]</String>
+  </StringTable>
+  <StringTable>
+    <Label>Policy_FreeHousing_Name</Label>
+    <String>Ücretsiz Konut</String>
+  </StringTable>
+  <StringTable>
+    <Label>Policy_FreeHousing_Dec</Label>
+    <String>Aramızda en az olanlar barınak bulmak için mücadele ediyor. Tüm vatandaşlarımıza asgari düzeyde barınma imkanı sağlayarak, onların üzerine inşa edebilecekleri bir temele sahip olmalarını sağlıyoruz.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Policy_FreeMedia_Name</Label>
+    <String>Ücretsiz Medya</String>
+  </StringTable>
+  <StringTable>
+    <Label>Policy_FreeMedia_Dec</Label>
+    <String>Başarılı bir medeniyetin temel taşı, misilleme korkusu olmadan konuşabilen güçlü bir medyadır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Policy_FreeTrade_Name</Label>
+    <String>Serbest Ticaret</String>
+  </StringTable>
+  <StringTable>
+    <Label>Policy_FreeTrade_Dec</Label>
+    <String>Ambargolar, sübvansiyonlar ve vergiler ekonomik büyümenin düşmanıdır. Medeniyetler arasında açık ticarete izin vererek hepimiz zenginleşiriz.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Policy_GeneticManipulation_Name</Label>
+    <String>Genetik Manipülasyon</String>
+  </StringTable>
+  <StringTable>
+    <Label>Policy_GeneticManipulation_Dec</Label>
+    <String>Yeteneklerimiz şans eseri değil, niyetle belirlenir.[BR][BR][COLOR=UIDefaultHighlight]+2 Tüm Vatandaşlar ve Liderler için Zeka[/COLOR]</String>
+  </StringTable>
+  <StringTable>
+    <Label>Policy_GeniusGrants_Name</Label>
+    <String>Genius Hibeleri</String>
+  </StringTable>
+  <StringTable>
+    <Label>Policy_GeniusGrants_Dec</Label>
+    <String>En parlak zihinlerimize yaptığımız yatırımdan daha faydalı bir yatırım yoktur. Her çekirdek dünyaya ek bir araştırma noktası verir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Policy_GroveGrowth_Name</Label>
+    <String>Koru Büyümesi</String>
+  </StringTable>
+  <StringTable>
+    <Label>Policy_GroveGrowth_Dec</Label>
+    <String>[COLOR=UIDefaultHighlight]sporlarımız[/COLOR] dünyalarımızdaki gıda üretimini artırmak için kullanılabilir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Policy_HeritageProtection_Name</Label>
+    <String>Mirasın Korunması</String>
+  </StringTable>
+  <StringTable>
+    <Label>Policy_HeritageProtection_Dec</Label>
+    <String>Bu galakside ilk biz vardık ve yöntemlerimizi ve evimizi ebediyen korumalıyız. Bunu diğer medeniyetleri etkilemek için kullanacağız.[BR][BR][COLOR=UIDefaultHighlight]Etki bonusu sadece Ana Dünyaya uygulanır[/COLOR]</String>
+  </StringTable>
+  <StringTable>
+    <Label>Policy_HullReinforcing_Name</Label>
+    <String>Tekne Takviyesi</String>
+  </StringTable>
+  <StringTable>
+    <Label>Policy_HullReinforcing_Dec</Label>
+    <String>Uzayın tehlikeleri ve egzotik malzemelere olan aşinalığımız sayesinde gemilerimizin diğerlerinden daha sağlam olmasını sağlayabiliriz.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Policy_InfrastructureSupport_Name</Label>
+    <String>Altyapı Desteği</String>
+  </StringTable>
+  <StringTable>
+    <Label>Policy_InfrastructureSupport_Dec</Label>
+    <String>Altyapımızı dağıtmak pahalı bir süreçtir ancak uzak dünyalara önemli ölçüde yardımcı olur.[BR][BR][COLOR=UIDefaultHighlight]Üretim bonusu Ana Dünyaya uygulanmaz[/COLOR]</String>
+  </StringTable>
+  <StringTable>
+    <Label>Policy_Brainstorming_Name</Label>
+    <String>Beyin Fırtınası</String>
+  </StringTable>
+  <StringTable>
+    <Label>Policy_Brainstorming_Dec</Label>
+    <String>Bizler '[COLOR=UIDefaultHighlight]ilham alan[/COLOR]' bir türüz. Bu amaçla, insanlarımızın en iyi ve en parlaklarını arayabilir ve teknolojik ilerlemeyi teşvik etmek için ne gibi harika fikirlere sahip olabileceklerini görebiliriz.[BR][BR][COLOR=UIDefaultHighlight]Araştırma bonusu yalnızca Ana Dünya'ya uygulanır[/COLOR]</String>
+  </StringTable>
+  <StringTable>
+    <Label>Policy_IPTheft_Name</Label>
+    <String>IP Hırsızlığı</String>
+  </StringTable>
+  <StringTable>
+    <Label>Policy_IPTheft_Dec</Label>
+    <String>Bizim [COLOR=UIDefaultHighlight]becerikli[/COLOR] doğamız, diğer medeniyetlerin araştırma parçalarını agresif bir şekilde çalmak için kullanılabilir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Policy_Laissez faire_Name</Label>
+    <String>Laissez-faire</String>
+  </StringTable>
+  <StringTable>
+    <Label>Policy_Laissez faire_Dec</Label>
+    <String>[COLOR=UIDefaultHighlight]Zengin[/COLOR] medeniyetimiz, kalan sosyal programları ve düzenlemeleri ortadan kaldırırsak daha iyi olacaktır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Policy_LookTheOtherWay_Name</Label>
+    <String>Diğer Yöne Bak</String>
+  </StringTable>
+  <StringTable>
+    <Label>Policy_LookTheOtherWay_Dec</Label>
+    <String>İmparatorluğumuzun karanlık köşelerinde ne olduğu bizi ilgilendirmez.[BR][BR][COLOR=UIDefaultHighlight]Suç Ticaret Yolları ile Yayılır[/COLOR]</String>
+  </StringTable>
+  <StringTable>
+    <Label>Policy_MandatoryService_Name</Label>
+    <String>Zorunlu Hizmet</String>
+  </StringTable>
+  <StringTable>
+    <Label>Policy_MandatoryService_Dec</Label>
+    <String>Dünyalarımızın savunulması hükümetimizin birinci önceliği olmalıdır, yoksa başka hiçbir önceliğin önemi kalmaz. Bu önlemle her bir gezegenimiz 3 ücretsiz koruyucu savaşçıya sahip olacaktır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Policy_MilitaryStimulus_Name</Label>
+    <String>Tersane Teşviki</String>
+  </StringTable>
+  <StringTable>
+    <Label>Policy_MilitaryStimulus_Dec</Label>
+    <String>Tersanelerimizi daha fazla üretim yardımı ile sübvanse etmeliyiz.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Policy_OpenImmigration_Name</Label>
+    <String>Açık Göçmenlik</String>
+  </StringTable>
+  <StringTable>
+    <Label>Policy_OpenImmigration_Dec</Label>
+    <String>Hayatta kalmak istiyorsak, sadece vatandaşlarımıza değil, imparatorluğumuzun dışındakilere de hitap etmeliyiz.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Policy_PlanetaryStimulus_Name</Label>
+    <String>Gezegensel Teşvik</String>
+  </StringTable>
+  <StringTable>
+    <Label>Policy_PlanetaryStimulus_Dec</Label>
+    <String>Vatandaşlarımızın hayatını iyileştirmiyorsa zenginliğin ne değeri var.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Policy_UnderwaterHomes_Name</Label>
+    <String>Sualtı Evleri</String>
+  </StringTable>
+  <StringTable>
+    <Label>Policy_UnderwaterHomes_Dec</Label>
+    <String>Karayla sınırlı değiliz. Okyanus bizim evimizdi ve hala orada yaşayabiliriz.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Policy_SecurityLights_Name</Label>
+    <String>Güvenlik Işıkları</String>
+  </StringTable>
+  <StringTable>
+    <Label>Policy_SecurityLights_Dec</Label>
+    <String>Vatandaşlarımızı güvende tutmak için atılabilecek basit adımlar vardır. Bunlardan ilki, şehirlerimizin tüm alanlarında yeterli aydınlatmanın sağlanmasıdır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Policy_PoliceState_Name</Label>
+    <String>Polis Devleti</String>
+  </StringTable>
+  <StringTable>
+    <Label>Policy_PoliceState_Dec</Label>
+    <String>Vatandaşlarımız devletin kendi durumlarından sorumlu olmasını istiyorlarsa, devlete bu durumu kontrol edecek araçları vermelidirler.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Policy_PopulationBoom_Name</Label>
+    <String>Nüfus Patlaması</String>
+  </StringTable>
+  <StringTable>
+    <Label>Policy_PopulationBoom_Dec</Label>
+    <String>Bizim '[COLOR=UIDefaultHighlight]doğurgan[/COLOR]' doğamız nüfusumuzu hızla arttırmak için kullanılabilir.  Evreni doldurmak için bulabileceğimiz tüm insanlara ihtiyacımız olacak.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Policy_Professionalism_Name</Label>
+    <String>Profesyonellik</String>
+  </StringTable>
+  <StringTable>
+    <Label>Policy_Professionalism_Dec</Label>
+    <String>Bizler [COLOR=UIDefaultHighlight]sadık[/COLOR] insanlarız. Bu durum, memurlarımızın alaycı hırslardan korkmadan güven inşa eden bağlar kurmasını sağlamıştır. Bunu subaylarımızın performansını artırmak için kullanabiliriz.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Policy_ProtectThePlanet_Name</Label>
+    <String>Gezegeni Koruyun</String>
+  </StringTable>
+  <StringTable>
+    <Label>Policy_ProtectThePlanet_Dec</Label>
+    <String>Gezegen bizden önce vardı ve bizden sonra da var olacak. Onun üzerinde ne kadar kalacağımız, iyi bir bekçi olup olmadığımıza bağlı.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Policy_PrototypeDefenses_Name</Label>
+    <String>Prototip Savunmalar</String>
+  </StringTable>
+  <StringTable>
+    <Label>Policy_PrototypeDefenses_Dec</Label>
+    <String>Hiçbir şey uzaya çıkmamıza öncülük edecek kadar cesur olanların hayatlarından daha önemli değildir. Onları korumak için elimizden gelen her şeyi yapmalıyız.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Policy_Rationing_Name</Label>
+    <String>Tayınlama</String>
+  </StringTable>
+  <StringTable>
+    <Label>Policy_Rationing_Dec</Label>
+    <String>Bu çağda hayatta kalabilmek için kemer sıkma önlemlerine ihtiyaç var, yoksa hep birlikte ölürüz. Bu tedbirler insanlarımızın açlıktan ölmesini engelleyecek olsa da onları mutlu etmeyecektir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Policy_ResearchGrants_Name</Label>
+    <String>Araştırma Hibeleri</String>
+  </StringTable>
+  <StringTable>
+    <Label>Policy_ResearchGrants_Dec</Label>
+    <String>Eğitim, bizi gelecek çağa taşıyacak ve orada karşılaşacağımız sorunları çözecek olan meşaledir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Policy_ShipSpecifications_Name</Label>
+    <String>Yıldız Gemisi Özellikleri</String>
+  </StringTable>
+  <StringTable>
+    <Label>Policy_ShipSpecifications_Dec</Label>
+    <String>Yaratma telaşı her zaman daha düşük bir ürünle sonuçlanacaktır. Zaman ve işçilik, gemilerimizin kalitesinin rakipsiz olmasını sağlayacaktır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Policy_ShoddyConstruction_Name</Label>
+    <String>Kalitesiz İnşaat</String>
+  </StringTable>
+  <StringTable>
+    <Label>Policy_ShoddyConstruction_Dec</Label>
+    <String>Bizler '[COLOR=UIDefaultHighlight]üretken[/COLOR]' bir medeniyetiz ve yapıların mümkün olduğunca çabuk inşa edilmesi için ne yapılması gerekiyorsa yapmaya hazırız.  İyileştirme inşaat maliyetini düşürür ancak bakımı artırır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Policy_SingularPurpose_Name</Label>
+    <String>Tekil Amaç</String>
+  </StringTable>
+  <StringTable>
+    <Label>Policy_SingularPurpose_Dec</Label>
+    <String>Tek bir amaç için birlikte çalışma yeteneğimiz sayesinde doğamız '[COLOR=UIDefaultHighlight]amansız[/COLOR]'dır. Biraz çabayla dünyalarımız üzerindeki kontrolümüzü artırabiliriz.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Policy_SlaveLabor_Name</Label>
+    <String>Köle İşçiliği</String>
+  </StringTable>
+  <StringTable>
+    <Label>Policy_SlaveLabor_Dec</Label>
+    <String>Çalışmadıkları takdirde diğer dokuzunu dövmesi için birine ödeme yapmak varken neden bir işi yapması için on adama ödeme yapasınız ki?</String>
+  </StringTable>
+  <StringTable>
+    <Label>Policy_Telenavigation_Name</Label>
+    <String>Uzaktan Pilotluk</String>
+  </StringTable>
+  <StringTable>
+    <Label>Policy_Telenavigation_Dec</Label>
+    <String>Bizler [COLOR=UIDefaultHighlight]üretilmiş[/COLOR] bir türüz ve yumuşak, yumuşacık et parçalarını ezecek güçlere dayanabilecek, hissedebilen ancak [COLOR=UIDefaultHighlight]sentetik[/COLOR] pilotlara sahip gemiler yaratabiliyoruz. Bu politika gemilerimizin daha hızlı seyahat etmesini sağlayacaktır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Policy_UniversalHealthCare_Name</Label>
+    <String>Evrensel Sağlık Hizmeti</String>
+  </StringTable>
+  <StringTable>
+    <Label>Policy_UniversalHealthCare_Dec</Label>
+    <String>Para, araştırma ve üretimin hepsi sağlıklı bir nüfusa dayanıyor. Bu olmadan iskambilden bir ev inşa etmiş oluruz.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Policy_UnregulatedCorporations_Name</Label>
+    <String>Düzenlenmemiş Şirketler</String>
+  </StringTable>
+  <StringTable>
+    <Label>Policy_UnregulatedCorporations_Dec</Label>
+    <String>Şirketler, büyümelerini sınırlayan düzenlemeler olmadan daha etkili olabilirler. Ancak danışmanlarımız, felaketle sonuçlanabilecek olaylardan kaçınmak için düzenlemelerin kritik önem taşıdığı konusunda uyarıyor.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Policy_UnregulatedResearch_Name</Label>
+    <String>Düzenlenmemiş Araştırma</String>
+  </StringTable>
+  <StringTable>
+    <Label>Policy_UnregulatedResearch_Dec</Label>
+    <String>Bu çağa en ileri teknolojiye sahip olanlar öncülük edecek. Ancak danışmanlarımız, feci sonuçlardan kaçınmak için düzenlemelerin kritik önem taşıdığı konusunda uyarıyor.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Policy_UrbanPlanning_Name</Label>
+    <String>Kentsel Planlama</String>
+  </StringTable>
+  <StringTable>
+    <Label>Policy_UrbanPlanning_Dec</Label>
+    <String>Tüm ihtiyaçlar için yeterli alan sağlayarak vatandaşlarımıza boş söylemlerin sağlayamayacağı bir şekilde hizmet sunabiliriz.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Policy_Vision_Name</Label>
+    <String>Alt Uzay Sensörleri</String>
+  </StringTable>
+  <StringTable>
+    <Label>Policy_Vision_Dec</Label>
+    <String>Türümüz '[COLOR=UIDefaultHighlight]starfaring[/COLOR]' konusunda çok iyidir. Biraz daha fazla harcama yaparak, sensör menzilimizi büyük ölçüde artırabiliriz.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Policy_TaxExemptions_Name</Label>
+    <String>Vergi Muafiyetleri</String>
+  </StringTable>
+  <StringTable>
+    <Label>Policy_TaxExemptions_Dec</Label>
+    <String>Seçkinlerimiz, hükümetin paralarını kötü kullandığını savunuyor. Çok çeşitli vergi muafiyetleri sağlayarak, kamu kasası büyümese bile işletmeleri büyüyebilir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Policy_WealthTax_Name</Label>
+    <String>Varlık Vergisi</String>
+  </StringTable>
+  <StringTable>
+    <Label>Policy_WealthTax_Dec</Label>
+    <String>En varlıklı vatandaşlarımız toplumumuzdan en çok faydalanan kişilerdir. Sadece kazançları üzerinden değil, sahip oldukları her türlü servet üzerinden yıllık olarak vergilendirilmelidirler.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Policy_YouAreJustANumber_Name</Label>
+    <String>Sen Sadece Bir Numarasın</String>
+  </StringTable>
+  <StringTable>
+    <Label>Policy_YouAreJustANumber_Dec</Label>
+    <String>Kişisel ifade, toplumumuz üzerinde dikkat dağıtıcı ve nihayetinde zehirli bir etkiye sahiptir. Ayrıca, tuhaftır. Eğer bunu kınarsak vatandaşlarımızı daha üretken uğraşlara odaklayabiliriz.</String>
+  </StringTable>
+</StringTableList>

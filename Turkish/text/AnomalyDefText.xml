@@ -1,0 +1,291 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<StringTableList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+  <StringTable>
+    <Label>Artifacts_LABEL</Label>
+    <String>Artefakt</String>
+  </StringTable>
+  <StringTable>
+    <Label>Artifacts_DESC</Label>
+    <String>Eserler kayıp uygarlıkların güçlü kalıntılarıdır. Nadir bulunurlar, ancak değerli ödüller verirler.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArtifactAnomaly_Name</Label>
+    <String>Artefakt Anomalisi</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArtifactAnomaly_Dec</Label>
+    <String>Uzayda bir eser keşfettik ve araştırma gemimizle onu topladık.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Anomaly_FinishProjectArtifact_Name</Label>
+    <String>Öncü İnşaatçılar</String>
+  </StringTable>
+  <StringTable>
+    <Label>Anomaly_FinishProjectArtifact_Dec</Label>
+    <String>Bu Öncü eserin taranması olağandışı bir şey ortaya çıkarmaz, ancak bu tarama en yakın koloni veritabanına yedeklendiğinde, garip şeyler olmaya başlar. Eserin fiziksel yapısı, koloni bilgisayarının ve kısa bir süre sonra da üretim sektörünün kontrolünü ele geçiren, kendi kendine çalışan bir kod biçimidir. Binlerce küçük işçi bot üretilir ve bunlar dünya üzerinde devam etmekte olan projeyi neredeyse anında tamamlar. Daha sonra hemen kapanırlar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Anomaly_FinishTechArtifact_Name</Label>
+    <String>Talihsiz Dahi</String>
+  </StringTable>
+  <StringTable>
+    <Label>Anomaly_FinishTechArtifact_Dec</Label>
+    <String>Bu duyarlı bir [HS=HS_ArtifactResearchCharge]Precursor Archive[/HS]. Araştırma ekibi üyemiz onunla bağlantı kurmaya çalıştığında, sınırsız bilgiye sahip olduğunu iddia ediyor ve zekasında dikkat çekici ve ani bir artışın tüm işaretlerini gösteriyor. Sonraki birkaç dakika boyunca, kafası patlayana kadar şaşırtıcı teknolojik atılımları detaylandırıyor.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Anomaly_GetTerraformer_Name</Label>
+    <String>Kayıp Kargo</String>
+  </StringTable>
+  <StringTable>
+    <Label>Anomaly_GetTerraformer_Dec</Label>
+    <String>Bu [HS=HS_ArtifactPlanetClass]Kimerik Biyokütle[/HS] kapsülü, canlandırmak için yeni bir dünya bulması umuduyla uzaya fırlatıldı. Asıl hedefini asla bulamamış olsa da, şimdi onu seçtiğimiz herhangi bir dünyanın ekosistemini iyileştirmek için yeniden kullanabiliriz.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Anomaly_GetDimensionalSnare_Name</Label>
+    <String>Boyutsal Tuzak</String>
+  </StringTable>
+  <StringTable>
+    <Label>Anomaly_GetDimensionalSnare_Dec</Label>
+    <String>Buradaki tuhaf bir cihaz, başka bir boyuttan gelen bir yaratığı hapsetmiş. [HS=HS_ArtifactCagedMonster]Dimensional Snare[/HS]'i toplayabilir ve yaratığı seçtiğimiz bir alanda serbest bırakabiliriz. Bunun etkilerinin ne olacağını söylemek zor. Ancak yaratığın bize minnettar olacağına dair çok fazla bahse girmeyin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Anomaly_GetActivatedNanites_Name</Label>
+    <String>Mnemonic Nanites</String>
+  </StringTable>
+  <StringTable>
+    <Label>Anomaly_GetActivatedNanites_Dec</Label>
+    <String>Maruz kaldıkları her türlü malzemenin yapısını inceleyebilen, mühendislik ilkeleri ve anlamsal ipuçları hakkında ansiklopedik bir bilgi birikimiyle orijinal tasarımını belirleyebilen ve ardından onu yeni durumuna geri getirebilen özel Nanitlerle dolu bir kap keşfettik. Sonuç olarak bu [HS=HS_ArtifactFleetRepair]Mnemonic Nanites[/HS]'i filolarımızdan herhangi birini anında onarmak için kullanabiliriz.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Anomaly_GetBoostCoil_Name</Label>
+    <String>Takviye Bobini</String>
+  </StringTable>
+  <StringTable>
+    <Label>Anomaly_GetBoostCoil_Dec</Label>
+    <String>Yüksek enerjili bir yakıt kaynağı keşfettik. Uzun süre dayanmayacak olsa da, herhangi bir geminin motorundan önemli bir verim artışı elde etmek için yeterlidir. Filolarımızdan herhangi birinin hareketlerini sıfırlamak için bu [HS=HS_ArtifactFleetResetMoves]Boost Coil[/HS]'i kullanabiliriz.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Anomaly_GetBetatronCollider_Name</Label>
+    <String>Betatron Çarpıştırıcısı</String>
+  </StringTable>
+  <StringTable>
+    <Label>Anomaly_GetBetatronCollider_Dec</Label>
+    <String>Öncül teknolojisinin izlerini taşıyan devasa bir maden keşfettik. Yaklaşmamızla tetiklenmediği için şanslıyız, belki de bir tehdit olmadığımızı anlayacak kadar zekiydi. Onu toplayabilir ve ana bileşeni olan [HS=HS_ArtifactFleetDamage]Betatron Collider[/HS]'ı düşman filosuna ağır hasar verebilecek bir cihaza uyarlayabiliriz.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Anomaly_GetBernalSphere_Name</Label>
+    <String>Bernal Küre</String>
+  </StringTable>
+  <StringTable>
+    <Label>Anomaly_GetBernalSphere_Dec</Label>
+    <String>Bu kargo modülü, sentetik bir işgücüyle tamamlanmış, şimdilik atıl durumda olan ancak bunun dışında mükemmel durumda olan bağımsız bir yaşam alanıdır. Bu [HS=HS_ArtifactPlanetPopulation]Bernal Sphere'i[/HS] herhangi bir dünyamıza vatandaş eklemek için kullanabiliriz.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Anomaly_GetClimatePurifier_Name</Label>
+    <String>İklim Temizleyici</String>
+  </StringTable>
+  <StringTable>
+    <Label>Anomaly_GetClimatePurifier_Dec</Label>
+    <String>Bu eser, ölü bir dünyayı cennete dönüştürecek daha büyük bir terraforming projesinin bir parçası olarak tasarlanmıştı. Ne yazık ki sadece ilk aşaması çalışıyor, gezegenin atmosferinden en yakıcı elementleri çıkaracak bir [HS=HS_ArtifactPlanetPollution]Climate Purifier[/HS].</String>
+  </StringTable>
+  <StringTable>
+    <Label>Capsules_LABEL</Label>
+    <String>Kapsül</String>
+  </StringTable>
+  <StringTable>
+    <Label>Capsules_DESC</Label>
+    <String>Kapsüller asla geri alınamayan kayıp mallar, kaçış kapsülleri, fırlatılan kaçak mallar ya da basitçe yanlış yerleştirilmiş mallardır. Çeşitli etkileri vardır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ContrabandTech_Name</Label>
+    <String>Gizemli Kapsül</String>
+  </StringTable>
+  <StringTable>
+    <Label>ContrabandTech_Dec</Label>
+    <String>Uzayda yüzen gizemli bir kapsül keşfettik. Onu taradıktan sonra gemimize getirdik.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_LostAndFound_Name</Label>
+    <String>Kayıp ve Buluntu</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_LostAndFound_Dec</Label>
+    <String>Bu terk edilmiş kargo kapsülünün yanmış ve çukurlaşmış dış yüzeyi, gerçek sahiplerinin bu hayatta onu almak için geri dönmeyeceği izlenimini veriyor. İçindeki malların boşa gitmesine izin vermek utanç verici olurdu.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_LostCargo_Name</Label>
+    <String>Kayıp Kargo</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_LostCargo_Dec</Label>
+    <String>Kapsül, normalde bunun gibi sivil konteynerlerde bulunmayan askeri teçhizat içermektedir. İnceleme yapılmadan önce kaçakçılar tarafından düşürülmüş gibi görünüyor. Onların kaybı bizim kazancımız, ama bunu en iyi nasıl kullanacağımıza karar vermemiz gerekecek.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_MysteriousHardware_Name</Label>
+    <String>Gizemli Donanım</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_MysteriousHardware_Dec</Label>
+    <String>Bu kapsülde bulunan uzaylı hesaplama sistemleri o kadar gelişmiştir ki, araştırma ekibimiz en temel işlevleri dışında hepsini tanımlayacak kelime dağarcığına sahip değildir. Ancak bu düşük seviyeli yetenekler bile teknolojik çalışmalarımızı sıçrama ve sınırlarla ilerletmek için yeterli olacaktır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_DistressBeacon_Name</Label>
+    <String>Tehlike İşareti</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_DistressBeacon_Dec</Label>
+    <String>Binlerce yıl önce meydana gelmiş bir acil durum için yardım çağrısı gönderen bir işaretçi keşfettik. Ciddi bir tehdit, galaksinin tek umudu, lütfen, herhangi biri, herhangi bir şey. Acil durumun kendisine yanıt vermek için biraz geç kalmış olsak da, işaretçideki yayın ekipmanı kesinlikle kullanılabilir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_Credits_Name</Label>
+    <String>Kayıp ve Buluntu</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_Credits_Dec</Label>
+    <String>Bu terk edilmiş kargo kapsülünün yanmış ve çukurlaşmış dış yüzeyi, gerçek sahiplerinin bu hayatta onu almak için geri dönmeyeceği izlenimini veriyor. İçindeki malların boşa gitmesine izin vermek utanç verici olurdu.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_HeliosOre_Name</Label>
+    <String>Kayıp ve Buluntu</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_HeliosOre_Dec</Label>
+    <String>Bu terk edilmiş kargo kapsülünün yanmış ve çukurlaşmış dış yüzeyi, gerçek sahiplerinin bu hayatta onu almak için geri dönmeyeceği izlenimini veriyor. İçindeki malların boşa gitmesine izin vermek utanç verici olurdu.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_Durantium_Name</Label>
+    <String>Kayıp Kargo</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_Durantium_Dec</Label>
+    <String>Kapsül, normalde bunun gibi sivil konteynerlerde bulunmayan askeri teçhizat içermektedir. İnceleme yapılmadan önce kaçakçılar tarafından düşürülmüş gibi görünüyor. Onların kaybı bizim kazancımız, ama bunu en iyi nasıl kullanacağımıza karar vermemiz gerekecek.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_Promethion_Name</Label>
+    <String>Kayıp Kargo</String>
+  </StringTable>
+  <StringTable>
+    <Label>Quest_Promethion_Dec</Label>
+    <String>Kapsül, normalde bunun gibi sivil konteynerlerde bulunmayan askeri teçhizat içermektedir. İnceleme yapılmadan önce kaçakçılar tarafından düşürülmüş gibi görünüyor. Onların kaybı bizim kazancımız, ama bunu en iyi nasıl kullanacağımıza karar vermemiz gerekecek.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ShipGraveyards_LABEL</Label>
+    <String>Gemi Mezarlığı</String>
+  </StringTable>
+  <StringTable>
+    <Label>ShipGraveyards_DESC</Label>
+    <String>Gemi mezarlıkları daha az şanslı yıldızlararası yolcuların kalıntılarıdır. Gemiyle ilgili çeşitli ödüller ortaya çıkarırlar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ShipGraveyards_WARNING</Label>
+    <String>[COLOR=Sarı]Hafif Savunmalı[/COLOR]</String>
+  </StringTable>
+  <StringTable>
+    <Label>GraveyardAnomoly_Name</Label>
+    <String>Mezarlık Anomalisi</String>
+  </StringTable>
+  <StringTable>
+    <Label>GraveyardAnomoly_Dec</Label>
+    <String>Eski bir yıldız savaşının kalıntılarını keşfettik.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Anomaly_LostScoutAnomoly_Name</Label>
+    <String>Kayıp Sonda</String>
+  </StringTable>
+  <StringTable>
+    <Label>Anomaly_LostScoutAnomoly_Dec</Label>
+    <String>Küçük bir gemi uzayın derinliklerinde sürükleniyor, tüm sistemleri çalışmıyor. İncelendiğinde uzun zaman önce unutulmuş bir savaştan kalma eski bir keşif gemisi olduğu anlaşılıyor. Yetenekleri araştırma gemimizin mürettebatındaki orta zekâlıları bile zorlamıyor ve küçük bir çalışmayla yeniden hizmete sokulabileceğine inanıyorlar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Anomaly_LostSurveyAnomoly_Name</Label>
+    <String>Bir Solucan Deliği Çok Fazla</String>
+  </StringTable>
+  <StringTable>
+    <Label>Anomaly_LostSurveyAnomoly_Dec</Label>
+    <String>Bu araştırma gemisi Terran gemilerine benziyor, ancak mürettebatımız veri tabanında tam bir eşleşme bulamıyor. Dış yüzeyinde solucan deliği geçişi izleri var, ancak bunun dışında iyi durumda. Ancak iç kısmın gizemli yeşil yapışkanla başa çıkmak için ciddi bir temizliğe ihtiyacı var. Yeşil yapışkan olmadıkları sürece.... içindekilerden hiçbir iz yok. Yine de. Bedava gemi.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Anomaly_LostCutterAnomoly_Name</Label>
+    <String>Kızarmış Ama Yanmamış</String>
+  </StringTable>
+  <StringTable>
+    <Label>Anomaly_LostCutterAnomoly_Dec</Label>
+    <String>Araştırma ekibimiz, Dehşet Lordu savaşı sırasında meydana gelmiş gibi görünen unutulmuş bir çatışmanın enkazı arasında yanmış ama kurtarılabilir bir gemi bulur. Mürettebatın cesetleri içinde bulundu, görünüşe göre infaz edilmişlerdi. Rakipleri ya da belki de akranları tarafından, bunu söylemek zor - Dehşet Lordları'nın zalimliği meşhurdu. Her halükarda, mürettebatımızın gemiyi tamir edip hizmete sokmasının önünde birkaç engel var.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Anomaly_LostDefenderAnomoly_Name</Label>
+    <String>Asla Teslim Olma</String>
+  </StringTable>
+  <StringTable>
+    <Label>Anomaly_LostDefenderAnomoly_Dec</Label>
+    <String>Tek bir gemi, Dehşet Lordu savaşının korkunç silahlarıyla yok edilen bir gezegenin kalıntılarının yörüngesinde dönmektedir. Uzun zaman önce ölmüş olan mürettebat yerlerinde durmuş, hiç gelmemiş olan takviye kuvvetlerini beklemektedir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Anomaly_LostGunboatAnomoly_Name</Label>
+    <String>İlk Taşı Atın</String>
+  </StringTable>
+  <StringTable>
+    <Label>Anomaly_LostGunboatAnomoly_Dec</Label>
+    <String>Derin uzayda yüzen devasa bir Drengin savaş kruvazörü keşfettik, gövdesi binlerce küçük kinetik darbeyle delinmiş. Tamamen kurtarılamaz durumda. Ancak yakınlarda sürüklenen bir Terran gambotu hâlâ çalışır durumda. Pilotun mumyalanmış kalıntılarının elleri hâlâ topun kumandasında ve yüzlerinde sonsuza dek donmuş bir gülümseme var.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Anomaly_LostConstructorAnomoly_Name</Label>
+    <String>Yapıcı Kurtarma</String>
+  </StringTable>
+  <StringTable>
+    <Label>Anomaly_LostConstructorAnomoly_Dec</Label>
+    <String>Burada bir yıldız üssünün kalıntıları yatıyor, kurtarılma umudunun ötesinde yok edilmiş. Ancak yakınlarda, işlevini yerine getirmesine asla fırsat verilmemiş, terk edilmiş bir kurucu yatıyor. Kendi yıldız üssümüzü oluşturabilecek şekilde tekrar çalıştırmak için minimum onarım gerekecek.</String>
+  </StringTable>
+  <StringTable>
+    <Label>SpaceJunk_LABEL</Label>
+    <String>Uzay Çöplüğü</String>
+  </StringTable>
+  <StringTable>
+    <Label>SpaceJunk_DESC</Label>
+    <String>Bunlar galaksinin flotsam ve jetsam'ını oluşturur. Nadiren çok değerlidirler, ancak eşsiz fırsatlar sunarlar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>BigCredits_Name</Label>
+    <String>Enkaz Alanı</String>
+  </StringTable>
+  <StringTable>
+    <Label>BigCredits_Dec</Label>
+    <String>Bir çeşit geminin kalıntılarını bulduk. Araştırma gemimiz enkazda değerli bir şey olup olmadığını araştırmaya koyuldu.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Wormholes_LABEL</Label>
+    <String>Solucan Deliği</String>
+  </StringTable>
+  <StringTable>
+    <Label>Wormholes_DESC</Label>
+    <String>Solucan delikleri de nadirdir, içlerine giren herhangi bir gemiyi Galakside rastgele bir yere taşırlar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>WormholeAnomaly_Name</Label>
+    <String>Solucan Deliği Gezisi</String>
+  </StringTable>
+  <StringTable>
+    <Label>WormholeAnomaly_Dec</Label>
+    <String>Araştırma geminiz bilinmeyen bir alana yakalandı ve uzaydaki bir delikten içeri çekildi. Mürettebat bu plansız dolambaçlı yoldan dolayı sinirlenebilir, ancak göz açıp kapayıncaya kadar bu kadar büyük bir mesafeyi kat ettikten sonra bir şekilde zarar görmemiş olmaları morallerini kabul edilebilir bir seviyede tutmalıdır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrecursorAnomaly_LABEL</Label>
+    <String>Prekürsör Anomalisi</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrecursorAnomaly_DESC</Label>
+    <String>Bu anomali, güçlü muhafızlarıyla başa çıkabilen herkes için nadir ve güçlü bir hazinedir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrecursorAnomaly_WARNING</Label>
+    <String>[COLOR=WarRed]Ağır Savunmalı[/COLOR]</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrecursorProductionAnomaly_Name</Label>
+    <String>Prekürsör Anomalisi</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrecursorProductionAnomaly_Dec</Label>
+    <String>Araştırma gemimiz öncü enkazı keşfetti. Ne yazık ki, önce başkaları keşfetti.</String>
+  </StringTable>
+</StringTableList>

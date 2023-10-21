@@ -1,0 +1,203 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<StringTableList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+  <StringTable>
+    <Label>SolSystem_Name</Label>
+    <String>Sol</String>
+  </StringTable>
+  <StringTable>
+    <Label>SolSystem_Dec</Label>
+    <String>Bir sınıf 28 [HS=HS_TerrestrialWorld]Terrestrial[/HS] dünya ve iki küçük dünya içeren Terran güneş sistemi.</String>
+  </StringTable>
+  <StringTable>
+    <Label>DrengiSystem_Name</Label>
+    <String>Drengia</String>
+  </StringTable>
+  <StringTable>
+    <Label>DrengiSystem_Dec</Label>
+    <String>Bir sınıf 29 [HS=HS_VolcanicWorld]Volcanic[/HS] dünya ve 2 küçük dünya içeren Drengin ana sistemi.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltariaSystem_Name</Label>
+    <String>Altaris</String>
+  </StringTable>
+  <StringTable>
+    <Label>AltariaSystem_Dec</Label>
+    <String>Bir sınıf 30 [HS=HS_TropicalWorld]Tropical[/HS] dünya ve 1 küçük dünya içeren Altarian ana sistemi.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiaSystem_Name</Label>
+    <String>Iridii</String>
+  </StringTable>
+  <StringTable>
+    <Label>IridiaSystem_Dec</Label>
+    <String>Sınıf 29 [HS=HS_TerrestrialWorld]Karasal[/HS] bir dünya ve yüksek zenginliğe sahip küçük bir dünya içeren Iridium ana sistemi.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IconiaSystem_Name</Label>
+    <String>Icos</String>
+  </StringTable>
+  <StringTable>
+    <Label>IconiaSystem_Dec</Label>
+    <String>Eski Iconian ve şimdi Yor ana sistemi[BR]Bir sınıf 29 [HS=HS_BarrenWorld]Barren[/HS] dünyası ve 2 küçük dünya içerir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrysethSystem_Name</Label>
+    <String>Kryseth</String>
+  </StringTable>
+  <StringTable>
+    <Label>KrysethSystem_Dec</Label>
+    <String>Krynn ana sistemi. Bir sınıf 26 [HS=HS_TerrestrialWorld]Terrestrial[/HS] dünya ve iyi kaynaklara sahip 2 küçük dünya içerir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>IconisSystem_Name</Label>
+    <String>Iconis</String>
+  </StringTable>
+  <StringTable>
+    <Label>IconisSystem_Dec</Label>
+    <String>Iconian ırkının yeni ana sistemi, bir sınıf 25 [HS=HS_TerrestrialWorld]Terrestrial[/HS] dünya ve tek bir küçük dünya içerir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MinorSystem_Name</Label>
+    <String>Arb Sistemi</String>
+  </StringTable>
+  <StringTable>
+    <Label>MinorSystem_Dec</Label>
+    <String>Küçük Irklar için rastgele ev sistemi. 14. sınıf bir dünya içerir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>DeadSystem_Name</Label>
+    <String>Abbydos</String>
+  </StringTable>
+  <StringTable>
+    <Label>DeadSystem_Dec</Label>
+    <String>Harap olmuş bir yıldız sistemi. Yaşanabilir gezegen yok, sadece yanmış bir kaya. Cesur ve maceraperestler tarafından kullanılır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArceaSystem_Name</Label>
+    <String>Arcea Sistemi</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArceaSystem_Dec</Label>
+    <String>Arcean İmparatorluğu'nun ana sistemi, sınıf 28 [HS=HS_TerrestrialWorld]Terrestrial[/HS] dünya ve sınıf 12 [HS=HS_DesertWorld]Desert[/HS] dünya içerir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>System_Baratak_Name</Label>
+    <String>Lyr Sistemi</String>
+  </StringTable>
+  <StringTable>
+    <Label>System_Baratak_Dec</Label>
+    <String>Baratak'ın ana sistemi tek bir sınıf 32 [HS=HS_ArborealWorld]Arboreal[/HS] dünya içerir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>System_Festron_Name</Label>
+    <String>Hydra Sistemi</String>
+  </StringTable>
+  <StringTable>
+    <Label>System_Festron_Dec</Label>
+    <String>Festron'un ana sistemi bir sınıf 20 [HS=HS_JungleWorld]Jungle[/HS] dünyası ve 2 küçük dünya içerir.[BR][BR]HS_Aquatic]Aquatic[/HS] olmayan uygarlıklar için tavsiye edilmez.</String>
+  </StringTable>
+  <StringTable>
+    <Label>System_Manti_Name</Label>
+    <String>Donia Sistemi</String>
+  </StringTable>
+  <StringTable>
+    <Label>System_Manti_Dec</Label>
+    <String>Manti'nin ana sistemi bir sınıf 29 [HS=HS_AquaticWorld]Oceanic[/HS] dünya ve 2 küçük dünya içerir. [BR][BR]HS_Aquatic]Aquatic[/HS] olmayan uygarlıklar için önerilmez.</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorusSystem_Name</Label>
+    <String>Torus Sistemi</String>
+  </StringTable>
+  <StringTable>
+    <Label>TorusSystem_Dec</Label>
+    <String>Torian Rejimi'nin ana sistemi, sınıf 25 [HS=HS_AquaticWorld]Oceanic[/HS] dünyası ve iyi kaynaklara sahip 2 küçük dünya içerir. [BR][BR]HS_Aquatic]Aquatic[/HS] olmayan ırklar için önerilmez.</String>
+  </StringTable>
+  <StringTable>
+    <Label>OnyxSystem_Name</Label>
+    <String>Onyx Sistemi</String>
+  </StringTable>
+  <StringTable>
+    <Label>OnyxSystem_Dec</Label>
+    <String>Asteroit ağırlıklı bir sistem olan Onyx'in ana sistemi, sınıf 26 [HS=HS_MountainousWorld]Dağlık[/HS] bir dünya ve tek bir küçük dünya içerir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>GraveyardSystem_Name</Label>
+    <String>Prekürsör Mezarlığı</String>
+  </StringTable>
+  <StringTable>
+    <Label>GraveyardSystem_Dec</Label>
+    <String>Gezginlerin ölü bir sistemi tek bir sınıf 32 [HS=HS_BombardedWorld]Bombarded[/HS] dünyası içerir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MimotSystem_Name</Label>
+    <String>Vale</String>
+  </StringTable>
+  <StringTable>
+    <Label>MimotSystem_Dec</Label>
+    <String>Mimot ana sistemi. Bir sınıf 25 [HS=HS_TropicalWorld]Tropical[/HS] dünya ve 3 küçük dünya içerir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>XeloxiSystem_Name</Label>
+    <String>Venge Prime</String>
+  </StringTable>
+  <StringTable>
+    <Label>XeloxiSystem_Dec</Label>
+    <String>Xeloxi'nin ana sistemi. Tek bir sınıf 25 [HS=HS_DesertWorld]Desert[/HS] dünyası ve 2 küçük dünya içerir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ProximaCentauriSystem_Name</Label>
+    <String>Proxima Centauri</String>
+  </StringTable>
+  <StringTable>
+    <Label>ProximaCentauriSystem_Dec</Label>
+    <String>Sürgün edilen Terran Direnişinin ana sistemi. Bir sınıf 28 [HS=HS_MountainousWorld]Dağlık[/HS] dünya ve tek bir küçük dünya içerir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>DrathaSystem_Name</Label>
+    <String>Drathis</String>
+  </StringTable>
+  <StringTable>
+    <Label>DrathaSystem_Dec</Label>
+    <String>Drath'ın ana sistemi. Bir sınıf 28 [HS=HS_JungleWorld]Jungle[/HS] dünyası ve 2 küçük dünya içerir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>System_Crystalline_Name</Label>
+    <String>Belbright</String>
+  </StringTable>
+  <StringTable>
+    <Label>System_Crystalline_Dec</Label>
+    <String>Crystalline'in ana sistemi tek bir sınıf 30 [HS=HS_MountainousWorld]Mountainous[/HS] dünyası ve bazı Thulium yatakları içerir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>System_Korath_Name</Label>
+    <String>Ra'nagoh</String>
+  </StringTable>
+  <StringTable>
+    <Label>System_Korath_Dec</Label>
+    <String>Korath'ın ana sistemi.</String>
+  </StringTable>
+  <StringTable>
+    <Label>System_Absolute_Name</Label>
+    <String>Abyssal Atıkları</String>
+  </StringTable>
+  <StringTable>
+    <Label>System_Absolute_Dec</Label>
+    <String>Mutlak'ın ana güneş sisteminde 24. sınıf yayılan bir ana dünya ve 3 yayılan küçük dünya bulunmaktadır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>System_Seeing_Name</Label>
+    <String>Caelispex</String>
+  </StringTable>
+  <StringTable>
+    <Label>System_Seeing_Dec</Label>
+    <String>Seeing'in ana sisteminde mükemmel bir sınıf 30 ana gezegen vardır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>System_Moth_Name</Label>
+    <String>Noctulaure</String>
+  </StringTable>
+  <StringTable>
+    <Label>System_Moth_Dec</Label>
+    <String>Phalenoids'in ana sisteminde bir sınıf 30 ana gezegen, iki küçük dünya ve dört ölü gezegen bulunmaktadır.</String>
+  </StringTable>
+</StringTableList>

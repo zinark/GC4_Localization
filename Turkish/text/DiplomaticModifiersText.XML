@@ -1,0 +1,373 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<StringTableList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+  <!-- Created with the Crusade Editor -->
+  <!-- DiplomaticModifiersText.XML -->
+  <StringTable>
+    <Label>DiplomacyStat_Dec</Label>
+    <String>Diplomasi yeteneğiniz</String>
+  </StringTable>
+  <StringTable>
+    <Label>DiplomacyStatBenevolent_Dec</Label>
+    <String>Yardımsever uygarlıklar hakkındaki izlenimleriniz</String>
+  </StringTable>
+  <StringTable>
+    <Label>DiplomacyStatNeutral_Dec</Label>
+    <String>Pragmatik medeniyetler hakkındaki izlenimleriniz</String>
+  </StringTable>
+  <StringTable>
+    <Label>DiplomacyStatMerciless_Dec</Label>
+    <String>Kötü niyetli uygarlıklar hakkındaki izlenimleriniz</String>
+  </StringTable>
+  <StringTable>
+    <Label>HaveDiplomats_Dec</Label>
+    <String>Diplomatlarınız sizin için iyi bir dava hazırlıyor</String>
+  </StringTable>
+  <StringTable>
+    <Label>Alliance_Dec</Label>
+    <String>Biz müttefikiz</String>
+  </StringTable>
+  <StringTable>
+    <Label>SameCulture_Dec</Label>
+    <String>Aynı değerlere sahibiz</String>
+  </StringTable>
+  <StringTable>
+    <Label>SameGovernment_Dec</Label>
+    <String>Aynı hükümete sahibiz</String>
+  </StringTable>
+  <StringTable>
+    <Label>WarWithOpposingCulture_Dec</Label>
+    <String>Sevmediğimiz bir uygarlıkla savaş halindesiniz.</String>
+  </StringTable>
+  <StringTable>
+    <Label>DifferentSpeciesType_Dec</Label>
+    <String>Bizler farklı yaşam formlarıyız.</String>
+  </StringTable>
+  <StringTable>
+    <Label>RemoveEarly_Dec</Label>
+    <String>Seni erkenden elememiz gerektiğini düşünüyoruz.</String>
+  </StringTable>
+  <StringTable>
+    <Label>NaturalEnemies_Dec</Label>
+    <String>Bizler doğal düşmanlarız</String>
+  </StringTable>
+  <StringTable>
+    <Label>YouArePowerful_Dec</Label>
+    <String>Gücüne hayranız</String>
+  </StringTable>
+  <StringTable>
+    <Label>CovetYourTerritory_Dec</Label>
+    <String>Dünyalarınıza imreniyoruz</String>
+  </StringTable>
+  <StringTable>
+    <Label>CommonEnemy_Dec</Label>
+    <String>Ortak bir düşmanımız var</String>
+  </StringTable>
+  <StringTable>
+    <Label>OpenBorders_Dec</Label>
+    <String>Açık sınırlar anlaşmamız var</String>
+  </StringTable>
+  <StringTable>
+    <Label>ActiveTradeResource_Dec</Label>
+    <String>Bir ticaret kaynağını paylaşıyoruz</String>
+  </StringTable>
+  <StringTable>
+    <Label>OutsideOfRange_Dec</Label>
+    <String>Seyahat menzilimizin dışındasınız</String>
+  </StringTable>
+  <StringTable>
+    <Label>PayingTribute_Dec</Label>
+    <String>Bize haraç ödüyorsun</String>
+  </StringTable>
+  <StringTable>
+    <Label>ActiveCulturalTreaty_Dec</Label>
+    <String>Kültürel bir anlaşmamız var</String>
+  </StringTable>
+  <StringTable>
+    <Label>CommonAlly_Dec</Label>
+    <String>Ortak bir müttefiki paylaşıyoruz</String>
+  </StringTable>
+  <StringTable>
+    <Label>TradeRoute_Dec</Label>
+    <String>Birbirimizle ticaret yapıyoruz</String>
+  </StringTable>
+  <StringTable>
+    <Label>WeakerMilitary_Dec</Label>
+    <String>Sen bir tehdit değilsin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>SameVoteInUP_Dec</Label>
+    <String>Birleşik Gezegenler'de bizimle birlikte oy kullandınız</String>
+  </StringTable>
+  <StringTable>
+    <Label>GaveGift_Dec</Label>
+    <String>Bize bir hediye verdin</String>
+  </StringTable>
+  <StringTable>
+    <Label>SupportedWarRequest_Dec</Label>
+    <String>İsteğimiz üzerine savaşta bize yardım ettin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>TradedTechnology_Dec</Label>
+    <String>Bizimle bir teknoloji takası yaptınız</String>
+  </StringTable>
+  <StringTable>
+    <Label>TradedNonTechItem_Dec</Label>
+    <String>Bizimle teknoloji dışı bir ürün takas ettiniz</String>
+  </StringTable>
+  <StringTable>
+    <Label>EmbargoOnRequest_Dec</Label>
+    <String>İsteğimiz üzerine başka bir yarışa ambargo koymayı kabul ettiniz.</String>
+  </StringTable>
+  <StringTable>
+    <Label>TradedAtDiscount_Dec</Label>
+    <String>Bize iyi bir anlaşma verdin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KilledPirateInZOC_Dec</Label>
+    <String>Bizim bölgemizde bir korsan öldürdün.</String>
+  </StringTable>
+  <StringTable>
+    <Label>WarOnOtherOnRequest_Dec</Label>
+    <String>İsteğimiz üzerine savaşa girmeyi kabul ettiniz.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AtWar_Dec</Label>
+    <String>Savaştayız</String>
+  </StringTable>
+  <StringTable>
+    <Label>OpposingCulture_Dec</Label>
+    <String>Kültürel Farklılıklar</String>
+  </StringTable>
+  <StringTable>
+    <Label>WithdrewFromUP_Dec</Label>
+    <String>Birleşik Gezegenler'den çekildiniz.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AllianceWithOpposingCulture_Dec</Label>
+    <String>Sevmediğimiz uygarlıklarla müttefiksiniz.</String>
+  </StringTable>
+  <StringTable>
+    <Label>StarbaseInZOCWithoutOpenBorders_Dec</Label>
+    <String>Bölgemizde bir yıldız üssünüz var.</String>
+  </StringTable>
+  <StringTable>
+    <Label>CultureTreatyWithOpposingCulture_Dec</Label>
+    <String>Kafirlerle anlaşmalarınız var.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ShipInZOCWithoutOpenBorders_Dec</Label>
+    <String>Bölgemizde bir geminiz var.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MilitaryShipNearMyPlanet_Dec</Label>
+    <String>Askeri geminiz gezegenimin yakınında.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AllianceOrTradeWithEnemy_Dec</Label>
+    <String>Düşmanlarımızla ticaret yapıyorsunuz</String>
+  </StringTable>
+  <StringTable>
+    <Label>TradeWithOpposingCulture_Dec</Label>
+    <String>Kafirlerle ticaret yapıyorsunuz</String>
+  </StringTable>
+  <StringTable>
+    <Label>StrongerMilitary_Dec</Label>
+    <String>Askeri yığınağınız bizi endişelendiriyor</String>
+  </StringTable>
+  <StringTable>
+    <Label>SharedBorders_Dec</Label>
+    <String>Ortak sınırlarımız var</String>
+  </StringTable>
+  <StringTable>
+    <Label>CloseToInfluenceFlip_Dec</Label>
+    <String>İletişim Yıldız Üsleriniz</String>
+  </StringTable>
+  <StringTable>
+    <Label>BuiltPlanetKiller_Dec</Label>
+    <String>Bir Gezegen Katili inşa ettiniz</String>
+  </StringTable>
+  <StringTable>
+    <Label>WarWithWarVictim_Dec</Label>
+    <String>Diplomatik bir ırkla savaş halindesiniz.</String>
+  </StringTable>
+  <StringTable>
+    <Label>OnCrusade_Dec</Label>
+    <String>Bize karşı haçlı seferi ilan ettiniz.</String>
+  </StringTable>
+  <StringTable>
+    <Label>EndedCrusade_Dec</Label>
+    <String>Bize karşı bir haçlı seferindeydin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>SuccessfulInfluenceFlip_Dec</Label>
+    <String>Kolonilerimizden birini etkiledin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>EndedWar_Dec</Label>
+    <String>Bizimle savaştınız.</String>
+  </StringTable>
+  <StringTable>
+    <Label>BrokeTreaty_Dec</Label>
+    <String>Bizimle bir anlaşmayı bozdun.</String>
+  </StringTable>
+  <StringTable>
+    <Label>BrokeAlliance_Dec</Label>
+    <String>Bizimle olan ittifakını bozdun.</String>
+  </StringTable>
+  <StringTable>
+    <Label>LargeFleetNearWorldOrStarbase_Dec</Label>
+    <String>Yakınımda büyük bir filonuz var.</String>
+  </StringTable>
+  <StringTable>
+    <Label>RefusedEmbargoRequest_Dec</Label>
+    <String>Ticaret ambargosunu reddettiniz</String>
+  </StringTable>
+  <StringTable>
+    <Label>OpposedUPVote_Dec</Label>
+    <String>Birleşik Gezegenler'de bize karşı çıktınız.</String>
+  </StringTable>
+  <StringTable>
+    <Label>InvadedUPHQ_Dec</Label>
+    <String>Birleşik Gezegenler'in merkezini işgal ettiniz.</String>
+  </StringTable>
+  <StringTable>
+    <Label>KilledFriendlyPlayer_Dec</Label>
+    <String>Arkadaşlarımızdan birini yok ettin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>UsedPlanetKiller_Dec</Label>
+    <String>Bir Gezegen Katili kullandın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>RefusedWarSupportRequest_Dec</Label>
+    <String>Savaşımızda bize yardım etmeyi reddettin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ColonizedWithinZOC_Dec</Label>
+    <String>Bölgemizdeki bir gezegeni kolonize ettiniz.</String>
+  </StringTable>
+  <StringTable>
+    <Label>RefusedTributeRequest_Dec</Label>
+    <String>Bize haraç ödemeyi reddettin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>WarAgainstFriendlyPlayer_Dec</Label>
+    <String>Dostlarımızdan birine savaş ilan ettin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>PriceGougedInTrade_Dec</Label>
+    <String>Bir ticaret anlaşmasında fiyatlarınızı artırdınız</String>
+  </StringTable>
+  <StringTable>
+    <Label>PlacedAgent_Dec</Label>
+    <String>Medeniyetimizin içine bir ajan yerleştirdin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>RefusedCreditsDemand_Dec</Label>
+    <String>Bize kredi vermeyi reddettiniz.</String>
+  </StringTable>
+  <StringTable>
+    <Label>RefusedTechDemand_Dec</Label>
+    <String>Bize bir teknoloji vermeyi reddettin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>RefusedWarOnOtherRequest_Dec</Label>
+    <String>İsteğimiz üzerine savaşa gitmeyi reddettiniz.</String>
+  </StringTable>
+  <StringTable>
+    <Label>RefusedRemoveStarbaseDemand_Dec</Label>
+    <String>Yıldız üssü talebimizi reddettiniz.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ConquestVictoryGoal_Dec</Label>
+    <String>Galaksiyi fethetmek istiyoruz.</String>
+  </StringTable>
+  <StringTable>
+    <Label>CloseToAscensionVictory_Dec</Label>
+    <String>Yükseliş Zaferi'nin peşindesiniz</String>
+  </StringTable>
+  <StringTable>
+    <Label>CloseToResearchVictory_Dec</Label>
+    <String>Bir Araştırma Zaferi peşindesiniz</String>
+  </StringTable>
+  <StringTable>
+    <Label>HasArtifacts_Dec</Label>
+    <String>Artefakt(lar)ınız var</String>
+  </StringTable>
+  <StringTable>
+    <Label>EasyTarget_Dec</Label>
+    <String>Fetih için olgunlaşmışsın</String>
+  </StringTable>
+  <StringTable>
+    <Label>WarWithFriend_Dec</Label>
+    <String>Dostumuzla savaş halindesiniz.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YouConqueredOurFriend_Dec</Label>
+    <String>Arkadaşımızı fethettin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YouAreWarMonger_Dec</Label>
+    <String>Sen bir savaş tacirisin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YourAlrightKid_Dec</Label>
+    <String>Bizi etkilediniz</String>
+  </StringTable>
+  <StringTable>
+    <Label>DontLikeYourFace_Dec</Label>
+    <String>Sen tehlikelisin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Grudge_Dec</Label>
+    <String>Ne yaptığını biliyorsun.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ProclaimFriendship_Dec</Label>
+    <String>Bizimle dostluğunu ilan ettin</String>
+  </StringTable>
+  <StringTable>
+    <Label>ProclaimFriendshipWithMyEnemy_Dec</Label>
+    <String>Düşmanımızla dostluk ilan ettiniz</String>
+  </StringTable>
+  <StringTable>
+    <Label>AskedToGetOffYourLawn_Dec</Label>
+    <String>Bölgenizden ayrılmamızı istediniz.</String>
+  </StringTable>
+  <StringTable>
+    <Label>WarWithAlly_Dec</Label>
+    <String>Müttefikimizle savaş halindesiniz.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AskedForMoney_Dec</Label>
+    <String>Bizden para istedin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YouTookUnwantedPityOnUs_Dec</Label>
+    <String>Bize merhamet etmediniz</String>
+  </StringTable>
+  <StringTable>
+    <Label>YouKilledOurDiplomat_Dec</Label>
+    <String>Diplomatımızı öldürdün.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YouUsedTerrorStar_Dec</Label>
+    <String>Bir Terör Yıldızı kullandın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YouUsedTerrorStarOnFriendlySystem_Dec</Label>
+    <String>Arkadaşımız üzerinde bir Terör Yıldızı kullandın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>YouUsedTerrorStarOnMySystem_Dec</Label>
+    <String>Gezegenimizi bir Terör Yıldızı ile yok ettiniz.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Peacekeeper_Dec</Label>
+    <String>Barışı korumanız</String>
+  </StringTable>
+  <StringTable>
+    <Label>Peacefulness_Dec</Label>
+    <String>Senin huzurun</String>
+  </StringTable>
+</StringTableList>

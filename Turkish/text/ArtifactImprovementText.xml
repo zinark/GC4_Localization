@@ -1,0 +1,261 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<StringTableList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+  <!-- Created with the GC4 editor -->
+  <!-- ArtifactImprovementText.xml -->
+  <StringTable>
+    <Label>PrecursorLibraryArtifact_Name</Label>
+    <String>Öncül Arşivi</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrecursorLibraryArtifact_ShortDec</Label>
+    <String>Mevcut araştırmayı anında tamamlayacak yüklerin kilidini açmak için bu eseri yükseltin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrecursorLibraryArtifact01_Name</Label>
+    <String>Öncül Arşiv Çalışması</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrecursorLibraryArtifact01_ShortDec</Label>
+    <String>Mevcut araştırmayı anında tamamlayacak bir ücretlendirme sağlar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>NanoFabricatorArtifact_Name</Label>
+    <String>Nano Fabrikatör</String>
+  </StringTable>
+  <StringTable>
+    <Label>NanoFabricatorArtifact_ShortDec</Label>
+    <String>Seçilen dünyada inşaatı hızlandıracak yüklerin kilidini açmak için bu eseri yükseltin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>NanoFabricatorArtifact01_Name</Label>
+    <String>Nano Fabrikatör Çalışması</String>
+  </StringTable>
+  <StringTable>
+    <Label>NanoFabricatorArtifact01_ShortDec</Label>
+    <String>Seçilen dünyada inşaatı artıracak bir yük sağlar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AncientShipyardArtifact_Name</Label>
+    <String>Motivasyon Sarmalı</String>
+  </StringTable>
+  <StringTable>
+    <Label>AncientShipyardArtifact_ShortDec</Label>
+    <String>Seçilen tersanede askeri inşaatı artıracak yüklerin kilidini açmak için bu eseri yükseltin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AncientShipyardArtifact01_Name</Label>
+    <String>Motivasyon Sarmalı Çalışması</String>
+  </StringTable>
+  <StringTable>
+    <Label>AncientShipyardArtifact01_ShortDec</Label>
+    <String>Seçilen tersanede askeri inşaatı artıracak bir ücret sağlar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrecursorTempleArtifact_Name</Label>
+    <String>Yankılanan Kalp Taşı</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrecursorTempleArtifact_ShortDec</Label>
+    <String>Seçilen dünya üzerindeki etkiyi artıracak yüklerin kilidini açmak için bu eseri yükseltin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrecursorTempleArtifact01_Name</Label>
+    <String>Yankılanan Kalp Taşı Çalışması</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrecursorTempleArtifact01_ShortDec</Label>
+    <String>Seçilen dünya üzerindeki etkiyi artıracak bir yük sağlar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrecursorTerraformerArtifact_Name</Label>
+    <String>Kimerik Biyokütle</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrecursorTerraformerArtifact_ShortDec</Label>
+    <String>Seçilen dünyadaki bir kareyi dünyalaştıracak yüklerin kilidini açmak için bu eseri yükseltin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrecursorTerraformerArtifact01_Name</Label>
+    <String>Kimerik Biyokütle Çalışması</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrecursorTerraformerArtifact01_ShortDec</Label>
+    <String>Seçilen dünya üzerindeki bir kareyi dünyalaştıracak bir yük sağlar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ResetMovesArtifact_Name</Label>
+    <String>Takviye Bobini</String>
+  </StringTable>
+  <StringTable>
+    <Label>ResetMovesArtifact_ShortDec</Label>
+    <String>Seçilen filonun hamlelerini sıfırlayacak yüklerin kilidini açmak için bu eseri yükseltin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ResetMovesArtifact01_Name</Label>
+    <String>Takviye Bobini Çalışması</String>
+  </StringTable>
+  <StringTable>
+    <Label>ResetMovesArtifact01_ShortDec</Label>
+    <String>Seçilen filonun hareketlerini sıfırlayacak bir şarj sağlar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ExpArtifact_Name</Label>
+    <String>Nöral Kovan</String>
+  </StringTable>
+  <StringTable>
+    <Label>ExpArtifact_ShortDec</Label>
+    <String>Seçilen filonun deneyimini artıracak yüklerin kilidini açmak için bu eseri yükseltin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ExpArtifact01_Name</Label>
+    <String>Nöral Kovan Çalışması</String>
+  </StringTable>
+  <StringTable>
+    <Label>ExpArtifact01_ShortDec</Label>
+    <String>Seçilen filonun deneyimini artıracak bir şarj sağlar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>RepairArtifact_Name</Label>
+    <String>Mnemonic Nanites</String>
+  </StringTable>
+  <StringTable>
+    <Label>RepairArtifact_ShortDec</Label>
+    <String>Seçilen filoyu onaracak yüklerin kilidini açmak için bu eseri yükseltin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>RepairArtifact01_Name</Label>
+    <String>Mnemonic Nanites Çalışması</String>
+  </StringTable>
+  <StringTable>
+    <Label>RepairArtifact01_ShortDec</Label>
+    <String>Seçilen filoyu onaracak bir ücret sağlar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>WormholeArtifact_Name</Label>
+    <String>Solucan Deliği Jeneratörü</String>
+  </StringTable>
+  <StringTable>
+    <Label>WormholeArtifact_ShortDec</Label>
+    <String>Bir filoyu galaksinin rastgele bir noktasına gönderecek yüklerin kilidini açmak için bu eseri yükseltin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>WormholeArtifact01_Name</Label>
+    <String>Solucan Deliği Jeneratörü Çalışması</String>
+  </StringTable>
+  <StringTable>
+    <Label>WormholeArtifact01_ShortDec</Label>
+    <String>Bir filoyu galakside rastgele bir noktaya gönderecek bir şarj sağlar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>DimensionalMirrorArtifact_Name</Label>
+    <String>Boyutlu Ayna</String>
+  </StringTable>
+  <StringTable>
+    <Label>DimensionalMirrorArtifact_ShortDec</Label>
+    <String>Galaksinin bir bölümünü açığa çıkaracak yüklerin kilidini açmak için bu eseri yükseltin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>DimensionalMirrorArtifact01_Name</Label>
+    <String>Boyutlu Ayna Çalışması</String>
+  </StringTable>
+  <StringTable>
+    <Label>DimensionalMirrorArtifact01_ShortDec</Label>
+    <String>Galaksinin bir bölümünü ortaya çıkaracak bir yük sağlar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>BetatronColliderArtifact_Name</Label>
+    <String>Betatron Çarpıştırıcısı</String>
+  </StringTable>
+  <StringTable>
+    <Label>BetatronColliderArtifact_ShortDec</Label>
+    <String>Düşman filosuna zarar verecek yüklerin kilidini açmak için bu eseri yükseltin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>BetatronColliderArtifact01_Name</Label>
+    <String>Betatron Çarpıştırıcısı Çalışması</String>
+  </StringTable>
+  <StringTable>
+    <Label>BetatronColliderArtifact01_ShortDec</Label>
+    <String>Düşman filosuna hasar verecek bir yük sağlar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>NaniteTransmitterArtifact_Name</Label>
+    <String>Nanit Verici</String>
+  </StringTable>
+  <StringTable>
+    <Label>NaniteTransmitterArtifact_ShortDec</Label>
+    <String>Bir savaş gemisi yaratacak yüklerin kilidini açmak için bu eseri yükseltin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>NaniteTransmitterArtifact01_Name</Label>
+    <String>Nanit Verici Çalışması</String>
+  </StringTable>
+  <StringTable>
+    <Label>NaniteTransmitterArtifact01_ShortDec</Label>
+    <String>Bir savaş gemisi yaratacak bir yük sağlar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>SpaceMonsterArtifact_Name</Label>
+    <String>Penumbral Fener</String>
+  </StringTable>
+  <StringTable>
+    <Label>SpaceMonsterArtifact_ShortDec</Label>
+    <String>Uzaydan bir yaratık çağıracak yüklerin kilidini açmak için bu eseri yükseltin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>SpaceMonsterArtifact01_Name</Label>
+    <String>Penumbral İşaret Çalışması</String>
+  </StringTable>
+  <StringTable>
+    <Label>SpaceMonsterArtifact01_ShortDec</Label>
+    <String>Uzaydan bir yaratık ortaya çıkaracak bir şarj sağlar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>PlanetPopulationArtifact_Name</Label>
+    <String>Bernal Küre</String>
+  </StringTable>
+  <StringTable>
+    <Label>PlanetPopulationArtifact_ShortDec</Label>
+    <String>Seçilen dünyadaki nüfus kapasitesini artıracak yüklerin kilidini açmak için bu eseri yükseltin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>PlanetPopulationArtifact01_Name</Label>
+    <String>Bernal Küre Çalışması</String>
+  </StringTable>
+  <StringTable>
+    <Label>PlanetPopulationArtifact01_ShortDec</Label>
+    <String>Seçilen dünya üzerindeki nüfus kapasitesini artıracak bir yük sağlar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>GlobalApprovalArtifact_Name</Label>
+    <String>Empati Motoru</String>
+  </StringTable>
+  <StringTable>
+    <Label>GlobalApprovalArtifact_ShortDec</Label>
+    <String>Uygarlığınızın Onayını geçici olarak artıracak yüklerin kilidini açmak için bu eseri yükseltin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>GlobalApprovalArtifact01_Name</Label>
+    <String>Empati Motoru Çalışması</String>
+  </StringTable>
+  <StringTable>
+    <Label>GlobalApprovalArtifact01_ShortDec</Label>
+    <String>Uygarlığınızın Onayını geçici olarak artıracak bir yük sağlar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>PlanetResistanceArtifact_Name</Label>
+    <String>Ön Tanıma Sensörü</String>
+  </StringTable>
+  <StringTable>
+    <Label>PlanetResistanceArtifact_ShortDec</Label>
+    <String>Seçilen dünyanın Direncini artıracak yüklerin kilidini açmak için bu eseri yükseltin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>PlanetResistanceArtifact01_Name</Label>
+    <String>Ön Biliş Sensör Çalışması</String>
+  </StringTable>
+  <StringTable>
+    <Label>PlanetResistanceArtifact01_ShortDec</Label>
+    <String>Seçilen dünyanın Direncini artıracak bir yük sağlar.</String>
+  </StringTable>
+</StringTableList>

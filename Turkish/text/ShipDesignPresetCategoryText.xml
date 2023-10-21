@@ -1,0 +1,351 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<StringTableList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+  <StringTable>
+    <Label>PresetCategory_Probe_Name</Label>
+    <String>Sonda</String>
+  </StringTable>
+  <StringTable>
+    <Label>PresetCategory_Probe_Dec</Label>
+    <String>Sınırsız menzile sahip olan Sondalar galaksiyi keşfetmek için kullanılabilir. Geniş bir sensör menziline sahiptirler ve korsanlar ve canavarlar tarafından göz ardı edilirler.</String>
+  </StringTable>
+  <StringTable>
+    <Label>PresetCategory_Miner_Name</Label>
+    <String>Madenci</String>
+  </StringTable>
+  <StringTable>
+    <Label>PresetCategory_Miner_Dec</Label>
+    <String>Asteroid Madencileri asteroidleri çıkarır ve yakındaki dünyaların [HS=HS_NaturalResources]Minerallerini[/HS] artırır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>PresetCategory_Survey_Name</Label>
+    <String>Bayrak</String>
+  </StringTable>
+  <StringTable>
+    <Label>PresetCategory_Survey_Dec</Label>
+    <String>Bayrak gemileri [HS=HS_Anomaly]Anomalileri[/HS] araştırmak ve evrenin gizemlerini ve harikalarını ortaya çıkarmak için kullanılır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>PresetCategory_Fighter_Name</Label>
+    <String>Savaşçı</String>
+  </StringTable>
+  <StringTable>
+    <Label>PresetCategory_Fighter_Dec</Label>
+    <String>Avcı gemileri küçük, manevra kabiliyeti yüksek gemilerdir ve önce diğer avcı gemilerini hedef alırlar, daha sonra da sürülmeye karşı savunmasız olan büyük sermaye gemilerinin peşine düşerler.</String>
+  </StringTable>
+  <StringTable>
+    <Label>PresetCategory_Bomber_Name</Label>
+    <String>Bombacı</String>
+  </StringTable>
+  <StringTable>
+    <Label>PresetCategory_Bomber_Dec</Label>
+    <String>Bombardıman uçakları küçük, manevra kabiliyeti yüksek gemilerdir ve sürülmeye karşı savunmasız olan büyük sermaye gemilerinin peşinden giderler.</String>
+  </StringTable>
+  <StringTable>
+    <Label>PresetCategory_Frigate_Name</Label>
+    <String>Fırkateyn</String>
+  </StringTable>
+  <StringTable>
+    <Label>PresetCategory_Frigate_Dec</Label>
+    <String>Hafif silahları olan küçük bir gemi.</String>
+  </StringTable>
+  <StringTable>
+    <Label>PresetCategory_Cruiser_Name</Label>
+    <String>Kruvazör</String>
+  </StringTable>
+  <StringTable>
+    <Label>PresetCategory_Cruiser_Dec</Label>
+    <String>Çoklu silah desteğine sahip orta büyüklükte bir savaş gemisi.</String>
+  </StringTable>
+  <StringTable>
+    <Label>PresetCategory_Battleship_Name</Label>
+    <String>Savaş Gemisi</String>
+  </StringTable>
+  <StringTable>
+    <Label>PresetCategory_Battleship_Dec</Label>
+    <String>İnanılmaz bir dizi saldırı ve savunma kabiliyetine sahip büyük bir savaş gemisi.</String>
+  </StringTable>
+  <StringTable>
+    <Label>PresetCategory_Dreadnought_Name</Label>
+    <String>Dreadnought</String>
+  </StringTable>
+  <StringTable>
+    <Label>PresetCategory_Dreadnought_Dec</Label>
+    <String>Galaksideki en büyük ve en tehlikeli savaş gemileri.</String>
+  </StringTable>
+  <StringTable>
+    <Label>PresetCategory_Colony_Name</Label>
+    <String>Koloni</String>
+  </StringTable>
+  <StringTable>
+    <Label>PresetCategory_Colony_Dec</Label>
+    <String>Koloni gemileri yeni dünyaları kolonileştirmek için kullanılır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>PresetCategory_Constructor_Name</Label>
+    <String>Kurucu</String>
+  </StringTable>
+  <StringTable>
+    <Label>PresetCategory_Constructor_Dec</Label>
+    <String>İnşaatçılar, yakındaki kaynakları ve kalıntıları talep edebilen, yakındaki gezegenlere ekonomik destek sağlayan ve genel olarak medeniyetinizin etkisini genişleten Yıldız Üsleri inşa etmek için kullanılır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>PresetCategory_Freighter_Name</Label>
+    <String>Yük Gemisi</String>
+  </StringTable>
+  <StringTable>
+    <Label>PresetCategory_Freighter_Dec</Label>
+    <String>Diğer medeniyetlerin dünyalarıyla ticaret yolları kurarak ilişkileri geliştirir ve [HS=HS_ColonyGrossIncome]Income[/HS].</String>
+  </StringTable>
+  <StringTable>
+    <Label>PresetCategory_SupplyShip_Name</Label>
+    <String>İkmal Gemisi</String>
+  </StringTable>
+  <StringTable>
+    <Label>PresetCategory_SupplyShip_Dec</Label>
+    <String>İkmal Gemileri kontrol ettiğiniz [HS=HS_CoreWorld]Çekirdek Dünyalara[/HS] mal taşıyarak o dünyaya üretim artışı sağlar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>PresetCategory_Siege_Name</Label>
+    <String>Kuşatma</String>
+  </StringTable>
+  <StringTable>
+    <Label>PresetCategory_Siege_Dec</Label>
+    <String>Kolonileri fethetmek için tasarlanmış bir savaş gemisi.</String>
+  </StringTable>
+  <StringTable>
+    <Label>PresetCategory_Invader_Name</Label>
+    <String>İstilacı</String>
+  </StringTable>
+  <StringTable>
+    <Label>PresetCategory_Invader_Dec</Label>
+    <String>Tüm dünyaları fethetmek için askerlerle dolu bir nakliye gemisi.</String>
+  </StringTable>
+  <StringTable>
+    <Label>PresetCategory_Undeclared_Name</Label>
+    <String>Beyan edilmemiş</String>
+  </StringTable>
+  <StringTable>
+    <Label>PresetCategory_Undeclared_Dec</Label>
+    <String>Tanımsız gemi.</String>
+  </StringTable>
+  <StringTable>
+    <Label>PresetCategory_Mercenary_Name</Label>
+    <String>Paralı Asker</String>
+  </StringTable>
+  <StringTable>
+    <Label>PresetCategory_Mercenary_Dec</Label>
+    <String>Galakside eşsiz bir gemi.</String>
+  </StringTable>
+  <StringTable>
+    <Label>SpeedClass_Fast</Label>
+    <String>En hızlı</String>
+  </StringTable>
+  <StringTable>
+    <Label>SpeedClass_Quick</Label>
+    <String>Hızlı</String>
+  </StringTable>
+  <StringTable>
+    <Label>SpeedClass_Normal</Label>
+    <String>Standart</String>
+  </StringTable>
+  <StringTable>
+    <Label>SpeedClass_Slow</Label>
+    <String>Yavaş</String>
+  </StringTable>
+  <StringTable>
+    <Label>SpeedClass_Slowest</Label>
+    <String>En Yavaş</String>
+  </StringTable>
+  <StringTable>
+    <Label>CombatAbilities_Test</Label>
+    <String>YER TUTUCU SAVAŞ YETENEĞI METNI</String>
+  </StringTable>
+  <StringTable>
+    <Label>NEW_DESIGN_SPECS_LABEL_Probe</Label>
+    <String>Uzayı araştırmak için küçük gemi</String>
+  </StringTable>
+  <StringTable>
+    <Label>NEW_DESIGN_BENEFITS_LABEL_Probe</Label>
+    <String>Korsanlar ve uzay canavarları tarafından görmezden gelindi</String>
+  </StringTable>
+  <StringTable>
+    <Label>NEW_DESIGN_SPECS_LABEL_Miner</Label>
+    <String>Madencilik için küçük gemi</String>
+  </StringTable>
+  <StringTable>
+    <Label>NEW_DESIGN_BENEFITS_LABEL_Miner</Label>
+    <String>Yakındaki asteroitleri mayınlar</String>
+  </StringTable>
+  <StringTable>
+    <Label>NEW_DESIGN_SPECS_LABEL_Fighter</Label>
+    <String>Küçük savaş gemisi</String>
+  </StringTable>
+  <StringTable>
+    <Label>NEW_DESIGN_BENEFITS_LABEL_Fighter</Label>
+    <String>Çatışmada son hedef</String>
+  </StringTable>
+  <StringTable>
+    <Label>NEW_DESIGN_SPECS_LABEL_Bomber</Label>
+    <String>Küçük savaş gemisi</String>
+  </StringTable>
+  <StringTable>
+    <Label>NEW_DESIGN_BENEFITS_LABEL_Bomber</Label>
+    <String>Büyük gemileri hedef alır</String>
+  </StringTable>
+  <StringTable>
+    <Label>NEW_DESIGN_SPECS_LABEL_Frigate</Label>
+    <String>Küçük savaş gemisi</String>
+  </StringTable>
+  <StringTable>
+    <Label>NEW_DESIGN_BENEFITS_LABEL_Frigate</Label>
+    <String>Hedefler savaşçılar</String>
+  </StringTable>
+  <StringTable>
+    <Label>NEW_DESIGN_SPECS_LABEL_Survey</Label>
+    <String>Keşif için orta boy gemi</String>
+  </StringTable>
+  <StringTable>
+    <Label>NEW_DESIGN_BENEFITS_LABEL_Survey</Label>
+    <String>Anomalileri arayabilme</String>
+  </StringTable>
+  <StringTable>
+    <Label>NEW_DESIGN_SPECS_LABEL_Cruiser</Label>
+    <String>Orta muharebe gemisi</String>
+  </StringTable>
+  <StringTable>
+    <Label>NEW_DESIGN_BENEFITS_LABEL_Cruiser</Label>
+    <String>Diğer Fırkateynleri Hedefler</String>
+  </StringTable>
+  <StringTable>
+    <Label>NEW_DESIGN_SPECS_LABEL_Siege</Label>
+    <String>Küçük kuşatma gemisi</String>
+  </StringTable>
+  <StringTable>
+    <Label>NEW_DESIGN_BENEFITS_LABEL_Siege</Label>
+    <String>[ICON=Moves_Icon] Fetih Yükseltmesi +5[BR][ICON=Moves_Icon] Kuşatma Bonusu +%25</String>
+  </StringTable>
+  <StringTable>
+    <Label>NEW_DESIGN_SPECS_LABEL_Battleship</Label>
+    <String>Büyük sermaye savaş gemisi</String>
+  </StringTable>
+  <StringTable>
+    <Label>NEW_DESIGN_BENEFITS_LABEL_Battleship</Label>
+    <String>[ICON=TacticalSpeed_Icon] Taktiksel Hız -5</String>
+  </StringTable>
+  <StringTable>
+    <Label>NEW_DESIGN_SPECS_LABEL_Dreadnought</Label>
+    <String>Büyük savaş gemisi</String>
+  </StringTable>
+  <StringTable>
+    <Label>NEW_DESIGN_BENEFITS_LABEL_Dreadnought</Label>
+    <String>[ICON=TacticalSpeed_Icon] Taktiksel Hız -10</String>
+  </StringTable>
+  <StringTable>
+    <Label>NEW_DESIGN_SPECS_LABEL_Colony</Label>
+    <String>Kargo gemisi</String>
+  </StringTable>
+  <StringTable>
+    <Label>NEW_DESIGN_BENEFITS_LABEL_Colony</Label>
+    <String>Gezegenleri kolonize edebilir</String>
+  </StringTable>
+  <StringTable>
+    <Label>NEW_DESIGN_SPECS_LABEL_Constructor</Label>
+    <String>Kargo gemisi</String>
+  </StringTable>
+  <StringTable>
+    <Label>NEW_DESIGN_BENEFITS_LABEL_Constructor</Label>
+    <String>Yıldız üsleri oluşturur veya yükseltir</String>
+  </StringTable>
+  <StringTable>
+    <Label>NEW_DESIGN_SPECS_LABEL_Invader</Label>
+    <String>Kargo gemisi</String>
+  </StringTable>
+  <StringTable>
+    <Label>NEW_DESIGN_BENEFITS_LABEL_Invader</Label>
+    <String>[ICON=Moves_Icon] Fetih Yükseltmesi +10[BR][ICON=Moves_Icon] Kuşatma Bonusu +%100</String>
+  </StringTable>
+  <StringTable>
+    <Label>NEW_DESIGN_SPECS_LABEL_Freighter</Label>
+    <String>Kargo gemisi</String>
+  </StringTable>
+  <StringTable>
+    <Label>NEW_DESIGN_BENEFITS_LABEL_Freighter</Label>
+    <String>Ticaret yolları oluşturur</String>
+  </StringTable>
+  <StringTable>
+    <Label>NEW_DESIGN_SPECS_LABEL_SupplyShip</Label>
+    <String>Kargo gemisi</String>
+  </StringTable>
+  <StringTable>
+    <Label>NEW_DESIGN_BENEFITS_LABEL_SupplyShip</Label>
+    <String>Üretim mallarının taşınması</String>
+  </StringTable>
+  <StringTable>
+    <Label>NEW_DESIGN_SPECS_LABEL_Mercenary</Label>
+    <String>Paralı Asker Özellikleri</String>
+  </StringTable>
+  <StringTable>
+    <Label>NEW_DESIGN_BENEFITS_LABEL_Mercenary</Label>
+    <String>Gemi başına benzersiz avantajlar</String>
+  </StringTable>
+  <StringTable>
+    <Label>NEW_DESIGN_BENEFITS_LABEL_Undeclared</Label>
+    <String>İnşa etmek için belirli bir sınıf ile yükseltme</String>
+  </StringTable>
+  <StringTable>
+    <Label>NEW_DESIGN_SPECS_LABEL_Undeclared</Label>
+    <String>Beyan edilmemiş gemi tasarımları sınıfı</String>
+  </StringTable>
+  <StringTable>
+    <Label>BattleBehavior_Fighter_Name</Label>
+    <String>Savaşçı</String>
+  </StringTable>
+  <StringTable>
+    <Label>BattleBehavior_Bomber_Name</Label>
+    <String>Bombacı</String>
+  </StringTable>
+  <StringTable>
+    <Label>BattleBehavior_Cruiser_Name</Label>
+    <String>Kruvazör</String>
+  </StringTable>
+  <StringTable>
+    <Label>BattleBehavior_Frigate_Name</Label>
+    <String>Fırkateyn</String>
+  </StringTable>
+  <StringTable>
+    <Label>BattleBehavior_Capital_Name</Label>
+    <String>Başkent Gemisi</String>
+  </StringTable>
+  <StringTable>
+    <Label>BattleBehavior_Starbase_Name</Label>
+    <String>Yıldız Üssü</String>
+  </StringTable>
+  <StringTable>
+    <Label>BattleBehavior_Upgrading_Name</Label>
+    <String>Yükseltme</String>
+  </StringTable>
+  <StringTable>
+    <Label>BattleBehavior_Support_Name</Label>
+    <String>Destek</String>
+  </StringTable>
+  <StringTable>
+    <Label>BattleBehavior_Guardian_Name</Label>
+    <String>Guardian</String>
+  </StringTable>
+  <StringTable>
+    <Label>CombatAbilities_None</Label>
+    <String>Hiçbiri</String>
+  </StringTable>
+  <StringTable>
+    <Label>CombatAbilities_EvasionBonus</Label>
+    <String>+%50 Kaçınma</String>
+  </StringTable>
+  <StringTable>
+    <Label>CombatAbilities_AccuracyBonus</Label>
+    <String>+%50 Doğruluk</String>
+  </StringTable>
+  <StringTable>
+    <Label>BattleBehavior_Flee_Name</Label>
+    <String>Kaçmak</String>
+  </StringTable>
+</StringTableList>

@@ -1,0 +1,213 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<StringTableList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+  <!--Campaign Tutorial Text-->
+  <StringTable>
+    <Label>Tutorial_CampaignName</Label>
+    <String>(Öğretici) Şimdiye Kadarki Hikaye</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tutorial_CampaignDec</Label>
+    <String>2178'de Birleşik Dünya'nın insanları ışıktan hızlı yolculuğu keşfederek Hiper Sürücü Tahrik sistemlerini geliştirdiler.[BR][BR]İnsanlık iki uygarlıkla yıldızlararası temas kurmuştu bile: Korx ve Arcean İmparatorluğu. Keşiflerini paylaşmaya hevesli bazı bilim insanları, yeni tahrik sistemlerinin özelliklerini Arceans ve Korx'a iletir. Her iki grup da bu yeni teknolojinin özelliklerini aldıktan hemen sonra sessizliğe bürünür. Dünya evrende bir kez daha yalnız kalır.[BR][BR]Siz yeni kurulan Terran İttifakı'nın lideri Komutan DL Bradley'siniz. Bu grup uzayın insanlı keşfini ve yeni gezegenlerin kolonileştirilmesini denetlemek için oluşturuldu. İnsanlığın yeni Hiper Sürücülü İtiş Gücü bu tür büyük hedefleri mümkün kılıyor.[BR][BR]Ne yazık ki, yeni bir tehditle mücadele etmek zorundasınız: Korsanlar. Bir grup terörist Hiper Sürücü planlarını ele geçirdi. Yakındaki yıldız sistemlerinde tutunabildikleri sürece tüm kolonileşme çabalarını tehdit ediyorlar. Bir noktada, üslerini bulup yok etmemiz gerekecek.[BR][BR]Birincil göreviniz, en az biri bir vali gerektirecek kadar büyük olmak üzere en az 8 dünyayı kolonileştirmek ve çabayı destekleyecek liderler oluşturmaktır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Campaign_Tutorail_UseProbe</Label>
+    <String>Diğer Uygarlığı Bulun</String>
+  </StringTable>
+  <StringTable>
+    <Label>Campaign_Tutorail_UseProbe_Dec</Label>
+    <String>Sonda'ya tüm [ICON=Moves_Icon] [HS=HS_Moves]Moves[/HS] kullanılana kadar emir verin. Sondayı seçin ve galaksiyi keşfetmek için kullanın.[BR][BR]Seçmek için SOL fare tuşunu ve göndermek istediğiniz yere gitmek için SAĞ fare tuşunu kullanın.[BR][BR][I]Gezegenlere, tersanelere ve yıldız gemilerine ÇİFT TIKLAYARAK yönetim menülerine hızlıca ulaşabilirsiniz.[/I]</String>
+  </StringTable>
+  <StringTable>
+    <Label>Campaign_Tutorail_SurveyFirstAnomaly</Label>
+    <String>Bir Anomaliyi Tarayın</String>
+  </StringTable>
+  <StringTable>
+    <Label>Campaign_Tutorail_SurveyFirstAnomaly_Dec</Label>
+    <String>[HS=HS_SurveyShip]Survey Ship[/HS]'i [HS=HS_SurveyOrder]Survey[/HS] bir [HS=HS_Anomaly]Anomaly[/HS] için kullanın. [HS=HS_SurveyOrder]Surveying[/HS] an [HS=HS_Anomaly]Anomaly[/HS] birkaç [HS=HS_Months]Months[/HS] kesintisiz çalışma gerektirir. [HS=HS_SurveyShip]Survey Ship[/HS] hareket ettirilirse veya farklı emirler verilirse, [HS=HS_Anomaly]Anomaly[/HS]'nin ortaya çıkarılmasına yönelik tüm ilerlemeyi kaybedecektir. [BR][BR]SOL Fare Düğmesini kullanarak [HS=HS_SurveyShip]Survey Ship[/HS]'i seçin ve [HS=HS_SurveyOrder]Survey[/HS]'e bir [HS=HS_Anomaly]Anomaly[/HS] emri verin. Bu, SAĞ Fare Düğmesi ile geminin hedefi olarak bir [HS=HS_Anomaly]Anomaly[/HS] ayarlayarak yapılabilir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Campaign_Tutorail_SurveyTargetAnomalies</Label>
+    <String>Tarama 5 Anomaliler</String>
+  </StringTable>
+  <StringTable>
+    <Label>Campaign_Tutorail_SurveyTargetAnomalies_Dec</Label>
+    <String>[HS=HS_SurveyShip]Survey Ship[/HS] ile [HS=HS_SurveyOrder]Survey[/HS] birkaç [HS=HS_Anomaly]Anomalies[/HS] kullanın. Uzayda kasıtlı ya da kasıtsız olarak geride bırakılmış pek çok bilinmeyen öğe bulunmaktadır. Yıldızlara hakim olmak için birçok [HS=HS_Anomali]Anomali[/HS] keşfetmemiz ve ele almamız gerekecektir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Campaign_Tutorail_ColonizeFirstPlanet</Label>
+    <String>Bir Gezegeni Kolonileştirin</String>
+  </StringTable>
+  <StringTable>
+    <Label>Campaign_Tutorail_ColonizeFirstPlanet_Dec</Label>
+    <String>Koloni Gemisini kullanarak [HS=HS_ColonizeOrder]Bir gezegeni kolonileştirin[/HS]. Mars mükemmele yakın bir adaydır. Mars faydalı kaynaklar sağlayabilir ve İttifakın Ana Dünyasına yakındır.[BR][BR]SOL Fare Tuşunu kullanarak bu Koloni Gemisini seçin ve [HS=HS_ColonizeOrder]Colonize[/HS] bir gezegen için emir verin. Bu, SAĞ Fare Düğmesi ile kolonileştirilebilir bir Gezegeni geminin hedefi olarak ayarlayarak yapılabilir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Campaign_Tutorail_ColonizeTargetPlanets</Label>
+    <String>8 Gezegeni Kolonileştirin</String>
+  </StringTable>
+  <StringTable>
+    <Label>Campaign_Tutorail_ColonizeTargetPlanets_Dec</Label>
+    <String>[HS=HS_ColonizeOrder]Colonize[/HS] edilecek gezegenleri bulmak için galaksiyi keşfedin. Gezegenler Koloni Gemileri kullanılarak [HS=HS_ColonizeOrder]Kolonileştirilebilir[/HS]. Koloni Gemileri bir [HS=HS_Shipyard]Shipyard[/HS]'da inşa edilebilir veya Draft Colonists [ICON=Menu_ExecutiveOrders_Icon] [HS=HS_ExecutiveOrders]Executive Order[/HS] aracılığıyla elde edilebilir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Campaign_Tutorail_FillCabinet</Label>
+    <String>3 Bakan atayın</String>
+  </StringTable>
+  <StringTable>
+    <Label>Campaign_Tutorail_FillCabinet_Dec</Label>
+    <String>[HS=HS_Leaders]Liderleri[/HS] işe alarak ve onları çalıştırarak tüm İttifak'a fayda sağlayın. İşe alınan [HS=HS_Liderler]Liderler[/HS], [ICON=Menu_Leader_Icon] [HS=HS_LeaderMenu]Liderler Menüsü[/HS] aracılığıyla erişilebilen [HS=HS_MinistersScreen]Bakanlar Ekranında[/HS] rollere atanabilir. Her pozisyon belirli bir statüye bağlı olarak benzersiz bir fayda sağlar, bu nedenle mümkün olan en iyi faydayı elde etmek için iş için en iyi kişiyi seçin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Campaign_Tutorail_AppointGovernor</Label>
+    <String>Bir Vali Atayın</String>
+  </StringTable>
+  <StringTable>
+    <Label>Campaign_Tutorail_AppointGovernor_Dec</Label>
+    <String>[HS=HS_PlanetClass]Planet Class[/HS] 10 veya daha büyük olan gezegenler, gezegene bir [HS=HS_Governor]Governor[/HS] atanarak [HS=HS_CoreWorld]Core Worlds[/HS] haline getirilebilir. Bir [HS=HS_Governor]Governor[/HS] atamak için öncelikle bir Liderin mevcut olması gerekir. [HS=HS_Governor]Governor[/HS] bulunan gezegenler, üretimi artırmak ve yeni bir [HS=HS_Shipyard]Shipyard[/HS] desteklemek için yükseltilebilir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Campaign_Tutorail_UnlockPolicyScreen</Label>
+    <String>Sömürge Politikalarını Araştırın</String>
+  </StringTable>
+  <StringTable>
+    <Label>Campaign_Tutorail_UnlockPolicyScreen_Dec</Label>
+    <String>[HS=HS_ResearchCenter]Araştırma Merkezi[/HS]'ne erişin ve araştırılan mevcut [HS=HS_Tech]Tech[/HS]'in Colonial Pollicies olduğundan emin olun. [HS=HS_Tech]Tech[/HS]'in kaç [HS=HS_Months]Months[/HS] araştırma gerektireceği tüm [HS=HS_CoreWorld]Core Worlds[/HS]'lerdeki Araştırma derecesine göre belirlenir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Campaign_Tutorail_EnactAPolicy</Label>
+    <String>Bir Politika Yürürlüğe Koyun</String>
+  </StringTable>
+  <StringTable>
+    <Label>Campaign_Tutorail_EnactAPolicy_Dec</Label>
+    <String>[HS=HS_Policy]Policies[/HS] bir medeniyetteki her Koloni ve filoyu etkilemenin bir yoludur. Hedeflere ulaşmaya yardımcı olmak için [ICON=Menu_CivilizationMenu_Icon] [HS=HS_CivilizationMenu]Civilization Menu[/HS] altında bir [HS=HS_Policy]Policy[/HS] yürürlüğe koyun. [HS=HS_Policy]Politikalar[/HS] değişen koşullara daha iyi uyum sağlamak için sıranız geldiğinde değiştirilebilir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Campaign_Tutorail_DestroyTheShipyard</Label>
+    <String>Bir Korsan Tersanesini Yok Et</String>
+  </StringTable>
+  <StringTable>
+    <Label>Campaign_Tutorail_DestroyTheShipyard_Dec</Label>
+    <String>[HS=HS_Pirates]Pirates[/HS] galaksinin bu bölümünde bir üs kurdu. Bir [HS=HS_Shipyard]Tersane[/HS] kurmalarına izin verilirken, tüm İttifak'ı tehdit eden gemiler üretebilirler. [HS=HS_Pirates]Pirate's[/HS] [HS=HS_Shipyard]Shipyard[/HS]'ı yok etmek güçlerini zayıflatacak ve onları galaksiden uzaklaştıracaktır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Campaign_Tutorail_RushPlanetaryImprovement</Label>
+    <String>Gezegensel Bir İyileştirme İçin Acele Edin</String>
+  </StringTable>
+  <StringTable>
+    <Label>Campaign_Tutorail_RushPlanetaryImprovement_Dec</Label>
+    <String>[HS=HS_Rush]Rush[/HS] bir Gezegensel İyileştirme için, bir [HS=HS_CoreWorld]Core World[/HS] seçin ve Yönetim penceresini açın. Sol Fare Tuşu ile İnşa Kuyruğundaki herhangi bir öğeyi seçmek bazı bağlamsal seçenekleri ortaya çıkaracaktır. Bunlar arasında [HS=HS_Rush]Rush[/HS] seçeneği de bulunmaktadır. [ICON=Stat_Control_Icon] [HS=HS_Control]Control[/HS] ve [ICON=Stat_Credits_Icon] [HS=HS_Credit]Credits[/HS] gerekli olduğu sürece, [HS=HS_Rush]Rush[/HS] seçeneğini seçmek [HS=HS_Rush]Rush[/HS] belirli bir iyileştirme sağlayacaktır. Gerekli kaynaklara sahip değilseniz [HS=HS_Rush]Rush[/HS] seçeneği grileşecek ve yanıt vermeyecektir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Campaign_Tutorail_UseExecutiveOrder</Label>
+    <String>Yürütme Emri Kullanın</String>
+  </StringTable>
+  <StringTable>
+    <Label>Campaign_Tutorail_UseExecutiveOrder_Dec</Label>
+    <String>[ICON=Menu_ExecutiveOrders_Icon] [HS=HS_ExecutiveOrders]Executive Orders [/HS] ilgili radyal seçenekten seçilir. Bazıları kullanım onaylanır onaylanmaz yürürlüğe girer. Diğerleri bir hedef gerektirir ve emir onaylandıktan sonra yönlendirilmelidir. Fareyi [ICON=Menu_ExecutiveOrders_Icon] [HS=HS_ExecutiveOrders]Executive Order[/HS] seçeneğinin üzerine getirin ve ardından bir emir seçmek için SOL Fare Düğmesini kullanın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Campaign_Tutorail_Overall</Label>
+    <String>Terran İttifakı için Sektörün Güvenliğini Sağlayın</String>
+  </StringTable>
+  <StringTable>
+    <Label>Campaign_Tutorail_FindCoreWorld</Label>
+    <String>Sınıf 10 veya Daha Büyük Bir Gezegende Kolonileşme</String>
+  </StringTable>
+  <StringTable>
+    <Label>Campaign_Tutorail_FindCoreWorld_Dec</Label>
+    <String>Başarılı bir şekilde [HS=HS_Colinizing]Colonized[/HS] İttifak için yeterli sayıda gezegen kurdunuz; ancak İttifak yeni bir [HS=HS_CoreWorld]Core World[/HS] ile yerini güçlendirmek istiyor. Yeni bir [HS=HS_CoreWorld]Core World[/HS] kurmak için, [HS=HS_PlanetClass]Planet Class[/HS] 10 veya daha yüksek bir gezegende bir Koloniye ihtiyacınız olacak. Galakside [HS=HS_PlanetClass]Planet Class[/HS] 10 veya daha yüksek [HS=HS_ColonizeOrder]Colonize[/HS] değerinde bir gezegen aramaya devam edin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Campaign_Tutorail_UnlockLeaders</Label>
+    <String>Koloni Liderliği Projesini tamamlayın</String>
+  </StringTable>
+  <StringTable>
+    <Label>Campaign_Tutorail_UnlockLeaders_Dec</Label>
+    <String>Projeler, kaynak ve ek faydalar elde etmek için bir [HS=HS_CoreWorld]Core World[/HS]'de tamamlanabilir. Koloni Liderliği Projesi, Liderlere ve Lider Yönetimine erişim sağladığından başarı için kritik öneme sahiptir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Campaign_Tutorail_MineAnAsteroid</Label>
+    <String>Bir Asteroit Çıkarın</String>
+  </StringTable>
+  <StringTable>
+    <Label>Campaign_Tutorail_MineAnAsteroid_Dec</Label>
+    <String>(YER TUTUCU) Bir asteroit madenciliği hedefinin kısa açıklaması.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Campaign_Tutorail_BuildEconomicStarbase</Label>
+    <String>Bir Ekonomik Yıldız Üssü İnşa Edin</String>
+  </StringTable>
+  <StringTable>
+    <Label>Campaign_Tutorail_BuildEconomicStarbase_Dec</Label>
+    <String>(YER SAHİBİ) Ekonomik bir yıldız üssü inşa etme hedefinin kısa açıklaması.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Campaign_Tutorail_UnlockAsteroidMining</Label>
+    <String>Asteroit Madenciliğinin Kilidini Aç</String>
+  </StringTable>
+  <StringTable>
+    <Label>Campaign_Tutorail_UnlockAsteroidMining_Dec</Label>
+    <String>(YER TUTUCU) Asteroit Madenciliği teknolojisinde ustalaşma hedefinin kısa açıklaması.</String>
+  </StringTable>
+  <!--EVENT TEXT-->
+  <StringTable>
+    <Label>Campaign_Tutorail_GenericConfirm</Label>
+    <String>Anlaşıldı</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Campaign_Tutorial_Intro_Name</Label>
+    <String>Terran İttifakı: İlk Adımlar</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Campaign_Tutorial_Intro_Dec</Label>
+    <String>2178'de Birleşik Dünya'nın insanları ışıktan hızlı yolculuğu keşfederek Hiper Sürücü Tahrik sistemlerini geliştirdiler.[BR][BR]İnsanlık iki uygarlıkla yıldızlararası temas kurmuştu bile: Korx ve Arcean İmparatorluğu. Keşiflerini paylaşmaya hevesli bazı bilim insanları, yeni tahrik sistemlerinin özelliklerini Arceans ve Korx'a iletir. Her iki grup da bu yeni teknolojinin özelliklerini aldıktan hemen sonra sessizliğe bürünür. Dünya evrende bir kez daha yalnız kalır.[BR][BR]Siz yeni kurulan Terran İttifakı'nın lideri Komutan DL Bradley'siniz. Bu grup uzayın insanlı keşfini ve yeni gezegenlerin kolonileştirilmesini denetlemek için oluşturuldu. İnsanlığın yeni Hiper Sürücülü İtiş Gücü bu tür büyük hedefleri mümkün kılıyor.[BR][BR]Ne yazık ki, yeni bir tehditle mücadele etmek zorundasınız: Korsanlar. Bir grup terörist Hiper Sürücü planlarını ele geçirdi. Yakındaki yıldız sistemlerinde tutunabildikleri sürece tüm kolonileşme çabalarını tehdit ediyorlar. Bir noktada, üslerini bulup yok etmemiz gerekecek.[BR][BR]Birincil göreviniz, en az biri bir vali gerektirecek kadar büyük olmak üzere en az 8 dünyayı kolonileştirmek ve çabayı destekleyecek liderler oluşturmaktır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Campaign_Tutorial_ColonizedGovernablePlanet_Name</Label>
+    <String>Muhtemel Bir Çekirdek Dünya</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Campaign_Tutorial_ColonizedTargetPlanets_Name</Label>
+    <String>Foothold Kuruldu</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Campaign_Tutorial_ColonizedTargetPlanetsNoCoreworld_Name</Label>
+    <String>Çekirdek Bir Dünya Arayışı</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Campaign_Tutorial_CanUseCabinet_Name</Label>
+    <String>Liderler Mevcut</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Campaign_Tutorial_InstalledGovernor_Name</Label>
+    <String>Vali Atandı</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Campaign_Tutorial_PiratesSpotted_Name</Label>
+    <String>Korsan Tersanesi Bulundu!</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Campaign_Tutorial_CabinetFilled_Name</Label>
+    <String>Dolap Dolu</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Campaign_Tutorial_ShipyardDestroyed_Name</Label>
+    <String>Korsan Tersanesi Yok Edildi</String>
+  </StringTable>
+  <StringTable>
+    <Label>Event_Campaign_Tutorial_ShipyardDestroyedLeadersLocked_Name</Label>
+    <String>Korsan Tersanesi Yok Edildi</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_TERRAN_Campaign_Tutorial_StartupDescription</Label>
+    <String>Terran İttifakı, Birleşik Dünya tarafından uzayı keşfetmek ve yeni gezegenleri kolonileştirmek amacıyla kurulmuştur. Bu proje ışıktan hızlı seyahatin geliştirilmesiyle mümkün olmuştur. Galaksiye yaklaşmak dikkatli olmayı gerektirir. Eğer kozmosun doğal tehlikeleri yeterli değilse, uzaylılar da olabilir. [BR][BR]İnsanlığın Arceans ya da Korx ile son temasından bu yana epey zaman geçti ve onları galakside bir kez daha yalnız bıraktı. Diğer uzaylı gruplarının keşfedilmesi sadece bir zaman meselesi olabilir. O zamana kadar sektörü insanlık adına güvence altına almak Terran İttifakı'na ve komutanı DL Bradley'e düşüyor.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_TERRAN_Campaign_Tutorial_StartupTraitsDescription</Label>
+    <String>Terran İttifakı'nın mevcut izolasyonu bir avantaj olarak değerlendirilmelidir. Genişlemek, üretim yapmak ve en iyi nasıl organize olunacağını keşfetmek için bir fırsat var.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FACTION_TERRAN_Campaign_Tutorial_StartupTitle</Label>
+    <String>İzole Uzay Savaşçıları</String>
+  </StringTable>
+</StringTableList>

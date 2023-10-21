@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<StringTableList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+  <StringTable>
+    <Label>Ability_MissileShortRange_Name</Label>
+    <String>Kısa Menzilli Füze Yaylım Ateşi</String>
+  </StringTable>
+  <StringTable>
+    <Label>Ability_MissileShortRange_Desc</Label>
+    <String>En fazla 3 karo uzaktaki bir düşman filosuna veya üssüne saldırın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Ability_MissileMediumRange_Name</Label>
+    <String>Orta Menzilli Füze Yaylım Ateşi</String>
+  </StringTable>
+  <StringTable>
+    <Label>Ability_MissileMediumRange_Desc</Label>
+    <String>En fazla 5 karo uzaktaki bir düşman filosuna veya üssüne saldırın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Ability_MissileLongRange_Name</Label>
+    <String>Uzun Menzilli Füze Yaylım Ateşi</String>
+  </StringTable>
+  <StringTable>
+    <Label>Ability_MissileLongRange_Desc</Label>
+    <String>En fazla 7 karo uzaktaki bir düşman filosuna veya üssüne saldırın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Ability_AntimatterBomb_Name</Label>
+    <String>Antimadde Bombası</String>
+  </StringTable>
+  <StringTable>
+    <Label>Ability_AntimatterBomb_Desc</Label>
+    <String>5 karelik yarıçap içindeki tüm düşman filolarına, tersanelerine ve yıldız üslerine 12 hasar verir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Ability_Heal_Name</Label>
+    <String>Onarım</String>
+  </StringTable>
+  <StringTable>
+    <Label>Ability_Heal_Desc</Label>
+    <String>Bu filoyu tamamen iyileştirir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Ability_HealingDrones_Name</Label>
+    <String>Onarım Dronları</String>
+  </StringTable>
+  <StringTable>
+    <Label>Ability_HealingDrones_Desc</Label>
+    <String>Hedeflenen filodaki tüm gemilerin 20 Hit Puanı hasarını onarır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Ability_SpawnColony_Name</Label>
+    <String>Yumurtlama Kolonisi</String>
+  </StringTable>
+  <StringTable>
+    <Label>Ability_SpawnColony_Desc</Label>
+    <String>Yakınlarda bir Koloni Gemisi üret.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Ability_SpawnFreighter_Name</Label>
+    <String>Spawn Freighter</String>
+  </StringTable>
+  <StringTable>
+    <Label>Ability_SpawnFreighter_Desc</Label>
+    <String>Yakınlarda bir Yük Gemisi yumurtla.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Ability_SpawnGunboat_Name</Label>
+    <String>Spawn Gunboat</String>
+  </StringTable>
+  <StringTable>
+    <Label>Ability_SpawnGunboat_Desc</Label>
+    <String>Yakınlarda bir Savaş Gemisi doğur.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Ability_SpawnLoireagClone_Name</Label>
+    <String>Klon Loireag</String>
+  </StringTable>
+  <StringTable>
+    <Label>Ability_SpawnLoireagClone_Desc</Label>
+    <String>Loireag'ın bir kopyasını oluşturun.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Ability_SpawnProbe_Name</Label>
+    <String>Spawn Probe</String>
+  </StringTable>
+  <StringTable>
+    <Label>Ability_SpawnProbe_Desc</Label>
+    <String>Yakınlarda bir sonda üret.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Ability_SpawnTransport_Name</Label>
+    <String>Yumurtlama Taşımacılığı</String>
+  </StringTable>
+  <StringTable>
+    <Label>Ability_SpawnTransport_Desc</Label>
+    <String>Yakınlarda bir Nakliye üretin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Ability_TerrorStar_Beam_Name</Label>
+    <String>Terör Yıldız Işını</String>
+  </StringTable>
+  <StringTable>
+    <Label>Ability_TerrorStar_Beam_Desc</Label>
+    <String>Hedeflenen yıldızı ve sistemdeki gezegenleri yok eder, geride asteroitler bırakır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Ability_MissileVolley_Name</Label>
+    <String>Füze Yaylım Ateşi</String>
+  </StringTable>
+  <StringTable>
+    <Label>Ability_MissileVolley_Desc</Label>
+    <String>En fazla 4 karo uzaktaki bir düşman filosuna veya üssüne saldırın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Ability_BeamVolley_Name</Label>
+    <String>Işın Voleybolu</String>
+  </StringTable>
+  <StringTable>
+    <Label>Ability_BeamVolley_Desc</Label>
+    <String>En fazla 2 karo uzaktaki bir düşman filosuna veya üssüne saldırın.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Ability_BuildSpaceMonsterShipyard_Name</Label>
+    <String>Yumurtlama Yuvası</String>
+  </StringTable>
+  <StringTable>
+    <Label>Ability_BuildSpaceMonsterShipyard_Desc</Label>
+    <String>Bu konumda zaman içinde otomatik olarak Canavar üretecek bir Uzay Canavarı Yuvası oluşturmak için bu yapıcıyı kullan.</String>
+  </StringTable>
+</StringTableList>

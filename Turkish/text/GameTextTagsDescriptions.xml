@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<StringTableList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+  <StringTable>
+    <Label>GAMETAG_SYNTAX_WITH_DESCRIPTION</Label>
+    <String>Bazı etiketler sadece {} içindeki etiketin adıdır.[BR]Sözdizimi: {GAMETAG} [BR]Örnek: "{PLANETNAME} yaşamak için harika bir yer!"[BR]Diğerlerinde, birden fazla olası değiştirme arasında ayrım yapmak için bir : ve ardından GameTextIndex olan bir sayı vardır. [BR]Konuşma aroması metninde, 1 Konuşmacı (konuşmayı başlatan oyuncu), 2 Dinleyici (konuşmayı alan oyuncu) ve 3 Üçüncü Taraf Oyuncudur (Konuşmacı ve Dinleyicinin hakkında konuştuğu oyuncu). [BR]Bir şeyin teklif edildiği konuşmalarda, öğeyi kimin verdiğini belirtmek için GameTextIndex kullanın (MİKTAR, TEKNİK ADI, NESNE ADI)[BR]Sözdizimi: {GAMETAG:#} [BR]Örnek 1: "Biz, {PLAYERFACTIONLONG:1} size savaş ilan ediyoruz, {PLAYERFACTIONLONG:2}"[BR]Örnek 2: "{PLAYERFACTION:3} artık yok."</String>
+  </StringTable>
+  <StringTable>
+    <Label>GAMETAG_DESCRIPTION_PLAYERFACTION</Label>
+    <String>Oyuncunun uygarlık adının kısa versiyonu</String>
+  </StringTable>
+  <StringTable>
+    <Label>GAMETAG_DESCRIPTION_PLAYERFACTIONLONG</Label>
+    <String>Oyuncunun uygarlık adı</String>
+  </StringTable>
+  <StringTable>
+    <Label>GAMETAG_DESCRIPTION_PLAYERFACTIONDESCRIPTION</Label>
+    <String>Uzun biçimli oyuncu grubu açıklaması</String>
+  </StringTable>
+  <StringTable>
+    <Label>GAMETAG_DESCRIPTION_PLAYERTRAITSLIST</Label>
+    <String>Oyuncu fraksiyonu özelliklerinin listesi</String>
+  </StringTable>
+  <StringTable>
+    <Label>GAMETAG_ORIGINALTEXT</Label>
+    <String>Son işlemden geçirilmeden önce değiştirilmiş orijinal aroma metni</String>
+  </StringTable>
+  <StringTable>
+    <Label>GAMETAG_PREVIOUSCONV</Label>
+    <String>Post-process'ten geçirmeden önce değiştirmelerle önceki konuşma aroması metni</String>
+  </StringTable>
+  <StringTable>
+    <Label>GAMETAG_DESCRIPTION_PLAYERRACE</Label>
+    <String>Artık kullanılmamaktadır. Bunun yerine PLAYERFACTION veya PLAYERFACTIONLONG kullanın</String>
+  </StringTable>
+  <StringTable>
+    <Label>GAMETAG_DESCRIPTION_LEADERNAME</Label>
+    <String>Bir oyuncunun uygarlığının liderinin adı</String>
+  </StringTable>
+  <StringTable>
+    <Label>GAMETAG_DESCRIPTION_TURNSTOCOMPLETE</Label>
+    <String>Bir projeyi tamamlamak için döner</String>
+  </StringTable>
+  <StringTable>
+    <Label>GAMETAG_DESCRIPTION_PROJECTNAME</Label>
+    <String>İnşa kuyruğundaki bir projenin adı (tersane veya gezegen)</String>
+  </StringTable>
+  <StringTable>
+    <Label>GAMETAG_DESCRIPTION_VICTORYCONDITION</Label>
+    <String>Oyunun sona erdiği zafer koşulu için kullanılır</String>
+  </StringTable>
+  <StringTable>
+    <Label>GAMETAG_DESCRIPTION_VICTORSLIST</Label>
+    <String>Kazanma koşulunu karşılayan oyuncuların listesi</String>
+  </StringTable>
+  <StringTable>
+    <Label>GAMETAG_DESCRIPTION_PLANETNAME</Label>
+    <String>Tartışılan gezegenin adı</String>
+  </StringTable>
+  <StringTable>
+    <Label>GAMETAG_DESCRIPTION_AMOUNT</Label>
+    <String>Bir şeyin miktarı, genellikle teklif edilen\ talep edilen\ talep edilen krediler</String>
+  </StringTable>
+  <StringTable>
+    <Label>GAMETAG_DESCRIPTION_TECHNAME</Label>
+    <String>Teklif edilen\talep edilen\talep edilen teknisyenin adı.</String>
+  </StringTable>
+  <StringTable>
+    <Label>GAMETAG_DESCRIPTION_OBJECTNAME</Label>
+    <String>Sunulmakta olan nesnenin adı\demanded\requested</String>
+  </StringTable>
+  <StringTable>
+    <Label>GAMETAG_DESCRIPTION_WORKERNAME</Label>
+    <String>Görüşülen çalışanın adı</String>
+  </StringTable>
+</StringTableList>

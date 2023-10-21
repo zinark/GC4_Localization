@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<FlavorTextDefs xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
+  <FlavorTextDef>
+    <InternalName>AllianceAscendant_GenericConfirm</InternalName>
+    <FlavorTextOption>
+      <Text>Anlaşıldı</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AllianceAscendant_StartOfGame</InternalName>
+    <FlavorTextOption>
+      <Text>Terran İttifakı tarafından Hiper Sürücünün kullanılmaya başlanmasından bu yana, bu çığır açan teknoloji hızla yayılarak çok sayıda yeni uygarlığın galaktik ön plana çıkmasını sağladı. [BR][BR]Küçük uygarlıkları henüz Işık Hızından Daha Hızlı seyahati başaramamış olanlar olarak sınıflandırıyoruz. Özellikle, Xeloxi adlı bir tür yakın zamanda kendi bölgelerini ziyaret eden masum araştırmacılardan Hiper Sürücü planlarını çaldı. [BR][BR]Xeloxi'nin toplumsal normları bizim ahlak anlayışımızla taban tabana zıttır. Hırsızlık da dahil olmak üzere bizim suç olarak gördüğümüz faaliyetler onların kültürünün ayrılmaz bir parçasıdır. Sonuç olarak, çevremizde korkunç bir tehdit olarak ortaya çıktılar ve ağırlıklı olarak direnme araçları olmayan savunmasız medeniyetleri sömürüyorlar. [BR][BR]Öncelikli görevimiz bu medeniyetlere kalkan olmaktır. Bunu başarmak için onları etki alanımıza entegre etmeliyiz. Yakınlarında bir Yıldız Üssü kurmak ve etkisini genişletmek en iyi stratejimizdir. Eş zamanlı olarak, Xeloxi'yi bu sektörden çıkarma çabaları da yoğunlaştırılmalıdır. İyi şanslar!</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AllianceAscendant_ControlsMinorCivxXeloxiRemain</InternalName>
+    <FlavorTextOption>
+      <Text>Sektördeki Küçük Medeniyetler artık rahatlamanın farkına vardı. İttifak koruması altındayken, Xeloxi'nin baskısından kurtuldular. Bu özgürlük geçici olabilir. Xeloxi galaksinin bu bölümünü işgal ettiği sürece bir tehdit var. Xeloxi sektörden çıkarılmalı ve ele geçirdikleri gezegenler geri alınmalıdır.[BR][BR]Tamamlanan Hedef: 3 Küçük Uygarlığı Koru</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AllianceAscendant_ControlsMinorCivxXeloxiDestroyed</InternalName>
+    <FlavorTextOption>
+      <Text>Sektördeki Küçük Medeniyetler artık rahatlamanın farkına vardı. İttifak koruması altındayken Xeloxi'nin baskısından kurtuldular. Buna ek olarak, Xeloxi galaksinin bu kısmından çoktan püskürtüldü ve bu yeni uygarlıklara ek güvenlik sağladı.[BR][BR]Görevlerinizi yerine getirdiğiniz için tebrikler.[BR][BR]Tamamlanan Hedef: 3 Küçük Uygarlığı Koru</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AllianceAscendant_XeloxiDestroyedMinorFactionsUncontrolled</InternalName>
+    <FlavorTextOption>
+      <Text>Xeloxi yenildi! Galaksinin bu bölümünden sürüldüler. Harika iş.[BR][BR]Bu sektördeki Küçük Uygarlıklar henüz rahatlamamış olabilir. Korunmasız kalmaya devam ediyorlar ve Xeloxi etkisinden hâlâ zarar görebilirler. Galaksinin bu bölümünü istikrara kavuşturmak için, Küçük Uygarlıklar İttifak'ın Kontrol Bölgesi altına alınmalıdır.[BR][BR]Tamamlanan Hedef: Xeloxi'yi yenmek</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AllianceAscendant_XeloxiDestroyedMinorFactionsControlled</InternalName>
+    <FlavorTextOption>
+      <Text>Xeloxi yenildi! Galaksinin bu kısmından sürüldüler. Harika iş.[BR][BR]Küçük Medeniyetler en azından bir an için gerçek barışı tadabilirler. Artık İttifak koruması altındalar ve Xeloxi tehdidi çok uzaklara gönderildi.BR][BR]Görevlerinizi yerine getirdiğiniz için tebrikler.[BR][BR]Tamamlanan Hedef: Xeloxi'yi yenmek</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AllianceAscendant_DestroyedMinorFaction</InternalName>
+    <FlavorTextOption>
+      <Text>İptal![BR][BR]Bir şeyler yanlış gitmiş olmalı. Küçük Uygarlıklardan biri yok edildi. İşler çok ileri gitti. Kalan hayatlar riske atılamaz.[BR][BR]Bu görev başarısız sayılıyor ve İttifak tüm kaynaklarını sektörden çekiyor.[BR][BR]Başarısız Hedef: Tüm Küçük Grupların Hayatta Kalmasını Sağlayın</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+</FlavorTextDefs>

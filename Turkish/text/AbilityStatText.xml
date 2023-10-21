@@ -1,0 +1,143 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<StringTableList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+  <StringTable>
+    <Label>HitPointAugment_AbilityName</Label>
+    <String>[ICON=Hitpoints_Icon] Tekne Takviyesi</String>
+  </StringTable>
+  <StringTable>
+    <Label>Targeting_AbilityName</Label>
+    <String>[ICON=Stat_Temp_Icon] Tarayıcıları Hedefleme</String>
+  </StringTable>
+  <StringTable>
+    <Label>Jamming_AbilityName</Label>
+    <String>[ICON=Stat_Temp_Icon] Kaçınma</String>
+  </StringTable>
+  <StringTable>
+    <Label>Repair_AbilityName</Label>
+    <String>[ICON=Stat_Ship_Maintenance_Icon] Yapısal Geliştirme</String>
+  </StringTable>
+  <StringTable>
+    <Label>BeamAugment1_AbilityName</Label>
+    <String>[ICON=BeamCooldownIcon] Hızlı Şarj Cihazı</String>
+  </StringTable>
+  <StringTable>
+    <Label>BeamAugment2_AbilityName</Label>
+    <String>[ICON=BeamRangeIcon] Enerji Hızlandırıcı</String>
+  </StringTable>
+  <StringTable>
+    <Label>BeamAugment3_AbilityName</Label>
+    <String>[ICON=ShieldDamageIcon] Kalkan Sızıntısı</String>
+  </StringTable>
+  <StringTable>
+    <Label>MissileAugment1_AbilityName</Label>
+    <String>[ICON=MissileCooldownIcon] Füze Yardımı</String>
+  </StringTable>
+  <StringTable>
+    <Label>MissileAugment2_AbilityName</Label>
+    <String>[ICON=MissileRangeIcon] Sapan Güçlendirici</String>
+  </StringTable>
+  <StringTable>
+    <Label>MissileAugment3_AbilityName</Label>
+    <String>[ICON=PointDamageIcon] Küme Savaş Başlıkları</String>
+  </StringTable>
+  <StringTable>
+    <Label>KineticAugment1_AbilityName</Label>
+    <String>[ICON=KineticCooldownIcon] Hızlı Yeniden Doldurma</String>
+  </StringTable>
+  <StringTable>
+    <Label>KineticAugment2_AbilityName</Label>
+    <String>[ICON=KineticRangeIcon] Kinetik Hızlandırıcı</String>
+  </StringTable>
+  <StringTable>
+    <Label>KineticAugment3_AbilityName</Label>
+    <String>[ICON=ArmorDamageIcon] Zırh Delici</String>
+  </StringTable>
+  <StringTable>
+    <Label>ShieldProjection_AbilityName</Label>
+    <String>[ICON=ShieldStrengthIcon] Saha Jeneratörü</String>
+  </StringTable>
+  <StringTable>
+    <Label>ShieldSupport_AbilityName</Label>
+    <String>[ICON=ShieldStrengthIcon] Alan Büyütme Dizisi</String>
+  </StringTable>
+  <StringTable>
+    <Label>ShieldDegradation_AbilityName</Label>
+    <String>[ICON=ShieldDamageIcon] Sızdırma Alanı</String>
+  </StringTable>
+  <StringTable>
+    <Label>PointProjection_AbilityName</Label>
+    <String>[ICON=PointDefenseIcon] Füze Bozucu</String>
+  </StringTable>
+  <StringTable>
+    <Label>PointSupport_AbilityName</Label>
+    <String>[ICON=PointDefenseIcon] Nokta Büyütme Dizisi</String>
+  </StringTable>
+  <StringTable>
+    <Label>PointDegradation_AbilityName</Label>
+    <String>[ICON=PointDamageIcon] Nokta Kesintisi</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArmorSupport_AbilityName</Label>
+    <String>[ICON=ArmorRateingIcon] Bütünlük Alanı</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArmorDegradation_AbilityName</Label>
+    <String>[ICON=ArmorRateingIcon] Bütünlük Bozucu</String>
+  </StringTable>
+  <StringTable>
+    <Label>RepairSupport_AbilityName</Label>
+    <String>[ICON=ArmorDamageIcon] Yapısal Güçlendirme</String>
+  </StringTable>
+  <StringTable>
+    <Label>BeamSupport1_AbilityName</Label>
+    <String>[ICON=BeamCooldownIcon] Işın Yardımı</String>
+  </StringTable>
+  <StringTable>
+    <Label>BeamSupport2_AbilityName</Label>
+    <String>[ICON=BeamAttackIcon] Işın Büyütme</String>
+  </StringTable>
+  <StringTable>
+    <Label>MissileSupport1_AbilityName</Label>
+    <String>[ICON=MissileAttackIcon] Füze Güdüm</String>
+  </StringTable>
+  <StringTable>
+    <Label>MissileSupport2_AbilityName</Label>
+    <String>[ICON=MissileAttackIcon] Füze Güdüm Dizisi</String>
+  </StringTable>
+  <StringTable>
+    <Label>KineticSupport1_AbilityName</Label>
+    <String>[ICON=KineticAttackIcon] Atalet Sönümleyiciler</String>
+  </StringTable>
+  <StringTable>
+    <Label>KineticSupport2_AbilityName</Label>
+    <String>[ICON=KineticRangeIcon] İvme Alanı</String>
+  </StringTable>
+  <StringTable>
+    <Label>TargetingSupport_AbilityName</Label>
+    <String>[ICON=Stat_Temp_Icon] Hedefleme Dizisi</String>
+  </StringTable>
+  <StringTable>
+    <Label>JammingSupport_AbilityName</Label>
+    <String>[ICON=Stat_Temp_Icon] Kaçınma Alanı</String>
+  </StringTable>
+  <StringTable>
+    <Label>SublightSupport_AbilityName</Label>
+    <String>[ICON=TacticalSpeed_Icon] Uyandırma Jeneratörü</String>
+  </StringTable>
+  <StringTable>
+    <Label>SublightSuppression_AbilityName</Label>
+    <String>[ICON=TacticalSpeed_Icon] İtici Alan</String>
+  </StringTable>
+  <StringTable>
+    <Label>MovesSupport_AbilityName</Label>
+    <String>[ICON=Moves_Icon] Yıldız Hızlandırıcı</String>
+  </StringTable>
+  <StringTable>
+    <Label>RangeSupport_AbilityName</Label>
+    <String>[ICON=Shiprange_Icon] Çevresel Kalkan</String>
+  </StringTable>
+  <StringTable>
+    <Label>HitPointSupport_AbilityName</Label>
+    <String>[ICON=Hitpoints_Icon] Hit Noktası Desteği</String>
+  </StringTable>
+</StringTableList>

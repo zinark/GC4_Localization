@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<StringTableList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+  <StringTable>
+    <Label>DefaultArtifact_Name</Label>
+    <String>Eser</String>
+  </StringTable>
+  <StringTable>
+    <Label>DefaultArtifact_Dec</Label>
+    <String>Akıl almaz bir güce sahip bu gizemli Öncü eser, yeterli zaman verilirse, zavallı ağaç sakinlerinden yıldızlararası tanrılara kadar her ırkı dönüştürebilir.</String>
+  </StringTable>
+</StringTableList>

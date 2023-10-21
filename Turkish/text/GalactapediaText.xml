@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<StringTableList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+  <StringTable>
+    <Label>Entry_DrenginEmpire</Label>
+    <String>Drengin İmparatorluğu</String>
+  </StringTable>
+  <StringTable>
+    <Label>Entry_DrenginEmpire_Dec</Label>
+    <String>Drengin İmparatorluğu kozmik hırsın özünü temsil eder. Üç metreyi aşan boyları ve jilet gibi keskin dişleriyle galaksideki itibarları hem korku hem de hayranlık uyandırır.[BR][BR]Drenginlerin inancı basittir: galaksi ve Drengin olmayan tüm sakinleri kendi egemenlikleri için vardır. Okyanuslarla olan geçmişleri bu inancın bir kanıtıdır. Yıldız geçitlerinin ortak icadı bir işbirliği dönüm noktasıydı ve hemen ardından Drengin'in ihanet girişimi geldi. Ardından gelen fiyasko, yıldızlar sönse bile hararetini koruyan bir rekabeti pekiştirdi.[BR][BR]Drenginlerin saldırganlığının zekâlarını gölgede bıraktığını düşünmek hata olur. Teknolojik mucizeleri pek çok kişinin etik açıdan muğlak bulacağı alanlara girmektedir. Galaktik fetih konusundaki ısrarları tarihi kayıtlarından anlaşılmaktadır. İnsanlık karasal güç mücadelelerine gömülmüşken, Drenginler uğursuz 'ölüm fırınları' gibi cüretkâr mekanizmalar tasarlıyor ve Toria'nın köleleştirilmesi gibi geniş çaplı seferler düzenliyorlardı.[BR][BR]İronik bir şekilde, Drenginleri evrensel egemenlikten alıkoyan şey uzayın enginliğiydi. Toria'ya yaptıkları yolculuk her ne kadar görkemli olsa da, uzay yolculuklarının verimsizliğinin altını çiziyordu. Ancak insanlığın hipersürücüyü icat etmesi kozmik oyun alanını eşitledi. Birleşik bir kozmosun idealist umutlarına dayanan ilk insan teklifleri, 2176'da Drengin pragmatizmi ile karşılandı. Bunu takip eden sessizlik</String>
+  </StringTable>
+</StringTableList>

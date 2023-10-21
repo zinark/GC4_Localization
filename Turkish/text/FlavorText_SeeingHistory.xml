@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<FlavorTextDefs xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
+  <FlavorTextDef>
+    <InternalName>HISTORY_LEADER</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <CitizenRace>Race_Seeing</CitizenRace>
+      </Requirements>
+      <Text>Kovan zihninin tamamen genetik olarak tasarlanmış ilk evcil hayvana tanık olmasına yardımcı oldu.</Text>
+      <Text>Beyin sarsıntılarına yatkın.</Text>
+      <Text>Astigmatizmden muzdarip.</Text>
+      <Text>Ailede katarakt öyküsü vardır.</Text>
+      <Text>Renk körü olduğunu iddia ediyor.</Text>
+      <Text>Yakın zamanda presbiyop olduklarını fark ettiler.</Text>
+      <Text>Ekranlara çok yakın oturuyor.</Text>
+      <Text>Alerji mevsiminde kör oluyor.</Text>
+      <Text>Mors alfabesinde nasıl göz kırpacağını biliyor.</Text>
+      <Text>Kuş gözlemciliğine çok fazla zaman harcıyor.</Text>
+      <Text>Profesyonel bir fotoğrafçıydı.</Text>
+      <Text>Düşük ışıkta zayıf görüşe sahiptir.</Text>
+      <Text>Girdikleri her yıldız yarışmasını kazandılar.</Text>
+      <Text>Mükemmel çevresel görüşe sahiptir.</Text>
+      <Text>Verilerdeki anormallikleri kolayca tespit edebilir.</Text>
+      <PreferenceWeight>10</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+</FlavorTextDefs>

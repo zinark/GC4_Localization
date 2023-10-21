@@ -1,0 +1,251 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+  <StringTable>
+    <Label>DesertWorld_Name</Label>
+    <String>[ICON=DesertWorldIcon] Çöl</String>
+  </StringTable>
+  <StringTable>
+    <Label>DesertWorld_Dec</Label>
+    <String>Burası bir çöl. Tam olarak hayal ettiğiniz şey.</String>
+  </StringTable>
+  <StringTable>
+    <Label>TerrestrialWorld_Name</Label>
+    <String>[ICON=SereneWorldIcon] Karasal</String>
+  </StringTable>
+  <StringTable>
+    <Label>TerrestrialWorld_Dec</Label>
+    <String>Birden fazla biyom ile dengelenmiş bir dünya. Bunlar kolonileştirmek ve daha sonra çekirdek dünya haline getirmek için bir vali atamak için harika hedeflerdir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ParadiseWorld_Name</Label>
+    <String>[ICON=BountifulWorldIcon] Cennet</String>
+  </StringTable>
+  <StringTable>
+    <Label>ParadiseWorld_Dec</Label>
+    <String>Harika bir dünya. Kolonileştirdikten ve bir vali atadıktan sonra bunlar mükemmel çekirdek dünyalar haline geliyor.</String>
+  </StringTable>
+  <StringTable>
+    <Label>JungleWorld_Name</Label>
+    <String>[ICON=JungleWorldIcon] Orman</String>
+  </StringTable>
+  <StringTable>
+    <Label>JungleWorld_Dec</Label>
+    <String>Üzerinde yaşamak genellikle rahatsız edici olsa da, düşük kaliteli olanlar bile çekirdek dünyalara geri gönderilebilen egzotik kimyasal zenginlik nedeniyle iyi koloniler oluşturur.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArborealWorld_Name</Label>
+    <String>[ICON=FertileWorldIcon] Arboreal</String>
+  </StringTable>
+  <StringTable>
+    <Label>ArborealWorld_Dec</Label>
+    <String>Bu dünyalar kolonileştirmek ve daha sonra gıda yetiştirmek için tipik olarak yüksek doğurganlıkları nedeniyle bir vali ekleyerek çekirdek dünyaya terfi etmek için iyi hedeflerdir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>VolcanicWorld_Name</Label>
+    <String>[ICON=ValcanicWorldIcon] Volkanik</String>
+  </StringTable>
+  <StringTable>
+    <Label>VolcanicWorld_Dec</Label>
+    <String>Yaşamak için pek de hoş bir yer sayılmaz ama ana gezegenlerine gönderdikleri tüm zenginlik ve mineraller için genellikle iyi koloni hedefleridir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MountainousWorld_Name</Label>
+    <String>[ICON=ShieldedWorldIcon] Dağlık</String>
+  </StringTable>
+  <StringTable>
+    <Label>MountainousWorld_Dec</Label>
+    <String>Yüksek dağlar ve derin vadiler bu gezegenin yüzeyini kaplar. Bu tür düşük kaliteli dünyalar bile çekirdek dünyalarına gönderebilecekleri mineraller nedeniyle kolonileşmek için iyi hedefler olabilir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>TropicalWorld_Name</Label>
+    <String>[ICON=TropicalWorldIcon] Tropikal</String>
+  </StringTable>
+  <StringTable>
+    <Label>TropicalWorld_Dec</Label>
+    <String>Genellikle güzel dünyalar. Kolonileştirmek için her zaman iyi hedefler. Kullanılabilir arazi her zaman bol olmadığından çekirdek dünyaya dönüştürmek her zaman iyi değildir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>BombardedWorld_Name</Label>
+    <String>[ICON=BombardımanDünyaIcon] Bombardıman</String>
+  </StringTable>
+  <StringTable>
+    <Label>BombardedWorld_Dec</Label>
+    <String>Çoğunlukla yok edildiler, ama hala en yakın çekirdek dünyamıza kaynak göndermek için iyi koloniler oluşturabilirler.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThinAtmosphereWorld_Name</Label>
+    <String>[ICON=ThinAtmosphereWorldIcon] İnce Atmosfer</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThinAtmosphereWorld_Dec</Label>
+    <String>Pek hoş bir yer sayılmaz ama burada yiyecekler iyi yetişiyor ve bu da burayı aç çekirdek dünyaları beslemek için bir koloni olarak cazip kılıyor.</String>
+  </StringTable>
+  <StringTable>
+    <Label>LowGravityWorld_Name</Label>
+    <String>[ICON=LowGravityWorldIcon] Düşük Yerçekimi</String>
+  </StringTable>
+  <StringTable>
+    <Label>LowGravityWorld_Dec</Label>
+    <String>Genellikle üzerinde yaşamak hoş değildir ancak düşük yerçekimli dünyalar, en yakın çekirdek dünyaya geri gönderebilecekleri teknoloji için yine de iyi koloniler olabilir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>AquaticWorld_Name</Label>
+    <String>[ICON=AquaticWorldIcon] Okyanussal</String>
+  </StringTable>
+  <StringTable>
+    <Label>AquaticWorld_Dec</Label>
+    <String>Bu su dünyaları, doğru teknoloji kullanıldığında faydalı olabilir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>CorrosiveWorld_Name</Label>
+    <String>[ICON=ToxicWorldIcon] Aşındırıcı</String>
+  </StringTable>
+  <StringTable>
+    <Label>CorrosiveWorld_Dec</Label>
+    <String>Asidik göller ve fırtınalar bu dünyayı standart kolonizasyon için uygunsuz hale getiriyor.</String>
+  </StringTable>
+  <StringTable>
+    <Label>FrozenWorld_Name</Label>
+    <String>[ICON=FrozenWorldIcon] Dondurulmuş</String>
+  </StringTable>
+  <StringTable>
+    <Label>FrozenWorld_Dec</Label>
+    <String>Yaz aylarında bile son derece soğuk. Kışın efsanevi 'kuzey Michigan'dan bile daha soğuktur. Bu düşük kaliteli dünyalar, yeterli kaynak çıktılarına sahiplerse yine de iyi koloni hedefleri olabilirler.</String>
+  </StringTable>
+  <StringTable>
+    <Label>BarrenWorld_Name</Label>
+    <String>[ICON=BarrenWorldIcon] Çorak</String>
+  </StringTable>
+  <StringTable>
+    <Label>BarrenWorld_Dec</Label>
+    <String>Uzaydaki bu kayalar, çekirdek dünyalarına göndermek için yeterli kaynağa sahiplerse, düşük kaliteli olsalar bile kolonileşmek için potansiyel olarak iyi hedefler olabilirler.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ToxicWorld_Name</Label>
+    <String>[ICON=ToxicWorldIcon] Zehirli</String>
+  </StringTable>
+  <StringTable>
+    <Label>ToxicWorld_Dec</Label>
+    <String>Burada bir Yaz evi yapmak istemezsiniz ama toksik dünyalar kaynak zenginlikleri nedeniyle kolonileşmek için genellikle iyi hedeflerdir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>RadioactiveWorld_Name</Label>
+    <String>[ICON=RadioactiveWorldIcon] Radyoaktif</String>
+  </StringTable>
+  <StringTable>
+    <Label>RadioactiveWorld_Dec</Label>
+    <String>Doğru teknoloji olmadan yaşamak çok tehlikeli. Radyoaktif dünyalar çok fazla egzotik kaynağa sahip olma eğilimindedir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThuliumMoon_Name</Label>
+    <String>[ICON=PrecursorMoonIcon] Thulium Uydusu</String>
+  </StringTable>
+  <StringTable>
+    <Label>ThuliumMoon_Dec</Label>
+    <String>Thulium dünyasının bir parçasından oyulmuş bir öncül dünya. Thulium kinetik silah sistemlerinin temel bileşenidir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>DurantiumCloud_Name</Label>
+    <String>[ICON=PrecursorCloudIcon] Durantium Bulut</String>
+  </StringTable>
+  <StringTable>
+    <Label>DurantiumCloud_Dec</Label>
+    <String>Toplanan Durantium asteroitleriyle inşa edilen bir Öncü dünya. Durantium, aşırı dayanıklılık gerektiren çoğu yapı için gerekli olan değerli bir egzotik metaldir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrecursorAccelerator_Name</Label>
+    <String>[ICON=PrecursorAcceleratorIcon] Öncü Hızlandırıcı</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrecursorAccelerator_Dec</Label>
+    <String>Kristalize Prometyumdan inşa edilmiş bir Öncü dünya. Bu dünyalar, yüzeylerindeki bilimsel özellikleri nedeniyle harika çekirdek dünyalar oluştururlar.</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrecursorSatellites_Name</Label>
+    <String>[ICON=PrecursorSatellitesIcon] Öncü Uydular</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrecursorSatellites_Dec</Label>
+    <String>Hâlâ yörüngesinde devasa bir kalıntılar dizisi bulunan bir Öncü dünya.</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrecursorElevator_Name</Label>
+    <String>[ICON=PrecursorElevatorIcon] Öncü Asansör</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrecursorElevator_Dec</Label>
+    <String>Tamamen sağlam bir uzay asansörüne sahip bir Öncü dünya.  Kolonileştirildikten ve çekirdek dünya olması için bir vali verildikten sonra, bu dünyalar üretim devleri haline gelebilir.</String>
+  </StringTable>
+  <StringTable>
+    <Label>PromethionRefinery_Name</Label>
+    <String>[ICON=PrecursorRefineryIcon] Promethion Rafineri Dünyası</String>
+  </StringTable>
+  <StringTable>
+    <Label>PromethionRefinery_Dec</Label>
+    <String>Tamamen rafineriye dönüştürülmüş bir Öncül dünyası.</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrecursorFactoryWorld_Name</Label>
+    <String>[ICON=PrecursorFactoryIcon] Prekürsör Fabrikası</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrecursorFactoryWorld_Dec</Label>
+    <String>Yörüngesinde 3 büyük fabrika halkası bulunan bir Öncü Dünya. Bunlar dünyanın üretim potansiyelini büyük ölçüde artırır.</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrecursorResearchWorld_Name</Label>
+    <String>[ICON=PrecursorResearchIcon] Prekürsör Laboratuvar Dünyası</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrecursorResearchWorld_Dec</Label>
+    <String>Bir zamanlar egzotik bilimsel deneylerin yapıldığı bir öncül dünya.</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrecursorTreasury_Name</Label>
+    <String>[ICON=PrecursorWealthIcon] Öncü Sermaye</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrecursorTreasury_Dec</Label>
+    <String>Bir zamanlar Prekürsör Uygarlığı'nın başkentiydi.</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrecursorQuarantine_Name</Label>
+    <String>[ICON=PrecursorQuarantineIcon] Prekürsör Karantinası</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrecursorQuarantine_Dec</Label>
+    <String>Öncüler tarafından karantinaya alınan bir zamanların zengin dünyası. Geriye kalanlar o kadar zehirli ki iş olmadan sömürgeleştirilemez.</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrecursorExperimentalWorld_Name</Label>
+    <String>[ICON=PrecursorExperimentalIcon] Öncü Deneysel</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrecursorExperimentalWorld_Dec</Label>
+    <String>Öncüler tarafından tehlikeli deneyler için kullanıldığı düşünülen bir dünya. Kolonileştirmek için güvenli hale getirmek büyük bir çalışma gerektirecek.</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrecursorPrison_Name</Label>
+    <String>[ICON=PrecursorPrisonIcon] Öncül Cezaevi</String>
+  </StringTable>
+  <StringTable>
+    <Label>PrecursorPrison_Dec</Label>
+    <String>Bir zamanlar Öncü Hapishanesi olarak kullanılmış gizemli bir dünya. Atmosferi zehirlenmiş, bu da büyük bir çalışma olmadan kolonileşmesini imkânsız kılıyor.</String>
+  </StringTable>
+  <StringTable>
+    <Label>ShardOfTheMithrilar_Name</Label>
+    <String>[ICON=PrecursorExperimentalIcon] Mithrilar Parçası</String>
+  </StringTable>
+  <StringTable>
+    <Label>ShardOfTheMithrilar_Dec</Label>
+    <String>Bu dünyadan garip, kadim bir enerji sızıyor.</String>
+  </StringTable>
+  <StringTable>
+    <Label>MakerWorld_Name</Label>
+    <String>[ICON=PrecursorExperimentalIcon] Arnor'un Tahtı</String>
+  </StringTable>
+  <StringTable>
+    <Label>MakerWorld_Dec</Label>
+    <String>Galaksiyi kontrol etmek için tasarlandı.</String>
+  </StringTable>
+</StringTableList>

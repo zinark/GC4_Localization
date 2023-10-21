@@ -1,0 +1,1319 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<FlavorTextDefs xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../Schema/FlavorText.xsd">
+  <FlavorTextDef>
+    <InternalName>FIRST_CONTACT_RESPONSE_TRADE</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_ABSOLUTE</ListenerFaction>
+        <ListenerHasUniversalTranslator>false</ListenerHasUniversalTranslator>
+      </Requirements>
+      <Text>[I]Birkaç dokunaçla omuz silkme hareketi yapın. [/I]</Text>
+      <PreferenceWeight>30</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>FACTION_ABSOLUTE</SpeakerFaction>
+      </Requirements>
+      <Text>Ticaret mi? İşlem yapabilir misiniz? [COLOR=UIDefaultHighlight](İşlem Açar)[/COLOR]</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_ABSOLUTE</ListenerFaction>
+      </Requirements>
+      <Text>[I]Neredeyse anlaşılmaz renkte bir taş tutun.[/I] [COLOR=UIDefaultHighlight](Ticareti Açar)[/COLOR]</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>FIRST_CONTACT_MAIN</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>FACTION_ABSOLUTE</SpeakerFaction>
+      </Requirements>
+      <Text>[I] Bir an sessizlik oldu. Evrensel Çevirmenle bile sözlü iletişim kurmak imkansız görünüyor. Yaratık rahatlamış görünüyor, dokunaçları ekrana doğru sallanıyor [/I].</Text>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>FACTION_TERRAN</SpeakerFaction>
+        <ListenerFaction>FACTION_ABSOLUTE</ListenerFaction>
+      </Requirements>
+      <Text>Muhtemelen şimdiye kadar gördüğüm en rahatsız edici şeysin. Eminim bunu çok duyuyorsundur.</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>FACTION_FESTRON</SpeakerFaction>
+        <ListenerFaction>FACTION_ABSOLUTE</ListenerFaction>
+      </Requirements>
+      <Text>Şimdi, sen nasıl- Sen bizim larvalarımızdan biri değilsin.</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>FACTION_NAVIGATORS</SpeakerFaction>
+        <ListenerFaction>FACTION_ABSOLUTE</ListenerFaction>
+      </Requirements>
+      <Text>Selamlar mı? Dostane diplomatik ilişkilere açık olduğunuzu umuyoruz.</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>FACTION_DRENGIN</SpeakerFaction>
+        <ListenerFaction>FACTION_ABSOLUTE</ListenerFaction>
+      </Requirements>
+      <Text>Eğer yenilebilir değilseniz ve iyi köleler yapamıyorsanız, muhtemelen sizi en son yok edeceğimizi bilmek sizi mutlu edecektir.</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>FACTION_ALTARIAN</SpeakerFaction>
+        <ListenerFaction>FACTION_ABSOLUTE</ListenerFaction>
+      </Requirements>
+      <Text>Tüm yaşama gösterdiğimiz saygıyı size de göstermeye çalışacağız ve göründüğünüzden daha duyarlı olduğunuzu kanıtlayacağınızı umuyoruz.</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>FACTION_KRYNN</SpeakerFaction>
+        <ListenerFaction>FACTION_ABSOLUTE</ListenerFaction>
+      </Requirements>
+      <Text>Ne kadar kötü ve yoldan çıkmış görünseniz de, Yol'u kabul edin ki kurtuluşunuzu sağlayabilelim.</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>FACTION_IRIDIUM</SpeakerFaction>
+        <ListenerFaction>FACTION_ABSOLUTE</ListenerFaction>
+      </Requirements>
+      <Text>Ekonomi kanunlarına aşina mısınız? Eğer değilseniz, sizi yıldızlararası pazara memnuniyetle dahil ederiz.</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>FACTION_BARATAK</SpeakerFaction>
+        <ListenerFaction>FACTION_ABSOLUTE</ListenerFaction>
+      </Requirements>
+      <Text>Bir çeşit kirlenmiş kök sisteminiz mi var?</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>FACTION_RESISTANCE</SpeakerFaction>
+        <ListenerFaction>FACTION_ABSOLUTE</ListenerFaction>
+      </Requirements>
+      <Text>Oh! Sen, ummm, ilginçsin. Ben Terran Direnişini temsil ediyorum. Hadi ortak bir zemin bulalım.</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>FACTION_CRYSTALLINE</SpeakerFaction>
+        <ListenerFaction>FACTION_ABSOLUTE</ListenerFaction>
+      </Requirements>
+      <Text>Sizin gibi biçimsizler bir iletişim cihazı yapmayı ve kullanmayı ne zaman öğrendi? Buna ihtiyacınız var mı? Ne zamandan beri duyarlı ırklar büyük boy hastalıklarla anlaşma yapıyor?</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>FACTION_KORATH</SpeakerFaction>
+        <ListenerFaction>FACTION_ABSOLUTE</ListenerFaction>
+      </Requirements>
+      <Text>Senden daha tehditkâr botlarım var. Çürüyen dünyalarınızda kıvranırsanız, yok edilmenizi geciktirebilirim.</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>FACTION_ABSOLUTE</SpeakerFaction>
+        <ListenerFaction>FACTION_TERRAN</ListenerFaction>
+      </Requirements>
+      <Text>[I] Önünüzdeki ekrandaki organizma, derin rahatsızlık veren bir kabus gibi kıvranıyor [/I]</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>FACTION_ABSOLUTE</SpeakerFaction>
+        <ListenerFaction>FACTION_FESTRON</ListenerFaction>
+      </Requirements>
+      <Text>[I]Ekrandaki çırpınan yaratık, gelişigüzel büyüyen uzantıları ve gözleri görmezden gelirseniz, bir larvayı andırıyor [/I].</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>FACTION_ABSOLUTE</SpeakerFaction>
+        <ListenerFaction>FACTION_XELOXI</ListenerFaction>
+      </Requirements>
+      <Text>[I]İğrenç solucan benzeri yaratık göz teması kurmaya cüret ediyor. [/I]</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>FACTION_ABSOLUTE</SpeakerFaction>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>[I]Önünüzdeki organik yaşam, şu anda anlaşılan hiçbir evrimsel eğilimle uyuşmuyor. Sessiz == doğru.[/I]</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>FACTION_ABSOLUTE</SpeakerFaction>
+        <ListenerFaction>FACTION_MANTI</ListenerFaction>
+      </Requirements>
+      <Text>[I]Okyanuslar ne kadar çeşitli olursa olsun, ekranda dalgalanan yaratığa benzer bir şey daha önce kaydedilmemiştir.</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>FACTION_ABSOLUTE</SpeakerFaction>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>[I]Bir organik madde kütlesi ekran üzerinde hareket eder. Ses çıkaramıyor ancak çeşitli uzantıları ve gözleriyle pek çok tanımlanamayan hareket yapıyor [/I].</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>FACTION_ABSOLUTE</SpeakerFaction>
+        <ListenerFaction>FACTION_RESISTANCE</ListenerFaction>
+      </Requirements>
+      <Text>[I]Birkaç keskin hareket, ekrandaki anlaşılmaz uzaylının sessizliğini bozar. [/I]</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>FACTION_ABSOLUTE</SpeakerFaction>
+        <ListenerFaction>FACTION_KORATH</ListenerFaction>
+      </Requirements>
+      <Text>[I]Önünüzde çırpınan yaşam formu yumuşak, zayıf ve (en iğrenci) tadı berbat gibi görünüyor [/I].</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>FACTION_ABSOLUTE</SpeakerFaction>
+        <ListenerFaction>FACTION_MOTH</ListenerFaction>
+      </Requirements>
+      <Text>[I] Karşınızda Kozmik Kirleticiyi oluşturan bir ırk olan Işınlanmışlar var. Galaksideki varlıklarının ötesinde, sözlü olarak iletişim kuramadıklarının ötesinde çok az şey biliniyor [/I]</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>FIRST_CONTACT_RESPONSE_PEACEFUL</InternalName>
+    <FlavorTextOption>
+      <ResponseTag>GARBLED_TEXT</ResponseTag>
+      <Requirements>
+        <ListenerFaction>FACTION_ABSOLUTE</ListenerFaction>
+        <ListenerHasUniversalTranslator>false</ListenerHasUniversalTranslator>
+      </Requirements>
+      <Text>[I]Şaşkınlıkla birkaç kez göz kırpın. [/I]</Text>
+      <PreferenceWeight>20</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>FACTION_ABSOLUTE</SpeakerFaction>
+      </Requirements>
+      <Text>Alo? İyi geçinmeye çalışalım, sanırım.</Text>
+      <PreferenceWeight>20</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_ABSOLUTE</ListenerFaction>
+      </Requirements>
+      <Text>[I]Ekrana birkaç dokunaç sallayın. [/I]</Text>
+      <PreferenceWeight>20</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>FACTION_TERRAN</SpeakerFaction>
+        <ListenerFaction>FACTION_ABSOLUTE</ListenerFaction>
+      </Requirements>
+      <Text>[I] Kafa sallamayı taklit edecek şekilde kıvranın. [/I]</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>FACTION_FESTRON</SpeakerFaction>
+        <ListenerFaction>FACTION_ABSOLUTE</ListenerFaction>
+      </Requirements>
+      <Text>[I]Şakayla karışık sallan. [/I]</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>FACTION_NAVIGATORS</SpeakerFaction>
+        <ListenerFaction>FACTION_ABSOLUTE</ListenerFaction>
+      </Requirements>
+      <Text>[I]Ekrana el sallayın. [/I]</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>FACTION_DRENGIN</SpeakerFaction>
+        <ListenerFaction>FACTION_ABSOLUTE</ListenerFaction>
+      </Requirements>
+      <Text>[I]Vahşiyi kovmak için bir dokunaç sallayın. [/I]</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>FACTION_ALTARIAN</SpeakerFaction>
+        <ListenerFaction>FACTION_ABSOLUTE</ListenerFaction>
+      </Requirements>
+      <Text>[I]Mutlu bir şekilde kıvrılın. [/I]</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>FACTION_KRYNN</SpeakerFaction>
+        <ListenerFaction>FACTION_ABSOLUTE</ListenerFaction>
+      </Requirements>
+      <Text>[I]Bilerek sallayın. [/I]</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>FACTION_IRIDIUM</SpeakerFaction>
+        <ListenerFaction>FACTION_ABSOLUTE</ListenerFaction>
+      </Requirements>
+      <Text>[I]Onaylamak için birkaç parlak nesneyi havaya kaldırın. [/I]</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>FACTION_BARATAK</SpeakerFaction>
+        <ListenerFaction>FACTION_ABSOLUTE</ListenerFaction>
+      </Requirements>
+      <Text>[I]Düşünceli göz teması kurun. [/I]</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>FACTION_RESISTANCE</SpeakerFaction>
+        <ListenerFaction>FACTION_ABSOLUTE</ListenerFaction>
+      </Requirements>
+      <Text>[I]Ekrana hoş bir şekilde bakın. [/I]</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>FACTION_KORATH</SpeakerFaction>
+        <ListenerFaction>FACTION_ABSOLUTE</ListenerFaction>
+      </Requirements>
+      <Text>[I]Küçümseyerek yaz. [/I]</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>FACTION_ABSOLUTE</SpeakerFaction>
+        <ListenerFaction>FACTION_TERRAN</ListenerFaction>
+      </Requirements>
+      <Text>Pekâlâ. Bu toplantı olaylı geçti.</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>FACTION_ABSOLUTE</SpeakerFaction>
+        <ListenerFaction>FACTION_FESTRON</ListenerFaction>
+      </Requirements>
+      <Text>Yetersiz beslenmiş görünüyorsun.</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>FACTION_ABSOLUTE</SpeakerFaction>
+        <ListenerFaction>FACTION_XELOXI</ListenerFaction>
+      </Requirements>
+      <Text>Yaltaklanıp yalvarmadığını anlamam mümkün değil.</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>FACTION_ABSOLUTE</SpeakerFaction>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>İlginç bir sapma yaşıyorsunuz.</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>FACTION_ABSOLUTE</SpeakerFaction>
+        <ListenerFaction>FACTION_MANTI</ListenerFaction>
+      </Requirements>
+      <Text>Sizi ortaya çıkaran olağanüstü koşullar olmalı.</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>FACTION_ABSOLUTE</SpeakerFaction>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Gelin, Yol'u öğrenin. Herkes için bağışlanma var.</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>FACTION_ABSOLUTE</SpeakerFaction>
+        <ListenerFaction>FACTION_RESISTANCE</ListenerFaction>
+      </Requirements>
+      <Text>İlk temas protokolüne göre: Selamlar, barış içinde geldik.</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>FACTION_ABSOLUTE</SpeakerFaction>
+        <ListenerFaction>FACTION_KORATH</ListenerFaction>
+      </Requirements>
+      <Text>Söyleyebileceğim en güzel şey, zamanımı boşa harcadığın.</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>FACTION_ABSOLUTE</SpeakerFaction>
+        <ListenerFaction>FACTION_MOTH</ListenerFaction>
+      </Requirements>
+      <Text>Zaman içinde birbirimizi anlayabileceğimizi umuyoruz.</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>FIRST_CONTACT_RESPONSE_NEUTRAL</InternalName>
+    <FlavorTextOption>
+      <ResponseTag>GARBLED_TEXT</ResponseTag>
+      <Requirements>
+        <ListenerFaction>FACTION_ABSOLUTE</ListenerFaction>
+        <ListenerHasUniversalTranslator>false</ListenerHasUniversalTranslator>
+      </Requirements>
+      <Text>[I]Gelen Mesajı gizlice kapatana kadar yoğun göz temasını sürdürün. [/I]</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>FACTION_ABSOLUTE</SpeakerFaction>
+      </Requirements>
+      <Text>Seni ne kadar az görürsem o kadar iyi.</Text>
+      <PreferenceWeight>20</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_ABSOLUTE</ListenerFaction>
+      </Requirements>
+      <Text>[I]Gözlerinizi küçümseyerek birkaç kez deviriniz. [/I]</Text>
+      <PreferenceWeight>20</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>FACTION_TERRAN</SpeakerFaction>
+        <ListenerFaction>FACTION_ABSOLUTE</ListenerFaction>
+      </Requirements>
+      <Text>[I]Ekrana küçümseyici bir dokunaç sallayın. [/I]</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>FACTION_FESTRON</SpeakerFaction>
+        <ListenerFaction>FACTION_ABSOLUTE</ListenerFaction>
+      </Requirements>
+      <Text>[I]Daha büyük görünmesi için kaydırın ve genişletin. [/I]</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>FACTION_NAVIGATORS</SpeakerFaction>
+        <ListenerFaction>FACTION_ABSOLUTE</ListenerFaction>
+      </Requirements>
+      <Text>[I]Bağlılıktan kaçınmak için etrafta dolaşın. [/I]</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>FACTION_DRENGIN</SpeakerFaction>
+        <ListenerFaction>FACTION_ABSOLUTE</ListenerFaction>
+      </Requirements>
+      <Text>[I]Ekrana doğru tehditkar bir dokunaç kıvırın. [/I]</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>FACTION_ALTARIAN</SpeakerFaction>
+        <ListenerFaction>FACTION_ABSOLUTE</ListenerFaction>
+      </Requirements>
+      <Text>[I]Rahatsızlık içinde kıvranır, göz temasından kaçınır [/I]</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>FACTION_KRYNN</SpeakerFaction>
+        <ListenerFaction>FACTION_ABSOLUTE</ListenerFaction>
+      </Requirements>
+      <Text>[I] Ekrana küçümseyici bir şekilde el sallamadan önce gözlerinizi yuvarlayın. [/I]</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>FACTION_IRIDIUM</SpeakerFaction>
+        <ListenerFaction>FACTION_ABSOLUTE</ListenerFaction>
+      </Requirements>
+      <Text>[I]Telefonu kapatana kadar tatsız göz temasını sürdürün [/I]</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>FACTION_BARATAK</SpeakerFaction>
+        <ListenerFaction>FACTION_ABSOLUTE</ListenerFaction>
+      </Requirements>
+      <Text>[I]Sahte kahkahalar içinde kıvranın. [/I]</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>FACTION_RESISTANCE</SpeakerFaction>
+        <ListenerFaction>FACTION_ABSOLUTE</ListenerFaction>
+      </Requirements>
+      <Text>[I]Rahatsızlık aşılamak için ekrana bakın. [/I]</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>FACTION_KORATH</SpeakerFaction>
+        <ListenerFaction>FACTION_ABSOLUTE</ListenerFaction>
+      </Requirements>
+      <Text>[I]En yakındaki gevşek nesneyi öfkeyle ekrana fırlatın [/I]</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>FACTION_ABSOLUTE</SpeakerFaction>
+        <ListenerFaction>FACTION_TERRAN</ListenerFaction>
+      </Requirements>
+      <Text>Çok iğrençsin.</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>FACTION_ABSOLUTE</SpeakerFaction>
+        <ListenerFaction>FACTION_FESTRON</ListenerFaction>
+      </Requirements>
+      <Text>Senin sıcak kıvranan kütlen yumurtalarımız için mükemmel.</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>FACTION_ABSOLUTE</SpeakerFaction>
+        <ListenerFaction>FACTION_XELOXI</ListenerFaction>
+      </Requirements>
+      <Text>Tamamen iğrenç. Bir daha benimle iletişime geçmeye çalışma.</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>FACTION_ABSOLUTE</SpeakerFaction>
+        <ListenerFaction>FACTION_YOR</ListenerFaction>
+      </Requirements>
+      <Text>Sen tehdit edici bir sapmasın.</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>FACTION_ABSOLUTE</SpeakerFaction>
+        <ListenerFaction>FACTION_MANTI</ListenerFaction>
+      </Requirements>
+      <Text>Sana bakmanın son derece rahatsız edici bir yanı var.</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>FACTION_ABSOLUTE</SpeakerFaction>
+        <ListenerFaction>FACTION_KRYNN</ListenerFaction>
+      </Requirements>
+      <Text>Yol'dan uzak durun, biz de merhamet gösterelim.</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>FACTION_ABSOLUTE</SpeakerFaction>
+        <ListenerFaction>FACTION_RESISTANCE</ListenerFaction>
+      </Requirements>
+      <Text>Olası parazit yaşam formu eklentisine göre: Bu sizin uyarınız.</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>FACTION_ABSOLUTE</SpeakerFaction>
+        <ListenerFaction>FACTION_KORATH</ListenerFaction>
+      </Requirements>
+      <Text>Zayıflığınızın evrenini sürmek yeterince kolay olmalı.</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>FACTION_ABSOLUTE</SpeakerFaction>
+        <ListenerFaction>FACTION_MOTH</ListenerFaction>
+      </Requirements>
+      <Text>Gerçekten tehlikeli olup olmadığınızı henüz tespit edemedik.</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>TAUNT_PLAYER</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>FACTION_ABSOLUTE</SpeakerFaction>
+      </Requirements>
+      <Text>[I]Yaşam formu dokunaçlarından biriyle küçük bir şeyi eziyor. Az önce dünyalarınızdan birini fethettiler. [/I]</Text>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>DECLARE_WAR_MAIN</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>FACTION_ABSOLUTE</SpeakerFaction>
+      </Requirements>
+      <Text>[I]Kıvranan yaşam formu ekrana bir şey fırlatır ve yoğun bir şekilde bakmaya devam eder.[/I][BR][BR][COLOR=UIDefaultHighlight](We are at war)[/COLOR]</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>DECLARE_WAR_RESPONSE_AGGRESSIVE</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_ABSOLUTE</ListenerFaction>
+      </Requirements>
+      <Text>[I]Ekrana bir çamur yığını fırlatın. [/I]</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>DECLARE_WAR_RESPONSE_DISAPPOINTED</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_ABSOLUTE</ListenerFaction>
+      </Requirements>
+      <Text>[I]Hayal kırıklığı içinde kıvranın. [/I]</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>ASK_FOR_PEACE_MAIN</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>FACTION_ABSOLUTE</SpeakerFaction>
+      </Requirements>
+      <Text>[I]Ekrandaki organik madde kütlesi, devam eden çatışmaya bir son verilmesini istercesine beyaz bir şey uzatır [/I].</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>ASK_FOR_PEACE_RESPONSE_AGREE</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_ABSOLUTE</ListenerFaction>
+      </Requirements>
+      <Text>[I]Anlaşmaya vardığınızı belirtmek için bir dokunaç kaldırın. [/I]</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>ASK_FOR_PEACE_RESPONSE_AGREE_COUNTER</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_ABSOLUTE</ListenerFaction>
+      </Requirements>
+      <Text>[I]Mevcut terimlerden rahatsızlık duyduğunuzu belirtmek için kıvranın ancak tam bir anlaşmazlıktan kaçının [/I]</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>ASK_FOR_PEACE_RESPONSE_REFUSE</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_ABSOLUTE</ListenerFaction>
+      </Requirements>
+      <Text>[I] Talebi düpedüz reddetmek için sahte kahkahalar atın [/I]</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>ASK_FOR_PEACE_RESPONSE_REFUSE_COUNTER</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>FACTION_ABSOLUTE</SpeakerFaction>
+      </Requirements>
+      <Text>[I]Uzuvlar tehditkâr bir şekilde sallanmadan önce gevşek bir nesne yana savrulur, teklif reddedilir. [/I]</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>GENERIC_GREETING</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>FACTION_ABSOLUTE</SpeakerFaction>
+      </Requirements>
+      <Text>[I]Işınlanmış yaşam formu sabırla ekrana bakar. [/I]</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>GO_AWAY_WE_ARE_BUSY</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>FACTION_ABSOLUTE</SpeakerFaction>
+      </Requirements>
+      <Text>[I]Ekrandaki varlık çılgınca kıvranıyor, manik bir şekilde etrafına bakıyor. Az sayıdaki uzantıları size el sallıyor. [/I]</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>GO_AWAY_WE_ARE_BUSY_DURING_EVERWAR</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>FACTION_ABSOLUTE</SpeakerFaction>
+      </Requirements>
+      <Text>[I]Ekrandaki varlık öfkeyle kıvranıyor, düzensiz hareketleri ve davranışlarıyla çılgınca. Everwar ile oldukça meşguller. Ekranda olduğu kısa süre içinde ekrana birkaç ayırt edilemeyen nesne fırlatılır [/I].</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>GO_AWAY_WE_ARE_BUSY_DURING_DOGPILE</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>FACTION_ABSOLUTE</SpeakerFaction>
+      </Requirements>
+      <Text>[I]Ekrandaki varlık cömertçe kahkaha olarak adlandırılabilecek bir şekilde itişip kakışıyor. Galaksi size sırtını döndüğü için yardım etmeyi reddeden, küçümseyici bir dokunaç sallıyor [/I].</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>GO_AWAY_WE_ARE_BUSY_DURING_APOCALYPSE</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>FACTION_ABSOLUTE</SpeakerFaction>
+      </Requirements>
+      <Text>[I]Ekrandaki varlık şok olmuş ve kafası karışmış görünüyor, en azından görünüşü göz önüne alındığında olabildiğince yakın. Etrafına genişçe işaretler yapıyor. Onlar da herkes gibi kıyametle meşguller [/I]</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>TRADE_OFFER_ACCEPT</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>FACTION_ABSOLUTE</SpeakerFaction>
+      </Requirements>
+      <Text>[I]Takası kabul etmek için kıvranır. [/I]</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>TRADE_OFFER_REFUSE</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>FACTION_ABSOLUTE</SpeakerFaction>
+      </Requirements>
+      <Text>[I]Ekrana öfkeyle bakar, ticaret kabul edilemez. [/I]</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>TRADE_OFFER_PERFORMED</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_ABSOLUTE</ListenerFaction>
+      </Requirements>
+      <Text>[I]Sessiz uzaylı takas teklifini kabul ettikten sonra ekrana mutlulukla el sallar. [/I]</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>TRADE_OFFER_WAITING</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>FACTION_ABSOLUTE</SpeakerFaction>
+      </Requirements>
+      <Text>[I]Sabırla ekrana bakar ve teklifinizi bekler. [/I]</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>PLAYER_INITIATED_TRADE_OFFER_HEADER</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>FACTION_ABSOLUTE</SpeakerFaction>
+      </Requirements>
+      <Text>[I]Işınlanmış yaşam formu sabırla ekrana bakar. [/I]</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>AI_CREATED_TRADE_OFFER</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>FACTION_ABSOLUTE</SpeakerFaction>
+      </Requirements>
+      <Text>[I]Işınlanmış yaşam formu sabırla ekrana bakar. [/I]</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>TRADE_SPECIFIC_VALUABLE</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>FACTION_ABSOLUTE</SpeakerFaction>
+      </Requirements>
+      <Text>[I]Belirli bir teklifi öne sürer:[/I] {TRADEGOOD:0}.</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>TRADE_ADDITIONAL_VALUABLES</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>FACTION_ABSOLUTE</SpeakerFaction>
+      </Requirements>
+      <Text>[I]Ticarete eklenen bazı yeni kalemleri geniş bir şekilde işaret eder. [/I]</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>DIPLOMACY_WND_DECLARE_WAR</InternalName>
+    <FlavorTextOption>
+      <ResponseTag>GARBLED_TEXT</ResponseTag>
+      <Requirements>
+        <ListenerFaction>FACTION_ABSOLUTE</ListenerFaction>
+        <ListenerHasUniversalTranslator>false</ListenerHasUniversalTranslator>
+      </Requirements>
+      <Text>[I]Aklınıza gelebilecek en tehditkar hareketi yapın; bunun savaş anlamına geldiğini anlayacaklardır! [/I]</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_ABSOLUTE</ListenerFaction>
+      </Requirements>
+      <Text>[I]Savaşa girme niyetinizi belirtmek için bir silah kaldırın. [/I]</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>DIPLOMACY_WND_ATTEMPT_PEACE</InternalName>
+    <FlavorTextOption>
+      <ResponseTag>GARBLED_TEXT</ResponseTag>
+      <Requirements>
+        <ListenerFaction>FACTION_ABSOLUTE</ListenerFaction>
+        <ListenerHasUniversalTranslator>false</ListenerHasUniversalTranslator>
+      </Requirements>
+      <Text>[I]Barış isteğinizi iletmek için birkaç ayrıntılı jest yapın [/I] (barış için pazarlık yapmak için Evrensel Çevirmen'i araştırmanız gerekir)</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_ABSOLUTE</ListenerFaction>
+      </Requirements>
+      <Text>[I]Barış için müzakere etme niyetinizi belirtmek üzere beyaz bir nesne uzatın [/I]</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>DIPLOMACY_WND_DECLARE_WAR_RESPONSE</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>FACTION_ABSOLUTE</SpeakerFaction>
+      </Requirements>
+      <Text>[I]Yaşam formu ekrana doğru parlıyor, yoğun bakışları öfkeyle doluyor. [/I]</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>CONTACT_REFUSAL</InternalName>
+    <FlavorTextOption>
+      <ResponseTag>GARBLED_TEXT</ResponseTag>
+      <Requirements>
+        <SpeakerFaction>FACTION_ABSOLUTE</SpeakerFaction>
+        <ListenerHasUniversalTranslator>false</ListenerHasUniversalTranslator>
+      </Requirements>
+      <Text>[I] Kaotik kıvranan mesaj tamamen anlaşılmazdır, iletişimden gelen tek ses düşük fokurdayan bir arka plan gürültüsüdür [/I].</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>FACTION_ABSOLUTE</SpeakerFaction>
+      </Requirements>
+      <Text>[I]Yaşam formu zar zor göz teması kuruyor, küçümseyici bir dokunaç iletişim kurmak istemediğini gösteriyor [/I].</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>CONTACT_REFUSAL_DONE</InternalName>
+    <FlavorTextOption>
+      <ResponseTag>GARBLED_TEXT</ResponseTag>
+      <Requirements>
+        <ListenerFaction>FACTION_ABSOLUTE</ListenerFaction>
+        <ListenerHasUniversalTranslator>false</ListenerHasUniversalTranslator>
+      </Requirements>
+      <Text>[I]Boyun eğerek birkaç dokunaç sallayın. [/I]</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_ABSOLUTE</ListenerFaction>
+      </Requirements>
+      <Text>[I] Kızgınlıkla gözlerini devir. [/I]</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>CONFIRM_DELCARATION_OF_WAR_RESPONSE</InternalName>
+    <FlavorTextOption>
+      <ResponseTag>GARBLED_TEXT</ResponseTag>
+      <Requirements>
+        <SpeakerFaction>FACTION_ABSOLUTE</SpeakerFaction>
+        <ListenerHasUniversalTranslator>false</ListenerHasUniversalTranslator>
+      </Requirements>
+      <Text>[I]Ekrandaki varlık son derece rahatsız edici hareketlerle karşılık verir. [/I]</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>FACTION_ABSOLUTE</SpeakerFaction>
+      </Requirements>
+      <Text>[I]Ekrandaki varlık öfkeyle kıvranıyor, dokunaçları açık bir tehditle kıvrılıyor [/I]</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>CONFIRM_DELCARATION_OF_WAR_CONFIRM</InternalName>
+    <FlavorTextOption>
+      <ResponseTag>GARBLED_TEXT</ResponseTag>
+      <Requirements>
+        <ListenerFaction>FACTION_ABSOLUTE</ListenerFaction>
+        <ListenerHasUniversalTranslator>false</ListenerHasUniversalTranslator>
+      </Requirements>
+      <Text>[I]Muhtemelen tercüme edilmeyen tipik bir saldırganlık hareketi gerçekleştirin [/I]</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_ABSOLUTE</ListenerFaction>
+      </Requirements>
+      <Text>[I]Derin bir rahatsızlık hissi uyandırmak için ekrana dikkatle bakın. [/I]</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>CONFIRM_DELCARATION_OF_WAR_CANCEL</InternalName>
+    <FlavorTextOption>
+      <ResponseTag>GARBLED_TEXT</ResponseTag>
+      <Requirements>
+        <ListenerFaction>FACTION_ABSOLUTE</ListenerFaction>
+        <ListenerHasUniversalTranslator>false</ListenerHasUniversalTranslator>
+      </Requirements>
+      <Text>[I]Son anda savaşı kışkırtmaktan kaçınarak rahat görünmek için davranışları keskin bir şekilde ayarlayın [/I]</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+    <FlavorTextOption>
+      <Requirements>
+        <ListenerFaction>FACTION_ABSOLUTE</ListenerFaction>
+      </Requirements>
+      <Text>[I]Bir savaşı kışkırtmaktan kaçınmak için birkaç küçümseyici, şakacı dokunaç sallayın [/I]</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <FlavorTextDef>
+    <InternalName>EXTRA_OPTIONS_MAIN_TEXT</InternalName>
+    <FlavorTextOption>
+      <Requirements>
+        <SpeakerFaction>FACTION_ABSOLUTE</SpeakerFaction>
+      </Requirements>
+      <Text>[I]Işınlanmış yaşam formu sabırla ekrana bakar. [/I]</Text>
+      <PreferenceWeight>50</PreferenceWeight>
+    </FlavorTextOption>
+  </FlavorTextDef>
+  <!--STOPPED HERE
+    <FlavorTextDef>
+        <InternalName>EXTRA_OPTIONS_PROCLAIM_FRIENDSHIP</InternalName>
+        <FlavorTextOption>
+            <Requirements>
+                <SpeakerFaction>FACTION_ABSOLUTE</SpeakerFaction>
+                <ListenerHasUniversalTranslator>false</ListenerHasUniversalTranslator>
+            </Requirements>
+            <Text>Ranom lesitir yacasus cerin, sab omoric ero re metini tibu.[BR](You need to research Universal Translator)</Text>
+            <PreferenceWeight>30</PreferenceWeight>
+        </FlavorTextOption>
+        <FlavorTextOption>
+            <Requirements>
+                <SpeakerFaction>FACTION_ABSOLUTE</SpeakerFaction>
+            </Requirements>
+            <Text>We would like to publicly proclaim our never ending friendship for you.</Text>
+        </FlavorTextOption>
+    </FlavorTextDef>
+    <FlavorTextDef>
+        <InternalName>EXTRA_OPTIONS_GET_OFF_MY_LAWN</InternalName>
+        <FlavorTextOption>
+            <Requirements>
+                <SpeakerFaction>FACTION_ABSOLUTE</SpeakerFaction>
+                <ListenerHasUniversalTranslator>false</ListenerHasUniversalTranslator>
+            </Requirements>
+            <Text>Ranom lesitir yacasus cerin, sab omoric ero re metini tibu.[BR](You need to research Universal Translator)</Text>
+            <PreferenceWeight>30</PreferenceWeight>
+        </FlavorTextOption>
+        <FlavorTextOption>
+            <Requirements>
+                <SpeakerFaction>FACTION_ABSOLUTE</SpeakerFaction>
+            </Requirements>
+            <Text>Remove your ships from our territory immediately.</Text>
+        </FlavorTextOption>
+    </FlavorTextDef>
+    <FlavorTextDef>
+        <InternalName>EXTRA_OPTIONS_DEMAND_TRIBUTE</InternalName>
+        <FlavorTextOption>
+            <Requirements>
+                <SpeakerFaction>FACTION_ABSOLUTE</SpeakerFaction>
+                <ListenerHasUniversalTranslator>false</ListenerHasUniversalTranslator>
+            </Requirements>
+            <Text>Ranom lesitir yacasus cerin, sab omoric ero re metini tibu.[BR](You need to research Universal Translator)</Text>
+            <PreferenceWeight>30</PreferenceWeight>
+        </FlavorTextOption>
+        <FlavorTextOption>
+            <Requirements>
+                <SpeakerFaction>FACTION_ABSOLUTE</SpeakerFaction>
+            </Requirements>
+            <Text>The cost of policing space is not trivial. We would like you to contribute to help cover our expenses.</Text>
+        </FlavorTextOption>
+    </FlavorTextDef>
+    <FlavorTextDef>
+        <InternalName>EXTRA_OPTIONS_ASK_FOR_HELP</InternalName>
+        <FlavorTextOption>
+            <Requirements>
+                <SpeakerFaction>FACTION_ABSOLUTE</SpeakerFaction>
+                <ListenerHasUniversalTranslator>false</ListenerHasUniversalTranslator>
+            </Requirements>
+            <Text>Ranom lesitir yacasus cerin, sab omoric ero re metini tibu.[BR](You need to research Universal Translator)</Text>
+            <PreferenceWeight>30</PreferenceWeight>
+        </FlavorTextOption>
+        <FlavorTextOption>
+            <Requirements>
+                <SpeakerFaction>FACTION_ABSOLUTE</SpeakerFaction>
+            </Requirements>
+            <Text>We require financial help. Please give it to us.</Text>
+        </FlavorTextOption>
+    </FlavorTextDef>
+    <FlavorTextDef>
+        <InternalName>EXTRA_OPTIONS_OFFER_FOREIGN_AID</InternalName>
+        <FlavorTextOption>
+            <Requirements>
+                <SpeakerFaction>FACTION_ABSOLUTE</SpeakerFaction>
+                <ListenerHasUniversalTranslator>false</ListenerHasUniversalTranslator>
+            </Requirements>
+            <Text>Ranom lesitir yacasus cerin, sab omoric ero re metini tibu.[BR](You need to research Universal Translator)</Text>
+            <PreferenceWeight>30</PreferenceWeight>
+        </FlavorTextOption>
+        <FlavorTextOption>
+            <Requirements>
+                <SpeakerFaction>FACTION_ABSOLUTE</SpeakerFaction>
+            </Requirements>
+            <Text>We would like to offer you financial aid, with the hope that it will strengthen our relationship.</Text>
+        </FlavorTextOption>
+    </FlavorTextDef>
+    <FlavorTextDef>
+        <InternalName>EXTRA_OPTIONS_CANCEL</InternalName>
+        <FlavorTextOption>
+            <Requirements>
+                <SpeakerFaction>FACTION_ABSOLUTE</SpeakerFaction>
+                <ListenerHasUniversalTranslator>false</ListenerHasUniversalTranslator>
+            </Requirements>
+            <Text>Ranom lesitir yacasus cerin, sab omoric ero re metini tibu.[BR](You need to research Universal Translator)</Text>
+            <PreferenceWeight>30</PreferenceWeight>
+        </FlavorTextOption>
+        <FlavorTextOption>
+            <Requirements>
+                <SpeakerFaction>FACTION_ABSOLUTE</SpeakerFaction>
+            </Requirements>
+            <Text>Perhaps some other time.</Text>
+        </FlavorTextOption>
+    </FlavorTextDef>
+    <FlavorTextDef>
+        <InternalName>AI_RESPOND_PROCLAIM_FRIENDSHIP</InternalName>
+        <FlavorTextOption>
+            <Requirements>
+                <SpeakerFaction>FACTION_ABSOLUTE</SpeakerFaction>
+                <ListenerHasUniversalTranslator>false</ListenerHasUniversalTranslator>
+            </Requirements>
+            <Text>Ranom lesitir yacasus cerin, sab omoric ero re metini tibu.[BR](You need to research Universal Translator)</Text>
+            <PreferenceWeight>30</PreferenceWeight>
+        </FlavorTextOption>
+        <FlavorTextOption>
+            <Requirements>
+                <SpeakerFaction>FACTION_ABSOLUTE</SpeakerFaction>
+            </Requirements>
+            <Text>We accept your expression of friendship with the value it is worth.</Text>
+        </FlavorTextOption>
+    </FlavorTextDef>
+    <FlavorTextDef>
+        <InternalName>AI_RESPOND_PROCLAIM_FRIENDSHIP_RETURN_TO_MENU</InternalName>
+        <FlavorTextOption>
+            <Requirements>
+                <SpeakerFaction>FACTION_ABSOLUTE</SpeakerFaction>
+                <ListenerHasUniversalTranslator>false</ListenerHasUniversalTranslator>
+            </Requirements>
+            <Text>Ranom lesitir yacasus cerin, sab omoric ero re metini tibu.[BR](You need to research Universal Translator)</Text>
+            <PreferenceWeight>30</PreferenceWeight>
+        </FlavorTextOption>
+        <FlavorTextOption>
+            <Requirements>
+                <SpeakerFaction>FACTION_ABSOLUTE</SpeakerFaction>
+            </Requirements>
+            <Text>We hope our relationship will grow even closer in the future.</Text>
+        </FlavorTextOption>
+    </FlavorTextDef>
+    <FlavorTextDef>
+        <InternalName>AI_RESPOND_GET_OFF_MY_LAWN_ACCEPT</InternalName>
+        <FlavorTextOption>
+            <Requirements>
+                <SpeakerFaction>FACTION_ABSOLUTE</SpeakerFaction>
+                <ListenerHasUniversalTranslator>false</ListenerHasUniversalTranslator>
+            </Requirements>
+            <Text>Ranom lesitir yacasus cerin, sab omoric ero re metini tibu.[BR](You need to research Universal Translator)</Text>
+            <PreferenceWeight>30</PreferenceWeight>
+        </FlavorTextOption>
+        <FlavorTextOption>
+            <Requirements>
+                <SpeakerFaction>FACTION_ABSOLUTE</SpeakerFaction>
+            </Requirements>
+            <Text>{LEADERNAME:2}, we are sorry that our ships have made you nervous. We will ask them to leave your territories immediately.</Text>
+        </FlavorTextOption>
+    </FlavorTextDef>
+    <FlavorTextDef>
+        <InternalName>AI_RESPOND_GET_OFF_MY_LAWN_ACCEPT_RETURN_TO_MENU</InternalName>
+        <FlavorTextOption>
+            <Requirements>
+                <ListenerHasUniversalTranslator>false</ListenerHasUniversalTranslator>
+            </Requirements>
+            <Text>Ranom lesitir yacasus cerin, sab omoric ero re metini tibu.[BR](You need to research Universal Translator)</Text>
+            <PreferenceWeight>30</PreferenceWeight>
+        </FlavorTextOption>
+        <FlavorTextOption>
+            <Text>Your cooperation is greatly appreciated.</Text>
+        </FlavorTextOption>
+    </FlavorTextDef>
+    <FlavorTextDef>
+        <InternalName>AI_RESPOND_GET_OFF_MY_LAWN_REJECT</InternalName>
+        <FlavorTextOption>
+            <Requirements>
+                <ListenerHasUniversalTranslator>false</ListenerHasUniversalTranslator>
+            </Requirements>
+            <Text>Ranom lesitir yacasus cerin, sab omoric ero re metini tibu.[BR](You need to research Universal Translator)</Text>
+            <PreferenceWeight>30</PreferenceWeight>
+        </FlavorTextOption>
+        <FlavorTextOption>
+            <Text>{LEADERNAME:2}, it is a very large galaxy. We cannot afford to waste time avoiding your territory because you are paranoid. Our ships will continue their missions; we suggest you do not get in their way.</Text>
+        </FlavorTextOption>
+    </FlavorTextDef>
+    <FlavorTextDef>
+        <InternalName>AI_RESPOND_GET_OFF_MY_LAWN_REJECT_RETURN_TO_MENU</InternalName>
+        <FlavorTextOption>
+            <Requirements>
+                <ListenerHasUniversalTranslator>false</ListenerHasUniversalTranslator>
+            </Requirements>
+            <Text>Ranom lesitir yacasus cerin, sab omoric ero re metini tibu.[BR](You need to research Universal Translator)</Text>
+            <PreferenceWeight>30</PreferenceWeight>
+        </FlavorTextOption>
+        <FlavorTextOption>
+            <Text>They had better be careful, or you will find yourself with a smaller fleet.</Text>
+        </FlavorTextOption>
+    </FlavorTextDef>
+    <FlavorTextDef>
+        <InternalName>AI_RESPOND_DEMAND_TRIBUTE_ACCEPT</InternalName>
+        <FlavorTextOption>
+            <Requirements>
+                <ListenerHasUniversalTranslator>false</ListenerHasUniversalTranslator>
+            </Requirements>
+            <Text>THIS SHOULD NEVER HAPPEN (translator missing)</Text>
+            <PreferenceWeight>30</PreferenceWeight>
+        </FlavorTextOption>
+        <FlavorTextOption>
+            <Text>We are willing to pay for security, for the time being. We have more important issues that require our attention. I do not recommend you push your luck any further.</Text>
+        </FlavorTextOption>
+    </FlavorTextDef>
+    <FlavorTextDef>
+        <InternalName>AI_RESPOND_DEMAND_TRIBUTE_ACCEPT_RETURN_TO_MENU</InternalName>
+        <FlavorTextOption>
+            <Requirements>
+                <ListenerHasUniversalTranslator>false</ListenerHasUniversalTranslator>
+            </Requirements>
+            <Text>Ranom lesitir yacasus cerin, sab omoric ero re metini tibu.[BR](You need to research Universal Translator)</Text>
+            <PreferenceWeight>30</PreferenceWeight>
+        </FlavorTextOption>
+        <FlavorTextOption>
+            <Text>As long as you keep the credits coming, we will not have a problem.</Text>
+        </FlavorTextOption>
+    </FlavorTextDef>
+    <FlavorTextDef>
+        <InternalName>AI_RESPOND_DEMAND_TRIBUTE_REJECT</InternalName>
+        <FlavorTextOption>
+            <Requirements>
+                <ListenerHasUniversalTranslator>false</ListenerHasUniversalTranslator>
+            </Requirements>
+            <Text>Ranom lesitir yacasus cerin, sab omoric ero re metini tibu.[BR](You need to research Universal Translator)</Text>
+            <PreferenceWeight>30</PreferenceWeight>
+        </FlavorTextOption>
+        <FlavorTextOption>
+            <Text>We have no interest in paying you to leave us in peace. The {PLAYERFACTIONLONG:1} will not forget this attempted extortion. You will regret it if you continue to pester us.</Text>
+        </FlavorTextOption>
+    </FlavorTextDef>
+    <FlavorTextDef>
+        <InternalName>AI_RESPOND_DEMAND_TRIBUTE_REJECT_RETURN_TO_MENU</InternalName>
+        <FlavorTextOption>
+            <Requirements>
+                <ListenerHasUniversalTranslator>false</ListenerHasUniversalTranslator>
+            </Requirements>
+            <Text>Ranom lesitir yacasus cerin, sab omoric ero re metini tibu.[BR](You need to research Universal Translator)</Text>
+            <PreferenceWeight>30</PreferenceWeight>
+        </FlavorTextOption>
+        <FlavorTextOption>
+            <Text>OK, but don't blame us if one of your ships should have an 'accident'.</Text>
+        </FlavorTextOption>
+    </FlavorTextDef>
+    <FlavorTextDef>
+        <InternalName>AI_RESPOND_ASK_FOR_HELP_ACCEPT</InternalName>
+        <FlavorTextOption>
+            <Requirements>
+                <ListenerHasUniversalTranslator>false</ListenerHasUniversalTranslator>
+            </Requirements>
+            <Text>Ranom lesitir yacasus cerin, sab omoric ero re metini tibu.[BR](You need to research Universal Translator)</Text>
+            <PreferenceWeight>30</PreferenceWeight>
+        </FlavorTextOption>
+        <FlavorTextOption>
+            <Text>The {PLAYERFACTIONLONG:2} has been a friend to us in the past. We are willing to help you in your time of need.</Text>
+        </FlavorTextOption>
+    </FlavorTextDef>
+    <FlavorTextDef>
+        <InternalName>AI_RESPOND_ASK_FOR_HELP_ACCEPT_RETURN_TO_MENU</InternalName>
+        <FlavorTextOption>
+            <Requirements>
+                <ListenerHasUniversalTranslator>false</ListenerHasUniversalTranslator>
+            </Requirements>
+            <Text>Ranom lesitir yacasus cerin, sab omoric ero re metini tibu.[BR](You need to research Universal Translator)</Text>
+            <PreferenceWeight>30</PreferenceWeight>
+        </FlavorTextOption>
+        <FlavorTextOption>
+            <Text>We are very grateful. We will not forget your generosity.</Text>
+        </FlavorTextOption>
+    </FlavorTextDef>
+    <FlavorTextDef>
+        <InternalName>AI_RESPOND_ASK_FOR_HELP_REJECT</InternalName>
+        <FlavorTextOption>
+            <Requirements>
+                <ListenerHasUniversalTranslator>false</ListenerHasUniversalTranslator>
+            </Requirements>
+            <Text>Ranom lesitir yacasus cerin, sab omoric ero re metini tibu.[BR](You need to research Universal Translator)</Text>
+            <PreferenceWeight>30</PreferenceWeight>
+        </FlavorTextOption>
+        <FlavorTextOption>
+            <Text>We are sorry, but we cannot vindicate assisting you at this time. Perhaps if we had closer relations we could find the funds... but as things stand, we think we are better off keeping our assets to ourselves.</Text>
+        </FlavorTextOption>
+    </FlavorTextDef>
+    <FlavorTextDef>
+        <InternalName>REQUEST_TECH_MAIN</InternalName>
+        <FlavorTextOption>
+            <Text>The {PLAYERFACTIONLONG:1} have struggled with technological progress recently, {LEADERNAME:2}. Would you please share the knowledge of {TECHNAME:2} with us?</Text>
+            <Text>We are great admirers of your technological capabilities. Would you be willing to share {TECHNAME:2} with us?</Text>
+        </FlavorTextOption>
+        <FlavorTextOption>
+            <Requirements>
+                <SpeakerRaceTrait>SlaversAbility</SpeakerRaceTrait>
+            </Requirements>
+            <Text>No matter how much we torture our slaves, they cannot seem to grasp {TECHNAME:2} technology,  {LEADERNAME:2}.  The {PLAYERFACTIONLONG:1} would appreciate you sharing this technology with us.</Text>
+            <PreferenceWeight>11</PreferenceWeight>
+        </FlavorTextOption>
+        <FlavorTextOption>
+            <Requirements>
+                <PersonalityType>Spiritual</PersonalityType>
+            </Requirements>
+            <Text>The gods have not seen fit to give us the secret of {TECHNAME:2} technology,  {LEADERNAME:2}.  The {PLAYERFACTIONLONG:1} would appreciate you sharing this technology with us.</Text>
+            <PreferenceWeight>30</PreferenceWeight>
+        </FlavorTextOption>
+    </FlavorTextDef>
+    <FlavorTextDef>
+        <InternalName>REQUEST_TECH_RESPONSE_ACCEPT</InternalName>
+        <FlavorTextOption>
+            <Text>We are always willing to help a friend.</Text>
+            <Text>Very well, we are glad to help.</Text>
+        </FlavorTextOption>
+    </FlavorTextDef>
+    <FlavorTextDef>
+        <InternalName>REQUEST_TECH_RESPONSE_ACCEPT_COUNTER</InternalName>
+        <FlavorTextOption>
+            <Text>We won't forget this. Thank you.</Text>
+            <Text>This will help our people immensely.</Text>
+            <Text>Thank you for your help.</Text>
+            <Text>Your willingness to share with us is truly appreciated.</Text>
+        </FlavorTextOption>
+    </FlavorTextDef>
+    <FlavorTextDef>
+        <InternalName>REQUEST_TECH_RESPONSE_REJECT</InternalName>
+        <FlavorTextOption>
+            <Text>This knowledge is too dangerous to share.</Text>
+        </FlavorTextOption>
+    </FlavorTextDef>
+    <FlavorTextDef>
+        <InternalName>REQUEST_CREDITS_MAIN</InternalName>
+        <FlavorTextOption>
+            <Text>The {PLAYERFACTIONLONG:1} are suffering an economic setback, {LEADERNAME:2}. Would you be willing to give us {AMOUNT:2} credits to help us?</Text>
+            <Text>We are finding our treasury stretched thin due to recent internal... incidents.  We would appreciate it if you could give us {AMOUNT:2} credits to help fund this year's budget.</Text>
+        </FlavorTextOption>
+        <FlavorTextOption>
+            <Requirements>
+                <PersonalityType>Totalitarianism</PersonalityType>
+            </Requirements>
+            <Text>The people of the {PLAYERFACTIONLONG:1} need money to help the war effort, {LEADERNAME:2}. Please support us with {AMOUNT:2} credits to help pay for it.</Text>
+            <PreferenceWeight>30</PreferenceWeight>
+        </FlavorTextOption>
+        <FlavorTextOption>
+            <Requirements>
+                <PersonalityType>Greedy</PersonalityType>
+            </Requirements>
+            <Text>I won't lie to you, {LEADERNAME:2}.  The {PLAYERFACTIONLONG:1} really like money. A lot. We dream of it. We sleep with it. We...well, we do a lot of things with it. And we need more. A lot more. It would help our relations if you gave us {AMOUNT:2} credits.</Text>
+            <PreferenceWeight>30</PreferenceWeight>
+        </FlavorTextOption>
+        <FlavorTextOption>
+            <Requirements>
+                <PersonalityType>Progressivism</PersonalityType>
+            </Requirements>
+            <Text>Our ongoing research is expensive, {LEADERNAME:2}.  The {PLAYERFACTIONLONG:1} is asking you for {AMOUNT:2} credits so that we can continue to invest in new technology. Doing so will benefit our relationship.</Text>
+            <PreferenceWeight>30</PreferenceWeight>
+        </FlavorTextOption>
+        <FlavorTextOption>
+            <Requirements>
+                <PersonalityType>Xenophobic</PersonalityType>
+            </Requirements>
+            <Text>We are wary of outsiders, {LEADERNAME:2}.  However, the people of {PLAYERFACTIONLONG:1} find themselves struggling a little bit.  If you could provide us with {AMOUNT:2} credits it would strengthen our bond.</Text>
+            <PreferenceWeight>30</PreferenceWeight>
+        </FlavorTextOption>
+    </FlavorTextDef>
+    <FlavorTextDef>
+        <InternalName>REQUEST_CREDITS_RESPONSE_ACCEPT</InternalName>
+        <FlavorTextOption>
+            <Text>We are always willing to help. Well, not always but at least this time.</Text>
+        </FlavorTextOption>
+    </FlavorTextDef>
+    <FlavorTextDef>
+        <InternalName>REQUEST_CREDITS_RESPONSE_ACCEPT_COUNTER</InternalName>
+        <FlavorTextOption>
+            <Text>We appreciate your help.</Text>
+            <Text>Thank you.</Text>
+            <Text>We will not forget this act of generosity.</Text>
+        </FlavorTextOption>
+    </FlavorTextDef>
+    <FlavorTextDef>
+        <InternalName>REQUEST_CREDITS_RESPONSE_REJECT</InternalName>
+        <FlavorTextOption>
+            <Text>We don't have enough money to help you.</Text>
+        </FlavorTextOption>
+    </FlavorTextDef>
+    <FlavorTextDef>
+        <InternalName>TRADE_OFFER_ENEMY_TOO_POWERFUL</InternalName>
+        <FlavorTextOption>
+            <Text>They are far too powerful.</Text>
+        </FlavorTextOption>
+    </FlavorTextDef>
+    <FlavorTextDef>
+        <InternalName>IHaveEnoughOfThatResource</InternalName>
+        <FlavorTextOption>
+            <Text>We have enough of that resource.</Text>
+        </FlavorTextOption>
+    </FlavorTextDef>-->
+</FlavorTextDefs>

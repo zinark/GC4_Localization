@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<StringTableList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+  <StringTable>
+    <Label>Tutorial1_Name</Label>
+    <String>Hareket</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tutorial1_Description</Label>
+    <String>Filolarınızı zafere taşımak için temel gemi hareketlerini ve harita navigasyonunu öğrenin!</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tutorial2_Name</Label>
+    <String>Kolonizasyon</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tutorial2_Description</Label>
+    <String>Yeni dünyaları nasıl kolonileştireceğinizi öğrenin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tutorial3_Name</Label>
+    <String>Gezegen Karolarının İyileştirilmesi</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tutorial3_Description</Label>
+    <String>Yeni bir dünyanız olduğunda, onu nasıl geliştireceğinizi öğrenin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tutorial4_Name</Label>
+    <String>Filo Oluşturma</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tutorial4_Description</Label>
+    <String>Bir gemi tek başına galaksiyi fethedemez. Gerçek savaşları yürütmek için filolara ihtiyacınız olacak.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tutorial5_Name</Label>
+    <String>Bakanların Atanması</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tutorial5_Description</Label>
+    <String>Liderleriniz çeşitli roller için kullanılabilir. Medeniyet çapında bonuslar uygulayan bakan pozisyonlarını doldurmak için onları nasıl kullanacağınızı öğrenin.</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tutorial6_Name</Label>
+    <String>Araştırma ve Ticaret</String>
+  </StringTable>
+  <StringTable>
+    <Label>Tutorial6_Description</Label>
+    <String>Araştırmaya ve ekonominize dikkatle odaklanmak savaş kadar önemlidir. Uygarlığınızı nasıl ilerleteceğinizi öğrenin.</String>
+  </StringTable>
+</StringTableList>
