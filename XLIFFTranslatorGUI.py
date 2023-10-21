@@ -259,13 +259,13 @@ class TranslationApp(QMainWindow):
     def translate_to_language(self, text, row, target_language):
         label_item = self.table.item(row, 1)  # Assuming the Label column is at index 2
         label_name = label_item.text()
-        prompt = f"In the context of a sci-fi game and given the label '{label_name}' to provide a bit of information, translate this English string, without using more words and respecting formatting codes such as [I] into {target_language}: {text}. If it's a filename just copy the english over."
+        prompt = f"In the context of a sci-fi game and given the label '{label_name}' to provide a bit of information, translate this English string, without using more words and respecting formatting codes such as [I] into {target_language}: {text}. "
 
         try:
             response = openai.ChatCompletion.create(
                 model="gpt-4",
                 messages=[{"role": "user", "content": prompt}],
-                max_tokens=1000,
+                max_tokens=2000,
                 n=1,
                 stop=None,
                 temperature=0.7,
